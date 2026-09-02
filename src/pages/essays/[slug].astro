@@ -27,13 +27,20 @@ const { Content: EnContent } = enEntry ? await render(enEntry) : { Content: null
 
 const czTitle = czEntry?.data.title || "Esej";
 const enTitle = enEntry?.data.title || czTitle;
-const posterPath = `/images/${slug}.webp`;
+
+// Cesty k obrázkům pro jednotlivé jazyky
+const czPoster = czEntry?.data.image || `/images/${slug}.webp`;
+const enPoster = enEntry?.data.image || `/images/${slug}-en.webp`;
+
+// Sestavení absolutní URL adresy pro Open Graph (Facebook vyžaduje https://...)
+const siteUrl = "https://cinema.polygonbeater.eu";
+const czPosterAbsolute = new URL(czPoster, siteUrl).href;
 ---
 
 <Layout 
   title={`${czTitle} — Polygon Beater Cinema`} 
   description={czEntry?.data.description} 
-  image={posterPath} 
+  image={czPosterAbsolute} 
   type="article"
 >
   <article class="essay-detail wrap">
@@ -51,7 +58,7 @@ const posterPath = `/images/${slug}.webp`;
     {CzContent ? (
       <div class="essay-wrapper" lang="cs">
         <div class="essay-poster-block">
-          <img src={posterPath} alt={czTitle} width="280" height="420" loading="eager" />
+          <img src={czPoster} alt={czTitle} width="280" height="420" loading="eager" />
           <div class="poster-caption">Studijní materiál</div>
         </div>
         <div class="essay-body">
@@ -65,7 +72,7 @@ const posterPath = `/images/${slug}.webp`;
     {EnContent ? (
       <div class="essay-wrapper" lang="en">
         <div class="essay-poster-block">
-          <img src={posterPath} alt={czTitle} width="280" height="420" loading="eager" />
+          <img src={enPoster} alt={enTitle} width="280" height="420" loading="eager" />
           <div class="poster-caption">Educational material</div>
         </div>
         <div class="essay-body">
@@ -112,10 +119,30 @@ const posterPath = `/images/${slug}.webp`;
   </article>
 </Layout>
 
-<script define:vars={{ czTitle, enTitle }}>
+<script define:vars={{ czTitle, enTitle, czPoster, enPoster }}>
   const currentUrl = window.location.href;
   const currentLang = document.documentElement.getAttribute('data-lang') || 'cs';
   const activeTitle = currentLang === 'en' ? enTitle : czTitle;
+
+  // Dynamická aktualizace titulku okna dle aktivního jazyka
+  document.title = `${activeTitle} — Polygon Beater Cinema`;
+
+  // Synchronizace při kliknutí na přepínač jazyků v hlavičce
+  document.querySelectorAll("[data-set-lang]").forEach(btn => {
+    btn.addEventListener("click", () => {
+      const lang = btn.dataset.setLang;
+      const titleToSet = lang === 'en' ? enTitle : czTitle;
+      document.title = `${titleToSet} — Polygon Beater Cinema`;
+      
+      const shareTwitter = document.getElementById('shareTwitter');
+      if (shareTwitter) {
+        const shareText = lang === 'en' 
+          ? `"${enTitle}" — film essay on Polygon Beater Cinema`
+          : `"${czTitle}" — filmová esej na Polygon Beater Cinema`;
+        shareTwitter.href = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(currentUrl)}`;
+      }
+    });
+  });
 
   const shareTwitter = document.getElementById('shareTwitter');
   if (shareTwitter) {
