@@ -3,7 +3,7 @@ title: "Tetsuo / 鉄男 (1989)"
 director: "Shinya Tsukamoto"
 description: "When the City Becomes an Infection"
 image: "/images/essays/tetsuo.webp"
-date: 2026-09-03
+date: "2026-01-01"
 lang: "en"
 ---
 

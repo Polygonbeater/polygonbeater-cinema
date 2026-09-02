@@ -1,6 +1,6 @@
 ---
 title: "Anatomie viny a past vlastní lži: Pohled do hlubin filmu Ďábelské ženy (1955)"
-date: "2026-09-04"
+date: "2026-01-01"
 description: "Esejistická studie o filmu Ďábelské ženy (1955) Henriho-Georga Clouzota, zkoumající lidskou vinu, paranoiu a psychologickou past."
 image: "/images/essays/dabelske-zeny.webp"
 ---

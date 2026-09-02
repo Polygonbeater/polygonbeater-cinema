@@ -3,7 +3,7 @@ title: "Non si sevizia un paperino (1972)"
 director: "Lucio Fulci"
 description: "The Anatomy of Systemic Evil: From Rural Giallo to Modern Folk Horror"
 image: "/images/essays/non-si-sevizia-un-paperino.webp"
-date: 2026-09-01
+date: "2026-01-01"
 lang: "en"
 ---
 

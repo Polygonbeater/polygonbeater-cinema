@@ -1,7 +1,7 @@
 ---
 title: "The Primal Flash: Urban Gaze, Hitchcock, and the Birth of Giallo in Bava's The Girl Who Knew Too Much (1963)"
 excerpt: "Mario Bava abandons gothic sets in his black-and-white crime thriller The Girl Who Knew Too Much, laying the foundations for modern Italian giallo."
-date: 2026-08-31
+date: "2026-01-01"
 image: "/images/essays/divka-ktera-vedela-prilis-mnoho.webp"
 ---
 

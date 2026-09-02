@@ -1,7 +1,7 @@
 ---
 title: "The Blind Spot of Perception: A Bloody Grotesque and the Betrayal of Our Own Eyes in Argento's Deep Red (1975)"
 excerpt: "Dario Argento didn’t just direct a run-of-the-mill whodunit in Deep Red, but delivered a masterclass in how to perfectly betray the viewer's own eyes."
-date: 2026-08-31
+date: "2026-01-01"
 image: "/images/essays/profondo-rosso.webp"
 ---
 

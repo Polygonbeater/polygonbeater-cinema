@@ -1,6 +1,6 @@
 ---
 title: "Dvě tváře tmy: Suspiria jako estetická past i historická hniloba"
-date: "2026-09-05"
+date: "2026-01-01"
 description: "Esejistická srovnávací studie dvou verzí filmu Suspiria (1977 a 2018) od Daria Argenta a Lucy Guadagnina."
 image: "/images/essays/suspiria.webp"
 ---

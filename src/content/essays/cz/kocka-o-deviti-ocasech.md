@@ -1,6 +1,6 @@
 ---
 title: "Labyrint smyslů a stínů: Krize poznání v Argentově Kočce o devíti ocasech (1971)"
-date: "2026-09-03"
+date: "2026-01-01"
 description: "Esejistická studie nahlížející na film Kočka o devíti ocasech (1971) Daria Argenta jako na filozofickou esej o krizi poznání a limitech lidské percepce."
 image: "/images/essays/kocka-o-deviti-ocasech.webp"
 ---

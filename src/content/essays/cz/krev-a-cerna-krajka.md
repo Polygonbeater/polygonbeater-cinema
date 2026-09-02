@@ -1,6 +1,6 @@
 ---
 title: "Krev a černá krajka: Chromatická anatomie smrti v Bavově mistrovském díle (1964)"
-date: "2026-09-02"
+date: "2026-01-01"
 description: "Esejistická studie nahlížející na Krev a černá krajka (1964) jako na žánrový mezník, studii fetišismu a proměnu vraždy v uměleckou instalaci."
 image: "/images/essays/krev-a-cerna-krajka.webp"
 ---

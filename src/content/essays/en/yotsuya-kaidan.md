@@ -2,7 +2,7 @@
 title: "Tōkaidō Yotsuya Kaidan (1959)"
 description: "Curse, Ritual, and the Birth of Horror in Nobuo Nakagawa's adaptation."
 image: "/images/yotsuya-kaidan.webp"
-date: "2026-09-02T23:59:00"
+date: "2026-09-02"
 ---
 
 The story of Oiwa and her revenge is one of the most prominent threads in the Japanese kaidan tradition, with roots extending deep into the world of Kabuki. Yet, this is not merely a ghost story. In the Japanese cultural landscape, the narrative carries a strange density—as if it were not simply told, but continuously reactivated. As if each telling does not describe the past, but briefly opens it again.

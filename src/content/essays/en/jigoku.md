@@ -3,7 +3,7 @@ title: "Jigoku (1960)"
 director: "Nobuo Nakagawa"
 description: "When Space Becomes a Mechanism of Punishment"
 image: "/images/essays/jigoku.webp"
-date: 2026-09-02
+date: "2026-01-01"
 lang: "en"
 ---
 

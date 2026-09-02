@@ -1,7 +1,7 @@
 ---
 title: "Hallucinatory Transgression: Psychoanalysis and Bourgeois Decay in Fulci's A Lizard in a Woman's Skin (1971)"
 excerpt: "In A Lizard in a Woman's Skin, Lucio Fulci deconstructs upper-class repressive mechanisms through psychedelic aesthetics and psychological manipulation."
-date: 2026-08-31
+date: "2026-01-01"
 image: "/images/essays/jesterka-s-zenskou-kuzi.webp"
 ---
 

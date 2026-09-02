@@ -1,6 +1,6 @@
 ---
 title: "Zlatá klec paranoie: Eros a psychologická destrukce v Lenziho snímku Orgasmo (1969)"
-date: "2026-09-01"
+date: "2026-01-01"
 description: "Esejistická analýza filmu Orgasmo (1969) Umberta Lenziho, zkoumající psychologickou manipulaci, eros a architekturu izolace."
 image: "/images/essays/orgasmo.webp"
 ---

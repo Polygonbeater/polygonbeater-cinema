@@ -3,7 +3,7 @@ title: "Jigoku (1960)"
 director: "Nobuo Nakagawa"
 description: "Když se prostor stává mechanismem trestu"
 image: "/images/essays/jigoku.webp"
-date: 2026-09-02
+date: "2026-01-01"
 lang: "cs"
 ---
 

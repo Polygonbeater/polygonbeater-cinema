@@ -3,7 +3,7 @@ title: "Tetsuo / 鉄男 (1989)"
 director: "Šinja Cukamoto"
 description: "Když se město stane infekcí"
 image: "/images/essays/tetsuo.webp"
-date: 2026-09-03
+date: "2026-01-01"
 lang: "cs"
 ---
 

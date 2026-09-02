@@ -1,7 +1,7 @@
 ---
 title: "Halucinační transgrese: Psychoanalýza a rozklad buržoazie ve Fulciho Ještěrce s ženskou kůží (1971)"
 excerpt: "Lucio Fulci ve svém giallu Ještěrka s ženskou kůží dekonstruuje represivní mechanismy vyšší třídy skrze psychedelickou estetiku a psychologickou manipulaci."
-date: 2026-08-31
+date: "2026-01-01"
 image: "/images/essays/jesterka-s-zenskou-kuzi.webp"
 ---
 

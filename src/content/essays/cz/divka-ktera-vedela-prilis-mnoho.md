@@ -1,7 +1,7 @@
 ---
 title: "Prvotní záblesk: Městský zrak, Hitchcock a zrod gialla v Bavově Dívce, která věděla příliš mnoho (1963)"
 excerpt: "Mario Bava opouští gotické kulisy, aby v černobílém krimi dramatu Dívka, která věděla příliš mnoho položil základy modernímu italskému giallu."
-date: 2026-08-31
+date: "2026-01-01"
 image: "/images/essays/divka-ktera-vedela-prilis-mnoho.webp"
 ---
 
