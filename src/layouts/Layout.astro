@@ -9,11 +9,11 @@ interface Props {
 const { 
   title = "Polygon Beater Cinema — Filmové eseje a analýzy", 
   description = "Polygon Beater Cinema — autorský archiv filmových esejů a analýz o kinematografii, estetice a temných zákoutích filmové historie.",
-  image = "/images/default-share.webp",
+  image = "/Polygon_Beater_Cinema.jpeg",
   type = "website"
 } = Astro.props;
 
-const canonicalURL = new URL(Astro.url.pathname, Astro.site || "https://polygonbeater.eu");
+const canonicalURL = new URL(Astro.url.pathname, Astro.site || "https://cinema.polygonbeater.eu");
 const currentPath = Astro.url.pathname;
 
 const isHome = currentPath === '/' || currentPath === '';
@@ -21,7 +21,7 @@ const isEssays = currentPath === '/essays' || currentPath === '/essays/';
 const isAuthor = currentPath.startsWith('/author');
 const isLegal = currentPath.startsWith('/legal');
 
-const siteUrl = Astro.site ? Astro.site.toString() : "https://polygonbeater.eu";
+const siteUrl = Astro.site ? Astro.site.toString() : "https://cinema.polygonbeater.eu";
 const imageUrl = new URL(image, canonicalURL).toString();
 
 // Generování JSON-LD strukturovaných dat pro vyhledávače
@@ -80,12 +80,12 @@ const jsonLd = {
     <meta property="og:url" content={canonicalURL} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:image" content={new URL(image, canonicalURL)} />
+    <meta property="og:image" content={imageUrl} />
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
-    <meta name="twitter:image" content={new URL(image, canonicalURL)} />
+    <meta name="twitter:image" content={imageUrl} />
 
     <meta name="author" content="Vítězslav Koneval" />
 
