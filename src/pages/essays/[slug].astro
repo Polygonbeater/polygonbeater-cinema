@@ -32,15 +32,19 @@ const enTitle = enEntry?.data.title || czTitle;
 const czPoster = czEntry?.data.image || `/images/${slug}.webp`;
 const enPoster = enEntry?.data.image || `/images/${slug}-en.webp`;
 
+// Spolehlivé získání popisu a obrázku pro Open Graph s fallbackem
+const activeDescription = czEntry?.data.description || enEntry?.data.description;
+const activePoster = czEntry?.data.image || enEntry?.data.image || czPoster;
+
 // Sestavení absolutní URL adresy pro Open Graph (Facebook vyžaduje https://...)
 const siteUrl = "https://cinema.polygonbeater.eu";
-const czPosterAbsolute = new URL(czPoster, siteUrl).href;
+const posterAbsolute = new URL(activePoster, siteUrl).href;
 ---
 
 <Layout 
   title={`${czTitle} — Polygon Beater Cinema`} 
-  description={czEntry?.data.description} 
-  image={czPosterAbsolute} 
+  description={activeDescription} 
+  image={posterAbsolute} 
   type="article"
 >
   <article class="essay-detail wrap">
@@ -260,7 +264,7 @@ const czPosterAbsolute = new URL(czPoster, siteUrl).href;
   }
 
   .author-byline-name {
-    display: inline-block;
+    pages / essays / display: inline-block;
     font-size: 1rem;
     font-weight: 600;
     color: var(--text);
