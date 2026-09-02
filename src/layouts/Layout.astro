@@ -21,8 +21,9 @@ const isEssays = currentPath === '/essays' || currentPath === '/essays/';
 const isAuthor = currentPath.startsWith('/author');
 const isLegal = currentPath.startsWith('/legal');
 
-const siteUrl = Astro.site ? Astro.site.toString() : "https://cinema.polygonbeater.eu";
-const imageUrl = new URL(image, canonicalURL).toString();
+const siteUrl = Astro.site ? Astro.site.toString().replace(/\/$/, "") : "https://cinema.polygonbeater.eu";
+const resolvedImage = image.startsWith('http') ? image : (image.startsWith('/') ? image : '/' + image);
+const imageUrl = new URL(resolvedImage, siteUrl).toString();
 
 // Generování JSON-LD strukturovaných dat pro vyhledávače
 const jsonLd = {
