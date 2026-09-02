@@ -7,6 +7,31 @@ const uniqueSlugs = Array.from(
   new Set(allEssays.map(e => e.id.replace(/^.*[\\/]/, '').replace(/\.md$/, '')))
 );
 
+function parseMovieTitleAndSubtitle(fullTitle: string, lang: 'cs' | 'en') {
+  if (!fullTitle) return { movie: '', subtitle: '' };
+
+  // 1. Rozdělení podle dvojtečky (např. "La maschera del demonio (1960): Krása, která odmítla zemřít")
+  if (fullTitle.includes(':')) {
+    const parts = fullTitle.split(':');
+    const movie = parts[0].trim();
+    const subtitle = parts.slice(1).join(':').trim();
+    return { movie, subtitle };
+  }
+
+  // 2. Vzor s režisérem ("v Bavově Dívce...", "ve Fulciho...", "v Hitchcockově...")
+  const regexCz = /^(.*?)(?:v|ve)\s+(?:[A-ZÁČĎÉĚÍŇÓŘŠŤÚŮÝŽ][a-záčďéěíňóřšťúůýž]+ově|[A-ZÁČĎÉĚÍŇÓŘŠŤÚŮÝŽ][a-záčďéěíňóřšťúůýž]+ho)\s+(.+)$/i;
+  const regexEn = /^(.*?)in\s+(?:[A-Z][a-z]+'s)\s+(.+)$/i;
+
+  const match = lang === 'cs' ? fullTitle.match(regexCz) : fullTitle.match(regexEn);
+  if (match) {
+    const movie = match[2].trim();
+    return { movie, subtitle: fullTitle };
+  }
+
+  // 3. Fallback: Název filmu je celý nadpis
+  return { movie: fullTitle.trim(), subtitle: '' };
+}
+
 const essays = uniqueSlugs.map(slug => {
   const czEntry = allEssays.find(e => e.id.replace(/\\/g, '/').includes(`cz/${slug}`));
   const enEntry = allEssays.find(e => e.id.replace(/\\/g, '/').includes(`en/${slug}`));
@@ -19,30 +44,27 @@ const essays = uniqueSlugs.map(slug => {
   const titleCs = czEntry?.data.title || slug;
   const titleEn = enEntry?.data.title || slug;
 
-  // Inteligentní oddělení názvu filmu od podtitulu eseje
-  function parseMovieTitle(title: string, lang: 'cs' | 'en') {
-    // Pokusí se najít film za režisérem (např. "v Bavově Dívce..." -> "Dívka...")
-    const regexCz = /(?:v|ve)\s+(?:Bavově|Fulciho|Argentově)\s+(.+)/i;
-    const regexEn = /in\s+(?:Bava's|Fulci's|Argento's)\s+(.+)/i;
-    
-    const match = lang === 'cs' ? title.match(regexCz) : title.match(regexEn);
-    if (match) return match[1];
-    return title; // Fallback na celý název, pokud vzorec nesedí
-  }
+  const parsedCs = parseMovieTitleAndSubtitle(titleCs, 'cs');
+  const parsedEn = parseMovieTitleAndSubtitle(titleEn, 'en');
+
+  // Podpora pro explicitní pole 'film' nebo 'movie' ve frontmatteru
+  const movieCs = czEntry?.data.film || czEntry?.data.movie || parsedCs.movie;
+  const movieEn = enEntry?.data.film || enEntry?.data.movie || parsedEn.movie;
+
+  const subtitleCs = parsedCs.subtitle || (movieCs !== titleCs ? titleCs : '');
+  const subtitleEn = parsedEn.subtitle || (movieEn !== titleEn ? titleEn : '');
 
   return {
     slug,
     title: { cs: titleCs, en: titleEn },
-    movieTitle: { 
-      cs: parseMovieTitle(titleCs, 'cs'), 
-      en: parseMovieTitle(titleEn, 'en') 
-    },
+    movieTitle: { cs: movieCs, en: movieEn },
+    subtitle: { cs: subtitleCs, en: subtitleEn },
     date: formattedDate,
     href: `/essays/${slug}`,
   };
 });
 
-essays.sort((a, b) => new Date(b.date).getTime() - new Date(b.date).getTime());
+essays.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
 const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 ---
@@ -68,7 +90,6 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
       </div>
 
       <div class="archive-controls">
-        <!-- Jednotné vyhledávací pole bez prodlevy -->
         <div class="search-box">
           <input 
             type="search" 
@@ -107,6 +128,8 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
           class="archive-item" 
           data-title-cs={essay.title.cs.toLowerCase()}
           data-title-en={essay.title.en.toLowerCase()}
+          data-movie-cs={essay.movieTitle.cs.toLowerCase()}
+          data-movie-en={essay.movieTitle.en.toLowerCase()}
           data-date={essay.date}
         >
           <div class="archive-meta">
@@ -114,12 +137,11 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
           </div>
           <div class="archive-content">
             <a href={essay.href} class="archive-link">
-              <!-- Zvýrazněný název filmu -->
               <span class="movie-name" lang="cs">{essay.movieTitle.cs}</span>
               <span class="movie-name" lang="en">{essay.movieTitle.en}</span>
-              <!-- Celý název jako doplňující podtitul -->
-              <span class="essay-subtitle" lang="cs">{essay.title.cs}</span>
-              <span class="essay-subtitle" lang="en">{essay.title.en}</span>
+              
+              {essay.subtitle.cs && <span class="essay-subtitle" lang="cs">{essay.subtitle.cs}</span>}
+              {essay.subtitle.en && <span class="essay-subtitle" lang="en">{essay.subtitle.en}</span>}
             </a>
           </div>
         </li>
@@ -158,13 +180,17 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
     items.forEach(item => {
       const titleCs = item.getAttribute('data-title-cs') || '';
       const titleEn = item.getAttribute('data-title-en') || '';
-      const title = activeLang === 'en' ? titleEn : titleCs;
+      const movieCs = item.getAttribute('data-movie-cs') || '';
+      const movieEn = item.getAttribute('data-movie-en') || '';
 
-      const matchesSearch = title.includes(query);
+      const title = activeLang === 'en' ? titleEn : titleCs;
+      const movie = activeLang === 'en' ? movieEn : movieCs;
+
+      const matchesSearch = title.includes(query) || movie.includes(query);
       
       let matchesLetter = true;
       if (selectedLetter !== 'all') {
-        const firstChar = normalizeChar(title.trim().charAt(0));
+        const firstChar = normalizeChar(movie.trim().charAt(0));
         const targetLetter = normalizeChar(selectedLetter);
         matchesLetter = firstChar === targetLetter;
       }
@@ -204,9 +230,9 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
           return dateB.localeCompare(dateA);
         } else {
           const activeLang = document.documentElement.getAttribute('data-lang') || 'cs';
-          const titleA = (activeLang === 'en' ? a.getAttribute('data-title-en') : a.getAttribute('data-title-cs')) || '';
-          const titleB = (activeLang === 'en' ? b.getAttribute('data-title-en') : b.getAttribute('data-title-cs')) || '';
-          return titleA.localeCompare(titleB, 'cs');
+          const movieA = (activeLang === 'en' ? a.getAttribute('data-movie-en') : a.getAttribute('data-movie-cs')) || '';
+          const movieB = (activeLang === 'en' ? b.getAttribute('data-movie-en') : b.getAttribute('data-movie-cs')) || '';
+          return movieA.localeCompare(movieB, 'cs');
         }
       });
 
@@ -216,7 +242,6 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 
   searchInput?.addEventListener('input', filterAndSort);
 
-  // Dynamická změna placeholderu při přepnutí jazyka webu v hlavičce
   const observer = new MutationObserver(() => {
     const activeLang = document.documentElement.getAttribute('data-lang') || 'cs';
     searchInput.placeholder = activeLang === 'en' ? "Search movie or text..." : "Hledat film nebo text...";
@@ -353,7 +378,7 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
   
   .movie-name {
     font-family: var(--font-serif);
-    font-size: 1.1rem;
+    font-size: 1.15rem;
     font-weight: bold;
     color: var(--text);
     transition: color 0.2s ease;
@@ -361,9 +386,10 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 
   .essay-subtitle {
     font-family: var(--font-sans);
-    font-size: 0.85rem;
+    font-size: 0.88rem;
     color: var(--text-muted);
     line-height: 1.4;
+    font-style: italic;
   }
 
   .archive-link:hover .movie-name { color: var(--accent); }
