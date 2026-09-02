@@ -27,11 +27,10 @@ const activeImage = (image && image.trim() !== '') ? image : "/Polygon_Beater_Ci
 const resolvedImage = activeImage.startsWith('http') ? activeImage : (activeImage.startsWith('/') ? activeImage : '/' + activeImage);
 const imageUrl = new URL(resolvedImage, siteUrl).toString();
 
-// Generování JSON-LD strukturovaných dat pro vyhledávače
-const jsonLd = {
+// Generování JSON-LD strukturovaných dat pro vyhledávače (opraveno pro validitu Schema.org dle typu)
+const jsonLd = type === "article" ? {
   "@context": "https://schema.org",
-  "@type": type === "article" ? "Article" : "WebSite",
-  "name": title,
+  "@type": "Article",
   "headline": title,
   "description": description,
   "url": canonicalURL.toString(),
@@ -47,6 +46,18 @@ const jsonLd = {
     "name": "Polygon Beater Cinema",
     "url": siteUrl
   }
+} : {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": title,
+  "description": description,
+  "url": canonicalURL.toString(),
+  "inLanguage": "cs",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Polygon Beater Cinema",
+    "url": siteUrl
+  }
 };
 ---
 
@@ -57,7 +68,7 @@ const jsonLd = {
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title}</title>
     <meta name="description" content={description} />
-    <link rel="canonical" href={canonicalURL} />
+    <link rel="canonical" href={canonicalURL.toString()} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 
     <script is:inline>
@@ -82,7 +93,7 @@ const jsonLd = {
     <meta property="og:site_name" content="Polygon Beater Cinema" />
     <meta property="og:locale" content="cs_CZ" />
     <meta property="og:type" content={type} />
-    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:url" content={canonicalURL.toString()} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:image" content={imageUrl} />
