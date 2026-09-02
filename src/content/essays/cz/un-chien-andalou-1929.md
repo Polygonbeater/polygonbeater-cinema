@@ -2,6 +2,7 @@
 title: "Un Chien Andalou (1929) – Břitva namířená proti logice"
 film: "Un Chien Andalou (1929)"
 date: "2026-09-02"
+description: "Luis Buñuel a Salvador Dalí vědomě rozřezali filmovou logiku na kusy a zničili předpoklad, že realita na plátně musí dávat smysl."
 image: "/images/un-chien-andalou-1929.webp"
 ---
 
@@ -15,7 +16,7 @@ Běžný příběh funguje jako řetěz – jedna událost logicky vede k druhé
 Znamená to, že je film jen prázdný chaos? Vůbec ne. Jen nahradil logiku něčím jiným – volnými asociacemi. Dělá si s námi hru: náš mozek je od přírody naprogramovaný hledat ve všem smysl. Film nám ho ale nabídne jen na zlomek vteřiny, než ho vzápětí dalším obrazem zase zničí. Nezbude nám nic než čistý, fascinující úžas z toho, co právě vidíme.
 
 ### Rozpad času a prostoru
-Tvůrci si s ironií utahují i ze samotných filmových pravidela. Když se na plátně objeví nápis „O osm let později“, je to čistý výsměch – čas tady vůbec neplyne. A prostor? Otevřete dveře v normálním pařížském bytě a rázem stojíte na mořské pláži. Střih už nespojuje děj dohromady, ale naopak trhá realitu na kusy.
+Tvůrci si s ironií utahují i ze samotných filmových pravidel. Když se na plátně objeví nápis „O osm let později“, je to čistý výsměch – čas tady vůbec neplyne. A prostor? Otevřete dveře v normálním pařížském bytě a rázem stojíte na mořské pláži. Střih už nespojuje děj dohromady, ale naopak trhá realitu na kusy.
 
 Film se nesnaží svět interpretovat. On ho odmítá organizovat.
 

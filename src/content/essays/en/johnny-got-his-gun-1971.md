@@ -2,6 +2,7 @@
 title: "Johnny Got His Gun (1971) – Consciousness as the Final Prison"
 film: "Johnny Got His Gun (1971)"
 date: "2026-09-02"
+description: "An anatomy of a man whom war has survived so thoroughly that nothing remains but pure consciousness condemned to absolute isolation."
 image: "/images/johnny-got-his-gun-1971.webp"
 ---
 

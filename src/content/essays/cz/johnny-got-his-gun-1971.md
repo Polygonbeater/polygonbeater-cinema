@@ -2,6 +2,7 @@
 title: "Johnny Got His Gun (1971) – Vědomí jako poslední vězení"
 film: "Johnny Got His Gun (1971)"
 date: "2026-09-02"
+description: "Anatomie člověka, kterého válka přežila natolik důkladně, že mu nezbylo nic než čisté vědomí odsouzené k absolutní izolaci."
 image: "/images/johnny-got-his-gun-1971.webp"
 ---
 

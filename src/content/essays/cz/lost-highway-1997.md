@@ -2,6 +2,7 @@
 title: "Lost Highway (1997) – Past, ze které není úniku"
 film: "Lost Highway (1997)"
 date: "2026-09-02"
+description: "David Lynch přistupuje k filmu jako k uzavřenému systému bez lineárního příběhu, kde se identita hroutí do podoby Möbiovy pásky."
 image: "/images/lost-highway-1997.webp"
 ---
 

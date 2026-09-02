@@ -2,6 +2,7 @@
 title: "Lost Highway (1997) – A Trap Without Escape"
 film: "Lost Highway (1997)"
 date: "2026-09-02"
+description: "David Lynch treats film as a closed system without a linear narrative, where identity collapses into the shape of a Möbius strip."
 image: "/images/lost-highway-1997.webp"
 ---
 
