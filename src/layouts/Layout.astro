@@ -20,6 +20,31 @@ const isHome = currentPath === '/' || currentPath === '';
 const isEssays = currentPath === '/essays' || currentPath === '/essays/';
 const isAuthor = currentPath.startsWith('/author');
 const isLegal = currentPath.startsWith('/legal');
+
+const siteUrl = Astro.site ? Astro.site.toString() : "https://polygonbeater.eu";
+const imageUrl = new URL(image, canonicalURL).toString();
+
+// Generování JSON-LD strukturovaných dat pro vyhledávače
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": type === "article" ? "Article" : "WebSite",
+  "name": title,
+  "headline": title,
+  "description": description,
+  "url": canonicalURL.toString(),
+  "image": imageUrl,
+  "inLanguage": "cs",
+  "author": {
+    "@type": "Person",
+    "name": "Vítězslav Koneval",
+    "url": new URL("/author", siteUrl).toString()
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Polygon Beater Cinema",
+    "url": siteUrl
+  }
+};
 ---
 
 <!doctype html>
@@ -63,6 +88,9 @@ const isLegal = currentPath.startsWith('/legal');
     <meta name="twitter:image" content={new URL(image, canonicalURL)} />
 
     <meta name="author" content="Vítězslav Koneval" />
+
+    <!-- Strukturovaná data JSON-LD -->
+    <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   </head>
   <body>
     <header class="site-header">

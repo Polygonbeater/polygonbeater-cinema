@@ -4,6 +4,6 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://polygonbeater.eu', // Zásadní pro SEO a Sitemapu
+  site: 'https://cinema.polygonbeater.eu', // Zásadní pro SEO a Sitemapu
   integrations: [sitemap()]
 });
