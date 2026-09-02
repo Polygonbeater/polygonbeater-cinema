@@ -2,7 +2,7 @@
 title: "Tōkaidō Yotsuya Kaidan (1959)"
 description: "Prokletí, rituál a zrození hororového obrazu v adaptaci Nobua Nakagawy."
 image: "/images/yotsuya-kaidan.webp"
-date: "2026-09-02"
+date: "2026-09-02T23:59:00"
 ---
 
 Příběh Oiwa a její pomsty patří k nejvýraznějším liniím japonské tradice kaidan, jejíž kořeny sahají hluboko do světa kabuki. Nejde však jen o folklórní historku o duchu. V japonském kulturním prostoru má tento příběh status symbolicky i emočně nabitého narativu, který je často vnímán ne jako uzavřená minulost, ale jako „otevřený“ kulturní materiál.
