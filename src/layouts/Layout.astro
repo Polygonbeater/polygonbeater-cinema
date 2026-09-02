@@ -22,7 +22,9 @@ const isAuthor = currentPath.startsWith('/author');
 const isLegal = currentPath.startsWith('/legal');
 
 const siteUrl = Astro.site ? Astro.site.toString().replace(/\/$/, "") : "https://cinema.polygonbeater.eu";
-const resolvedImage = image.startsWith('http') ? image : (image.startsWith('/') ? image : '/' + image);
+
+const activeImage = (image && image.trim() !== '') ? image : "/Polygon_Beater_Cinema.jpeg";
+const resolvedImage = activeImage.startsWith('http') ? activeImage : (activeImage.startsWith('/') ? activeImage : '/' + activeImage);
 const imageUrl = new URL(resolvedImage, siteUrl).toString();
 
 // Generování JSON-LD strukturovaných dat pro vyhledávače

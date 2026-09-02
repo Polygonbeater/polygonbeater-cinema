@@ -30,7 +30,12 @@ const enTitle = enEntry?.data.title || czTitle;
 const posterPath = `/images/${slug}.webp`;
 ---
 
-<Layout title={`${czTitle} — Polygon Beater Cinema`}>
+<Layout 
+  title={`${czTitle} — Polygon Beater Cinema`} 
+  description={czEntry?.data.description} 
+  image={posterPath} 
+  type="article"
+>
   <article class="essay-detail wrap">
     <header class="essay-header">
       <a href="/" class="back-link">
@@ -145,13 +150,9 @@ const posterPath = `/images/${slug}.webp`;
   .essay-title-block { text-align: center; margin-bottom: 3rem; border-bottom: 1px solid var(--border); padding-bottom: 2.5rem; }
   .essay-header h1 { font-family: var(--font-serif); font-weight: 400; font-size: clamp(2.2rem, 4vw, 3rem); line-height: 1.15; margin: 0; color: var(--text); }
 
-  /* Layout eseje: obrázek se vznáší (float) vlevo, takže s ním obtéká jen
-     úvod textu. Jakmile dojde na první nadpis (h2/h3), text se "clear"-ne
-     pod obrázek a pokračuje na celou šířku — klasický časopisecký styl. */
   .essay-wrapper {
     margin-bottom: 3rem;
   }
-  /* clearfix, aby se .essay-wrapper nezhroutil na výšku 0 kvůli floatu */
   .essay-wrapper::after {
     content: "";
     display: table;
@@ -190,20 +191,15 @@ const posterPath = `/images/${slug}.webp`;
     color: #dedede; 
   }
 
-  /* Ať začíná obsah čímkoli (h2, h3, p...), vždy bez horní mezery,
-     takže první řádek textu vizuálně sedí na horní hraně obrázku
-     (float zarovnává horní hranu obrázku s horní hranou první řádky textu). */
   .essay-body > *:first-child {
     margin-top: 0;
   }
 
-  /* Jakmile přijde nadpis, "vyskočí" pod obrázek a jede přes celou šířku. */
   .essay-body h2 { font-family: var(--font-serif); color: var(--text); margin-top: 3rem; margin-bottom: 1rem; font-weight: 400; clear: both; }
   .essay-body h3 { font-family: var(--font-serif); color: var(--text); margin-top: 2.5rem; margin-bottom: 1rem; font-weight: 400; clear: both; }
   .essay-body p { margin-bottom: 1.5rem; }
   .essay-body img { border-radius: 4px; margin: 2.5rem auto; border: 1px solid var(--border); width: 100%; display: block; clear: both; }
 
-  /* ---------- Autor pod článkem ---------- */
   .essay-author-box {
     display: flex;
     align-items: center;
