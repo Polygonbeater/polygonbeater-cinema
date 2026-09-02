@@ -1,0 +1,401 @@
+---
+interface Props {
+  title?: string;
+  description?: string;
+  image?: string;
+  type?: 'website' | 'article';
+}
+
+const { 
+  title = "Polygon Beater Cinema — Filmové eseje a analýzy", 
+  description = "Polygon Beater Cinema — autorský archiv filmových esejů a analýz o kinematografii, estetice a temných zákoutích filmové historie.",
+  image = "/images/default-share.webp",
+  type = "website"
+} = Astro.props;
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site || "https://polygonbeater.eu");
+const currentPath = Astro.url.pathname;
+
+const isHome = currentPath === '/' || currentPath === '';
+const isEssays = currentPath === '/essays' || currentPath === '/essays/';
+const isAuthor = currentPath.startsWith('/author');
+const isLegal = currentPath.startsWith('/legal');
+---
+
+<!doctype html>
+<html lang="cs" data-lang="cs">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalURL} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <script is:inline>
+      (function() {
+        try {
+          const saved = localStorage.getItem('pbc-lang');
+          if (saved === 'cs' || saved === 'en') {
+            document.documentElement.setAttribute('data-lang', saved);
+            document.documentElement.setAttribute('lang', saved);
+            return;
+          }
+          const browserLang = navigator.language || navigator.userLanguage || '';
+          const isCzSk = browserLang.toLowerCase().startsWith('cs') || browserLang.toLowerCase().startsWith('sk');
+          const targetLang = isCzSk ? 'cs' : 'en';
+          
+          document.documentElement.setAttribute('data-lang', targetLang);
+          document.documentElement.setAttribute('lang', targetLang);
+        } catch (e) {}
+      })();
+    </script>
+
+    <meta property="og:type" content={type} />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={new URL(image, canonicalURL)} />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={new URL(image, canonicalURL)} />
+
+    <meta name="author" content="Vítězslav Koneval" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap header-inner">
+        <div class="logo-group">
+          <!-- Vlastní zlaté logo v křivkách (statické, větší) -->
+          <svg class="static-logo-icon" viewBox="0 0 529.16666 529.16667" width="32" height="32" fill="none" stroke="currentColor" aria-hidden="true">
+            <g transform="matrix(0.26458333,0,0,0.26458333,114.1671,19.21975)" style="fill:#c9a24b;fill-opacity:1">
+              <g transform="matrix(3.2645089,0,0,3.2645089,-282.76572,-951.67983)" style="fill:#c9a24b;fill-opacity:1">
+                <path
+                  fill-rule="evenodd"
+                  stroke="none"
+                  fill="#c9a24b"
+                  d="m 97.585,698.689 h 3.465 109.332 v 34.716 l 0.367,1.842 1.043,1.561 1.562,1.043 1.841,0.367 h 34.924 l 1.842,-0.367 1.562,-1.043 1.043,-1.561 0.366,-1.842 v -34.716 h 109.667 3.259 l 1.842,-0.367 1.561,-1.043 1.043,-1.561 0.367,-1.842 V 671.13 654.082 h -8.072 V 671.13 H 254.932 232.657 210.382 101.05 V 488.171 h 64.363 v -7.876 H 101.05 97.585 l -1.842,0.366 -1.561,1.043 -1.044,1.562 -0.366,1.842 v 3.063 182.959 22.746 l 0.366,1.842 1.044,1.561 1.561,1.043 z"
+                />
+                <path
+                  fill-rule="evenodd"
+                  stroke="none"
+                  fill="#c9a24b"
+                  d="m 177.419,580.837 30.348,30.454 30.349,30.455 v -55.255 l -0.431,-2.164 -1.225,-1.834 -1.835,-1.226 -2.164,-0.43 z"
+                />
+                <path
+                  fill-rule="evenodd"
+                  stroke="none"
+                  fill="#c9a24b"
+                  d="m 383.906,412.974 h -61.179 -61.179 -79.521 l -1.88,0.374 -1.594,1.066 -1.065,1.594 -0.374,1.88 v 63.734 88.276 h 55.489 l 3.678,0.472 3.004,0.857 3.169,1.7 2.495,2.085 2.229,2.64 1.556,3.024 1.001,3.149 0.328,3.533 v 54.94 h 11.485 61.179 61.179 39.937 l 1.881,-0.374 1.594,-1.065 1.065,-1.594 0.374,-1.881 v -69.899 -72.47 -6.956 -6.437 -63.734 l -0.374,-1.88 -1.065,-1.594 -1.594,-1.066 -1.881,-0.374 h -39.937 l -144.835,269.547 0.126,1.276 -0.126,1.276 -0.372,1.227 -0.604,1.13 -0.813,0.991 -0.991,0.814 -1.131,0.604 -1.227,0.372 -1.276,0.126 -1.275,-0.126 -1.227,-0.372 -1.131,-0.604 -0.991,-0.814 -0.813,-0.991 -0.605,-1.13 -0.372,-1.227 -0.125,-1.276 0.125,-1.276 0.372,-1.227 0.605,-1.13 0.813,-0.991 0.991,-0.813 1.131,-0.605 1.227,-0.372 1.275,-0.126 1.276,0.126 1.227,0.372 1.131,0.605 0.991,0.813 0.813,0.991 0.604,1.13 0.372,1.227 z m -61.179,44.994 56.053,27.595 1.576,1.154 0.4,0.687 0.164,0.688 -0.149,0.694 -0.384,0.694 -1.55,1.188 -56.11,28.875 -56.109,-28.875 -1.55,-1.188 -0.378,-0.694 -0.156,-0.694 0.172,-0.688 0.392,-0.687 1.576,-1.154 z m 61.179,109.517 -61.179,30.605 -61.179,-30.605 v -60.541 l 0.195,-1.08 0.243,-0.912 0.507,-0.736 0.555,-0.57 0.831,-0.295 0.83,-0.128 0.98,0.179 0.98,0.347 52.524,25.715 0.811,0.305 0.81,0.225 0.957,0.134 0.956,0.052 0.957,-0.052 0.956,-0.134 0.811,-0.225 0.811,-0.305 52.524,-25.715 0.979,-0.344 0.98,-0.182 0.831,0.102 0.831,0.321 0.612,0.492 0.498,0.814 0.253,0.996 0.136,0.996 z"
+                />
+              </g>
+            </g>
+          </svg>
+
+          {!isHome ? (
+            <a href="/" class="logo">
+              Polygon Beater <span class="logo-accent">Cinema</span>
+            </a>
+          ) : (
+            <span class="logo logo-static">
+              Polygon Beater <span class="logo-accent">Cinema</span>
+            </span>
+          )}
+        </div>
+
+        <div class="header-right">
+          <nav class="site-nav" aria-label="Hlavní navigace / Main navigation">
+            {!isHome && (
+              <a href="/">
+                <span lang="cs">Úvod</span>
+                <span lang="en">Home</span>
+              </a>
+            )}
+            {!isEssays && (
+              <a href="/essays">
+                <span lang="cs">Archiv</span>
+                <span lang="en">Archive</span>
+              </a>
+            )}
+            {!isAuthor && (
+              <a href="/author">
+                <span lang="cs">O autorovi</span>
+                <span lang="en">About Author</span>
+              </a>
+            )}
+          </nav>
+
+          <nav class="lang-switch" aria-label="Přepínač jazyka / Language switch">
+            <button type="button" class="lang-btn" data-set-lang="cs" aria-pressed="true">CZ</button>
+            <span class="lang-sep">|</span>
+            <button type="button" class="lang-btn" data-set-lang="en" aria-pressed="false">EN</button>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap footer-inner">
+        
+        <div class="newsletter-section">
+          <form id="newsletter-form" class="newsletter-form">
+            <input type="hidden" name="access_key" value="b321aee0-7c60-49df-b2db-b0a0a085c731">
+            <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
+            <input type="hidden" name="subject" value="Nový odběratel newsletteru - PBC">
+            <input type="hidden" name="from_name" value="Polygon Beater Cinema">
+
+            <p lang="cs">Odebírejte upozornění na nové filmové eseje a analýzy:</p>
+            <p lang="en">Subscribe for notifications on new film essays and analyses:</p>
+            <div class="newsletter-row">
+              <input type="email" name="email" placeholder="vas@email.cz" required aria-label="E-mail" />
+              <button type="submit" id="newsletter-btn" class="newsletter-btn">
+                <span lang="cs">Odebírat</span>
+                <span lang="en">Subscribe</span>
+              </button>
+            </div>
+            <div id="newsletter-result"></div>
+          </form>
+        </div>
+
+        <div class="footer-row">
+          <p lang="cs">© {new Date().getFullYear()} Vítězslav Koneval. Všechna práva vyhrazena.</p>
+          <p lang="en">© {new Date().getFullYear()} Vítězslav Koneval. All rights reserved.</p>
+          
+          <div class="footer-links">
+            {!isAuthor && (
+              <a href="/author" class="legal-link">
+                <span lang="cs">O autorovi</span>
+                <span lang="en">About Author</span>
+              </a>
+            )}
+            {!isLegal && (
+              <a href="/legal" class="legal-link">
+                <span lang="cs">Právní informace</span>
+                <span lang="en">Legal Info</span>
+              </a>
+            )}
+          </div>
+        </div>
+
+        <p class="footer-meta" lang="cs">
+          Autorský archiv filmových esejů a analýz. Kontakt: <a href="mailto:info@polygonbeater.eu">info@polygonbeater.eu</a>
+        </p>
+        <p class="footer-meta" lang="en">
+          Author's archive of film essays and analyses. Contact: <a href="mailto:info@polygonbeater.eu">info@polygonbeater.eu</a>
+        </p>
+      </div>
+    </footer>
+
+    <button type="button" class="back-to-top" id="scrollTopBtn" aria-label="Zpět nahoru / Scroll to top">
+      <svg viewBox="0 0 24 24"><path d="M12 4l-8 8h5v8h6v-8h5z"/></svg>
+    </button>
+
+    <div id="cookieBanner" class="cookie-banner" style="display: none;">
+      <p lang="cs">Pro správné fungování webu využíváme základní soubory cookies a lokální úložiště. <a href="/legal" style="color: var(--text); text-decoration: underline;">Více informací</a>.</p>
+      <p lang="en">We use basic cookies and local storage for the proper operation of the website. <a href="/legal" style="color: var(--text); text-decoration: underline;">Learn more</a>.</p>
+      <button type="button" id="cookieAccept" class="cookie-btn">
+        <span lang="cs">Rozumím</span>
+        <span lang="en">Got it</span>
+      </button>
+    </div>
+
+    <script>
+      const root = document.documentElement;
+      const buttons = document.querySelectorAll<HTMLButtonElement>("[data-set-lang]");
+
+      function applyLang(lang: string) {
+        root.setAttribute("data-lang", lang);
+        root.setAttribute("lang", lang);
+        buttons.forEach((btn) => {
+          const isActive = btn.dataset.setLang === lang;
+          btn.setAttribute("aria-pressed", String(isActive));
+        });
+        try { localStorage.setItem("pbc-lang", lang); } catch (e) {}
+      }
+
+      buttons.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const lang = btn.dataset.setLang;
+          if (lang) applyLang(lang);
+        });
+      });
+
+      const currentActiveLang = root.getAttribute('data-lang') || 'cs';
+      buttons.forEach((btn) => {
+        btn.setAttribute("aria-pressed", String(btn.dataset.setLang === currentActiveLang));
+      });
+
+      const cookieBanner = document.getElementById('cookieBanner');
+      const cookieAccept = document.getElementById('cookieAccept');
+      try {
+        if (!localStorage.getItem('pbc-consent')) {
+          if (cookieBanner) cookieBanner.style.display = 'flex';
+        }
+      } catch(e) {}
+
+      if (cookieAccept) {
+        cookieAccept.addEventListener('click', () => {
+          try { localStorage.setItem('pbc-consent', 'true'); } catch(e) {}
+          if (cookieBanner) cookieBanner.style.display = 'none';
+        });
+      }
+
+      const scrollTopBtn = document.getElementById('scrollTopBtn');
+      window.addEventListener('scroll', () => {
+        if (scrollTopBtn) {
+          if (window.scrollY > 300) {
+            scrollTopBtn.classList.add('show');
+          } else {
+            scrollTopBtn.classList.remove('show');
+          }
+        }
+      });
+
+      if (scrollTopBtn) {
+        scrollTopBtn.addEventListener('click', () => {
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+      }
+
+      const nlForm = document.getElementById('newsletter-form');
+      const nlResult = document.getElementById('newsletter-result');
+      const nlBtn = document.getElementById('newsletter-btn');
+
+      if (nlForm && nlResult && nlBtn) {
+        nlForm.addEventListener('submit', function(e) {
+          e.preventDefault();
+          const formData = new FormData(nlForm as HTMLFormElement);
+          const object = Object.fromEntries(formData);
+          const json = JSON.stringify(object);
+          const activeLang = root.getAttribute('data-lang') || 'cs';
+
+          nlResult.innerHTML = activeLang === 'cs' ? "Zpracovávám..." : "Processing...";
+          nlResult.style.color = "var(--text-muted)";
+          (nlBtn as HTMLButtonElement).disabled = true;
+
+          fetch('https://api.web3forms.com/submit', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+              'Accept': 'application/json'
+            },
+            body: json
+          })
+          .then(async (response) => {
+            let jsonResponse = await response.json();
+            if (response.status == 200) {
+              nlResult.innerHTML = activeLang === 'cs' ? "Úspěšně přihlášeno k odběru ✓" : "Successfully subscribed ✓";
+              nlResult.style.color = "#4CAF50";
+              (nlForm as HTMLFormElement).reset();
+            } else {
+              nlResult.innerHTML = jsonResponse.message || "Error.";
+              nlResult.style.color = "var(--red-500)";
+            }
+          })
+          .catch(error => {
+            nlResult.innerHTML = activeLang === 'cs' ? "Chyba připojení k serveru." : "Server connection error.";
+            nlResult.style.color = "var(--red-500)";
+          })
+          .finally(() => {
+            (nlBtn as HTMLButtonElement).disabled = false;
+          });
+        });
+      }
+    </script>
+
+    <style is:global>
+      :root { --bg: #0a0a0b; --bg-elevated: #131315; --border: #232326; --text: #ededec; --text-muted: #97979d; --accent: #c9a24b; --red-500: #FF4D4D; --font-sans: "Helvetica Neue", Arial, sans-serif; --font-serif: Georgia, serif; --max-width: 960px; }
+      *, *::before, *::after { box-sizing: border-box; }
+      html, body { margin: 0; padding: 0; scroll-behavior: smooth; }
+      body { background: var(--bg); color: var(--text); font-family: var(--font-sans); line-height: 1.6; }
+      .wrap { max-width: var(--max-width); margin: 0 auto; padding: 0 1.5rem; }
+      @media (max-width: 640px) { .wrap { padding: 0 1rem; } }
+      a { color: inherit; }
+      img { display: block; max-width: 100%; }
+
+      .essay-content h2,
+      .essay-content h3,
+      .essay-content h4 {
+          clear: both;
+          margin-top: 2.5rem;
+          margin-bottom: 1rem;
+      }
+
+      html:not([data-lang="en"]) [lang="en"] { display: none; }
+      html:not([data-lang="en"]) [lang="cs"] { display: revert; }
+      html[data-lang="en"] [lang="cs"] { display: none; }
+      html[data-lang="en"] [lang="en"] { display: revert; }
+
+      .site-header { border-bottom: 1px solid var(--border); position: sticky; top: 0; background: rgba(10, 10, 11, 0.9); backdrop-filter: blur(6px); z-index: 100; }
+      .header-inner { display: flex; align-items: center; justify-content: space-between; padding: 1.1rem 0; }
+      
+      .logo-group { display: flex; align-items: center; gap: 0.85rem; }
+      
+      .static-logo-icon {
+        color: var(--accent);
+        flex: 0 0 auto;
+        display: block;
+      }
+
+      .logo { font-size: 1.05rem; letter-spacing: 0.06em; text-transform: uppercase; text-decoration: none; font-weight: 600; transition: opacity 0.15s ease; }
+      .logo:hover { opacity: 0.8; }
+      .logo-static { cursor: default; }
+      .logo-accent { color: var(--accent); font-weight: 300; }
+      
+      .header-right { display: flex; align-items: center; gap: 1.5rem; }
+      .site-nav { display: flex; align-items: center; gap: 1.25rem; }
+      .site-nav a { font-size: 0.88rem; color: var(--text-muted); text-decoration: none; font-weight: 500; transition: color 0.15s ease; }
+      .site-nav a:hover { color: var(--accent); }
+
+      .lang-switch { display: flex; align-items: center; gap: 0.5rem; font-size: 0.85rem; }
+      .lang-btn { background: none; border: none; color: var(--text-muted); font: inherit; cursor: pointer; padding: 0.25rem; font-weight: 600; }
+      .lang-btn[aria-pressed="true"], .lang-btn:hover { color: var(--accent); }
+      .lang-sep { color: var(--border); }
+
+      .site-footer { border-top: 1px solid var(--border); padding: 2.5rem 0; margin-top: 5rem; }
+      
+      .newsletter-section { margin-bottom: 2.5rem; padding-bottom: 2.5rem; border-bottom: 1px dashed var(--border); }
+      .newsletter-form p { margin: 0 0 1rem; font-size: 0.95rem; color: var(--text-muted); }
+      .newsletter-row { display: flex; gap: 0.5rem; max-width: 420px; }
+      .newsletter-row input { flex: 1; background: var(--bg-elevated); border: 1px solid var(--border); color: var(--text); padding: 0.7rem 1rem; border-radius: 3px; font-family: inherit; font-size: 0.9rem; transition: border-color 0.15s ease; }
+      .newsletter-row input:focus { outline: none; border-color: var(--accent); }
+      .newsletter-btn { background: var(--accent); color: var(--bg); border: none; padding: 0 1.2rem; font-weight: 600; font-size: 0.85rem; text-transform: uppercase; border-radius: 3px; cursor: pointer; transition: opacity 0.15s ease; letter-spacing: 0.05em; }
+      .newsletter-btn:hover { opacity: 0.9; }
+      .newsletter-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+      #newsletter-result { margin-top: 0.75rem; font-size: 0.85rem; font-weight: 500; }
+
+      .footer-row { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem; margin-bottom: 0.5rem; }
+      .footer-inner p { margin: 0; font-size: 0.85rem; color: var(--text-muted); }
+      .footer-links { display: flex; gap: 1.25rem; }
+      .legal-link { font-size: 0.85rem; color: var(--text-muted); text-decoration: underline; }
+      .legal-link:hover { color: var(--accent); }
+      .footer-meta { font-size: 0.85rem; color: var(--text-muted); }
+      .footer-meta a { color: var(--text-muted); text-decoration: underline; }
+      .footer-meta a:hover { color: var(--accent); }
+
+      .back-to-top { position: fixed; bottom: 24px; right: 24px; width: 44px; height: 44px; background: var(--bg-elevated); color: var(--text); border: 1px solid var(--accent); border-radius: 4px; display: flex; align-items: center; justify-content: center; cursor: pointer; z-index: 1000; opacity: 0; visibility: hidden; transition: opacity .3s ease, visibility .3s ease, background .2s ease, color .2s ease, transform .2s ease; }
+      .back-to-top.show { opacity: 1; visibility: visible; }
+      .back-to-top:hover { background: var(--accent); color: var(--bg); transform: translateY(-3px); }
+      .back-to-top svg { width: 20px; height: 20px; fill: currentColor; }
+
+      .cookie-banner { position: fixed; bottom: 20px; left: 20px; max-width: 400px; background: var(--bg-elevated); border: 1px solid var(--accent); padding: 20px; z-index: 1000; box-shadow: 0 10px 30px rgba(0,0,0,0.5); display: flex; flex-direction: column; gap: 12px; }
+      .cookie-banner p { margin: 0; font-size: 0.85rem; color: var(--text-muted); line-height: 1.4; }
+      .cookie-btn { align-self: flex-end; background: var(--accent); color: var(--bg); border: none; padding: 8px 16px; font-size: 0.8rem; font-weight: 600; text-transform: uppercase; border-radius: 3px; cursor: pointer; transition: opacity 0.15s ease; }
+      .cookie-btn:hover { opacity: 0.9; }
+
+      @media (max-width: 480px) {
+        .cookie-banner { left: 12px; right: 12px; bottom: 12px; bottom: max(12px, env(safe-area-inset-bottom)); max-width: none; padding: 14px 16px; }
+        .cookie-btn { width: 100%; text-align: center; }
+        .back-to-top { bottom: 76px; right: 16px; width: 40px; height: 40px; }
+        .newsletter-row { flex-direction: column; }
+        .newsletter-btn { padding: 0.8rem; }
+      }
+    </style>
+  </body>
+</html>

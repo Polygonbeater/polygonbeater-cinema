@@ -1,0 +1,386 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const allEssays = await getCollection('essays');
+const uniqueSlugs = Array.from(
+  new Set(allEssays.map(e => e.id.replace(/^.*[\\/]/, '').replace(/\.md$/, '')))
+);
+
+const essays = uniqueSlugs.map(slug => {
+  const czEntry = allEssays.find(e => e.id.replace(/\\/g, '/').includes(`cz/${slug}`));
+  const enEntry = allEssays.find(e => e.id.replace(/\\/g, '/').includes(`en/${slug}`));
+  
+  const rawDate = czEntry?.data.date || enEntry?.data.date || '1970-01-01';
+  const formattedDate = typeof rawDate === 'object' && rawDate instanceof Date 
+    ? rawDate.toISOString().split('T')[0] 
+    : String(rawDate).substring(0, 10);
+
+  const titleCs = czEntry?.data.title || slug;
+  const titleEn = enEntry?.data.title || slug;
+
+  // Inteligentní oddělení názvu filmu od podtitulu eseje
+  function parseMovieTitle(title: string, lang: 'cs' | 'en') {
+    // Pokusí se najít film za režisérem (např. "v Bavově Dívce..." -> "Dívka...")
+    const regexCz = /(?:v|ve)\s+(?:Bavově|Fulciho|Argentově)\s+(.+)/i;
+    const regexEn = /in\s+(?:Bava's|Fulci's|Argento's)\s+(.+)/i;
+    
+    const match = lang === 'cs' ? title.match(regexCz) : title.match(regexEn);
+    if (match) return match[1];
+    return title; // Fallback na celý název, pokud vzorec nesedí
+  }
+
+  return {
+    slug,
+    title: { cs: titleCs, en: titleEn },
+    movieTitle: { 
+      cs: parseMovieTitle(titleCs, 'cs'), 
+      en: parseMovieTitle(titleEn, 'en') 
+    },
+    date: formattedDate,
+    href: `/essays/${slug}`,
+  };
+});
+
+essays.sort((a, b) => new Date(b.date).getTime() - new Date(b.date).getTime());
+
+const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+---
+
+<Layout title="Archiv esejů — Polygon Beater Cinema" description="Kompletní archiv filmových esejů a analýz.">
+  <main class="wrap archive-page">
+    
+    <div class="archive-back">
+      <a href="/" class="back-home-link">
+        <span lang="cs">← Zpět na úvodní stránku</span>
+        <span lang="en">← Back to home</span>
+      </a>
+    </div>
+
+    <header class="archive-header">
+      <div>
+        <h1 lang="cs">Archiv esejů</h1>
+        <h1 lang="en">Essay Archive</h1>
+        <p class="archive-count">
+          <span lang="cs">Celkem textů: <strong>{essays.length}</strong></span>
+          <span lang="en">Total texts: <strong>{essays.length}</strong></span>
+        </p>
+      </div>
+
+      <div class="archive-controls">
+        <!-- Jednotné vyhledávací pole bez prodlevy -->
+        <div class="search-box">
+          <input 
+            type="search" 
+            id="archiveSearchInput" 
+            placeholder="Hledat film nebo text..." 
+            aria-label="Hledat v esejích"
+          />
+        </div>
+
+        <div class="sort-toggles">
+          <button type="button" class="sort-btn active" data-sort="date">
+            <span lang="cs">Nejnovější</span>
+            <span lang="en">Newest</span>
+          </button>
+          <button type="button" class="sort-btn" data-sort="alpha">
+            <span lang="cs">Abecedně</span>
+            <span lang="en">Alphabetical</span>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <div class="alphabet-bar" id="alphabetBar">
+      <button type="button" class="alpha-btn active" data-letter="all">
+        <span lang="cs">Vše</span>
+        <span lang="en">All</span>
+      </button>
+      {alphabet.map(letter => (
+        <button type="button" class="alpha-btn" data-letter={letter.toLowerCase()}>{letter}</button>
+      ))}
+    </div>
+
+    <ul class="archive-list" id="archiveList">
+      {essays.map(essay => (
+        <li 
+          class="archive-item" 
+          data-title-cs={essay.title.cs.toLowerCase()}
+          data-title-en={essay.title.en.toLowerCase()}
+          data-date={essay.date}
+        >
+          <div class="archive-meta">
+            <span class="archive-date">{essay.date}</span>
+          </div>
+          <div class="archive-content">
+            <a href={essay.href} class="archive-link">
+              <!-- Zvýrazněný název filmu -->
+              <span class="movie-name" lang="cs">{essay.movieTitle.cs}</span>
+              <span class="movie-name" lang="en">{essay.movieTitle.en}</span>
+              <!-- Celý název jako doplňující podtitul -->
+              <span class="essay-subtitle" lang="cs">{essay.title.cs}</span>
+              <span class="essay-subtitle" lang="en">{essay.title.en}</span>
+            </a>
+          </div>
+        </li>
+      ))}
+    </ul>
+
+    <div id="noResults" class="no-results" style="display: none;">
+      <p lang="cs">Žádné eseje neodpovídají zadanému kritériu.</p>
+      <p lang="en">No essays match your search criteria.</p>
+    </div>
+
+  </main>
+</Layout>
+
+<script>
+  const searchInput = document.getElementById('archiveSearchInput') as HTMLInputElement;
+  const list = document.getElementById('archiveList');
+  const items = Array.from(list?.querySelectorAll('.archive-item') || []) as HTMLElement[];
+  const noResults = document.getElementById('noResults');
+  const sortBtns = document.querySelectorAll('.sort-btn');
+  const alphaBtns = document.querySelectorAll('.alpha-btn');
+
+  let currentSort = 'date';
+  let selectedLetter = 'all';
+
+  function normalizeChar(char: string): string {
+    return char.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  }
+
+  function filterAndSort() {
+    const activeLang = document.documentElement.getAttribute('data-lang') || 'cs';
+    const query = searchInput.value.toLowerCase().trim();
+
+    let visibleCount = 0;
+
+    items.forEach(item => {
+      const titleCs = item.getAttribute('data-title-cs') || '';
+      const titleEn = item.getAttribute('data-title-en') || '';
+      const title = activeLang === 'en' ? titleEn : titleCs;
+
+      const matchesSearch = title.includes(query);
+      
+      let matchesLetter = true;
+      if (selectedLetter !== 'all') {
+        const firstChar = normalizeChar(title.trim().charAt(0));
+        const targetLetter = normalizeChar(selectedLetter);
+        matchesLetter = firstChar === targetLetter;
+      }
+
+      if (matchesSearch && matchesLetter) {
+        item.style.display = '';
+        visibleCount++;
+      } else {
+        item.style.display = 'none';
+      }
+    });
+
+    if (noResults) {
+      noResults.style.display = visibleCount === 0 ? 'block' : 'none';
+    }
+  }
+
+  alphaBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      alphaBtns.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      selectedLetter = btn.getAttribute('data-letter') || 'all';
+      filterAndSort();
+    });
+  });
+
+  sortBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      sortBtns.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      currentSort = btn.getAttribute('data-sort') || 'date';
+
+      items.sort((a, b) => {
+        if (currentSort === 'date') {
+          const dateA = a.getAttribute('data-date') || '';
+          const dateB = b.getAttribute('data-date') || '';
+          return dateB.localeCompare(dateA);
+        } else {
+          const activeLang = document.documentElement.getAttribute('data-lang') || 'cs';
+          const titleA = (activeLang === 'en' ? a.getAttribute('data-title-en') : a.getAttribute('data-title-cs')) || '';
+          const titleB = (activeLang === 'en' ? b.getAttribute('data-title-en') : b.getAttribute('data-title-cs')) || '';
+          return titleA.localeCompare(titleB, 'cs');
+        }
+      });
+
+      items.forEach(item => list?.appendChild(item));
+    });
+  });
+
+  searchInput?.addEventListener('input', filterAndSort);
+
+  // Dynamická změna placeholderu při přepnutí jazyka webu v hlavičce
+  const observer = new MutationObserver(() => {
+    const activeLang = document.documentElement.getAttribute('data-lang') || 'cs';
+    searchInput.placeholder = activeLang === 'en' ? "Search movie or text..." : "Hledat film nebo text...";
+    filterAndSort();
+  });
+  observer.observe(document.documentElement, { attributes: true, attributeFilter: ['data-lang'] });
+</script>
+
+<style>
+  .archive-page { padding: 3rem 0 6rem; }
+  
+  .archive-back { margin-bottom: 2rem; }
+  .back-home-link {
+    display: inline-block;
+    color: var(--text-muted);
+    text-decoration: none;
+    font-size: 0.88rem;
+    letter-spacing: 0.02em;
+    transition: color 0.15s ease;
+  }
+  .back-home-link:hover { color: var(--accent); }
+
+  .archive-header { 
+    display: flex; 
+    justify-content: space-between; 
+    align-items: flex-end; 
+    margin-bottom: 2rem; 
+    gap: 2rem;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 2rem;
+  }
+
+  .archive-header h1 { 
+    font-family: var(--font-serif); 
+    font-weight: 400; 
+    font-size: 2rem; 
+    margin: 0 0 0.5rem; 
+    border-left: 3px solid var(--accent); 
+    padding-left: 0.75rem; 
+  }
+
+  .archive-count { color: var(--text-muted); font-size: 0.85rem; margin: 0 0 0 1rem; }
+
+  .archive-controls {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    width: 100%;
+    max-width: 380px;
+  }
+
+  .search-box input {
+    width: 100%;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 0.65rem 1rem;
+    border-radius: 3px;
+    font-family: inherit;
+    font-size: 0.9rem;
+    transition: border-color 0.15s ease;
+  }
+  .search-box input:focus { outline: none; border-color: var(--accent); }
+
+  .sort-toggles { display: flex; gap: 0.5rem; }
+
+  .sort-btn {
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    color: var(--text-muted);
+    padding: 0.4rem 0.8rem;
+    font-size: 0.78rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+  .sort-btn:hover { color: var(--text); border-color: var(--text-muted); }
+  .sort-btn.active { background: var(--accent); color: var(--bg); border-color: var(--accent); }
+
+  .alphabet-bar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin-bottom: 2.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .alpha-btn {
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    color: var(--text-muted);
+    min-width: 32px;
+    height: 32px;
+    padding: 0 0.4rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: all 0.15s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .alpha-btn:hover { color: var(--text); border-color: var(--text-muted); }
+  .alpha-btn.active { background: var(--accent); color: var(--bg); border-color: var(--accent); }
+
+  .archive-list { list-style: none; padding: 0; display: flex; flex-direction: column; gap: 0; }
+
+  .archive-item { 
+    display: flex; 
+    align-items: flex-start;
+    gap: 2rem; 
+    border-bottom: 1px solid var(--border); 
+    padding: 1.25rem 0; 
+    transition: border-color 0.15s ease;
+  }
+  .archive-item:hover { border-color: var(--accent); }
+
+  .archive-meta { min-width: 110px; flex-shrink: 0; }
+  .archive-date { font-size: 0.85rem; color: var(--text-muted); font-family: monospace; }
+
+  .archive-content { flex-grow: 1; }
+
+  .archive-link { 
+    color: var(--text); 
+    text-decoration: none; 
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+  }
+  
+  .movie-name {
+    font-family: var(--font-serif);
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: var(--text);
+    transition: color 0.2s ease;
+  }
+
+  .essay-subtitle {
+    font-family: var(--font-sans);
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    line-height: 1.4;
+  }
+
+  .archive-link:hover .movie-name { color: var(--accent); }
+
+  .no-results {
+    text-align: center;
+    padding: 4rem 0;
+    color: var(--text-muted);
+    font-style: italic;
+  }
+
+  @media (max-width: 768px) {
+    .archive-header { flex-direction: column; align-items: stretch; gap: 1.5rem; }
+    .archive-controls { max-width: none; }
+    .archive-item { flex-direction: column; gap: 0.5rem; }
+    .archive-meta { min-width: auto; }
+    .alphabet-bar { gap: 0.25rem; }
+    .alpha-btn { min-width: 28px; height: 28px; font-size: 0.75rem; }
+  }
+</style>

@@ -1,0 +1,55 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Stránka nenalezena — Polygon Beater Cinema">
+  <div class="error-container wrap">
+    <p class="error-code">404</p>
+    <h1 lang="cs">Stránka se ztratila v temnotách.</h1>
+    <h1 lang="en">The page got lost in the dark.</h1>
+    
+    <p class="error-desc" lang="cs">Hledaný filmový text neexistuje nebo byl přesunut.</p>
+    <p class="error-desc" lang="en">The film text you are looking for does not exist or has been moved.</p>
+
+    <a href="/" class="home-btn" lang="cs">← Zpět na hlavní stránku</a>
+    <a href="/" class="home-btn" lang="en">← Back to home</a>
+  </div>
+</Layout>
+
+<style>
+  .error-container {
+    padding: 8rem 0;
+    text-align: center;
+    max-width: 600px;
+  }
+  .error-code {
+    font-family: var(--font-serif);
+    font-size: 5rem;
+    color: var(--accent);
+    margin: 0 0 1rem;
+    line-height: 1;
+  }
+  h1 {
+    font-family: var(--font-serif);
+    font-weight: 400;
+    font-size: 2rem;
+    margin: 0 0 1rem;
+  }
+  .error-desc {
+    color: var(--text-muted);
+    margin-bottom: 2.5rem;
+  }
+  .home-btn {
+    display: inline-block;
+    color: var(--accent);
+    text-decoration: none;
+    border: 1px solid var(--border);
+    background: var(--bg-elevated);
+    padding: 0.75rem 1.5rem;
+    border-radius: 3px;
+    transition: border-color 0.15s ease;
+  }
+  .home-btn:hover {
+    border-color: var(--accent);
+  }
+</style>

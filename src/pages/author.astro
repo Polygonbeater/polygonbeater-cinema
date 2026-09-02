@@ -1,0 +1,232 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="O autorovi — Polygon Beater Cinema" description="Profil autora: Vítězslav Koneval">
+  <main class="wrap author-page">
+
+    <!-- Navigace -->
+    <div class="archive-back">
+      <a href="/" class="back-home-link">
+        <span lang="cs">← Zpět na úvodní stránku</span>
+        <span lang="en">← Back to home</span>
+      </a>
+    </div>
+
+    <!-- Hlavička s monogramem a jménem vedle sebe -->
+    <header class="author-header">
+      <div class="author-avatar" aria-hidden="true">VK</div>
+
+      <div class="author-heading-text">
+        <p class="eyebrow" lang="cs">O autorovi</p>
+        <p class="eyebrow" lang="en">About the Author</p>
+
+        <h1 class="author-name">Vítězslav Koneval</h1>
+
+        <p class="author-role" lang="cs">Tvůrce Polygon Beater · 3D grafik &amp; filmový analytik</p>
+        <p class="author-role" lang="en">Creator of Polygon Beater · 3D Artist &amp; Film Analyst</p>
+      </div>
+    </header>
+
+    <!-- Krátký výtah / motto -->
+    <blockquote class="author-quote">
+      <p lang="cs">
+        „Kino mě zajímá tam, kde přestává vysvětlovat a začíná ukazovat.“
+      </p>
+      <p lang="en">
+        “Cinema interests me where it stops explaining and starts showing.”
+      </p>
+    </blockquote>
+
+    <!-- Obsah profilu -->
+    <div class="author-content">
+      <div class="author-bio" lang="cs">
+        <p>
+          Vítězslav Koneval je nezávislý 3D grafik, animátor a tvůrce stojící za značkou Polygon Beater. Má za sebou mezinárodní projekty a spolupráce na zakázkách pro firmy jako americká <strong>Maintainer Corporation of Iowa</strong> nebo francouzské motion designové studio <strong>BigServal</strong>, kde pomáhal transformovat složité koncepty v působivý vizuální obsah.
+        </p>
+        <p>
+          Projekt <strong>Polygon Beater Cinema</strong> vznikl jako soukromý autorský archiv esejů a analýz, ve kterém se přirozeně protíná jeho práce v oblasti 3D grafiky a hluboká vášeň pro filmovou analýzu. Zkoumá v nich temná zákoutí kinematografie, estetiku, psychologii postav a vizuální symboliku – od éry němého filmu, přes drsný film noir, až po evropské giallo a autorský film.
+        </p>
+      </div>
+
+      <div class="author-bio" lang="en">
+        <p>
+          Vítězslav Koneval is an independent 3D artist, animator, and the creator behind the Polygon Beater brand. He brings experience from international projects and client work for companies such as the US-based <strong>Maintainer Corporation of Iowa</strong> and the French motion design studio <strong>BigServal</strong>, helping transform complex messages into compelling visual experiences.
+        </p>
+        <p>
+          The <strong>Polygon Beater Cinema</strong> project was created as a personal author's archive of essays and analyses, where his professional background in 3D graphics merges with a deep-rooted passion for film analysis. He explores the dark corners of cinema, aesthetics, character psychology, and visual symbolism—spanning from the silent film era and gritty film noir to European giallo and auteur cinema.
+        </p>
+      </div>
+
+      <!-- Kontakt -->
+      <div class="author-contact">
+        <h3 lang="cs">Kontakt a sítě</h3>
+        <h3 lang="en">Contact &amp; Links</h3>
+
+        <div class="contact-links">
+          <a href="mailto:info@polygonbeater.eu" class="contact-link">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <rect x="2" y="4" width="20" height="16" rx="2"></rect>
+              <path d="m22 7-10 6L2 7"></path>
+            </svg>
+            <span>info@polygonbeater.eu</span>
+          </a>
+
+          <a href="https://polygonbeater.eu" target="_blank" rel="noopener noreferrer" class="contact-link">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="12" cy="12" r="10"></circle>
+              <path d="M2 12h20M12 2a15.3 15.3 0 0 1 0 20 15.3 15.3 0 0 1 0-20Z"></path>
+            </svg>
+            <span lang="cs">polygonbeater.eu (Studio)</span>
+            <span lang="en">polygonbeater.eu (Studio)</span>
+          </a>
+        </div>
+      </div>
+    </div>
+
+  </main>
+</Layout>
+
+<style>
+  .author-page {
+    padding: 3rem 0 6rem;
+    max-width: 740px;
+    margin: 0 auto;
+  }
+
+  .archive-back { margin-bottom: 2.5rem; }
+  .back-home-link {
+    display: inline-block;
+    color: var(--text-muted);
+    text-decoration: none;
+    font-size: 0.88rem;
+    transition: color 0.15s ease;
+  }
+  .back-home-link:hover { color: var(--accent); }
+
+  /* ---------- Hlavička: monogram + jméno ---------- */
+  .author-header {
+    display: flex;
+    align-items: center;
+    gap: 1.75rem;
+    margin-bottom: 2.5rem;
+    padding-bottom: 2.5rem;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .author-avatar {
+    flex: 0 0 auto;
+    width: 84px;
+    height: 84px;
+    border-radius: 50%;
+    border: 1px solid var(--border);
+    background: var(--bg-elevated);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--font-serif);
+    font-size: 1.6rem;
+    letter-spacing: 0.03em;
+    color: var(--accent);
+  }
+
+  .author-heading-text .eyebrow {
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    font-size: 0.72rem;
+    color: var(--accent);
+    margin: 0 0 0.5rem;
+  }
+
+  .author-name {
+    font-family: var(--font-serif);
+    font-weight: 400;
+    font-size: clamp(1.7rem, 4vw, 2.2rem);
+    margin: 0 0 0.4rem;
+    color: var(--text);
+  }
+
+  .author-role {
+    font-family: monospace;
+    color: var(--text-muted);
+    font-size: 0.9rem;
+    margin: 0;
+    letter-spacing: 0.02em;
+  }
+
+  /* ---------- Motto ---------- */
+  .author-quote {
+    margin: 0 0 3rem;
+    padding: 0 0 0 1.25rem;
+    border-left: 3px solid var(--accent);
+  }
+  .author-quote p {
+    font-family: var(--font-serif);
+    font-style: italic;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    color: var(--text);
+    margin: 0;
+  }
+
+  /* ---------- Bio ---------- */
+  .author-bio {
+    font-size: 1.05rem;
+    line-height: 1.75;
+    color: var(--text);
+    margin-bottom: 3rem;
+  }
+
+  .author-bio p {
+    margin-bottom: 1.5rem;
+  }
+
+  /* ---------- Kontakt ---------- */
+  .author-contact {
+    padding-top: 2rem;
+    border-top: 1px dashed var(--border);
+  }
+
+  .author-contact h3 {
+    font-family: var(--font-sans);
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-muted);
+    margin: 0 0 1.25rem;
+  }
+
+  .contact-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.9rem;
+  }
+
+  .contact-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.55rem;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 0.55rem 1.1rem;
+    font-size: 0.88rem;
+    border-radius: 3px;
+    text-decoration: none;
+    transition: border-color 0.15s ease, color 0.15s ease;
+  }
+
+  .contact-link:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  /* ---------- Responzivita ---------- */
+  @media (max-width: 560px) {
+    .author-header {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 1.25rem;
+    }
+  }
+</style>

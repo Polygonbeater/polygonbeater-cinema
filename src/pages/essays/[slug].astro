@@ -1,0 +1,267 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const essays = await getCollection('essays');
+
+  const slugs = Array.from(
+    new Set(essays.map(e => e.id.replace(/^.*[\\/]/, '').replace(/\.md$/, '')))
+  );
+
+  return slugs.map(slug => {
+    const czEntry = essays.find(e => e.id.includes(`cz/${slug}`) || e.id === `cz/${slug}.md`);
+    const enEntry = essays.find(e => e.id.includes(`en/${slug}`) || e.id === `en/${slug}.md`);
+
+    return {
+      params: { slug },
+      props: { slug, czEntry, enEntry },
+    };
+  });
+}
+
+const { slug, czEntry, enEntry } = Astro.props;
+
+const { Content: CzContent } = czEntry ? await render(czEntry) : { Content: null };
+const { Content: EnContent } = enEntry ? await render(enEntry) : { Content: null };
+
+const czTitle = czEntry?.data.title || "Esej";
+const enTitle = enEntry?.data.title || czTitle;
+const posterPath = `/images/${slug}.webp`;
+---
+
+<Layout title={`${czTitle} — Polygon Beater Cinema`}>
+  <article class="essay-detail wrap">
+    <header class="essay-header">
+      <a href="/" class="back-link">
+        ← <span lang="cs">Zpět na úvod</span><span lang="en">Back to home</span>
+      </a>
+
+      <div class="essay-title-block">
+        {czEntry?.data.title && <h1 lang="cs">{czEntry.data.title}</h1>}
+        {enEntry?.data.title && <h1 lang="en">{enEntry.data.title}</h1>}
+      </div>
+    </header>
+
+    {CzContent ? (
+      <div class="essay-wrapper" lang="cs">
+        <div class="essay-poster-block">
+          <img src={posterPath} alt={czTitle} width="280" height="420" loading="eager" />
+          <div class="poster-caption">Studijní materiál</div>
+        </div>
+        <div class="essay-body">
+          <CzContent />
+        </div>
+      </div>
+    ) : (
+      <p lang="cs" style="color: #97979d;">Česká verze eseje nebyla nalezena.</p>
+    )}
+
+    {EnContent ? (
+      <div class="essay-wrapper" lang="en">
+        <div class="essay-poster-block">
+          <img src={posterPath} alt={czTitle} width="280" height="420" loading="eager" />
+          <div class="poster-caption">Educational material</div>
+        </div>
+        <div class="essay-body">
+          <EnContent />
+        </div>
+      </div>
+    ) : (
+      <p lang="en" style="color: #97979d;">English version not found.</p>
+    )}
+
+    <!-- AUTOR ČLÁNKU -->
+    <div class="essay-author-box">
+      <div class="author-avatar-sm" aria-hidden="true">VK</div>
+      <div class="author-byline-text">
+        <p class="author-byline-label" lang="cs">Autor</p>
+        <p class="author-byline-label" lang="en">Author</p>
+        <a href="/author" class="author-byline-name">Vítězslav Koneval</a>
+      </div>
+    </div>
+
+    <!-- SOCIÁLNÍ SDÍLENÍ S JAZYKOVOU DETEKCÍ -->
+    <footer class="essay-share-box">
+      <p lang="cs">Líbil se vám text? Sdílejte esej:</p>
+      <p lang="en">Enjoyed the text? Share this essay:</p>
+      
+      <div class="share-buttons">
+        <a id="shareTwitter" href="#" target="_blank" rel="noopener noreferrer" class="share-btn">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+          <span>X / Twitter</span>
+        </a>
+        
+        <a id="shareFacebook" href="#" target="_blank" rel="noopener noreferrer" class="share-btn">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+          <span>Facebook</span>
+        </a>
+
+        <button type="button" class="share-btn" id="copyBtn">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg>
+          <span lang="cs">Kopírovat odkaz</span>
+          <span lang="en">Copy Link</span>
+        </button>
+      </div>
+    </footer>
+  </article>
+</Layout>
+
+<script define:vars={{ czTitle, enTitle }}>
+  const currentUrl = window.location.href;
+  const currentLang = document.documentElement.getAttribute('data-lang') || 'cs';
+  const activeTitle = currentLang === 'en' ? enTitle : czTitle;
+
+  const shareTwitter = document.getElementById('shareTwitter');
+  if (shareTwitter) {
+    const shareText = currentLang === 'en' 
+      ? `"${activeTitle}" — film essay on Polygon Beater Cinema`
+      : `"${activeTitle}" — filmová esej na Polygon Beater Cinema`;
+    
+    shareTwitter.href = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(currentUrl)}`;
+  }
+
+  const shareFacebook = document.getElementById('shareFacebook');
+  if (shareFacebook) {
+    shareFacebook.href = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(currentUrl)}`;
+  }
+
+  const copyBtn = document.getElementById('copyBtn');
+  if (copyBtn) {
+    copyBtn.addEventListener('click', () => {
+      navigator.clipboard.writeText(currentUrl);
+      const originalText = copyBtn.innerHTML;
+      copyBtn.innerHTML = '<span lang="cs">Zkopírováno!</span><span lang="en">Copied!</span>';
+      setTimeout(() => { copyBtn.innerHTML = originalText; }, 2000);
+    });
+  }
+</script>
+
+<style>
+  .essay-detail { padding: 4rem 0 6rem; max-width: 760px; }
+  .back-link { display: inline-block; color: var(--text-muted); text-decoration: none; font-size: 0.9rem; margin-bottom: 2.5rem; transition: color 0.15s ease; }
+  .back-link:hover { color: var(--accent); }
+  
+  .essay-title-block { text-align: center; margin-bottom: 3rem; border-bottom: 1px solid var(--border); padding-bottom: 2.5rem; }
+  .essay-header h1 { font-family: var(--font-serif); font-weight: 400; font-size: clamp(2.2rem, 4vw, 3rem); line-height: 1.15; margin: 0; color: var(--text); }
+
+  /* Layout eseje: obrázek se vznáší (float) vlevo, takže s ním obtéká jen
+     úvod textu. Jakmile dojde na první nadpis (h2/h3), text se "clear"-ne
+     pod obrázek a pokračuje na celou šířku — klasický časopisecký styl. */
+  .essay-wrapper {
+    margin-bottom: 3rem;
+  }
+  /* clearfix, aby se .essay-wrapper nezhroutil na výšku 0 kvůli floatu */
+  .essay-wrapper::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .essay-poster-block {
+    float: left;
+    width: 230px;
+    margin: 0 2.2rem 1.5rem 0;
+  }
+  .essay-poster-block img {
+    width: 100% !important;
+    max-width: none !important;
+    height: auto;
+    aspect-ratio: 2 / 3;
+    object-fit: cover;
+    display: block;
+    border-radius: 4px;
+    border: 1px solid var(--border);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    margin: 0 !important;
+  }
+  .poster-caption {
+    font-size: 0.7rem;
+    color: var(--text-muted);
+    text-align: center;
+    margin-top: 0.4rem;
+    letter-spacing: 0.03em;
+    font-style: italic;
+  }
+
+  .essay-body { 
+    font-size: 1.08rem; 
+    line-height: 1.8; 
+    color: #dedede; 
+  }
+
+  /* Ať začíná obsah čímkoli (h2, h3, p...), vždy bez horní mezery,
+     takže první řádek textu vizuálně sedí na horní hraně obrázku
+     (float zarovnává horní hranu obrázku s horní hranou první řádky textu). */
+  .essay-body > *:first-child {
+    margin-top: 0;
+  }
+
+  /* Jakmile přijde nadpis, "vyskočí" pod obrázek a jede přes celou šířku. */
+  .essay-body h2 { font-family: var(--font-serif); color: var(--text); margin-top: 3rem; margin-bottom: 1rem; font-weight: 400; clear: both; }
+  .essay-body h3 { font-family: var(--font-serif); color: var(--text); margin-top: 2.5rem; margin-bottom: 1rem; font-weight: 400; clear: both; }
+  .essay-body p { margin-bottom: 1.5rem; }
+  .essay-body img { border-radius: 4px; margin: 2.5rem auto; border: 1px solid var(--border); width: 100%; display: block; clear: both; }
+
+  /* ---------- Autor pod článkem ---------- */
+  .essay-author-box {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 3.5rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--border);
+  }
+
+  .author-avatar-sm {
+    flex: 0 0 auto;
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    border: 1px solid var(--border);
+    background: var(--bg-elevated);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--font-serif);
+    font-size: 0.95rem;
+    color: var(--accent);
+  }
+
+  .author-byline-label {
+    margin: 0 0 0.15rem;
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--text-muted);
+  }
+
+  .author-byline-name {
+    display: inline-block;
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--text);
+    text-decoration: none;
+    letter-spacing: 0.02em;
+    transition: color 0.15s ease;
+  }
+
+  .author-byline-name:hover {
+    color: var(--accent);
+  }
+
+  .essay-share-box { margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border); display: flex; flex-direction: column; gap: 1rem; }
+  .essay-share-box p { margin: 0; font-size: 0.95rem; color: var(--text-muted); }
+  .share-buttons { display: flex; gap: 1rem; flex-wrap: wrap; }
+  .share-btn { display: inline-flex; align-items: center; gap: 0.5rem; background: var(--bg-elevated); border: 1px solid var(--border); color: var(--text); padding: 0.5rem 1.1rem; font-size: 0.85rem; border-radius: 3px; text-decoration: none; cursor: pointer; transition: border-color 0.15s ease, color 0.15s ease; font-family: inherit; }
+  .share-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+  @media (max-width: 640px) {
+    .essay-poster-block {
+      float: none;
+      width: 100%;
+      max-width: 240px;
+      margin: 0 auto 2rem auto;
+    }
+  }
+</style>

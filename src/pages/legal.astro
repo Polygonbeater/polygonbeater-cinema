@@ -1,0 +1,93 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Právní informace / Legal Info — Polygon Beater Cinema">
+  <div class="legal-page wrap">
+    <header class="legal-header">
+      <a href="/" class="back-link">
+        ← <span lang="cs">Zpět na úvod</span><span lang="en">Back to home</span>
+      </a>
+      <h1 lang="cs">Právní informace & Ochrana soukromí</h1>
+      <h1 lang="en">Legal Information & Privacy Policy</h1>
+    </header>
+
+    <div class="legal-content">
+      <!-- ČESKÁ VERZE -->
+      <div lang="cs">
+        <h2>1. Správce údajů</h2>
+        <p>Správcem osobních údajů a autorem webu Polygon Beater Cinema je <strong>Vítězslav Koneval</strong> (Orlová, Česká republika). V případě jakýchkoliv dotazů ohledně zpracování dat mě můžete kontaktovat na e-mailu: <a href="mailto:info@polygonbeater.eu">info@polygonbeater.eu</a>.</p>
+
+        <h2>2. Lokální úložiště a Cookies (Technická data)</h2>
+        <p>Tento web nevyužívá žádné sledovací, analytické ani marketingové cookies třetích stran. Používáme výhradně nezbytně nutné lokální úložiště (<code>localStorage</code>) vašeho prohlížeče k zajištění základní funkčnosti webu:</p>
+        <ul>
+          <li><strong>pbc-lang:</strong> Slouží k zapamatování vámi preferovaného jazyka (čeština/angličtina), abyste jej nemuseli přepínat při každé návštěvě.</li>
+          <li><strong>pbc-consent:</strong> Slouží k uložení informace, že jste vzali na vědomí technickou informační lištu, aby se vám již znovu nezobrazovala.</li>
+        </ul>
+        <p>Tato data nikdy neopouštějí váš prohlížeč a nejsou odesílána na žádný server.</p>
+
+        <h2>3. Odběr newsletteru (E-maily)</h2>
+        <p>Pokud se rozhodnete přihlásit k odběru novinek (newsletteru), budeme zpracovávat vámi poskytnutou e-mailovou adresu. Účelem tohoto zpracování je výhradně zasílání upozornění na nové filmové eseje, analýzy a autorské texty.</p>
+        <p>Právním základem pro zpracování je váš dobrovolný souhlas, který vyjadřujete odesláním formuláře. Odběr můžete <strong>kdykoliv zrušit</strong> kliknutím na odkaz pro odhlášení, který je součástí každého e-mailu, nebo žádostí na <a href="mailto:info@polygonbeater.eu">info@polygonbeater.eu</a>. Po odhlášení bude vaše e-mailová adresa neprodleně smazána.</p>
+
+        <h2>4. Práva uživatele (GDPR)</h2>
+        <p>Podle nařízení GDPR máte právo:</p>
+        <ul>
+          <li>Požadovat informaci, jaké vaše osobní údaje zpracovávám,</li>
+          <li>Požadovat přístup k těmto údajům a nechat je aktualizovat nebo opravit,</li>
+          <li>Požadovat výmaz těchto osobních údajů,</li>
+          <li>Podat stížnost u Úřadu pro ochranu osobních údajů (ÚOOÚ), pokud se domníváte, že zpracování probíhá v rozporu s právem.</li>
+        </ul>
+
+        <h2>5. Autorská práva</h2>
+        <p>Veškeré texty, filmové eseje, analýzy, grafika a struktura tohoto webu jsou autorským dílem. Kopírování, šíření nebo jiné využití obsahu bez předchozího písemného souhlasu autora je přísně zakázáno a chráněno autorským zákonem.</p>
+      </div>
+
+      <!-- ANGLICKÁ VERZE -->
+      <div lang="en">
+        <h2>1. Data Controller</h2>
+        <p>The data controller and author of the Polygon Beater Cinema website is <strong>Vítězslav Koneval</strong> (Orlová, Czech Republic). If you have any questions regarding data processing, you can contact me at: <a href="mailto:info@polygonbeater.eu">info@polygonbeater.eu</a>.</p>
+
+        <h2>2. Local Storage & Cookies (Technical Data)</h2>
+        <p>This website does not use any third-party tracking, analytical, or marketing cookies. We strictly use your browser's essential local storage (<code>localStorage</code>) to ensure basic website functionality:</p>
+        <ul>
+          <li><strong>pbc-lang:</strong> Used to remember your preferred language (Czech/English) so you don't have to switch it on every visit.</li>
+          <li><strong>pbc-consent:</strong> Used to store your acknowledgment of the technical information banner so it does not reappear.</li>
+        </ul>
+        <p>This data never leaves your browser and is not sent to any server.</p>
+
+        <h2>3. Newsletter Subscription (Emails)</h2>
+        <p>If you choose to subscribe to our newsletter, we will process the email address you provide. The sole purpose of this processing is to send you notifications about new film essays, analyses, and texts.</p>
+        <p>The legal basis for this processing is your voluntary consent, expressed by submitting the form. You can <strong>unsubscribe at any time</strong> by clicking the unsubscribe link included in every email or by contacting <a href="mailto:info@polygonbeater.eu">info@polygonbeater.eu</a>. Upon unsubscription, your email address will be deleted immediately.</p>
+
+        <h2>4. User Rights (GDPR)</h2>
+        <p>Under the GDPR, you have the right to:</p>
+        <ul>
+          <li>Request information about what personal data I process,</li>
+          <li>Request access to this data and have it updated or corrected,</li>
+          <li>Request the erasure of this personal data,</li>
+          <li>Lodge a complaint with the supervisory authority if you believe the processing violates the law.</li>
+        </ul>
+
+        <h2>5. Copyright</h2>
+        <p>All texts, film essays, analyses, graphics, and the structure of this website are original works. Copying, distributing, or otherwise using the content without the author's prior written consent is strictly prohibited and protected by copyright law.</p>
+      </div>
+    </div>
+  </div>
+</Layout>
+
+<style>
+  .legal-page { padding: 4rem 0 6rem; max-width: 760px; }
+  .back-link { display: inline-block; color: var(--text-muted); text-decoration: none; font-size: 0.9rem; margin-bottom: 2rem; transition: color 0.15s ease; }
+  .back-link:hover { color: var(--accent); }
+  .legal-header { border-bottom: 1px solid var(--border); padding-bottom: 2.5rem; margin-bottom: 3rem; }
+  .legal-header h1 { font-family: var(--font-serif); font-weight: 400; font-size: clamp(1.8rem, 3vw, 2.4rem); margin: 0; color: var(--text); }
+  .legal-content { font-size: 1.05rem; line-height: 1.7; color: #dedede; }
+  .legal-content h2 { font-family: var(--font-serif); color: var(--accent); margin-top: 3rem; margin-bottom: 1rem; font-weight: 400; font-size: 1.4rem; }
+  .legal-content p { margin-bottom: 1.2rem; }
+  .legal-content ul { margin-bottom: 2rem; padding-left: 1.5rem; }
+  .legal-content li { margin-bottom: 0.5rem; }
+  .legal-content a { color: var(--text); text-decoration: underline; text-decoration-color: var(--accent); transition: color 0.15s ease; }
+  .legal-content a:hover { color: var(--accent); }
+  .legal-content code { background: var(--bg-elevated); padding: 0.2rem 0.4rem; border-radius: 3px; font-family: monospace; font-size: 0.9em; color: var(--accent); }
+</style>
