@@ -1,3 +1,4 @@
+cat << 'END_MARKER' > src/content/essays/en/a-page-of-madness.md
 ---
 title: "A Page of Madness (Kurutta Ippêji, 1926)"
 date: 2026-09-02
@@ -18,3 +19,4 @@ This is not a film to be simply watched; it is a film to be deciphered visually.
 [^en2]: Gerow, Aaron. *A Page of Madness: Cinema and Modernity in 1920s Japan*. Center for Japanese Studies, University of Michigan, 2008, pp. 12–14.
 [^en3]: Ibid., pp. 42–43.
 [^en4]: Richie, Donald. *A Hundred Years of Japanese Film*, p. 93.
+END_MARKER

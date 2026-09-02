@@ -121,36 +121,6 @@ const posterAbsolute = new URL(activePoster, siteUrl).href;
   </article>
 </Layout>
 
-<script is:inline>
-  // Odchytávání kliknutí na poznámky pod čarou v rámci aktivního jazyka
-  document.addEventListener('click', (e) => {
-    const link = e.target.closest('a[href^="#"]');
-    if (!link) return;
-
-    const href = link.getAttribute('href');
-    if (!href || href === '#') return;
-
-    const targetId = href.substring(1);
-    const activeWrapper = link.closest('.essay-wrapper');
-    if (!activeWrapper) return;
-
-    // Vyhledáme cíl výhradně uvnitř bloku aktivního jazyka
-    const targetElement = activeWrapper.querySelector(`[id="${targetId}"]`);
-    if (targetElement) {
-      e.preventDefault();
-      targetElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
-
-      // Krátké zvýraznění cílové poznámky / odkazu
-      const originalBg = targetElement.style.backgroundColor;
-      targetElement.style.transition = 'background-color 0.3s ease';
-      targetElement.style.backgroundColor = 'rgba(212, 175, 55, 0.25)';
-      setTimeout(() => {
-        targetElement.style.backgroundColor = originalBg;
-      }, 1500);
-    }
-  });
-</script>
-
 <script define:vars={{ czTitle, enTitle }}>
   const currentUrl = window.location.href;
   const currentLang = document.documentElement.getAttribute('data-lang') || 'cs';
@@ -257,7 +227,6 @@ const posterAbsolute = new URL(activePoster, siteUrl).href;
   .essay-body p { margin-bottom: 1.5rem; }
   .essay-body img { border-radius: 4px; margin: 2.5rem auto; border: 1px solid var(--border); width: 100%; display: block; clear: both; }
 
-  /* Stylování poznámek pod čarou vygenerovaných Remarkem */
   .essay-body section[data-footnotes] {
     margin-top: 3.5rem;
     padding-top: 1.5rem;
@@ -271,8 +240,6 @@ const posterAbsolute = new URL(activePoster, siteUrl).href;
   }
   .essay-body section[data-footnotes] li {
     margin-bottom: 0.6rem;
-    border-radius: 3px;
-    padding: 2px 4px;
   }
 
   .essay-author-box {
