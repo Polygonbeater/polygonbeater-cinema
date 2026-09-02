@@ -235,9 +235,9 @@ const jsonLd = {
 
     <script>
       const root = document.documentElement;
-      const buttons = document.querySelectorAll<HTMLButtonElement>("[data-set-lang]");
+      const buttons = document.querySelectorAll("[data-set-lang]");
 
-      function applyLang(lang: string) {
+      function applyLang(lang) {
         root.setAttribute("data-lang", lang);
         root.setAttribute("lang", lang);
         buttons.forEach((btn) => {
@@ -298,14 +298,14 @@ const jsonLd = {
       if (nlForm && nlResult && nlBtn) {
         nlForm.addEventListener('submit', function(e) {
           e.preventDefault();
-          const formData = new FormData(nlForm as HTMLFormElement);
+          const formData = new FormData(nlForm);
           const object = Object.fromEntries(formData);
           const json = JSON.stringify(object);
           const activeLang = root.getAttribute('data-lang') || 'cs';
 
           nlResult.innerHTML = activeLang === 'cs' ? "Zpracovávám..." : "Processing...";
           nlResult.style.color = "var(--text-muted)";
-          (nlBtn as HTMLButtonElement).disabled = true;
+          nlBtn.disabled = true;
 
           fetch('https://api.web3forms.com/submit', {
             method: 'POST',
@@ -320,7 +320,7 @@ const jsonLd = {
             if (response.status == 200) {
               nlResult.innerHTML = activeLang === 'cs' ? "Úspěšně přihlášeno k odběru ✓" : "Successfully subscribed ✓";
               nlResult.style.color = "#4CAF50";
-              (nlForm as HTMLFormElement).reset();
+              nlForm.reset();
             } else {
               nlResult.innerHTML = jsonResponse.message || "Error.";
               nlResult.style.color = "var(--red-500)";
@@ -331,7 +331,7 @@ const jsonLd = {
             nlResult.style.color = "var(--red-500)";
           })
           .finally(() => {
-            (nlBtn as HTMLButtonElement).disabled = false;
+            nlBtn.disabled = false;
           });
         });
       }
