@@ -27,7 +27,6 @@ const activeImage = (image && image.trim() !== '') ? image : "/Polygon_Beater_Ci
 const resolvedImage = activeImage.startsWith('http') ? activeImage : (activeImage.startsWith('/') ? activeImage : '/' + activeImage);
 const imageUrl = new URL(resolvedImage, siteUrl).toString();
 
-// Generování JSON-LD strukturovaných dat pro vyhledávače (opraveno pro validitu Schema.org dle typu)
 const jsonLd = type === "article" ? {
   "@context": "https://schema.org",
   "@type": "Article",
@@ -67,6 +66,9 @@ const jsonLd = type === "article" ? {
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title}</title>
+    <style>
+      html, body { background-color: #0a0a0b; color: #ededec; }
+    </style>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalURL.toString()} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
