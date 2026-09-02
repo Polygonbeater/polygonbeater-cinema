@@ -1,4 +1,3 @@
-cat << 'END_MARKER' > 'src/pages/essays/[slug].astro'
 ---
 import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
@@ -303,4 +302,3 @@ const posterAbsolute = new URL(activePoster, siteUrl).href;
     }
   }
 </style>
-END_MARKER
