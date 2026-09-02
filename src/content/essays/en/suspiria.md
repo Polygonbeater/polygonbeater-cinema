@@ -2,6 +2,7 @@
 title: "Two Faces of Darkness: Suspiria as an Aesthetic Trap and Historical Decay"
 date: "2026-09-05"
 description: "An essayistic comparative study of the two versions of Suspiria (1977 and 2018) by Dario Argento and Luca Guadagnino."
+image: "/images/essays/suspiria.webp"
 ---
 
 Most remakes lazily copy the original. The encounter between Dario Argento’s 1977 film and Luca Guadagnino’s 2018 reinterpretation is a rare exception. Both auteurs took the exact same premise—a young American at a German ballet academy run by witches—and forged two completely different worlds.

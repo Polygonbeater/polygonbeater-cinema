@@ -2,6 +2,7 @@
 title: "A Labyrinth of Senses and Shadows: The Crisis of Knowledge in Argento's The Cat o' Nine Tails (1971)"
 date: "2026-09-03"
 description: "An essayistic inquiry into Dario Argento's The Cat o' Nine Tails (1971) exploring the philosophy of perception, the limits of knowledge, and paranoia."
+image: "/images/essays/kocka-o-deviti-ocasech.webp"
 ---
 
 Sight is a deception. The visual world, particularly within the confines of the Italian giallo, functions as a labyrinth of mirrors where truth is distorted by colors, angles, and shadows. When Dario Argento unveiled his second feature film, The Cat o' Nine Tails (Il gatto a nove code) in 1971, he chose to radically deconstruct this optical myth. In a cinematic genre defined by an obsession with the gaze, the photographic image, and observation, he places a man deprived of sight at the very epicenter of the narrative. Former journalist and crossword-puzzle writer Franco Arnò (Karl Malden) functions here as a blind investigator whose ability to uncover the truth is grounded in an entirely different regime of perception, allowing him to reconstruct reality outside the privilege of sight.

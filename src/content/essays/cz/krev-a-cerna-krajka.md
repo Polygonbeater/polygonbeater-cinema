@@ -2,6 +2,7 @@
 title: "Krev a černá krajka: Chromatická anatomie smrti v Bavově mistrovském díle (1964)"
 date: "2026-09-02"
 description: "Esejistická studie nahlížející na Krev a černá krajka (1964) jako na žánrový mezník, studii fetišismu a proměnu vraždy v uměleckou instalaci."
+image: "/images/essays/krev-a-cerna-krajka.webp"
 ---
 
 Když Mario Bava v roce 1964 natočil Krev a černá krajka (Sei donne per l'assassino), neučinil pouze krok stranou od své dřívější gotické černobílé estetiky; provedl radikální krok, který definoval podobu italského gialla a vytvořil jednu z nejdůležitějších vizuálních a strukturálních předloh pro pozdější americký slasher. Bava vzal základy tradiční detektivky a kompletně je podřídil tyranii formy. Ve filmu, kde se svět vysoké módy prolíná s chladnokrevnou destrukcí, se sytá chromatická paleta a lidská krev stávají rovnocennými médii.

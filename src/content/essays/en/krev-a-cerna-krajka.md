@@ -2,6 +2,7 @@
 title: "Blood and Black Lace: The Chromatic Anatomy of Death in Bava's Masterpiece (1964)"
 date: "2026-09-02"
 description: "An essayistic inquiry approaching Blood and Black Lace (1964) as a genre landmark, a study of fetishism, and the transformation of murder into an art installation."
+image: "/images/essays/krev-a-cerna-krajka.webp"
 ---
 
 When Mario Bava directed Blood and Black Lace (Sei donne per l'assassino) in 1964, he did not merely step away from his earlier Gothic black-and-white aesthetic; he executed a decisive shift that defined the shape of Italian giallo and helped establish a visual and structural template that would later inform the American slasher. Bava took the conventions of the traditional whodunit and completely subordinated them to the tyranny of form. In a film where the world of high fashion intertwines with cold-blooded destruction, a saturated chromatic palette and human blood become equivalent media.

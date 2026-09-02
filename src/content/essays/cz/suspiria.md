@@ -2,6 +2,7 @@
 title: "Dvě tváře tmy: Suspiria jako estetická past i historická hniloba"
 date: "2026-09-05"
 description: "Esejistická srovnávací studie dvou verzí filmu Suspiria (1977 a 2018) od Daria Argenta a Lucy Guadagnina."
+image: "/images/essays/suspiria.webp"
 ---
 
 Většina remaků originál jen líně kopíruje. Setkání Daria Argenta (1977) a Lucy Guadagnina (2018) je ale vzácnou výjimkou. Oba tvůrci vzali stejnou výchozí premisu – mladou Američanku v německé baletní akademii ovládané čarodějnicemi – a vytvořili z ní dva naprosto odlišné světy.

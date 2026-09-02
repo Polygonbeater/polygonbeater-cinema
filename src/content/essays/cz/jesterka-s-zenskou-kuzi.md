@@ -2,6 +2,7 @@
 title: "Halucinační transgrese: Psychoanalýza a rozklad buržoazie ve Fulciho Ještěrce s ženskou kůží (1971)"
 excerpt: "Lucio Fulci ve svém giallu Ještěrka s ženskou kůží dekonstruuje represivní mechanismy vyšší třídy skrze psychedelickou estetiku a psychologickou manipulaci."
 date: 2026-08-31
+image: "/images/essays/jesterka-s-zenskou-kuzi.webp"
 ---
 
 Lucio Fulci bývá v kontextu italské kinematografie často redukován na tvůrce extrémního gore, ale jeho giallo Ještěrka s ženskou kůží (1971) odhaluje zcela jinou tvář: mistra vizuálního deliria a břitkého společenského kritika. Film záměrně destabilizuje tradiční detektivní narativ, aby se mohl ponořit do psychiky Carol Hammond (Florinda Bolkan), dcery vlivného právníka a politika, provdané za Franka, partnera v právní kanceláři jejího otce. Fulci zde využívá psychedelickou estetiku nikoli jako samoúčelnou vizuální atrakci, ale jako nástroj k dekonstrukci represivních mechanismů vyšší třídy.

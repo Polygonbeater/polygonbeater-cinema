@@ -1,6 +1,7 @@
 ---
 title: "The Beyond (1981)"
 excerpt: "Fulci's apocalyptic vision of horror as ritual — an essay on a space that stops making sense, and a camera that becomes a witness to the collapse of logic itself."
+image: "/images/essays/brana-do-temnot.webp"
 ---
 
 ## Architecture of Absolute Ruin: Rot, Lovecraft, and the Death of Logic in Fulci’s The Beyond (1981)

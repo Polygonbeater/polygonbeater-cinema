@@ -2,6 +2,7 @@
 title: "Slepá skvrna vnímání: Krvavá groteska a zrada vlastních očí v Argentově Profondo Rosso (1975)"
 excerpt: "Dario Argento nenatočil v Profondo Rosso jen obyčejnou detektivku, ale mistrovskou lekci v tom, jak dokonale zradit divákovy vlastní oči pomocí syntezátorů a klamné paměti."
 date: 2026-08-31
+image: "/images/essays/profondo-rosso.webp"
 ---
 
 Dario Argento nenatočil v Profondo Rosso (1975) jen prachobyčejnou detektivku, kde se v poslední minutě ukáže, že vraždil zhrzený zahradník. Natočil mistrovskou lekci v tom, jak dokonale zradit divákovy vlastní oči. Kde běžné kriminálky hledají pachatele s lupou v ruce, Argento zhasne světla, pustí vám do uší ječivé syntezátory a nechá vás zírat přímo na vraha, aniž byste vůbec tušili, na co se vlastně díváte. Film je brilantním, mírně cynickým vtipem na účet naší vlastní pozornosti – a krví se v něm rozhodně nešetří.

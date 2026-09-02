@@ -2,6 +2,7 @@
 title: "The Blind Spot of Perception: A Bloody Grotesque and the Betrayal of Our Own Eyes in Argento's Deep Red (1975)"
 excerpt: "Dario Argento didn’t just direct a run-of-the-mill whodunit in Deep Red, but delivered a masterclass in how to perfectly betray the viewer's own eyes."
 date: 2026-08-31
+image: "/images/essays/profondo-rosso.webp"
 ---
 
 Dario Argento didn’t just direct a run-of-the-mill whodunit in Deep Red (Profondo Rosso, 1975) where a jilted gardener turns out to be the killer in the final minute. He delivered a masterclass in how to perfectly betray the viewer's own eyes. Where standard crime thrillers search for the culprit with a magnifying glass, Argento turns off the lights, blasts screaming synthesizers into your ears, and lets you stare directly at the killer without you having the faintest idea what you're actually looking at. The film is a brilliant, slightly cynical joke at the expense of our own attention span—and it certainly doesn't skimp on the blood.

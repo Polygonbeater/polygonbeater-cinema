@@ -1,6 +1,7 @@
 ---
 title: "Brána do temnot"
 excerpt: "Fulciho apokalyptická vize hororu jako obřadu — esej o prostoru, který přestává dávat smysl, a o kameře, jež se stává svědkem rozkladu logiky samotné."
+image: "/images/essays/brana-do-temnot.webp"
 ---
 
 ## Architektura absolutního zmaru: Hniloba, Lovecraft a smrt logiky ve Fulciho Bráně do temnot (1981)

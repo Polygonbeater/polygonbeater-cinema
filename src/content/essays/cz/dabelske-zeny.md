@@ -2,6 +2,7 @@
 title: "Anatomie viny a past vlastní lži: Pohled do hlubin filmu Ďábelské ženy (1955)"
 date: "2026-09-04"
 description: "Esejistická studie o filmu Ďábelské ženy (1955) Henriho-Georga Clouzota, zkoumající lidskou vinu, paranoiu a psychologickou past."
+image: "/images/essays/dabelske-zeny.webp"
 ---
 
 Francouzský filmový klenot Ďábelské ženy (ve francouzském originále Les Diaboliques, 1955) režiséra Henriho-Georga Clouzota představuje jeden z pilířů moderního psychologického hororu. Na rozdíl od snímků pracujících s vnějšími monstry či nadpřirozenými silami zde teror pramení zevnitř – z lidské viny, paranoie a dokonale konstruované sítě lží. Film je mrazivou studií o tom, jak se přesvědčení o spáchaném zločinu může proměnit v psychologické peklo a past na lidskou mysl.

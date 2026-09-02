@@ -2,6 +2,7 @@
 title: "Labyrint smyslů a stínů: Krize poznání v Argentově Kočce o devíti ocasech (1971)"
 date: "2026-09-03"
 description: "Esejistická studie nahlížející na film Kočka o devíti ocasech (1971) Daria Argenta jako na filozofickou esej o krizi poznání a limitech lidské percepce."
+image: "/images/essays/kocka-o-deviti-ocasech.webp"
 ---
 
 Zrak je klam. Vizuální svět, obzvláště v rámci italského gialla, funguje jako labyrint zrcadel, v němž je pravda pokřivena barvami, úhly a stíny. Když Dario Argento v roce 1971 představil svůj druhý celovečerní film, Kočku o devíti ocasech (Il gatto a nove code), rozhodl se tento optický mýtus radikálně dekonstruovat. Ve filmu, který je definován posedlostí viděním, fotografickým obrazem a pozorováním, staví do centra dění muže, jenž byl zraku zbaven. Bývalý novinář a tvůrce křížovek Franco Arnò (Karl Malden) zde funguje jako slepý vyšetřovatel, jehož schopnost odhalovat pravdu je založena na zcela odlišném režimu vnímání, který mu umožňuje rekonstruovat skutečnost nezávisle na privilegiu zraku.

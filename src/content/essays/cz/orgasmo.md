@@ -2,6 +2,7 @@
 title: "Zlatá klec paranoie: Eros a psychologická destrukce v Lenziho snímku Orgasmo (1969)"
 date: "2026-09-01"
 description: "Esejistická analýza filmu Orgasmo (1969) Umberta Lenziho, zkoumající psychologickou manipulaci, eros a architekturu izolace."
+image: "/images/essays/orgasmo.webp"
 ---
 
 Zatímco klasické italské giallo zpravidla podřizuje svou strukturu detektivnímu pátrání a choreografii smrti, Umberto Lenzi ve svém stěžejním díle Orgasmo (1969) tuto formuli radikálně proměňuje a přesouvá těžiště od hledání vraha k psychologické manipulaci. Ve spolupráci s Carroll Baker – která se v následujících letech stala jednou z nejvýraznějších tváří italského erotického gialla – stvořil dílo, v němž hlavním zdrojem teroru není nůž v černé rukavici, nýbrž intimita sama. Snímek ohmatává děsivou tenzi mezi sexuálním osvobozením a absolutním podrobením.

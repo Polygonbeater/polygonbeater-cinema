@@ -2,6 +2,7 @@
 title: "Prvotní záblesk: Městský zrak, Hitchcock a zrod gialla v Bavově Dívce, která věděla příliš mnoho (1963)"
 excerpt: "Mario Bava opouští gotické kulisy, aby v černobílém krimi dramatu Dívka, která věděla příliš mnoho položil základy modernímu italskému giallu."
 date: 2026-08-31
+image: "/images/essays/divka-ktera-vedela-prilis-mnoho.webp"
 ---
 
 Mario Bava bývá právem oslavován jako vizuální básník gotického hororu, ale jeho černobílé krimi drama Dívka, která věděla příliš mnoho (1963) představuje mnohem radikálnější zlom. Snímek formálně navazuje na tradici italských laciných románů s žlutou obálkou (gialli), ale v reálném čase zde Bava provádí tvůrčí syntézu, která pomáhá ustavit nový filmový žánr. Bava opouští gotické kulisy, aby svůj cit pro světло, stín a prostor přenesl do prosluněných, avšak hluboce odcizených ulic moderního Říma.
