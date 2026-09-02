@@ -28,13 +28,9 @@ const { Content: EnContent } = enEntry ? await render(enEntry) : { Content: null
 const czTitle = czEntry?.data.title || "Esej";
 const enTitle = enEntry?.data.title || czTitle;
 
-// Cesty k obrázkům pro jednotlivé jazyky
-const czPoster = czEntry?.data.image || `/images/${slug}.webp`;
-const enPoster = enEntry?.data.image || `/images/${slug}-en.webp`;
-
 // Spolehlivé získání popisu a obrázku pro Open Graph s fallbackem
 const activeDescription = czEntry?.data.description || enEntry?.data.description;
-const activePoster = czEntry?.data.image || enEntry?.data.image || czPoster;
+const activePoster = czEntry?.data.image || enEntry?.data.image || `/images/${slug}.webp`;
 
 // Sestavení absolutní URL adresy pro Open Graph (Facebook vyžaduje https://...)
 const siteUrl = "https://cinema.polygonbeater.eu";
@@ -60,28 +56,16 @@ const posterAbsolute = new URL(activePoster, siteUrl).href;
     </header>
 
     {CzContent ? (
-      <div class="essay-wrapper" lang="cs">
-        <div class="essay-poster-block">
-          <img src={czPoster} alt={czTitle} width="280" height="420" loading="eager" />
-          <div class="poster-caption">Studijní materiál</div>
-        </div>
-        <div class="essay-body">
-          <CzContent />
-        </div>
+      <div class="essay-body" lang="cs">
+        <CzContent />
       </div>
     ) : (
       <p lang="cs" style="color: #97979d;">Česká verze eseje nebyla nalezena.</p>
     )}
 
     {EnContent ? (
-      <div class="essay-wrapper" lang="en">
-        <div class="essay-poster-block">
-          <img src={enPoster} alt={enTitle} width="280" height="420" loading="eager" />
-          <div class="poster-caption">Educational material</div>
-        </div>
-        <div class="essay-body">
-          <EnContent />
-        </div>
+      <div class="essay-body" lang="en">
+        <EnContent />
       </div>
     ) : (
       <p lang="en" style="color: #97979d;">English version not found.</p>
@@ -123,15 +107,13 @@ const posterAbsolute = new URL(activePoster, siteUrl).href;
   </article>
 </Layout>
 
-<script define:vars={{ czTitle, enTitle, czPoster, enPoster }}>
+<script define:vars={{ czTitle, enTitle }}>
   const currentUrl = window.location.href;
   const currentLang = document.documentElement.getAttribute('data-lang') || 'cs';
   const activeTitle = currentLang === 'en' ? enTitle : czTitle;
 
-  // Dynamická aktualizace titulku okna dle aktivního jazyka
   document.title = `${activeTitle} — Polygon Beater Cinema`;
 
-  // Synchronizace při kliknutí na přepínač jazyků v hlavičce
   document.querySelectorAll("[data-set-lang]").forEach(btn => {
     btn.addEventListener("click", () => {
       const lang = btn.dataset.setLang;
@@ -181,41 +163,6 @@ const posterAbsolute = new URL(activePoster, siteUrl).href;
   .essay-title-block { text-align: center; margin-bottom: 3rem; border-bottom: 1px solid var(--border); padding-bottom: 2.5rem; }
   .essay-header h1 { font-family: var(--font-serif); font-weight: 400; font-size: clamp(2.2rem, 4vw, 3rem); line-height: 1.15; margin: 0; color: var(--text); }
 
-  .essay-wrapper {
-    margin-bottom: 3rem;
-  }
-  .essay-wrapper::after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-
-  .essay-poster-block {
-    float: left;
-    width: 230px;
-    margin: 0 2.2rem 1.5rem 0;
-  }
-  .essay-poster-block img {
-    width: 100% !important;
-    max-width: none !important;
-    height: auto;
-    aspect-ratio: 2 / 3;
-    object-fit: cover;
-    display: block;
-    border-radius: 4px;
-    border: 1px solid var(--border);
-    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
-    margin: 0 !important;
-  }
-  .poster-caption {
-    font-size: 0.7rem;
-    color: var(--text-muted);
-    text-align: center;
-    margin-top: 0.4rem;
-    letter-spacing: 0.03em;
-    font-style: italic;
-  }
-
   .essay-body { 
     font-size: 1.08rem; 
     line-height: 1.8; 
@@ -226,10 +173,10 @@ const posterAbsolute = new URL(activePoster, siteUrl).href;
     margin-top: 0;
   }
 
-  .essay-body h2 { font-family: var(--font-serif); color: var(--text); margin-top: 3rem; margin-bottom: 1rem; font-weight: 400; clear: both; }
-  .essay-body h3 { font-family: var(--font-serif); color: var(--text); margin-top: 2.5rem; margin-bottom: 1rem; font-weight: 400; clear: both; }
+  .essay-body h2 { font-family: var(--font-serif); color: var(--text); margin-top: 3rem; margin-bottom: 1rem; font-weight: 400; }
+  .essay-body h3 { font-family: var(--font-serif); color: var(--text); margin-top: 2.5rem; margin-bottom: 1rem; font-weight: 400; }
   .essay-body p { margin-bottom: 1.5rem; }
-  .essay-body img { border-radius: 4px; margin: 2.5rem auto; border: 1px solid var(--border); width: 100%; display: block; clear: both; }
+  .essay-body img { border-radius: 4px; margin: 2.5rem auto; border: 1px solid var(--border); width: 100%; display: block; }
 
   .essay-author-box {
     display: flex;
@@ -282,13 +229,4 @@ const posterAbsolute = new URL(activePoster, siteUrl).href;
   .share-buttons { display: flex; gap: 1rem; flex-wrap: wrap; }
   .share-btn { display: inline-flex; align-items: center; gap: 0.5rem; background: var(--bg-elevated); border: 1px solid var(--border); color: var(--text); padding: 0.5rem 1.1rem; font-size: 0.85rem; border-radius: 3px; text-decoration: none; cursor: pointer; transition: border-color 0.15s ease, color 0.15s ease; font-family: inherit; }
   .share-btn:hover { border-color: var(--accent); color: var(--accent); }
-
-  @media (max-width: 640px) {
-    .essay-poster-block {
-      float: none;
-      width: 100%;
-      max-width: 240px;
-      margin: 0 auto 2rem auto;
-    }
-  }
 </style>
