@@ -1,3 +1,4 @@
+cat << 'END_MARKER' > 'src/pages/essays/[slug].astro'
 ---
 import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
@@ -30,7 +31,7 @@ const enTitle = enEntry?.data.title || czTitle;
 
 // Získání obrázku z frontmatteru s fallbackem na standardní cestu
 const czPoster = czEntry?.data.image || `/images/${slug}.webp`;
-const enPoster = enEntry?.data.image || enEntry?.data.image || czPoster;
+const enPoster = enEntry?.data.image || czPoster;
 
 const activeDescription = czEntry?.data.description || enEntry?.data.description;
 const activePoster = czEntry?.data.image || enEntry?.data.image || czPoster;
@@ -122,6 +123,22 @@ const posterAbsolute = new URL(activePoster, siteUrl).href;
 </Layout>
 
 <script define:vars={{ czTitle, enTitle }}>
+  // Oprava duplicitních ID u poznámek pod čarou pro anglický blok
+  const enWrapper = document.querySelector('.essay-wrapper[lang="en"]');
+  if (enWrapper) {
+    enWrapper.querySelectorAll('[id]').forEach(el => {
+      if (el.id.startsWith('fn') || el.id.startsWith('user-content-fn')) {
+        el.id = 'en-' + el.id;
+      }
+    });
+    enWrapper.querySelectorAll('a[href^="#"]').forEach(a => {
+      const href = a.getAttribute('href');
+      if (href && (href.startsWith('#fn') || href.startsWith('#user-content-fn'))) {
+        a.setAttribute('href', '#en-' + href.slice(1));
+      }
+    });
+  }
+
   const currentUrl = window.location.href;
   const currentLang = document.documentElement.getAttribute('data-lang') || 'cs';
   const activeTitle = currentLang === 'en' ? enTitle : czTitle;
@@ -288,3 +305,4 @@ const posterAbsolute = new URL(activePoster, siteUrl).href;
     }
   }
 </style>
+END_MARKER
