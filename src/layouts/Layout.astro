@@ -64,10 +64,10 @@ const jsonLd = type === "article" ? {
 <html lang="cs" data-lang="cs">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <title>{title}</title>
     <style>
-      html, body { background-color: #0a0a0b; color: #ededec; overflow-x: hidden; }
+      html, body { background-color: #0a0a0b; color: #ededec; overflow-x: hidden; width: 100%; }
     </style>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalURL.toString()} />
@@ -114,7 +114,7 @@ const jsonLd = type === "article" ? {
     <header class="site-header">
       <div class="wrap header-inner">
         <div class="logo-group">
-          <!-- Vlastní zlaté logo v křivkách (statické, větší) -->
+          <!-- Vlastní zlaté logo v křivkách -->
           <svg class="static-logo-icon" viewBox="0 0 529.16666 529.16667" width="32" height="32" fill="none" stroke="currentColor" aria-hidden="true">
             <g transform="matrix(0.26458333,0,0,0.26458333,114.1671,19.21975)" style="fill:#c9a24b;fill-opacity:1">
               <g transform="matrix(3.2645089,0,0,3.2645089,-282.76572,-951.67983)" style="fill:#c9a24b;fill-opacity:1">
@@ -375,11 +375,37 @@ const jsonLd = type === "article" ? {
       *, *::before, *::after { box-sizing: border-box; }
       html, body { margin: 0; padding: 0; scroll-behavior: smooth; max-width: 100vw; overflow-x: hidden; }
       [id] { scroll-margin-top: 35vh; }
-      body { background: var(--bg); color: var(--text); font-family: var(--font-sans); line-height: 1.6; }
-      .wrap { max-width: var(--max-width); margin: 0 auto; padding: 0 1.5rem; }
+      body { background: var(--bg); color: var(--text); font-family: var(--font-sans); line-height: 1.6; width: 100%; }
+      
+      main { width: 100%; max-width: 100vw; overflow-x: hidden; }
+
+      /* Ošetření roztahování obsahu na mobilu */
+      p, h1, h2, h3, h4, h5, h6, li, a {
+        overflow-wrap: break-word;
+        word-break: break-word;
+      }
+
+      img, video, iframe, svg, figure {
+        max-width: 100% !important;
+        height: auto !important;
+      }
+
+      pre, code {
+        max-width: 100%;
+        overflow-x: auto;
+        white-space: pre-wrap;
+        word-break: break-all;
+      }
+
+      table {
+        display: block;
+        max-width: 100%;
+        overflow-x: auto;
+      }
+
+      .wrap { max-width: var(--max-width); margin: 0 auto; padding: 0 1.5rem; width: 100%; }
       @media (max-width: 640px) { .wrap { padding: 0 1rem; } }
       a { color: inherit; }
-      img { display: block; max-width: 100%; }
 
       .essay-content h2,
       .essay-content h3,
@@ -394,10 +420,10 @@ const jsonLd = type === "article" ? {
       html[data-lang="en"] [lang="cs"] { display: none; }
       html[data-lang="en"] [lang="en"] { display: revert; }
 
-      .site-header { border-bottom: 1px solid var(--border); position: sticky; top: 0; background: rgba(10, 10, 11, 0.95); backdrop-filter: blur(6px); z-index: 100; }
+      .site-header { border-bottom: 1px solid var(--border); position: sticky; top: 0; background: rgba(10, 10, 11, 0.95); backdrop-filter: blur(6px); z-index: 100; width: 100%; }
       .header-inner { display: flex; align-items: center; justify-content: space-between; padding: 1.1rem 0; position: relative; }
       
-      .logo-group { display: flex; align-items: center; gap: 0.85rem; }
+      .logo-group { display: flex; align-items: center; gap: 0.85rem; max-width: 75%; }
       
       .static-logo-icon {
         color: var(--accent);
@@ -405,7 +431,7 @@ const jsonLd = type === "article" ? {
         display: block;
       }
 
-      .logo { font-size: 1.05rem; letter-spacing: 0.06em; text-transform: uppercase; text-decoration: none; font-weight: 600; transition: opacity 0.15s ease; }
+      .logo { font-size: 1.05rem; letter-spacing: 0.06em; text-transform: uppercase; text-decoration: none; font-weight: 600; transition: opacity 0.15s ease; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
       .logo:hover { opacity: 0.8; }
       .logo-static { cursor: default; }
       .logo-accent { color: var(--accent); font-weight: 300; }
@@ -420,7 +446,7 @@ const jsonLd = type === "article" ? {
       .lang-btn[aria-pressed="true"], .lang-btn:hover { color: var(--accent); }
       .lang-sep { color: var(--border); }
 
-      .menu-toggle { display: none; background: none; border: 1px solid var(--border); border-radius: 4px; color: var(--text); cursor: pointer; padding: 0.4rem; align-items: center; justify-content: center; }
+      .menu-toggle { display: none; background: none; border: 1px solid var(--border); border-radius: 4px; color: var(--text); cursor: pointer; padding: 0.4rem; align-items: center; justify-content: center; flex-shrink: 0; }
       .menu-toggle .icon-close { display: none; }
       .menu-toggle[aria-expanded="true"] .icon-hamburger { display: none; }
       .menu-toggle[aria-expanded="true"] .icon-close { display: block; }
@@ -446,14 +472,14 @@ const jsonLd = type === "article" ? {
         .lang-switch { justify-content: center; width: 100%; }
       }
 
-      .site-footer { border-top: 1px solid var(--border); padding: 2.5rem 0; margin-top: 5rem; }
+      .site-footer { border-top: 1px solid var(--border); padding: 2.5rem 0; margin-top: 5rem; width: 100%; }
       
       .newsletter-section { margin-bottom: 2.5rem; padding-bottom: 2.5rem; border-bottom: 1px dashed var(--border); }
       .newsletter-form p { margin: 0 0 1rem; font-size: 0.95rem; color: var(--text-muted); }
       .newsletter-row { display: flex; gap: 0.5rem; max-width: 420px; }
-      .newsletter-row input { flex: 1; background: var(--bg-elevated); border: 1px solid var(--border); color: var(--text); padding: 0.7rem 1rem; border-radius: 3px; font-family: inherit; font-size: 0.9rem; transition: border-color 0.15s ease; }
+      .newsletter-row input { flex: 1; background: var(--bg-elevated); border: 1px solid var(--border); color: var(--text); padding: 0.7rem 1rem; border-radius: 3px; font-family: inherit; font-size: 0.9rem; transition: border-color 0.15s ease; min-width: 0; }
       .newsletter-row input:focus { outline: none; border-color: var(--accent); }
-      .newsletter-btn { background: var(--accent); color: var(--bg); border: none; padding: 0 1.2rem; font-weight: 600; font-size: 0.85rem; text-transform: uppercase; border-radius: 3px; cursor: pointer; transition: opacity 0.15s ease; letter-spacing: 0.05em; }
+      .newsletter-btn { background: var(--accent); color: var(--bg); border: none; padding: 0 1.2rem; font-weight: 600; font-size: 0.85rem; text-transform: uppercase; border-radius: 3px; cursor: pointer; transition: opacity 0.15s ease; letter-spacing: 0.05em; flex-shrink: 0; }
       .newsletter-btn:hover { opacity: 0.9; }
       .newsletter-btn:disabled { opacity: 0.5; cursor: not-allowed; }
       #newsletter-result { margin-top: 0.75rem; font-size: 0.85rem; font-weight: 500; }
