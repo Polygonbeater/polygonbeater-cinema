@@ -1,6 +1,6 @@
 ---
 title: "A Page of Madness (Kurutta Ippêji, 1926)"
-date: 2026-09-02
+date: "2026-09-02"
 description: "The Lost Shadow of 1926 — an analysis of a radical Japanese cinematic experiment."
 excerpt: "The year is 1971. Aging director Teinosuke Kinugasa searches through an old storehouse on his property and, among dusty boxes, discovers a miracle..."
 image: "/images/a-page-of-madness.webp"

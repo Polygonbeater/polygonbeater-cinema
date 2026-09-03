@@ -1,6 +1,6 @@
 ---
 title: "La maschera del demonio (1960): Krása, která odmítla zemřít"
-date: 2026-09-02
+date: "2026-09-02"
 description: "Návrat místo vzkříšení — analýza ikonického gotického hororu Maria Bavy."
 excerpt: "Existují horory, které děsí tím, co ukazují, a horory, které děsí tím, co odmítají pohřbít. Film Maria Bavy La maschera del demonio patří k té druhé kategorii."
 image: "/images/la-maschera-del-demonio.webp"

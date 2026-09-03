@@ -67,7 +67,11 @@ const latestEssays = essays.slice(0, 12);
         {
           latestEssays.map((essay) => (
             <article class="essay-card">
-              <a href={essay.href} class="essay-poster">
+              <a 
+                href={essay.href} 
+                class="essay-poster"
+                aria-label={`Esej: ${essay.title.cs} / ${essay.title.en}`}
+              >
                 <img
                   src={essay.poster}
                   alt={`${essay.title.cs} / ${essay.title.en}`}
@@ -87,7 +91,11 @@ const latestEssays = essays.slice(0, 12);
                 <p class="essay-excerpt" lang="en">{essay.excerpt.en}</p>
 
                 <div class="essay-action">
-                  <a href={essay.href} class="essay-link">
+                  <a 
+                    href={essay.href} 
+                    class="essay-link"
+                    aria-label={`Číst celé: ${essay.title.cs} / Read full: ${essay.title.en}`}
+                  >
                     <span lang="cs">Číst celé →</span>
                     <span lang="en">Read full →</span>
                   </a>

@@ -1,6 +1,6 @@
 ---
 title: "La maschera del demonio (1960): Beauty That Refused to Die"
-date: 2026-09-02
+date: "2026-09-02"
 description: "Return over resurrection — an analysis of Mario Bava's iconic gothic horror masterpiece."
 excerpt: "There are horror films that frighten through what they show, and horror films that frighten through what they refuse to bury. Mario Bava's La maschera del demonio belongs to the latter category."
 image: "/images/la-maschera-del-demonio.webp"

@@ -1,6 +1,6 @@
 ---
 title: "A Page of Madness (Kurutta Ippêji, 1926)"
-date: 2026-09-02
+date: "2026-09-02"
 description: "Ztracený stín z roku 1926 — analýza radikálního japonského experimentu."
 excerpt: "Píše se rok 1971. Stárnoucí režisér Teinosuke Kinugasa prohledává starý sklad a v zaprášených krabicích objevuje dochovaný originální filmový materiál..."
 image: "/images/a-page-of-madness.webp"
