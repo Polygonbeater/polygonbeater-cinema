@@ -14,7 +14,7 @@ Tato studie argumentuje, že *Faust* funguje jako percepční stroj – jako sys
 
 Pozdní vaimarská kinematografie se vyznačuje tendencí externalizovat společenské, politické a metafyzické napětí do architektury, svícení a prostorové kompozice. Jak ukázali Lotte H. Eisner i Siegfried Kracauer, německý film 20. let opakovaně převáděl abstrakci do materiální podoby, čímž vizuální pole samo neslo ideologickou i psychologickou váhu [3].
 
-*Faust* tuto tendenci vyostřuje a přeměňuje metafyzický boj v optický stav. Murnau z velké části opouští literární interioritu ve prospěch percepční dominance. Význam je regulován skrze suverénní kontrolu rámu, nikoliv skrze dialogy. Divák se ocitá ve světě, kde je morální jednání předkonfigurováno prostorovými a vizuálními omezeními [4].
+*Faust* tuto tendenci vyostřuje a přeměňuje metafyzický boj v optický stav. Murnau z velké části opouští literární interioritu ve prospěch percepční dominance. Význam je regulován skrze suverénní kontrolu rámu, nikoliv skrze dialogy. Divák se ocitá ve světě, kde je morální jednání předkonfigurováno prostorem a vizuálními omezeními [4].
 
 ### II. Prostorová architektura jako ideologický nástroj
 
