@@ -35,8 +35,8 @@ export async function getStaticPaths() {
         slug, 
         czEntry, 
         enEntry, 
-        prevEssay: prevSlug ? { slug: prevSlug, title: prevEssay.data.title } : null,
-        nextEssay: nextSlug ? { slug: nextSlug, title: nextEssay.data.title } : null
+        prevEssay: prevSlug ? { slug: prevSlug, title: prevEssay?.data.title } : null,
+        nextEssay: nextSlug ? { slug: nextSlug, title: nextEssay?.data.title } : null
       },
     };
   });

@@ -260,11 +260,11 @@ const jsonLd = type === "article" ? {
       const root = document.documentElement;
       const buttons = document.querySelectorAll("[data-set-lang]");
 
-      function applyLang(lang) {
+      function applyLang(lang: any) {
         root.setAttribute("data-lang", lang);
         root.setAttribute("lang", lang);
         buttons.forEach((btn) => {
-          const isActive = btn.dataset.setLang === lang;
+          const isActive = (btn as HTMLElement).dataset.setLang === lang;
           btn.setAttribute("aria-pressed", String(isActive));
         });
         try { localStorage.setItem("pbc-lang", lang); } catch (e) {}
@@ -272,14 +272,14 @@ const jsonLd = type === "article" ? {
 
       buttons.forEach((btn) => {
         btn.addEventListener("click", () => {
-          const lang = btn.dataset.setLang;
+          const lang = (btn as HTMLElement).dataset.setLang;
           if (lang) applyLang(lang);
         });
       });
 
       const currentActiveLang = root.getAttribute('data-lang') || 'cs';
       buttons.forEach((btn) => {
-        btn.setAttribute("aria-pressed", String(btn.dataset.setLang === currentActiveLang));
+        btn.setAttribute("aria-pressed", String((btn as HTMLElement).dataset.setLang === currentActiveLang));
       });
 
       const menuToggle = document.getElementById('menuToggle');
@@ -331,14 +331,14 @@ const jsonLd = type === "article" ? {
       if (nlForm && nlResult && nlBtn) {
         nlForm.addEventListener('submit', function(e) {
           e.preventDefault();
-          const formData = new FormData(nlForm);
+          const formData = new FormData(nlForm as HTMLFormElement);
           const object = Object.fromEntries(formData);
           const json = JSON.stringify(object);
           const activeLang = root.getAttribute('data-lang') || 'cs';
 
           nlResult.innerHTML = activeLang === 'cs' ? "Zpracovávám..." : "Processing...";
           nlResult.style.color = "var(--text-muted)";
-          nlBtn.disabled = true;
+          (nlBtn as HTMLButtonElement).disabled = true;
 
           fetch('https://api.web3forms.com/submit', {
             method: 'POST',
@@ -353,7 +353,7 @@ const jsonLd = type === "article" ? {
             if (response.status == 200) {
               nlResult.innerHTML = activeLang === 'cs' ? "Úspěšně přihlášeno k odběru ✓" : "Successfully subscribed ✓";
               nlResult.style.color = "#4CAF50";
-              nlForm.reset();
+              (nlForm as HTMLFormElement).reset();
             } else {
               nlResult.innerHTML = jsonResponse.message || "Error.";
               nlResult.style.color = "var(--red-500)";
@@ -364,7 +364,7 @@ const jsonLd = type === "article" ? {
             nlResult.style.color = "var(--red-500)";
           })
           .finally(() => {
-            nlBtn.disabled = false;
+            (nlBtn as HTMLButtonElement).disabled = false;
           });
         });
       }

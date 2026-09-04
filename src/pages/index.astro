@@ -2,19 +2,31 @@
 import Layout from '../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
 
-const allEssays = await getCollection('essays');
+const allEssays = await getCollection('essays').catch(() => []);
 
 const uniqueSlugs = Array.from(
-  new Set(allEssays.map(e => e.id.replace(/^.*[\\/]/, '').replace(/\.md$/, '')))
+  new Set(
+    allEssays.map(e => {
+      const filename = e.id.replace(/^.*[\\/]/, '').replace(/\.md$/, '');
+      return filename.replace(/^(cz|en)-/, '');
+    })
+  )
 );
 
 const essays = uniqueSlugs.map(slug => {
-  const czEntry = allEssays.find(e => e.id.replace(/\\/g, '/').includes(`cz/${slug}`));
-  const enEntry = allEssays.find(e => e.id.replace(/\\/g, '/').includes(`en/${slug}`));
+  const normalizedId = id => id.replace(/\\/g, '/');
+  const czEntry = allEssays.find(e => {
+    const id = normalizedId(e.id);
+    return id.includes(`cz/cz-${slug}`) || id.endsWith(`cz-${slug}`);
+  });
+  const enEntry = allEssays.find(e => {
+    const id = normalizedId(e.id);
+    return id.includes(`en/en-${slug}`) || id.endsWith(`en-${slug}`);
+  });
   
   return {
     slug: slug,
-    poster: `/images/${slug}.webp`,
+    poster: `/images/essays/${slug}.webp`,
     date: czEntry?.data.date || enEntry?.data.date || '2026-09-02',
     title: { 
       cs: czEntry?.data.title || slug, 
@@ -63,48 +75,55 @@ const latestEssays = essays.slice(0, 12);
       <h2 lang="cs">Nejnovější texty</h2>
       <h2 lang="en">Latest Texts</h2>
 
-      <div class="essay-grid">
-        {
-          latestEssays.map((essay) => (
-            <article class="essay-card">
-              <a 
-                href={essay.href} 
-                class="essay-poster"
-                aria-label={`Esej: ${essay.title.cs} / ${essay.title.en}`}
-              >
-                <img
-                  src={essay.poster}
-                  alt={`${essay.title.cs} / ${essay.title.en}`}
-                  loading="lazy"
-                  width="600"
-                  height="900"
-                />
-              </a>
+      {latestEssays.length > 0 ? (
+        <div class="essay-grid">
+          {
+            latestEssays.map((essay) => (
+              <article class="essay-card">
+                <a 
+                  href={essay.href} 
+                  class="essay-poster"
+                  aria-label={`Esej: ${essay.title.cs} / ${essay.title.en}`}
+                >
+                  <img
+                    src={essay.poster}
+                    alt={`${essay.title.cs} / ${essay.title.en}`}
+                    loading="lazy"
+                    width="600"
+                    height="900"
+                  />
+                </a>
 
-              <div class="essay-content">
-                <h3>
-                  <span lang="cs">{essay.title.cs}</span>
-                  <span lang="en">{essay.title.en}</span>
-                </h3>
+                <div class="essay-content">
+                  <h3>
+                    <span lang="cs">{essay.title.cs}</span>
+                    <span lang="en">{essay.title.en}</span>
+                  </h3>
 
-                <p class="essay-excerpt" lang="cs">{essay.excerpt.cs}</p>
-                <p class="essay-excerpt" lang="en">{essay.excerpt.en}</p>
+                  <p class="essay-excerpt" lang="cs">{essay.excerpt.cs}</p>
+                  <p class="essay-excerpt" lang="en">{essay.excerpt.en}</p>
 
-                <div class="essay-action">
-                  <a 
-                    href={essay.href} 
-                    class="essay-link"
-                    aria-label={`Číst celé: ${essay.title.cs} / Read full: ${essay.title.en}`}
-                  >
-                    <span lang="cs">Číst celé →</span>
-                    <span lang="en">Read full →</span>
-                  </a>
+                  <div class="essay-action">
+                    <a 
+                      href={essay.href} 
+                      class="essay-link"
+                      aria-label={`Číst celé: ${essay.title.cs} / Read full: ${essay.title.en}`}
+                    >
+                      <span lang="cs">Číst celé →</span>
+                      <span lang="en">Read full →</span>
+                    </a>
+                  </div>
                 </div>
-              </div>
-            </article>
-          ))
-        }
-      </div>
+              </article>
+            ))
+          }
+        </div>
+      ) : (
+        <p class="empty-state">
+          <span lang="cs">Žádné texty k zobrazení.</span>
+          <span lang="en">No texts to display.</span>
+        </p>
+      )}
     </div>
   </section>
 </Layout>
@@ -199,4 +218,9 @@ const latestEssays = essays.slice(0, 12);
     transition: border-color 0.15s ease; 
   }
   .essay-link:hover { border-color: var(--accent); }
+
+  .empty-state {
+    color: var(--text-muted);
+    font-style: italic;
+  }
 </style>
