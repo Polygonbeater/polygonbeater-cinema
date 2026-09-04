@@ -3,75 +3,78 @@ import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 
 export async function getStaticPaths() {
-  const getCleanSlug = (entry: { id: string }) => {
+  const allEssays = await getCollection('essays');
+
+  function getCleanSlug(entry: { id: string }) {
     return entry.id
       .replace(/^.*[\\/]/, '')
-      .replace(/\.md$/, '')
+      .replace(/\.(md|mdx)$/, '')
       .replace(/^(cz|en)[_-]/i, '');
-  };
+  }
 
-  const essays = await getCollection('essays');
-  const slugs = Array.from(new Set(essays.map(getCleanSlug)));
+  const uniqueSlugs = Array.from(new Set(allEssays.map(getCleanSlug)));
 
-  return slugs.map(slug => {
-    const czEntry = essays.find(e => {
+  return uniqueSlugs.map(slug => {
+    const czEntry = allEssays.find(e => {
       const isCz = e.id.includes('cz/') || e.id.startsWith('cz-') || e.data?.lang === 'cs' || e.data?.lang === 'cz';
       return isCz && getCleanSlug(e) === slug;
-    }) || essays.find(e => getCleanSlug(e) === slug && !e.id.includes('en/') && !e.id.startsWith('en-'));
+    }) || allEssays.find(e => getCleanSlug(e) === slug && !e.id.includes('en'));
 
-    const enEntry = essays.find(e => {
+    const enEntry = allEssays.find(e => {
       const isEn = e.id.includes('en/') || e.id.startsWith('en-') || e.data?.lang === 'en';
       return isEn && getCleanSlug(e) === slug;
     });
 
-    const currentIndex = slugs.indexOf(slug);
-    const prevSlug = currentIndex < slugs.length - 1 ? slugs[currentIndex + 1] : null;
-    const nextSlug = currentIndex > 0 ? slugs[currentIndex - 1] : null;
-
-    const prevCz = prevSlug ? essays.find(e => getCleanSlug(e) === prevSlug) : null;
-    const nextCz = nextSlug ? essays.find(e => getCleanSlug(e) === nextSlug) : null;
-
     return {
       params: { slug },
-      props: { 
-        slug, 
-        czEntry, 
-        enEntry, 
-        prevEssay: prevSlug ? { slug: prevSlug, title: prevCz?.data?.title || prevSlug } : null,
-        nextEssay: nextSlug ? { slug: nextSlug, title: nextCz?.data?.title || nextSlug } : null
-      },
+      props: { czEntry, enEntry, slug }
     };
   });
 }
 
-const { slug, czEntry, enEntry, prevEssay, nextEssay } = Astro.props;
+const { czEntry, enEntry, slug } = Astro.props;
 
-const { Content: CzContent } = czEntry ? await render(czEntry) : { Content: null };
-const { Content: EnContent } = enEntry ? await render(enEntry) : { Content: null };
+if (!czEntry && !enEntry) {
+  throw new Error(`Esej nebyla nalezena!`);
+}
 
-const czTitle = czEntry?.data?.title || enEntry?.data?.title || "Esej";
-const enTitle = enEntry?.data?.title || czTitle;
+const czRendered = czEntry ? await render(czEntry) : null;
+const enRendered = enEntry ? await render(enEntry) : null;
 
-function parseFilmMeta(entry: any, defaultTitle: string) {
+const CzContent = czRendered?.Content;
+const EnContent = enRendered?.Content;
+
+function parseFilmMeta(entry: any, defaultTitle: string, lang: 'cz' | 'en') {
   const title = entry?.data?.title || defaultTitle || "";
   const body = entry?.body || "";
   const desc = entry?.data?.description || entry?.data?.excerpt || "";
   const sampleText = (desc + " " + body.slice(0, 600)).replace(/\n/g, ' ');
 
-  // Název filmu (před dvojtečkou nebo závorkou)
-  let movieTitle = entry?.data?.movie || entry?.data?.film || "";
-  if (!movieTitle && title) {
-    movieTitle = title.split(':')[0].replace(/\(\d{4}\)/, '').trim();
+  let movieTitle = entry?.data?.film_title || entry?.data?.movie || entry?.data?.film || "";
+
+  if (movieTitle.includes('/')) {
+    const parts = movieTitle.split('/').map((p: string) => p.trim());
+    const firstHasCzChars = /[ěščřžýáíéůúťďň]/i.test(parts[0]);
+    
+    if (lang === 'en') {
+      movieTitle = firstHasCzChars ? (parts[1] || parts[0]) : parts[0];
+    } else {
+      movieTitle = firstHasCzChars ? parts[0] : (parts[1] || parts[0]);
+    }
   }
 
-  // Rok vydání
+  if (!movieTitle && title) {
+    movieTitle = title.split(/\(\d{4}\)/)[0].trim();
+  }
+
+  movieTitle = movieTitle.replace(/\(\d{4}\)/g, '').trim();
+
   let year = entry?.data?.year || "";
   if (!year && title) {
     const match = title.match(/\((\d{4})\)/);
     if (match) year = match[1];
   }
 
-  // Režisér
   let director = entry?.data?.director || entry?.data?.director_name || "";
   if (!director) {
     const czMatch = sampleText.match(/v režii\s+([A-ZÁ-Ž][a-zá-ž]+(?:\s+[A-ZÁ-Ž][a-zá-ž]+){1,2})/i);
@@ -80,65 +83,29 @@ function parseFilmMeta(entry: any, defaultTitle: string) {
     else if (enMatch) director = enMatch[1].trim();
   }
 
-  return { movieTitle, year, director };
+  const words = entry?.body ? entry.body.split(/\s+/).length : 0;
+  const readingTime = Math.max(1, Math.ceil(words / 200));
+
+  return { movieTitle, year, director, readingTime };
 }
 
-const czMeta = parseFilmMeta(czEntry, czTitle);
-const enMeta = parseFilmMeta(enEntry, enTitle);
+const titleCs = czEntry?.data.title || enEntry?.data.title || slug;
+const titleEn = enEntry?.data.title || czEntry?.data.title || slug;
+const poster = czEntry?.data.image || enEntry?.data.image || `/images/${slug}.webp`;
 
-const movieTitle = czMeta.movieTitle || enMeta.movieTitle;
-const year = czMeta.year || enMeta.year;
-const director = czMeta.director || enMeta.director;
-
-const czPoster = czEntry?.data?.image || enEntry?.data?.image || `/images/${slug}.webp`;
-const enPoster = enEntry?.data?.image || czPoster;
-
-const activeDescription = czEntry?.data?.description || enEntry?.data?.description || czEntry?.data?.excerpt;
-const activePoster = czPoster;
+const metaCs = parseFilmMeta(czEntry || enEntry, titleCs, 'cz');
+const metaEn = parseFilmMeta(enEntry || czEntry, titleEn, 'en');
 
 const siteUrl = "https://cinema.polygonbeater.eu";
-const posterAbsolute = new URL(activePoster, siteUrl).href;
-
-const czWords = czEntry?.body ? czEntry.body.split(/\s+/).length : 0;
-const enWords = enEntry?.body ? enEntry.body.split(/\s+/).length : 0;
-
-const czReadingTime = Math.max(1, Math.ceil(czWords / 200));
-const enReadingTime = Math.max(1, Math.ceil(enWords / 200));
-
-const schemaJson = {
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": czTitle,
-  "description": activeDescription,
-  "image": [posterAbsolute],
-  "datePublished": czEntry?.data?.date || enEntry?.data?.date || "",
-  "author": {
-    "@type": "Person",
-    "name": "Vítězslav Koneval",
-    "url": "https://cinema.polygonbeater.eu/author"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Polygon Beater Cinema",
-    "url": siteUrl
-  },
-  "about": {
-    "@type": "Movie",
-    "name": movieTitle || czTitle,
-    ...(director ? { "director": { "@type": "Person", "name": director } } : {}),
-    ...(year ? { "dateCreated": String(year) } : {})
-  }
-};
+const posterAbsolute = new URL(poster, siteUrl).href;
 ---
 
 <Layout 
-  title={`${czTitle} — Polygon Beater Cinema`} 
-  description={activeDescription} 
+  title={`${titleCs} / ${titleEn} — Polygon Beater Cinema`} 
+  description={czEntry?.data.description || enEntry?.data.description || ""} 
   image={posterAbsolute} 
   type="article"
 >
-  <script type="application/ld+json" set:html={JSON.stringify(schemaJson)} />
-
   <div id="readProgress" class="read-progress" aria-hidden="true"></div>
 
   <article class="essay-detail wrap">
@@ -147,147 +114,86 @@ const schemaJson = {
         ← <span lang="cs">Zpět na úvod</span><span lang="en">Back to home</span>
       </a>
 
-      <div class="essay-title-block">
-        {czEntry?.data?.title && <h1 lang="cs">{czEntry.data.title}</h1>}
-        {enEntry?.data?.title && <h1 lang="en">{enEntry.data.title}</h1>}
-
+      <!-- Česká hlavička -->
+      <div class="essay-title-block lang-cs-block" lang="cs">
+        <h1>{titleCs}</h1>
         <div class="film-meta-bar">
-          {movieTitle && (
-            <div class="meta-chip">
-              <span class="meta-label" lang="cs">Film:</span>
-              <span class="meta-label" lang="en">Movie:</span>
-              <span class="meta-val">🎬 {movieTitle}</span>
-            </div>
+          {metaCs.movieTitle && (
+            <div class="meta-chip"><span class="meta-label">Film</span><span class="meta-val">🎬 {metaCs.movieTitle}</span></div>
           )}
-
-          {director && (
-            <div class="meta-chip">
-              <span class="meta-label" lang="cs">Režie:</span>
-              <span class="meta-label" lang="en">Director:</span>
-              <span class="meta-val">👤 {director}</span>
-            </div>
+          {metaCs.director && (
+            <div class="meta-chip"><span class="meta-label">Režie</span><span class="meta-val">👤 {metaCs.director}</span></div>
           )}
-
-          {year && (
-            <div class="meta-chip">
-              <span class="meta-label" lang="cs">Rok:</span>
-              <span class="meta-label" lang="en">Year:</span>
-              <span class="meta-val">📅 {year}</span>
-            </div>
+          {metaCs.year && (
+            <div class="meta-chip"><span class="meta-label">Rok</span><span class="meta-val">📅 {metaCs.year}</span></div>
           )}
+          <div class="meta-chip"><span class="meta-label">Čtení</span><span class="meta-val">⏱️ ~{metaCs.readingTime} min</span></div>
+        </div>
+      </div>
 
-          <div class="meta-chip">
-            <span class="meta-label" lang="cs">Čtení:</span>
-            <span class="meta-label" lang="en">Read:</span>
-            <span class="meta-val">
-              <span lang="cs">⏱️ ~{czReadingTime} min</span>
-              <span lang="en">⏱️ ~{enReadingTime} min</span>
-            </span>
-          </div>
+      <!-- Anglická hlavička -->
+      <div class="essay-title-block lang-en-block" lang="en">
+        <h1>{titleEn}</h1>
+        <div class="film-meta-bar">
+          {metaEn.movieTitle && (
+            <div class="meta-chip"><span class="meta-label">Movie</span><span class="meta-val">🎬 {metaEn.movieTitle}</span></div>
+          )}
+          {metaEn.director && (
+            <div class="meta-chip"><span class="meta-label">Director</span><span class="meta-val">👤 {metaEn.director}</span></div>
+          )}
+          {metaEn.year && (
+            <div class="meta-chip"><span class="meta-label">Year</span><span class="meta-val">📅 {metaEn.year}</span></div>
+          )}
+          <div class="meta-chip"><span class="meta-label">Read</span><span class="meta-val">⏱️ ~{metaEn.readingTime} min</span></div>
         </div>
       </div>
     </header>
 
-    {CzContent ? (
-      <div class="essay-wrapper" lang="cs">
-        <div class="essay-poster-block">
-          <img src={czPoster} alt={czTitle} width="280" height="420" loading="eager" />
-          <div class="poster-caption">Studijní materiál</div>
+    <div class="essay-wrapper">
+      <div class="essay-poster-block">
+        <img src={poster} alt={titleCs} width="280" height="420" loading="eager" />
+        <div class="poster-caption">
+          <span lang="cs">Studijní materiál</span>
+          <span lang="en">Educational material</span>
         </div>
-        <div class="essay-body">
+      </div>
+
+      {CzContent && (
+        <div class="essay-body lang-cs-block" lang="cs">
           <CzContent />
         </div>
-      </div>
-    ) : (
-      <p lang="cs" style="color: #97979d;">Česká verze eseje nebyla nalezena.</p>
-    )}
+      )}
 
-    {EnContent ? (
-      <div class="essay-wrapper" lang="en">
-        <div class="essay-poster-block">
-          <img src={enPoster} alt={enTitle} width="280" height="420" loading="eager" />
-          <div class="poster-caption">Educational material</div>
-        </div>
-        <div class="essay-body">
+      {EnContent && (
+        <div class="essay-body lang-en-block" lang="en">
           <EnContent />
         </div>
-      </div>
-    ) : (
-      <p lang="en" style="color: #97979d;">English version not found.</p>
-    )}
+      )}
+    </div>
 
     <div class="essay-author-box">
       <div class="author-avatar-sm" aria-hidden="true">VK</div>
       <div class="author-byline-text">
-        <p class="author-byline-label" lang="cs">Autor</p>
-        <p class="author-byline-label" lang="en">Author</p>
+        <p class="author-byline-label">
+          <span lang="cs">Autor</span>
+          <span lang="en">Author</span>
+        </p>
         <a href="/author" class="author-byline-name">Vítězslav Koneval</a>
       </div>
     </div>
 
-    {(prevEssay || nextEssay) && (
-      <nav class="essay-pagination" aria-label="Další a předchozí eseje">
-        {prevEssay ? (
-          <a href={`/essays/${prevEssay.slug}`} class="pagination-link prev">
-            <span class="pagination-label" lang="cs">← Starší esej</span>
-            <span class="pagination-label" lang="en">← Older essay</span>
-            <span class="pagination-title">{prevEssay.title}</span>
-          </a>
-        ) : <div />}
-
-        {nextEssay ? (
-          <a href={`/essays/${nextEssay.slug}`} class="pagination-link next">
-            <span class="pagination-label" lang="cs">Novější esej →</span>
-            <span class="pagination-label" lang="en">Newer essay →</span>
-            <span class="pagination-title">{nextEssay.title}</span>
-          </a>
-        ) : <div />}
-      </nav>
-    )}
-
     <div class="essay-bottom-nav">
       <a href="/" class="archive-nav-btn">
-        <span lang="cs">Zpět na hlavní stranu</span>
-        <span lang="en">Back to homepage</span>
+        <span lang="cs">Zpět na úvod</span>
+        <span lang="en">Back to home</span>
       </a>
     </div>
-
-    <footer class="essay-share-box">
-      <p lang="cs">Líbil se vám text? Sdílejte esej:</p>
-      <p lang="en">Enjoyed the text? Share this essay:</p>
-      
-      <div class="share-buttons">
-        <a id="shareTwitter" href="#" target="_blank" rel="noopener noreferrer" class="share-btn">
-          <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
-          <span>X / Twitter</span>
-        </a>
-        
-        <a id="shareFacebook" href="#" target="_blank" rel="noopener noreferrer" class="share-btn">
-          <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
-          <span>Facebook</span>
-        </a>
-
-        <button type="button" class="share-btn" id="copyBtn">
-          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg>
-          <span lang="cs">Kopírovat odkaz</span>
-          <span lang="en">Copy Link</span>
-        </button>
-      </div>
-    </footer>
   </article>
 
-  <button id="scrollTopBtn" class="scroll-top-btn" aria-label="Zpět nahoru" title="Zpět nahoru">
-    ↑
-  </button>
+  <button id="scrollTopBtn" class="scroll-top-btn" aria-label="Zpět nahoru" title="Zpět nahoru">↑</button>
 </Layout>
 
-<script define:vars={{ czTitle, enTitle }}>
-  const currentUrl = window.location.href;
-  const currentLang = document.documentElement.getAttribute('data-lang') || 'cs';
-  const activeTitle = currentLang === 'en' ? enTitle : czTitle;
-
-  document.title = `${activeTitle} — Polygon Beater Cinema`;
-
+<script>
   const progressBar = document.getElementById('readProgress');
   const scrollTopBtn = document.getElementById('scrollTopBtn');
 
@@ -298,29 +204,15 @@ const schemaJson = {
       const scrolled = (winScroll / height) * 100;
       if (progressBar) progressBar.style.width = `${scrolled}%`;
     }
-
     if (scrollTopBtn) {
-      if (winScroll > 400) {
-        scrollTopBtn.classList.add('visible');
-      } else {
-        scrollTopBtn.classList.remove('visible');
-      }
+      if (winScroll > 400) scrollTopBtn.classList.add('visible');
+      else scrollTopBtn.classList.remove('visible');
     }
   });
 
   if (scrollTopBtn) {
     scrollTopBtn.addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
-    });
-  }
-
-  const copyBtn = document.getElementById('copyBtn');
-  if (copyBtn) {
-    copyBtn.addEventListener('click', () => {
-      navigator.clipboard.writeText(currentUrl);
-      const originalText = copyBtn.innerHTML;
-      copyBtn.innerHTML = '<span lang="cs">Zkopírováno!</span><span lang="en">Copied!</span>';
-      setTimeout(() => { copyBtn.innerHTML = originalText; }, 2000);
     });
   }
 </script>
@@ -333,23 +225,10 @@ const schemaJson = {
   .back-link:hover { color: var(--accent); }
   .essay-title-block { text-align: center; margin-bottom: 3rem; border-bottom: 1px solid var(--border); padding-bottom: 2rem; }
   .essay-header h1 { font-family: var(--font-serif); font-weight: 400; font-size: clamp(2.2rem, 4vw, 3rem); line-height: 1.15; margin: 0 0 1.2rem 0; color: var(--text); }
-
-  .film-meta-bar {
-    display: inline-flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    gap: 1rem;
-    background: var(--bg-elevated);
-    border: 1px solid var(--border);
-    padding: 0.6rem 1.4rem;
-    border-radius: 20px;
-    margin-top: 0.5rem;
-  }
+  .film-meta-bar { display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1rem; background: var(--bg-elevated); border: 1px solid var(--border); padding: 0.6rem 1.4rem; border-radius: 20px; margin-top: 0.5rem; }
   .meta-chip { display: flex; align-items: center; gap: 0.35rem; font-size: 0.85rem; }
   .meta-label { color: var(--text-muted); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.04em; }
   .meta-val { color: var(--accent); font-weight: 500; }
-
   .essay-wrapper { margin-bottom: 3rem; }
   .essay-wrapper::after { content: ""; display: table; clear: both; }
   .essay-poster-block { float: left; width: 230px; margin: 0 2.2rem 1.5rem 0; }
@@ -357,8 +236,7 @@ const schemaJson = {
   .poster-caption { font-size: 0.7rem; color: var(--text-muted); text-align: center; margin-top: 0.4rem; letter-spacing: 0.03em; font-style: italic; }
   .essay-body { font-size: 1.08rem; line-height: 1.8; color: #dedede; }
   .essay-body > *:first-child { margin-top: 0; }
-  .essay-body h2 { font-family: var(--font-serif); color: var(--text); margin-top: 3rem; margin-bottom: 1rem; font-weight: 400; clear: both; }
-  .essay-body h3 { font-family: var(--font-serif); color: var(--text); margin-top: 2.5rem; margin-bottom: 1rem; font-weight: 400; clear: both; }
+  .essay-body h2, .essay-body h3 { font-family: var(--font-serif); color: var(--text); margin-top: 3rem; margin-bottom: 1rem; font-weight: 400; clear: both; }
   .essay-body p { margin-bottom: 1.5rem; }
   .essay-body img { border-radius: 4px; margin: 2.5rem auto; border: 1px solid var(--border); width: 100%; display: block; clear: both; }
   .essay-author-box { display: flex; align-items: center; gap: 1rem; margin-top: 3.5rem; padding-top: 2rem; border-top: 1px solid var(--border); }
@@ -366,20 +244,9 @@ const schemaJson = {
   .author-byline-label { margin: 0 0 0.15rem; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-muted); }
   .author-byline-name { display: inline-block; font-size: 1rem; font-weight: 600; color: var(--text); text-decoration: none; letter-spacing: 0.02em; transition: color 0.15s ease; }
   .author-byline-name:hover { color: var(--accent); }
-  .essay-pagination { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-top: 2.5rem; padding-top: 2rem; border-top: 1px solid var(--border); }
-  .pagination-link { display: flex; flex-direction: column; padding: 1rem; background: var(--bg-elevated); border: 1px solid var(--border); border-radius: 4px; text-decoration: none; transition: border-color 0.2s ease, transform 0.2s ease; }
-  .pagination-link:hover { border-color: var(--accent); transform: translateY(-2px); }
-  .pagination-link.next { text-align: right; }
-  .pagination-label { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--accent); margin-bottom: 0.3rem; }
-  .pagination-title { font-size: 0.95rem; color: var(--text); font-weight: 500; line-height: 1.3; }
   .essay-bottom-nav { margin-top: 2rem; text-align: center; }
   .archive-nav-btn { display: inline-block; padding: 0.8rem 1.6rem; background: var(--bg-elevated); border: 1px solid var(--accent); color: var(--accent); text-decoration: none; font-size: 0.95rem; font-weight: 500; border-radius: 4px; transition: all 0.2s ease; }
   .archive-nav-btn:hover { background: var(--accent); color: var(--bg); }
-  .essay-share-box { margin-top: 2.5rem; padding-top: 2rem; border-top: 1px solid var(--border); display: flex; flex-direction: column; gap: 1rem; }
-  .essay-share-box p { margin: 0; font-size: 0.95rem; color: var(--text-muted); }
-  .share-buttons { display: flex; gap: 1rem; flex-wrap: wrap; }
-  .share-btn { display: inline-flex; align-items: center; gap: 0.5rem; background: var(--bg-elevated); border: 1px solid var(--border); color: var(--text); padding: 0.5rem 1.1rem; font-size: 0.85rem; border-radius: 3px; text-decoration: none; cursor: pointer; transition: border-color 0.15s ease, color 0.15s ease; font-family: inherit; }
-  .share-btn:hover { border-color: var(--accent); color: var(--accent); }
   .scroll-top-btn { position: fixed; bottom: 2rem; right: 2rem; background: var(--bg-elevated); border: 1px solid var(--border); color: var(--accent); width: 44px; height: 44px; border-radius: 50%; font-size: 1.2rem; font-weight: bold; cursor: pointer; opacity: 0; visibility: hidden; transition: opacity 0.25s ease, visibility 0.25s ease, border-color 0.2s ease; z-index: 90; box-shadow: 0 4px 12px rgba(0,0,0,0.4); }
   .scroll-top-btn.visible { opacity: 1; visibility: visible; }
   .scroll-top-btn:hover { border-color: var(--accent); background: var(--accent); color: var(--bg); }
@@ -388,8 +255,6 @@ const schemaJson = {
     .essay-detail { padding-top: 2.5rem; padding-bottom: 4rem; }
     .film-meta-bar { flex-direction: column; gap: 0.4rem; border-radius: 8px; width: 100%; }
     .essay-poster-block { float: none; width: 100%; max-width: 240px; margin: 0 auto 2rem auto; }
-    .essay-pagination { grid-template-columns: 1fr; }
-    .pagination-link.next { text-align: left; }
     .archive-nav-btn { display: block; width: 100%; text-align: center; }
   }
 </style>
