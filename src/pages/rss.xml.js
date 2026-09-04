@@ -2,32 +2,52 @@ import rss from '@astrojs/rss';
 import { getCollection } from 'astro:content';
 
 export async function GET(context) {
+  const siteUrl = context.site || 'https://cinema.polygonbeater.eu';
   const allEssays = await getCollection('essays');
-  
-  // Unikátní slugi pro eliminaci duplicit cz/en verzí v hlavním feedu
-  const uniqueSlugs = Array.from(
-    new Set(allEssays.map(e => e.id.replace(/^.*[\\/]/, '').replace(/\.md$/, '')))
-  );
 
-  const items = uniqueSlugs.map(slug => {
-    const czEntry = allEssays.find(e => e.id.replace(/\\/g, '/').includes(`cz/${slug}`));
-    const entry = czEntry || allEssays.find(e => e.id.replace(/\\/g, '/').includes(`en/${slug}`));
+  const items = allEssays.map((entry) => {
+    const rawId = entry.id.replace(/\\/g, '/');
+    const slug = rawId.replace(/^(cz|en)[/]/, '').replace(/\.md$/, '');
+
+    const data = entry.data || {};
+    const title = data.title || slug;
+    const description = data.description || data.excerpt || '';
     
+    // Bezpečné ověření platnosti data, aby nedošlo k chybě Invalid Date
+    let pubDate = new Date();
+    const dateCandidate = data.date || data.pubDate;
+    if (dateCandidate) {
+      const parsed = new Date(dateCandidate);
+      if (!isNaN(parsed.getTime())) {
+        pubDate = parsed;
+      }
+    }
+
     return {
-      title: entry?.data.title || slug,
-      description: entry?.data.excerpt || entry?.data.description || '',
-      pubDate: new Date(entry?.data.date || '1970-01-01'),
+      title,
+      description,
+      pubDate,
       link: `/essays/${slug}/`,
     };
   });
 
-  items.sort((a, b) => b.pubDate.valueOf() - a.pubDate.valueOf());
+  // Eliminace duplicitních odkazů pro CZ/EN mutace
+  const uniqueItemsMap = new Map();
+  items.forEach(item => {
+    if (!uniqueItemsMap.has(item.link)) {
+      uniqueItemsMap.set(item.link, item);
+    }
+  });
+
+  const finalItems = Array.from(uniqueItemsMap.values()).sort(
+    (a, b) => b.pubDate.valueOf() - a.pubDate.valueOf()
+  );
 
   return rss({
     title: 'Polygon Beater Cinema',
     description: 'Filmové eseje a analýzy o kinematografii, estetice a temných zákoutích filmové historie.',
-    site: context.site,
-    items: items,
+    site: siteUrl,
+    items: finalItems,
     customData: `<language>cs</language>`,
   });
 }
