@@ -5,7 +5,7 @@ import { getCollection } from 'astro:content';
 function getCleanSlug(entry: { id: string }) {
   return entry.id
     .replace(/^.*[\\/]/, '')
-    .replace(/\.md$/, '')
+    .replace(/\.(mdx?)$/, '')
     .replace(/^(cz|en)[_-]/i, '');
 }
 
@@ -30,12 +30,15 @@ const essays = uniqueSlugs.map(slug => {
   const excerptCs = czEntry?.data.excerpt || czEntry?.data.description || '';
   const excerptEn = enEntry?.data.excerpt || enEntry?.data.description || '';
   
-  const searchableContent = `${titleCs} ${titleEn} ${director} ${excerptCs} ${excerptEn} ${czEntry?.body || ''} ${enEntry?.body || ''}`.toLowerCase();
+  // Body esejí záměrně vynecháno – celé texty v DOM atributech by při 430+ eseji
+  // způsobily přetížení parseru. Pro full-text hledání načtěte search-index.json asynchronně.
+  const searchableContent = `${titleCs} ${titleEn} ${director} ${excerptCs} ${excerptEn}`.toLowerCase();
 
   return {
     slug,
     poster,
     date: czEntry?.data.date || enEntry?.data.date || '',
+    year: czEntry?.data.year || enEntry?.data.year || null,
     director,
     title: { cs: titleCs, en: titleEn },
     excerpt: { cs: excerptCs || "Český popisek není k dispozici.", en: excerptEn || "English excerpt not available." },
@@ -44,7 +47,8 @@ const essays = uniqueSlugs.map(slug => {
   };
 });
 
-essays.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+const toTime = (d: string | Date | undefined) => (d ? new Date(d).getTime() : 0);
+essays.sort((a, b) => toTime(b.date) - toTime(a.date));
 
 const directors = Array.from(new Set(essays.map(e => e.director).filter(Boolean))).sort();
 const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
@@ -56,8 +60,10 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
       <a href="/" class="back-link">
         ← <span lang="cs">Zpět na úvod</span><span lang="en">Back to home</span>
       </a>
-      <h1 lang="cs">Archiv všech esejí</h1>
-      <h1 lang="en">All Essays Archive</h1>
+      <h1>
+        <span lang="cs">Archiv všech esejí</span>
+        <span lang="en">All Essays Archive</span>
+      </h1>
       <p class="lead" lang="cs">Kompletní přehled publikovaných filmových esejí a analýz s možností vyhledávání a filtrování.</p>
       <p class="lead" lang="en">Complete collection of published film essays and analyses with search and filtering.</p>
     </div>
@@ -73,7 +79,7 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
           placeholder="Hledat v názvu, režisérovi, textu..." 
           aria-label="Vyhledat v esejích"
         />
-        <span class="search-icon">🔍</span>
+        <span class="search-icon" aria-hidden="true">🔍</span>
       </div>
 
       {directors.length > 0 && (
@@ -95,14 +101,14 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 
     <!-- Abecední lišta (A–Z) -->
     <div class="alphabet-bar" id="alphabetBar">
-      <button class="alpha-btn active" data-letter="">
+      <button class="alpha-btn active" data-letter="" aria-pressed="true">
         <span lang="cs">VŠE</span>
         <span lang="en">ALL</span>
       </button>
       {alphabet.map(letter => (
-        <button class="alpha-btn" data-letter={letter}>{letter}</button>
+        <button class="alpha-btn" data-letter={letter} aria-pressed="false">{letter}</button>
       ))}
-      <button class="alpha-btn" data-letter="NUM">#</button>
+      <button class="alpha-btn" data-letter="NUM" aria-pressed="false">#</button>
     </div>
 
     <!-- Počítadlo výsledků -->
@@ -123,6 +129,7 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
               data-director={essay.director.toLowerCase()}
               data-searchable={essay.searchableContent}
               data-first-letter={essay.title.cs.charAt(0).toUpperCase()}
+              data-first-letter-en={essay.title.en.charAt(0).toUpperCase()}
             >
               <a 
                 href={essay.href} 
@@ -146,7 +153,9 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 
                 {essay.director && (
                   <p class="essay-director">
-                    🎬 <span>{essay.director}</span>
+                    <span aria-hidden="true">🎬 </span>
+                    <span>{essay.director}</span>
+                    {essay.year && <span class="essay-year">({essay.year})</span>}
                   </p>
                 )}
 
@@ -226,29 +235,43 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
       }
     }
 
+    let lastRenderedTotalPages = -1;
+
     function renderPagination(totalPages: number) {
       if (!pageNumbers || !paginationControls) return;
 
       if (totalPages <= 1) {
         paginationControls.style.display = 'none';
+        lastRenderedTotalPages = totalPages;
         return;
       }
 
       paginationControls.style.display = 'flex';
-      pageNumbers.innerHTML = '';
 
-      for (let i = 1; i <= totalPages; i++) {
-        const btn = document.createElement('button');
-        btn.className = `page-num-btn ${i === currentPage ? 'active' : ''}`;
-        btn.textContent = i.toString();
-        btn.type = 'button';
-        btn.addEventListener('click', () => {
-          currentPage = i;
-          updateGridDisplay();
-          scrollToGridTop();
-        });
-        pageNumbers.appendChild(btn);
+      // Překreslit tlačítka jen pokud se změnil počet stránek
+      if (totalPages !== lastRenderedTotalPages) {
+        pageNumbers.innerHTML = '';
+        for (let i = 1; i <= totalPages; i++) {
+          const btn = document.createElement('button');
+          btn.className = 'page-num-btn';
+          btn.textContent = i.toString();
+          btn.type = 'button';
+          btn.dataset.page = String(i);
+          btn.addEventListener('click', () => {
+            currentPage = i;
+            updateGridDisplay();
+            scrollToGridTop();
+            syncUrl();
+          });
+          pageNumbers.appendChild(btn);
+        }
+        lastRenderedTotalPages = totalPages;
       }
+
+      // Vždy aktualizovat jen aktivní třídu a disabled stav
+      pageNumbers.querySelectorAll<HTMLButtonElement>('.page-num-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.page === String(currentPage));
+      });
 
       if (prevPageBtn) prevPageBtn.disabled = currentPage === 1;
       if (nextPageBtn) nextPageBtn.disabled = currentPage === totalPages;
@@ -306,10 +329,14 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
       const query = (searchInput?.value || '').toLowerCase().trim();
       const selectedDirector = (directorSelect?.value || '').toLowerCase().trim();
 
+      const currentLang = getLang();
       matchingCards = essayCards.filter(card => {
         const searchable = card.dataset.searchable || '';
         const director = card.dataset.director || '';
-        const firstLetter = card.dataset.firstLetter || '';
+        // Použij first-letter odpovídající aktivnímu jazyku
+        const firstLetter = (currentLang === 'en'
+          ? card.dataset.firstLetterEn
+          : card.dataset.firstLetter) || '';
 
         const matchesQuery = !query || searchable.includes(query);
         const matchesDirector = !selectedDirector || director === selectedDirector;
@@ -330,16 +357,68 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
       updateGridDisplay();
     }
 
-    // Event listenery pro vyhledávání a filtry
-    searchInput?.addEventListener('input', filterEssays);
-    directorSelect?.addEventListener('change', filterEssays);
+    // Pomocná funkce pro aktualizaci URL bez přenačtení stránky
+    function syncUrl() {
+      const params = new URLSearchParams();
+      const q = searchInput?.value.trim() || '';
+      const dir = directorSelect?.value || '';
+      if (q) params.set('q', q);
+      if (dir) params.set('director', dir);
+      if (selectedLetter) params.set('letter', selectedLetter);
+      if (currentPage > 1) params.set('page', String(currentPage));
+      const newUrl = params.toString()
+        ? `${location.pathname}?${params}`
+        : location.pathname;
+      history.replaceState(null, '', newUrl);
+    }
+
+    // Načtení stavu z URL při prvním načtení
+    function restoreFromUrl() {
+      const params = new URLSearchParams(location.search);
+      const q = params.get('q') || '';
+      const dir = params.get('director') || '';
+      const letter = params.get('letter') || '';
+      const page = parseInt(params.get('page') || '1', 10);
+
+      if (searchInput && q) searchInput.value = q;
+      if (directorSelect && dir) directorSelect.value = dir;
+      if (letter) {
+        selectedLetter = letter;
+        alphaButtons.forEach(b => {
+          const isActive = (b as HTMLElement).dataset.letter === letter;
+          b.classList.toggle('active', isActive);
+          (b as HTMLElement).setAttribute('aria-pressed', isActive ? 'true' : 'false');
+        });
+      }
+      currentPage = isNaN(page) || page < 1 ? 1 : page;
+    }
+
+    // Debounce pro vyhledávání – nespouštět filterEssays při každém stisku
+    let searchTimer: ReturnType<typeof setTimeout>;
+    searchInput?.addEventListener('input', () => {
+      clearTimeout(searchTimer);
+      searchTimer = setTimeout(() => {
+        filterEssays();
+        syncUrl();
+      }, 200);
+    });
+
+    directorSelect?.addEventListener('change', () => {
+      filterEssays();
+      syncUrl();
+    });
 
     alphaButtons.forEach(btn => {
       btn.addEventListener('click', () => {
-        alphaButtons.forEach(b => b.classList.remove('active'));
+        alphaButtons.forEach(b => {
+          b.classList.remove('active');
+          (b as HTMLElement).setAttribute('aria-pressed', 'false');
+        });
         btn.classList.add('active');
+        (btn as HTMLElement).setAttribute('aria-pressed', 'true');
         selectedLetter = (btn as HTMLElement).dataset.letter || '';
         filterEssays();
+        syncUrl();
       });
     });
 
@@ -347,9 +426,15 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
       if (searchInput) searchInput.value = '';
       if (directorSelect) directorSelect.value = '';
       selectedLetter = '';
-      alphaButtons.forEach(b => b.classList.remove('active'));
-      alphabetBar?.querySelector('[data-letter=""]')?.classList.add('active');
+      alphaButtons.forEach(b => {
+        b.classList.remove('active');
+        (b as HTMLElement).setAttribute('aria-pressed', 'false');
+      });
+      const allBtn = alphabetBar?.querySelector('[data-letter=""]');
+      allBtn?.classList.add('active');
+      (allBtn as HTMLElement | null)?.setAttribute('aria-pressed', 'true');
       filterEssays();
+      syncUrl();
     });
 
     prevPageBtn?.addEventListener('click', () => {
@@ -357,6 +442,7 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
         currentPage--;
         updateGridDisplay();
         scrollToGridTop();
+        syncUrl();
       }
     });
 
@@ -366,6 +452,7 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
         currentPage++;
         updateGridDisplay();
         scrollToGridTop();
+        syncUrl();
       }
     });
 
@@ -380,7 +467,8 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
       attributeFilter: ['lang', 'data-lang', 'class']
     });
 
-    // Inicializace
+    // Inicializace – nejdřív obnov stav z URL, pak filtruj
+    restoreFromUrl();
     updateLocalizedTexts();
     filterEssays();
   });
@@ -440,4 +528,15 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
   .page-numbers { display: flex; gap: 0.35rem; flex-wrap: wrap; }
   .page-num-btn { background: var(--bg-elevated); border: 1px solid var(--border); color: var(--text-muted); min-width: 38px; height: 38px; font-size: 0.85rem; border-radius: 4px; cursor: pointer; transition: all 0.2s ease; font-family: inherit; display: flex; align-items: center; justify-content: center; }
   .page-num-btn:hover, .page-num-btn.active { background: var(--accent); color: var(--bg); border-color: var(--accent); font-weight: bold; }
+
+  .essay-year { color: var(--text-muted); font-size: 0.75rem; margin-left: 0.25rem; }
+
+  @media (prefers-reduced-motion: reduce) {
+    .essay-poster img,
+    .essay-card,
+    .back-link,
+    .alpha-btn,
+    .reset-btn,
+    .archive-nav-btn { transition: none; }
+  }
 </style>
