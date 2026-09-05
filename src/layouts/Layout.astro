@@ -1,3 +1,4 @@
+---
 interface Props {
   title?: string;
   description?: string;
@@ -251,15 +252,15 @@ const jsonLd = type === "article" ? {
       </button>
     </div>
 
-    <script lang="ts">
+    <script>
       const root = document.documentElement;
       const buttons = document.querySelectorAll("[data-set-lang]");
 
-      function applyLang(lang: any) {
+      function applyLang(lang) {
         root.setAttribute("data-lang", lang);
         root.setAttribute("lang", lang);
         buttons.forEach((btn) => {
-          const isActive = (btn as HTMLElement).dataset.setLang === lang;
+          const isActive = btn.dataset.setLang === lang;
           btn.setAttribute("aria-pressed", String(isActive));
         });
         try { localStorage.setItem("pbc-lang", lang); } catch (e) {}
@@ -267,14 +268,14 @@ const jsonLd = type === "article" ? {
 
       buttons.forEach((btn) => {
         btn.addEventListener("click", () => {
-          const lang = (btn as HTMLElement).dataset.setLang;
+          const lang = btn.dataset.setLang;
           if (lang) applyLang(lang);
         });
       });
 
       const currentActiveLang = root.getAttribute('data-lang') || 'cs';
       buttons.forEach((btn) => {
-        btn.setAttribute("aria-pressed", String((btn as HTMLElement).dataset.setLang === currentActiveLang));
+        btn.setAttribute("aria-pressed", String(btn.dataset.setLang === currentActiveLang));
       });
 
       const menuToggle = document.getElementById('menuToggle');
@@ -326,14 +327,14 @@ const jsonLd = type === "article" ? {
       if (nlForm && nlResult && nlBtn) {
         nlForm.addEventListener('submit', function(e) {
           e.preventDefault();
-          const formData = new FormData(nlForm as HTMLFormElement);
+          const formData = new FormData(nlForm);
           const object = Object.fromEntries(formData);
           const json = JSON.stringify(object);
           const activeLang = root.getAttribute('data-lang') || 'cs';
 
           nlResult.innerHTML = activeLang === 'cs' ? "Zpracovávám..." : "Processing...";
           nlResult.style.color = "var(--text-muted)";
-          (nlBtn as HTMLButtonElement).disabled = true;
+          nlBtn.disabled = true;
 
           fetch('https://api.web3forms.com/submit', {
             method: 'POST',
@@ -348,7 +349,7 @@ const jsonLd = type === "article" ? {
             if (response.status == 200) {
               nlResult.innerHTML = activeLang === 'cs' ? "Úspěšně přihlášeno k odběru ✓" : "Successfully subscribed ✓";
               nlResult.style.color = "#4CAF50";
-              (nlForm as HTMLFormElement).reset();
+              nlForm.reset();
             } else {
               nlResult.innerHTML = jsonResponse.message || "Error.";
               nlResult.style.color = "var(--red-500)";
@@ -359,7 +360,7 @@ const jsonLd = type === "article" ? {
             nlResult.style.color = "var(--red-500)";
           })
           .finally(() => {
-            (nlBtn as HTMLButtonElement).disabled = false;
+            nlBtn.disabled = false;
           });
         });
       }
@@ -426,10 +427,8 @@ const jsonLd = type === "article" ? {
           margin-bottom: 1rem;
       }
 
-      html:not([data-lang="en"]) [lang="en"] { display: none; }
-      html:not([data-lang="en"]) [lang="cs"] { display: revert; }
-      html[data-lang="en"] [lang="cs"] { display: none; }
-      html[data-lang="en"] [lang="en"] { display: revert; }
+      html[data-lang="cs"] [lang="en"] { display: none !important; }
+      html[data-lang="en"] [lang="cs"] { display: none !important; }
 
       .site-header { border-bottom: 1px solid var(--border); position: sticky; top: 0; background: rgba(10, 10, 11, 0.95); backdrop-filter: blur(6px); z-index: 100; width: 100%; }
       .header-inner { display: flex; align-items: center; justify-content: space-between; padding: 1.1rem 0; position: relative; gap: 0.5rem; }
