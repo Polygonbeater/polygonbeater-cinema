@@ -216,13 +216,13 @@ const jsonLd = type === "article" ? {
           
           <div class="footer-links">
             {!isAuthor && (
-              <a href="/author" class="legal-link">
+              <a href="/author" class="footer-link">
                 <span lang="cs">O autorovi</span>
                 <span lang="en">About Author</span>
               </a>
             )}
             {!isLegal && (
-              <a href="/legal" class="legal-link">
+              <a href="/legal" class="footer-link">
                 <span lang="cs">Právní informace</span>
                 <span lang="en">Legal Info</span>
               </a>
@@ -244,8 +244,8 @@ const jsonLd = type === "article" ? {
     </button>
 
     <div id="cookieBanner" class="cookie-banner" style="display: none;">
-      <p lang="cs">Pro správné fungování webu využíváme základní soubory cookies a lokální úložiště. <a href="/legal" style="color: var(--text); text-decoration: underline;">Více informací</a>.</p>
-      <p lang="en">We use basic cookies and local storage for the proper operation of the website. <a href="/legal" style="color: var(--text); text-decoration: underline;">Learn more</a>.</p>
+      <p lang="cs">Pro správné fungování webu využíváme základní soubory cookies a lokální úložiště. <a href="/legal" style="color: var(--text); text-decoration: underline;">Právní informace</a>.</p>
+      <p lang="en">We use basic cookies and local storage for the proper operation of the website. <a href="/legal" style="color: var(--text); text-decoration: underline;">Legal Notice</a>.</p>
       <button type="button" id="cookieAccept" class="cookie-btn">
         <span lang="cs">Rozumím</span>
         <span lang="en">Got it</span>
@@ -519,8 +519,8 @@ const jsonLd = type === "article" ? {
       .footer-row { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem; margin-bottom: 0.5rem; }
       .footer-inner p { margin: 0; font-size: 0.85rem; color: var(--text-muted); }
       .footer-links { display: flex; gap: 1.25rem; }
-      .legal-link { font-size: 0.85rem; color: var(--text-muted); text-decoration: underline; }
-      .legal-link:hover { color: var(--accent); }
+      .footer-link { font-size: 0.85rem; color: var(--text-muted); text-decoration: underline; }
+      .footer-link:hover { color: var(--accent); }
       .footer-meta { font-size: 0.85rem; color: var(--text-muted); }
       .footer-meta a { color: var(--text-muted); text-decoration: underline; }
       .footer-meta a:hover { color: var(--accent); }
