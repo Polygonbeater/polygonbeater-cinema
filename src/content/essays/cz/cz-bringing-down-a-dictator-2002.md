@@ -43,7 +43,6 @@ Veteráni z hnutí Otpor! si uvědomili, že jejich metody mají vědecký zákl
 2. **Plánování:** Každá akce – bez ohledu na to, jak byla malá – měla jasný taktický cíl: buď získat nové členy, zvýšit viditelnost, nebo vyprovokovat přehnanou reakci státu.
 3. **Násilná disciplína:** Odmítnutím oplatit násilí násilím zajistili, že brutalita režimu se obrátila proti němu samotnému a odcizila mu vlastní podporovatele i mezinárodní společenství.
 
-*Odkaz na zhlédnutí filmu najdete v komentářích.*
 
 ### Slovníček a bibliografie
 

@@ -38,7 +38,6 @@ Základní mechanika moci zůstává stejná – mění se pouze nástroje:
 
 Zákony mohou posilovat nespravedlnost. Úpadek režimů nepřichází z násilí, nýbrž z tíhy jejich vlastní irelevance – v okamžiku, kdy si lidé začnou spravovat své záležitosti sami.
 
-*Odkaz na zhlédnutí filmu najdete v komentářích.*
 
 ### Slovníček a bibliografie
 
