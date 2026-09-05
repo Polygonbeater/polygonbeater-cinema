@@ -200,7 +200,7 @@ const jsonLd = type === "article" ? {
             <p lang="cs">Odebírejte upozornění na nové filmové eseje a analýzy:</p>
             <p lang="en">Subscribe for notifications on new film essays and analyses:</p>
             <div class="newsletter-row">
-              <input type="email" name="email" placeholder="vas@email.cz" required aria-label="E-mail" />
+              <input type="email" name="email" placeholder="vas@email.cz" required aria-label="E-mail" autocomplete="email" />
               <button type="submit" id="newsletter-btn" class="newsletter-btn">
                 <span lang="cs">Odebírat</span>
                 <span lang="en">Subscribe</span>
@@ -532,7 +532,7 @@ const jsonLd = type === "article" ? {
 
       .cookie-banner { position: fixed; bottom: 20px; left: 20px; max-width: 400px; background: var(--bg-elevated); border: 1px solid var(--accent); padding: 20px; z-index: 1000; box-shadow: 0 10px 30px rgba(0,0,0,0.5); display: flex; flex-direction: column; gap: 12px; }
       .cookie-banner p { margin: 0; font-size: 0.85rem; color: var(--text-muted); line-height: 1.4; }
-      .cookie-btn { align-self: flex-end; background: var(--accent); color: var(--bg); border: none; padding: 8px 16px; font-size: 0.8rem; font-weight: 600; text-transform: uppercase; border-radius: 3px; cursor: pointer; transition: opacity 0.15s ease; }
+      .cookie-btn { align-self: flex-end; background: var(--accent); color: var(--bg); border: noner; padding: 8px 16px; font-size: 0.8rem; font-weight: 600; text-transform: uppercase; border-radius: 3px; cursor: pointer; transition: opacity 0.15s ease; }
       .cookie-btn:hover { opacity: 0.9; }
 
       @media (max-width: 480px) {
