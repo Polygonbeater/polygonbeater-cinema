@@ -1,542 +1,226 @@
 ---
-import Layout from '../../layouts/Layout.astro';
+import Layout from '../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
 
-function getCleanSlug(entry: { id: string }) {
-  return entry.id
-    .replace(/^.*[\\/]/, '')
-    .replace(/\.(mdx?)$/, '')
-    .replace(/^(cz|en)[_-]/i, '');
-}
+const allEssays = await getCollection('essays').catch(() => []);
 
-const allEssays = await getCollection('essays');
-const uniqueSlugs = Array.from(new Set(allEssays.map(getCleanSlug)));
+const uniqueSlugs = Array.from(
+  new Set(
+    allEssays.map(e => {
+      const filename = e.id.replace(/^.*[\\/]/, '').replace(/\.md$/, '');
+      return filename.replace(/^(cz|en)-/, '');
+    })
+  )
+);
 
 const essays = uniqueSlugs.map(slug => {
+  const normalizedId = id => id.replace(/\\/g, '/');
   const czEntry = allEssays.find(e => {
-    const isCz = e.id.includes('cz/') || e.id.startsWith('cz-') || e.data?.lang === 'cs' || e.data?.lang === 'cz';
-    return isCz && getCleanSlug(e) === slug;
-  }) || allEssays.find(e => getCleanSlug(e) === slug);
-
-  const enEntry = allEssays.find(e => {
-    const isEn = e.id.includes('en/') || e.id.startsWith('en-') || e.data?.lang === 'en';
-    return isEn && getCleanSlug(e) === slug;
+    const id = normalizedId(e.id);
+    return id.includes(`cz/cz-${slug}`) || id.endsWith(`cz-${slug}`);
   });
-
-  const titleCs = czEntry?.data.title || enEntry?.data.title || slug;
-  const titleEn = enEntry?.data.title || czEntry?.data.title || slug;
-  const director = czEntry?.data.director || enEntry?.data.director || czEntry?.data.director_name || '';
-  const poster = czEntry?.data.image || enEntry?.data.image || `/images/${slug}.webp`;
-  const excerptCs = czEntry?.data.excerpt || czEntry?.data.description || '';
-  const excerptEn = enEntry?.data.excerpt || enEntry?.data.description || '';
+  const enEntry = allEssays.find(e => {
+    const id = normalizedId(e.id);
+    return id.includes(`en/en-${slug}`) || id.endsWith(`en-${slug}`);
+  });
   
-  // Body esejí záměrně vynecháno – celé texty v DOM atributech by při 430+ eseji
-  // způsobily přetížení parseru. Pro full-text hledání načtěte search-index.json asynchronně.
-  const searchableContent = `${titleCs} ${titleEn} ${director} ${excerptCs} ${excerptEn}`.toLowerCase();
-
   return {
-    slug,
-    poster,
-    date: czEntry?.data.date || enEntry?.data.date || '',
-    year: czEntry?.data.year || enEntry?.data.year || null,
-    director,
-    title: { cs: titleCs, en: titleEn },
-    excerpt: { cs: excerptCs || "Český popisek není k dispozici.", en: excerptEn || "English excerpt not available." },
-    searchableContent,
+    slug: slug,
+    poster: `/images/essays/${slug}.webp`,
+    date: czEntry?.data.date || enEntry?.data.date || '2026-09-02',
+    title: { 
+      cs: czEntry?.data.title || slug, 
+      en: enEntry?.data.title || slug 
+    },
+    excerpt: { 
+      cs: czEntry?.data.excerpt || czEntry?.data.description || "Český popisek není k dispozici.", 
+      en: enEntry?.data.excerpt || enEntry?.data.description || "English excerpt not available." 
+    },
     href: `/essays/${slug}`,
   };
 });
 
-const toTime = (d: string | Date | undefined) => (d ? new Date(d).getTime() : 0);
-essays.sort((a, b) => toTime(b.date) - toTime(a.date));
-
-const directors = Array.from(new Set(essays.map(e => e.director).filter(Boolean))).sort();
-const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+essays.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+const latestEssays = essays.slice(0, 12);
 ---
 
-<Layout title="Archiv esejí — Polygon Beater Cinema">
-  <section class="archive-header">
+<Layout title="Polygon Beater Cinema — Filmové eseje">
+  <section class="hero">
     <div class="wrap">
-      <a href="/" class="back-link">
-        ← <span lang="cs">Zpět na úvod</span><span lang="en">Back to home</span>
-      </a>
-      <h1>
-        <span lang="cs">Archiv všech esejí</span>
-        <span lang="en">All Essays Archive</span>
-      </h1>
-      <p class="lead" lang="cs">Kompletní přehled publikovaných filmových esejí a analýz s možností vyhledávání a filtrování.</p>
-      <p class="lead" lang="en">Complete collection of published film essays and analyses with search and filtering.</p>
-    </div>
-  </section>
+      <div class="hero-text">
+        <p class="eyebrow" lang="cs">Filmové eseje a analýzy</p>
+        <p class="eyebrow" lang="en">Film Essays & Analyses</p>
 
-  <section class="archive-controls wrap">
-    <!-- Vyhledávací lišta a filtr podle režiséra -->
-    <div class="search-bar-row">
-      <div class="search-input-group">
-        <input 
-          type="search" 
-          id="searchInput" 
-          placeholder="Hledat v názvu, režisérovi, textu..." 
-          aria-label="Vyhledat v esejích"
-        />
-        <span class="search-icon" aria-hidden="true">🔍</span>
+        <h1 lang="cs">Kino jako temná místnost pro přemýšlení.</h1>
+        <h1 lang="en">Cinema as a dark room for thinking.</h1>
+
+        <p class="lead" lang="cs">
+          Polygon Beater Cinema je prostor pro hloubkové filmové eseje a analýzy —
+          texty, které se nespokojí s pouhým hodnocením, ale hledají obraz, rytmus
+          a myšlenku ukrytou pod povrchem filmu. Autorský pohled, pevná
+          estetika, žádné kompromisy.
+        </p>
+        <p class="lead" lang="en">
+          Polygon Beater Cinema is a space for in-depth film essays and analyses —
+          writing that isn't satisfied with a verdict, but searches for the
+          image, rhythm, and idea hidden beneath a film's surface. A
+          personal perspective, a distinct aesthetic, no compromises.
+        </p>
       </div>
-
-      {directors.length > 0 && (
-        <div class="director-select-group">
-          <select id="directorSelect" aria-label="Filtr podle režiséra">
-            <option value="" id="directorDefaultOpt">Všichni režiséři</option>
-            {directors.map(dir => (
-              <option value={dir}>{dir}</option>
-            ))}
-          </select>
-        </div>
-      )}
-
-      <button id="resetFiltersBtn" class="reset-btn" type="button">
-        <span lang="cs">Resetovat filtry</span>
-        <span lang="en">Reset filters</span>
-      </button>
-    </div>
-
-    <!-- Abecední lišta (A–Z) -->
-    <div class="alphabet-bar" id="alphabetBar">
-      <button class="alpha-btn active" data-letter="" aria-pressed="true">
-        <span lang="cs">VŠE</span>
-        <span lang="en">ALL</span>
-      </button>
-      {alphabet.map(letter => (
-        <button class="alpha-btn" data-letter={letter} aria-pressed="false">{letter}</button>
-      ))}
-      <button class="alpha-btn" data-letter="NUM" aria-pressed="false">#</button>
-    </div>
-
-    <!-- Počítadlo výsledků -->
-    <div class="results-meta">
-      <span id="resultsCount"></span>
     </div>
   </section>
 
   <section class="essays">
     <div class="wrap">
-      <div class="essay-grid" id="essayGrid">
-        {
-          essays.map((essay) => (
-            <article 
-              class="essay-card hidden"
-              data-title-cs={essay.title.cs.toLowerCase()}
-              data-title-en={essay.title.en.toLowerCase()}
-              data-director={essay.director.toLowerCase()}
-              data-searchable={essay.searchableContent}
-              data-first-letter={essay.title.cs.charAt(0).toUpperCase()}
-              data-first-letter-en={essay.title.en.charAt(0).toUpperCase()}
-            >
-              <a 
-                href={essay.href} 
-                class="essay-poster"
-                aria-label={`Esej: ${essay.title.cs} / ${essay.title.en}`}
-              >
-                <img
-                  src={essay.poster}
-                  alt={`${essay.title.cs} / ${essay.title.en}`}
-                  loading="lazy"
-                  width="600"
-                  height="900"
-                />
-              </a>
+      <h2 lang="cs">Nejnovější texty</h2>
+      <h2 lang="en">Latest Texts</h2>
 
-              <div class="essay-content">
-                <h3>
-                  <span lang="cs">{essay.title.cs}</span>
-                  <span lang="en">{essay.title.en}</span>
-                </h3>
+      {latestEssays.length > 0 ? (
+        <div class="essay-grid">
+          {
+            latestEssays.map((essay) => (
+              <article class="essay-card">
+                <a 
+                  href={essay.href} 
+                  class="essay-poster"
+                  aria-label={`Esej: ${essay.title.cs} / ${essay.title.en}`}
+                >
+                  <img
+                    src={essay.poster}
+                    alt={`${essay.title.cs} / ${essay.title.en}`}
+                    loading="lazy"
+                    width="600"
+                    height="900"
+                  />
+                </a>
 
-                {essay.director && (
-                  <p class="essay-director">
-                    <span aria-hidden="true">🎬 </span>
-                    <span>{essay.director}</span>
-                    {essay.year && <span class="essay-year">({essay.year})</span>}
-                  </p>
-                )}
+                <div class="essay-content">
+                  <h3>
+                    <span lang="cs">{essay.title.cs}</span>
+                    <span lang="en">{essay.title.en}</span>
+                  </h3>
 
-                <p class="essay-excerpt" lang="cs">{essay.excerpt.cs}</p>
-                <p class="essay-excerpt" lang="en">{essay.excerpt.en}</p>
+                  <p class="essay-excerpt" lang="cs">{essay.excerpt.cs}</p>
+                  <p class="essay-excerpt" lang="en">{essay.excerpt.en}</p>
 
-                <div class="essay-action">
-                  <a href={essay.href} class="essay-link">
-                    <span lang="cs">Číst celé →</span>
-                    <span lang="en">Read full →</span>
-                  </a>
+                  <div class="essay-action">
+                    <a 
+                      href={essay.href} 
+                      class="essay-link"
+                      aria-label={`Číst celé: ${essay.title.cs} / Read full: ${essay.title.en}`}
+                    >
+                      <span lang="cs">Číst celé →</span>
+                      <span lang="en">Read full →</span>
+                    </a>
+                  </div>
                 </div>
-              </div>
-            </article>
-          ))
-        }
-      </div>
-
-      <div id="noResults" class="no-results hidden">
-        <p lang="cs">Zadaným kritériím neodpovídá žádná esej.</p>
-        <p lang="en">No essays match your search criteria.</p>
-      </div>
-
-      <!-- Ovládání stránkování -->
-      <nav class="pagination" id="paginationControls" aria-label="Stránkování / Pagination">
-        <button id="prevPageBtn" class="page-nav-btn" type="button" disabled>
-          ← <span lang="cs">Předchozí</span><span lang="en">Previous</span>
-        </button>
-        <div id="pageNumbers" class="page-numbers"></div>
-        <button id="nextPageBtn" class="page-nav-btn" type="button" disabled>
-          <span lang="cs">Další</span><span lang="en">Next</span> →
-        </button>
-      </nav>
+              </article>
+            ))
+          }
+        </div>
+      ) : (
+        <p class="empty-state">
+          <span lang="cs">Žádné texty k zobrazení.</span>
+          <span lang="en">No texts to display.</span>
+        </p>
+      )}
     </div>
   </section>
 </Layout>
 
-<script>
-  document.addEventListener('DOMContentLoaded', () => {
-    const searchInput = document.getElementById('searchInput') as HTMLInputElement | null;
-    const directorSelect = document.getElementById('directorSelect') as HTMLSelectElement | null;
-    const directorDefaultOpt = document.getElementById('directorDefaultOpt');
-    const resetBtn = document.getElementById('resetFiltersBtn');
-    const alphabetBar = document.getElementById('alphabetBar');
-    const alphaButtons = alphabetBar?.querySelectorAll('.alpha-btn') || [];
-    const essayCards = Array.from(document.querySelectorAll('.essay-card')) as HTMLElement[];
-    const resultsCount = document.getElementById('resultsCount');
-    const noResults = document.getElementById('noResults');
-    const paginationControls = document.getElementById('paginationControls');
-    const prevPageBtn = document.getElementById('prevPageBtn') as HTMLButtonElement | null;
-    const nextPageBtn = document.getElementById('nextPageBtn') as HTMLButtonElement | null;
-    const pageNumbers = document.getElementById('pageNumbers');
-
-    const ITEMS_PER_PAGE = 16;
-    let currentPage = 1;
-    let selectedLetter = '';
-    let matchingCards: HTMLElement[] = [];
-
-    function getLang(): 'cs' | 'en' {
-      const htmlLang = document.documentElement.getAttribute('lang') || document.documentElement.getAttribute('data-lang') || 'cs';
-      return htmlLang.toLowerCase().includes('en') ? 'en' : 'cs';
-    }
-
-    function updateLocalizedTexts() {
-      const lang = getLang();
-      
-      // Aktualizace vyhledávacího žolíku
-      if (searchInput) {
-        searchInput.placeholder = lang === 'en' 
-          ? 'Search in title, director, text...' 
-          : 'Hledat v názvu, režisérovi, textu...';
-      }
-
-      // Aktualizace výchozího stavu v rozevíracím seznamu režisérů
-      if (directorDefaultOpt) {
-        directorDefaultOpt.textContent = lang === 'en' ? 'All directors' : 'Všichni režiséři';
-      }
-    }
-
-    let lastRenderedTotalPages = -1;
-
-    function renderPagination(totalPages: number) {
-      if (!pageNumbers || !paginationControls) return;
-
-      if (totalPages <= 1) {
-        paginationControls.style.display = 'none';
-        lastRenderedTotalPages = totalPages;
-        return;
-      }
-
-      paginationControls.style.display = 'flex';
-
-      // Překreslit tlačítka jen pokud se změnil počet stránek
-      if (totalPages !== lastRenderedTotalPages) {
-        pageNumbers.innerHTML = '';
-        for (let i = 1; i <= totalPages; i++) {
-          const btn = document.createElement('button');
-          btn.className = 'page-num-btn';
-          btn.textContent = i.toString();
-          btn.type = 'button';
-          btn.dataset.page = String(i);
-          btn.addEventListener('click', () => {
-            currentPage = i;
-            updateGridDisplay();
-            scrollToGridTop();
-            syncUrl();
-          });
-          pageNumbers.appendChild(btn);
-        }
-        lastRenderedTotalPages = totalPages;
-      }
-
-      // Vždy aktualizovat jen aktivní třídu a disabled stav
-      pageNumbers.querySelectorAll<HTMLButtonElement>('.page-num-btn').forEach(btn => {
-        btn.classList.toggle('active', btn.dataset.page === String(currentPage));
-      });
-
-      if (prevPageBtn) prevPageBtn.disabled = currentPage === 1;
-      if (nextPageBtn) nextPageBtn.disabled = currentPage === totalPages;
-    }
-
-    function scrollToGridTop() {
-      const archiveControls = document.querySelector('.archive-controls');
-      if (archiveControls) {
-        archiveControls.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      }
-    }
-
-    function updateGridDisplay() {
-      const lang = getLang();
-      const totalMatching = matchingCards.length;
-      const totalPages = Math.ceil(totalMatching / ITEMS_PER_PAGE) || 1;
-
-      if (currentPage > totalPages) currentPage = totalPages;
-      if (currentPage < 1) currentPage = 1;
-
-      // Skrýt všechny karty
-      essayCards.forEach(card => card.classList.add('hidden'));
-
-      // Zobrazit pouze karty pro aktuální stránku
-      const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
-      const endIndex = startIndex + ITEMS_PER_PAGE;
-      const pageCards = matchingCards.slice(startIndex, endIndex);
-
-      pageCards.forEach(card => card.classList.remove('hidden'));
-
-      // Aktualizace počítadla
-      if (resultsCount) {
-        if (totalMatching === 0) {
-          resultsCount.textContent = lang === 'en' ? '0 essays found' : 'Nalezeno 0 esejí';
-        } else {
-          resultsCount.textContent = lang === 'en'
-            ? `Showing ${pageCards.length} of ${totalMatching} essays (Page ${currentPage} of ${totalPages})`
-            : `Zobrazeno ${pageCards.length} z ${totalMatching} esejí (Strana ${currentPage} z ${totalPages})`;
-        }
-      }
-
-      // Stav "Nenalezeno"
-      if (noResults) {
-        if (totalMatching === 0) {
-          noResults.classList.remove('hidden');
-        } else {
-          noResults.classList.add('hidden');
-        }
-      }
-
-      renderPagination(totalPages);
-    }
-
-    function filterEssays() {
-      const query = (searchInput?.value || '').toLowerCase().trim();
-      const selectedDirector = (directorSelect?.value || '').toLowerCase().trim();
-
-      const currentLang = getLang();
-      matchingCards = essayCards.filter(card => {
-        const searchable = card.dataset.searchable || '';
-        const director = card.dataset.director || '';
-        // Použij first-letter odpovídající aktivnímu jazyku
-        const firstLetter = (currentLang === 'en'
-          ? card.dataset.firstLetterEn
-          : card.dataset.firstLetter) || '';
-
-        const matchesQuery = !query || searchable.includes(query);
-        const matchesDirector = !selectedDirector || director === selectedDirector;
-
-        let matchesLetter = true;
-        if (selectedLetter) {
-          if (selectedLetter === 'NUM') {
-            matchesLetter = /^[0-9]/.test(firstLetter);
-          } else {
-            matchesLetter = firstLetter === selectedLetter;
-          }
-        }
-
-        return matchesQuery && matchesDirector && matchesLetter;
-      });
-
-      currentPage = 1; // Při změně filtru skočit na 1. stránku
-      updateGridDisplay();
-    }
-
-    // Pomocná funkce pro aktualizaci URL bez přenačtení stránky
-    function syncUrl() {
-      const params = new URLSearchParams();
-      const q = searchInput?.value.trim() || '';
-      const dir = directorSelect?.value || '';
-      if (q) params.set('q', q);
-      if (dir) params.set('director', dir);
-      if (selectedLetter) params.set('letter', selectedLetter);
-      if (currentPage > 1) params.set('page', String(currentPage));
-      const newUrl = params.toString()
-        ? `${location.pathname}?${params}`
-        : location.pathname;
-      history.replaceState(null, '', newUrl);
-    }
-
-    // Načtení stavu z URL při prvním načtení
-    function restoreFromUrl() {
-      const params = new URLSearchParams(location.search);
-      const q = params.get('q') || '';
-      const dir = params.get('director') || '';
-      const letter = params.get('letter') || '';
-      const page = parseInt(params.get('page') || '1', 10);
-
-      if (searchInput && q) searchInput.value = q;
-      if (directorSelect && dir) directorSelect.value = dir;
-      if (letter) {
-        selectedLetter = letter;
-        alphaButtons.forEach(b => {
-          const isActive = (b as HTMLElement).dataset.letter === letter;
-          b.classList.toggle('active', isActive);
-          (b as HTMLElement).setAttribute('aria-pressed', isActive ? 'true' : 'false');
-        });
-      }
-      currentPage = isNaN(page) || page < 1 ? 1 : page;
-    }
-
-    // Debounce pro vyhledávání – nespouštět filterEssays při každém stisku
-    let searchTimer: ReturnType<typeof setTimeout>;
-    searchInput?.addEventListener('input', () => {
-      clearTimeout(searchTimer);
-      searchTimer = setTimeout(() => {
-        filterEssays();
-        syncUrl();
-      }, 200);
-    });
-
-    directorSelect?.addEventListener('change', () => {
-      filterEssays();
-      syncUrl();
-    });
-
-    alphaButtons.forEach(btn => {
-      btn.addEventListener('click', () => {
-        alphaButtons.forEach(b => {
-          b.classList.remove('active');
-          (b as HTMLElement).setAttribute('aria-pressed', 'false');
-        });
-        btn.classList.add('active');
-        (btn as HTMLElement).setAttribute('aria-pressed', 'true');
-        selectedLetter = (btn as HTMLElement).dataset.letter || '';
-        filterEssays();
-        syncUrl();
-      });
-    });
-
-    resetBtn?.addEventListener('click', () => {
-      if (searchInput) searchInput.value = '';
-      if (directorSelect) directorSelect.value = '';
-      selectedLetter = '';
-      alphaButtons.forEach(b => {
-        b.classList.remove('active');
-        (b as HTMLElement).setAttribute('aria-pressed', 'false');
-      });
-      const allBtn = alphabetBar?.querySelector('[data-letter=""]');
-      allBtn?.classList.add('active');
-      (allBtn as HTMLElement | null)?.setAttribute('aria-pressed', 'true');
-      filterEssays();
-      syncUrl();
-    });
-
-    prevPageBtn?.addEventListener('click', () => {
-      if (currentPage > 1) {
-        currentPage--;
-        updateGridDisplay();
-        scrollToGridTop();
-        syncUrl();
-      }
-    });
-
-    nextPageBtn?.addEventListener('click', () => {
-      const totalPages = Math.ceil(matchingCards.length / ITEMS_PER_PAGE);
-      if (currentPage < totalPages) {
-        currentPage++;
-        updateGridDisplay();
-        scrollToGridTop();
-        syncUrl();
-      }
-    });
-
-    // Sledování změny jazyka na stránce
-    const observer = new MutationObserver(() => {
-      updateLocalizedTexts();
-      updateGridDisplay();
-    });
-
-    observer.observe(document.documentElement, {
-      attributes: true,
-      attributeFilter: ['lang', 'data-lang', 'class']
-    });
-
-    // Inicializace – nejdřív obnov stav z URL, pak filtruj
-    restoreFromUrl();
-    updateLocalizedTexts();
-    filterEssays();
-  });
-</script>
-
 <style>
-  .archive-header { padding: 4rem 0 2rem; border-bottom: 1px solid var(--border); }
-  .back-link { display: inline-block; color: var(--text-muted); text-decoration: none; font-size: 0.9rem; margin-bottom: 1.5rem; transition: color 0.15s ease; }
-  .back-link:hover { color: var(--accent); }
-  .archive-header h1 { font-family: var(--font-serif); font-weight: 400; font-size: clamp(2rem, 4vw, 3rem); margin: 0 0 1rem; }
-  .lead { color: var(--text-muted); font-size: 1.05rem; margin: 0; }
-
-  .archive-controls { margin-top: 2.5rem; margin-bottom: 1rem; display: flex; flex-direction: column; gap: 1.5rem; }
-  .search-bar-row { display: flex; gap: 1rem; flex-wrap: wrap; align-items: center; }
-  .search-input-group { position: relative; flex: 1 1 300px; }
-  .search-input-group input { width: 100%; padding: 0.75rem 2.5rem 0.75rem 1rem; background: var(--bg-elevated); border: 1px solid var(--border); border-radius: 4px; color: var(--text); font-size: 0.95rem; font-family: inherit; transition: border-color 0.2s ease; }
-  .search-input-group input:focus { outline: none; border-color: var(--accent); }
-  .search-icon { position: absolute; right: 0.8rem; top: 50%; transform: translateY(-50%); opacity: 0.5; pointer-events: none; }
-
-  .director-select-group select { padding: 0.75rem 1rem; background: var(--bg-elevated); border: 1px solid var(--border); border-radius: 4px; color: var(--text); font-size: 0.95rem; font-family: inherit; cursor: pointer; transition: border-color 0.2s ease; }
-  .director-select-group select:focus { outline: none; border-color: var(--accent); }
-
-  .reset-btn { padding: 0.75rem 1.2rem; background: transparent; border: 1px solid var(--border); color: var(--text-muted); border-radius: 4px; font-size: 0.85rem; cursor: pointer; transition: all 0.2s ease; font-family: inherit; }
-  .reset-btn:hover { border-color: var(--accent); color: var(--accent); }
-
-  .alphabet-bar { display: flex; flex-wrap: wrap; gap: 0.35rem; padding-top: 0.5rem; border-top: 1px solid var(--border); }
-  .alpha-btn { background: var(--bg-elevated); border: 1px solid var(--border); color: var(--text-muted); padding: 0.35rem 0.65rem; font-size: 0.8rem; border-radius: 3px; cursor: pointer; transition: all 0.15s ease; font-family: inherit; }
-  .alpha-btn:hover, .alpha-btn.active { background: var(--accent); color: var(--bg); border-color: var(--accent); font-weight: bold; }
-
-  .results-meta { font-size: 0.85rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; margin-top: -0.5rem; }
-
-  .essays { padding: 2rem 0 6rem; }
-  .essay-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 1.5rem; align-items: stretch; }
-  .essay-card { display: flex; flex-direction: column; background: var(--bg-elevated); border: 1px solid var(--border); border-radius: 4px; padding: 1rem; transition: border-color 0.2s ease, opacity 0.2s ease; }
-  .essay-card.hidden { display: none !important; }
-  .essay-card:hover { border-color: var(--accent); }
-  .essay-poster { display: block; width: 100%; overflow: hidden; border-radius: 2px; border: 1px solid var(--border); margin-bottom: 1rem; text-decoration: none; }
-  .essay-poster img { width: 100%; height: auto; aspect-ratio: 2 / 3; object-fit: cover; filter: grayscale(0.15) contrast(1.05); transition: filter 0.25s ease, transform 0.25s ease; }
-  .essay-card:hover .essay-poster img { filter: grayscale(0) contrast(1.1); transform: scale(1.02); }
-  .essay-content { display: flex; flex-direction: column; flex-grow: 1; }
-  .essay-content h3 { font-family: var(--font-serif); font-weight: 400; font-size: 1.05rem; line-height: 1.3; margin: 0 0 0.3rem; }
-  .essay-director { font-size: 0.78rem; color: var(--accent); margin: 0 0 0.6rem; opacity: 0.9; }
-  .essay-excerpt { color: var(--text-muted); font-size: 0.82rem; line-height: 1.4; margin: 0 0 1rem; flex-grow: 1; }
-  .essay-action { margin-top: auto; }
-  .essay-link { text-decoration: none; font-size: 0.8rem; letter-spacing: 0.03em; color: var(--accent); border-bottom: 1px solid transparent; transition: border-color 0.15s ease; }
+  .hero { padding: 6rem 0 5rem; border-bottom: 1px solid var(--border); }
+  .eyebrow { text-transform: uppercase; letter-spacing: 0.18em; font-size: 0.75rem; color: var(--accent); margin: 0 0 1rem; }
+  .hero h1 { font-family: var(--font-serif); font-weight: 400; font-size: clamp(2rem, 4vw, 3.2rem); line-height: 1.2; margin: 0 0 1.5rem; max-width: 22ch; }
+  .lead { color: var(--text-muted); font-size: 1.05rem; max-width: 65ch; margin: 0; }
+  
+  .essays { padding: 5rem 0 6rem; }
+  .essays h2 { 
+    font-family: var(--font-serif); 
+    font-weight: 400; 
+    font-size: 1.6rem; 
+    margin: 0 0 2.5rem; 
+    border-left: 3px solid var(--accent); 
+    padding-left: 0.75rem; 
+    background: none !important;
+  }
+  
+  .essay-grid { 
+    display: grid; 
+    grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); 
+    gap: 1.5rem; 
+    align-items: stretch;
+  }
+  
+  .essay-card { 
+    display: flex; 
+    flex-direction: column; 
+    background: var(--bg-elevated); 
+    border: 1px solid var(--border); 
+    border-radius: 4px; 
+    padding: 1rem; 
+    transition: border-color 0.2s ease;
+  }
+  .essay-card:hover {
+    border-color: var(--accent);
+  }
+  
+  .essay-poster { 
+    display: block;
+    width: 100%; 
+    overflow: hidden; 
+    border-radius: 2px; 
+    border: 1px solid var(--border); 
+    margin-bottom: 1rem; 
+    text-decoration: none;
+  }
+  .essay-poster img { 
+    width: 100%; 
+    height: auto; 
+    aspect-ratio: 2 / 3; 
+    object-fit: cover; 
+    filter: grayscale(0.15) contrast(1.05); 
+    transition: filter 0.25s ease, transform 0.25s ease; 
+  }
+  .essay-card:hover .essay-poster img { 
+    filter: grayscale(0) contrast(1.1); 
+    transform: scale(1.02); 
+  }
+  
+  .essay-content { 
+    display: flex; 
+    flex-direction: column; 
+    flex-grow: 1;
+  }
+  .essay-content h3 { 
+    font-family: var(--font-serif); 
+    font-weight: 400; 
+    font-size: 1.05rem; 
+    line-height: 1.3;
+    margin: 0 0 0.5rem; 
+  }
+  .essay-excerpt { 
+    color: var(--text-muted); 
+    font-size: 0.82rem; 
+    line-height: 1.4;
+    margin: 0 0 1rem; 
+    flex-grow: 1;
+  }
+  .essay-action { 
+    margin-top: auto;
+  }
+  .essay-link { 
+    text-decoration: none; 
+    font-size: 0.8rem; 
+    letter-spacing: 0.03em; 
+    color: var(--accent); 
+    border-bottom: 1px solid transparent; 
+    transition: border-color 0.15s ease; 
+  }
   .essay-link:hover { border-color: var(--accent); }
 
-  .no-results { text-align: center; padding: 4rem 1rem; color: var(--text-muted); font-size: 1.1rem; background: var(--bg-elevated); border: 1px solid var(--border); border-radius: 4px; margin-top: 2rem; }
-  .no-results.hidden { display: none; }
-
-  /* Stránkování */
-  .pagination { display: flex; justify-content: center; align-items: center; gap: 0.5rem; margin-top: 3rem; flex-wrap: wrap; }
-  .page-nav-btn { background: var(--bg-elevated); border: 1px solid var(--border); color: var(--text); padding: 0.6rem 1.2rem; font-size: 0.85rem; border-radius: 4px; cursor: pointer; transition: all 0.2s ease; font-family: inherit; }
-  .page-nav-btn:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
-  .page-nav-btn:disabled { opacity: 0.3; cursor: not-allowed; }
-
-  .page-numbers { display: flex; gap: 0.35rem; flex-wrap: wrap; }
-  .page-num-btn { background: var(--bg-elevated); border: 1px solid var(--border); color: var(--text-muted); min-width: 38px; height: 38px; font-size: 0.85rem; border-radius: 4px; cursor: pointer; transition: all 0.2s ease; font-family: inherit; display: flex; align-items: center; justify-content: center; }
-  .page-num-btn:hover, .page-num-btn.active { background: var(--accent); color: var(--bg); border-color: var(--accent); font-weight: bold; }
-
-  .essay-year { color: var(--text-muted); font-size: 0.75rem; margin-left: 0.25rem; }
-
-  @media (prefers-reduced-motion: reduce) {
-    .essay-poster img,
-    .essay-card,
-    .back-link,
-    .alpha-btn,
-    .reset-btn,
-    .archive-nav-btn { transition: none; }
+  .empty-state {
+    color: var(--text-muted);
+    font-style: italic;
   }
 </style>

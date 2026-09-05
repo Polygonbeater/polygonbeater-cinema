@@ -111,9 +111,13 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
       <button class="alpha-btn" data-letter="NUM" aria-pressed="false">#</button>
     </div>
 
-    <!-- Počítadlo výsledků -->
+    <!-- Počítadlo výsledků + loading indikátor -->
     <div class="results-meta">
       <span id="resultsCount"></span>
+      <span id="searchLoading" class="search-loading" hidden>
+        <span lang="cs">Načítám full-text…</span>
+        <span lang="en">Loading full-text…</span>
+      </span>
     </div>
   </section>
 
@@ -124,6 +128,7 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
           essays.map((essay) => (
             <article 
               class="essay-card hidden"
+              data-slug={essay.slug}
               data-title-cs={essay.title.cs.toLowerCase()}
               data-title-en={essay.title.en.toLowerCase()}
               data-director={essay.director.toLowerCase()}
@@ -194,6 +199,10 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 </Layout>
 
 <script>
+  // Fuse.js načteme z CDN jen pokud ho potřebujeme
+  // (neinstalujeme jako npm balíček – šetříme bundle size)
+  const FUSE_CDN = 'https://cdn.jsdelivr.net/npm/fuse.js@7/dist/fuse.min.js';
+
   document.addEventListener('DOMContentLoaded', () => {
     const searchInput = document.getElementById('searchInput') as HTMLInputElement | null;
     const directorSelect = document.getElementById('directorSelect') as HTMLSelectElement | null;
@@ -208,28 +217,97 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
     const prevPageBtn = document.getElementById('prevPageBtn') as HTMLButtonElement | null;
     const nextPageBtn = document.getElementById('nextPageBtn') as HTMLButtonElement | null;
     const pageNumbers = document.getElementById('pageNumbers');
+    const searchLoading = document.getElementById('searchLoading');
 
     const ITEMS_PER_PAGE = 16;
     let currentPage = 1;
     let selectedLetter = '';
     let matchingCards: HTMLElement[] = [];
 
+    // --- Full-text search stav ---
+    type FuseInstance = any;
+    let fuse: FuseInstance | null = null;
+    let fuseLoading = false;
+    let fuseReady = false;
+    // Sady slugů nalezených full-textem (null = index ještě nenačten)
+    let fullTextSlugs: Set<string> | null = null;
+
     function getLang(): 'cs' | 'en' {
-      const htmlLang = document.documentElement.getAttribute('lang') || document.documentElement.getAttribute('data-lang') || 'cs';
+      const htmlLang = document.documentElement.getAttribute('lang')
+        || document.documentElement.getAttribute('data-lang') || 'cs';
       return htmlLang.toLowerCase().includes('en') ? 'en' : 'cs';
+    }
+
+    function setLoadingIndicator(visible: boolean) {
+      if (!searchLoading) return;
+      searchLoading.hidden = !visible;
+    }
+
+    // Načte Fuse.js z CDN a pak search-index.json – pouze jednou
+    async function loadFuse() {
+      if (fuseReady || fuseLoading) return;
+      fuseLoading = true;
+      setLoadingIndicator(true);
+
+      try {
+        // 1. Načti Fuse.js z CDN pokud ještě není
+        if (!(window as any).Fuse) {
+          await new Promise<void>((resolve, reject) => {
+            const script = document.createElement('script');
+            script.src = FUSE_CDN;
+            script.onload = () => resolve();
+            script.onerror = () => reject(new Error('Fuse.js load failed'));
+            document.head.appendChild(script);
+          });
+        }
+
+        // 2. Načti search index
+        const res = await fetch('/search-index.json');
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
+
+        // 3. Vytvoř Fuse instanci – klíče odpovídají search-index.json.ts
+        fuse = new (window as any).Fuse(data, {
+          keys: [
+            { name: 'title_cs',  weight: 0.25 },
+            { name: 'title_en',  weight: 0.25 },
+            { name: 'director',  weight: 0.15 },
+            { name: 'body_cs',   weight: 0.175 },
+            { name: 'body_en',   weight: 0.175 },
+          ],
+          threshold: 0.35,
+          minMatchCharLength: 3,
+          includeScore: true,
+          ignoreLocation: true,
+        });
+
+        fuseReady = true;
+      } catch (err) {
+        console.warn('[Search] Nepodařilo se načíst full-text index:', err);
+        // Fallback – DOM search bude fungovat dál
+        fuseReady = false;
+      } finally {
+        fuseLoading = false;
+        setLoadingIndicator(false);
+        // Spusť filtrování znovu s načteným indexem
+        filterEssays();
+      }
+    }
+
+    // Spustí full-text vyhledávání přes Fuse a vrátí Set slugů
+    function runFullTextSearch(query: string): Set<string> | null {
+      if (!fuseReady || !fuse || query.length < 3) return null;
+      const results = fuse.search(query);
+      return new Set(results.map((r: any) => r.item.slug as string));
     }
 
     function updateLocalizedTexts() {
       const lang = getLang();
-      
-      // Aktualizace vyhledávacího žolíku
       if (searchInput) {
-        searchInput.placeholder = lang === 'en' 
-          ? 'Search in title, director, text...' 
+        searchInput.placeholder = lang === 'en'
+          ? 'Search in title, director, text...'
           : 'Hledat v názvu, režisérovi, textu...';
       }
-
-      // Aktualizace výchozího stavu v rozevíracím seznamu režisérů
       if (directorDefaultOpt) {
         directorDefaultOpt.textContent = lang === 'en' ? 'All directors' : 'Všichni režiséři';
       }
@@ -248,7 +326,6 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 
       paginationControls.style.display = 'flex';
 
-      // Překreslit tlačítka jen pokud se změnil počet stránek
       if (totalPages !== lastRenderedTotalPages) {
         pageNumbers.innerHTML = '';
         for (let i = 1; i <= totalPages; i++) {
@@ -268,7 +345,6 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
         lastRenderedTotalPages = totalPages;
       }
 
-      // Vždy aktualizovat jen aktivní třídu a disabled stav
       pageNumbers.querySelectorAll<HTMLButtonElement>('.page-num-btn').forEach(btn => {
         btn.classList.toggle('active', btn.dataset.page === String(currentPage));
       });
@@ -278,10 +354,8 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
     }
 
     function scrollToGridTop() {
-      const archiveControls = document.querySelector('.archive-controls');
-      if (archiveControls) {
-        archiveControls.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      }
+      document.querySelector('.archive-controls')
+        ?.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
 
     function updateGridDisplay() {
@@ -292,34 +366,25 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
       if (currentPage > totalPages) currentPage = totalPages;
       if (currentPage < 1) currentPage = 1;
 
-      // Skrýt všechny karty
       essayCards.forEach(card => card.classList.add('hidden'));
 
-      // Zobrazit pouze karty pro aktuální stránku
       const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
-      const endIndex = startIndex + ITEMS_PER_PAGE;
-      const pageCards = matchingCards.slice(startIndex, endIndex);
-
+      const pageCards = matchingCards.slice(startIndex, startIndex + ITEMS_PER_PAGE);
       pageCards.forEach(card => card.classList.remove('hidden'));
 
-      // Aktualizace počítadla
       if (resultsCount) {
         if (totalMatching === 0) {
           resultsCount.textContent = lang === 'en' ? '0 essays found' : 'Nalezeno 0 esejí';
         } else {
+          const source = fuseReady ? (lang === 'en' ? ' (full-text)' : ' (full-text)') : '';
           resultsCount.textContent = lang === 'en'
-            ? `Showing ${pageCards.length} of ${totalMatching} essays (Page ${currentPage} of ${totalPages})`
-            : `Zobrazeno ${pageCards.length} z ${totalMatching} esejí (Strana ${currentPage} z ${totalPages})`;
+            ? `Showing ${pageCards.length} of ${totalMatching} essays${source} (Page ${currentPage} of ${totalPages})`
+            : `Zobrazeno ${pageCards.length} z ${totalMatching} esejí${source} (Strana ${currentPage} z ${totalPages})`;
         }
       }
 
-      // Stav "Nenalezeno"
       if (noResults) {
-        if (totalMatching === 0) {
-          noResults.classList.remove('hidden');
-        } else {
-          noResults.classList.add('hidden');
-        }
+        noResults.classList.toggle('hidden', totalMatching > 0);
       }
 
       renderPagination(totalPages);
@@ -328,42 +393,52 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
     function filterEssays() {
       const query = (searchInput?.value || '').toLowerCase().trim();
       const selectedDirector = (directorSelect?.value || '').toLowerCase().trim();
-
       const currentLang = getLang();
+
+      // Full-text výsledky – null pokud index ještě není načten nebo dotaz příliš krátký
+      fullTextSlugs = runFullTextSearch(query);
+
       matchingCards = essayCards.filter(card => {
         const searchable = card.dataset.searchable || '';
-        const director = card.dataset.director || '';
-        // Použij first-letter odpovídající aktivnímu jazyku
+        const director   = card.dataset.director   || '';
+        const slug       = card.dataset.slug        || '';
         const firstLetter = (currentLang === 'en'
           ? card.dataset.firstLetterEn
           : card.dataset.firstLetter) || '';
 
-        const matchesQuery = !query || searchable.includes(query);
+        let matchesQuery = true;
+        if (query) {
+          if (fullTextSlugs !== null) {
+            // Index načten – kombinuj DOM search i full-text
+            matchesQuery = searchable.includes(query) || fullTextSlugs.has(slug);
+          } else {
+            // Index ještě nenačten – použij jen DOM search
+            matchesQuery = searchable.includes(query);
+          }
+        }
+
         const matchesDirector = !selectedDirector || director === selectedDirector;
 
         let matchesLetter = true;
         if (selectedLetter) {
-          if (selectedLetter === 'NUM') {
-            matchesLetter = /^[0-9]/.test(firstLetter);
-          } else {
-            matchesLetter = firstLetter === selectedLetter;
-          }
+          matchesLetter = selectedLetter === 'NUM'
+            ? /^[0-9]/.test(firstLetter)
+            : firstLetter === selectedLetter;
         }
 
         return matchesQuery && matchesDirector && matchesLetter;
       });
 
-      currentPage = 1; // Při změně filtru skočit na 1. stránku
+      currentPage = 1;
       updateGridDisplay();
     }
 
-    // Pomocná funkce pro aktualizaci URL bez přenačtení stránky
     function syncUrl() {
       const params = new URLSearchParams();
-      const q = searchInput?.value.trim() || '';
+      const q   = searchInput?.value.trim() || '';
       const dir = directorSelect?.value || '';
-      if (q) params.set('q', q);
-      if (dir) params.set('director', dir);
+      if (q)             params.set('q', q);
+      if (dir)           params.set('director', dir);
       if (selectedLetter) params.set('letter', selectedLetter);
       if (currentPage > 1) params.set('page', String(currentPage));
       const newUrl = params.toString()
@@ -372,15 +447,14 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
       history.replaceState(null, '', newUrl);
     }
 
-    // Načtení stavu z URL při prvním načtení
     function restoreFromUrl() {
       const params = new URLSearchParams(location.search);
-      const q = params.get('q') || '';
-      const dir = params.get('director') || '';
-      const letter = params.get('letter') || '';
-      const page = parseInt(params.get('page') || '1', 10);
+      const q      = params.get('q')        || '';
+      const dir    = params.get('director') || '';
+      const letter = params.get('letter')   || '';
+      const page   = parseInt(params.get('page') || '1', 10);
 
-      if (searchInput && q) searchInput.value = q;
+      if (searchInput && q)   searchInput.value   = q;
       if (directorSelect && dir) directorSelect.value = dir;
       if (letter) {
         selectedLetter = letter;
@@ -393,10 +467,17 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
       currentPage = isNaN(page) || page < 1 ? 1 : page;
     }
 
-    // Debounce pro vyhledávání – nespouštět filterEssays při každém stisku
+    // Načti Fuse.js + index při prvním focusu na search (lazy)
+    searchInput?.addEventListener('focus', loadFuse, { once: true });
+
+    // Debounce search
     let searchTimer: ReturnType<typeof setTimeout>;
     searchInput?.addEventListener('input', () => {
       clearTimeout(searchTimer);
+      // Pokud index ještě není načten a query >= 3 znaky, spusť načítání
+      if (!fuseReady && !fuseLoading && (searchInput?.value.trim().length ?? 0) >= 3) {
+        loadFuse();
+      }
       searchTimer = setTimeout(() => {
         filterEssays();
         syncUrl();
@@ -423,7 +504,7 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
     });
 
     resetBtn?.addEventListener('click', () => {
-      if (searchInput) searchInput.value = '';
+      if (searchInput)   searchInput.value   = '';
       if (directorSelect) directorSelect.value = '';
       selectedLetter = '';
       alphaButtons.forEach(b => {
@@ -456,18 +537,16 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
       }
     });
 
-    // Sledování změny jazyka na stránce
     const observer = new MutationObserver(() => {
       updateLocalizedTexts();
       updateGridDisplay();
     });
-
     observer.observe(document.documentElement, {
       attributes: true,
-      attributeFilter: ['lang', 'data-lang', 'class']
+      attributeFilter: ['lang', 'data-lang', 'class'],
     });
 
-    // Inicializace – nejdřív obnov stav z URL, pak filtruj
+    // Inicializace
     restoreFromUrl();
     updateLocalizedTexts();
     filterEssays();
@@ -498,7 +577,9 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
   .alpha-btn { background: var(--bg-elevated); border: 1px solid var(--border); color: var(--text-muted); padding: 0.35rem 0.65rem; font-size: 0.8rem; border-radius: 3px; cursor: pointer; transition: all 0.15s ease; font-family: inherit; }
   .alpha-btn:hover, .alpha-btn.active { background: var(--accent); color: var(--bg); border-color: var(--accent); font-weight: bold; }
 
-  .results-meta { font-size: 0.85rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; margin-top: -0.5rem; }
+  .results-meta { font-size: 0.85rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; margin-top: -0.5rem; display: flex; align-items: center; gap: 1rem; }
+  .search-loading { font-size: 0.8rem; color: var(--accent); opacity: 0.8; animation: pulse 1.2s ease-in-out infinite; }
+  @keyframes pulse { 0%, 100% { opacity: 0.4; } 50% { opacity: 1; } }
 
   .essays { padding: 2rem 0 6rem; }
   .essay-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 1.5rem; align-items: stretch; }
