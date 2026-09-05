@@ -8,7 +8,7 @@ export async function getStaticPaths() {
   function getCleanSlug(entry: { id: string }) {
     return entry.id
       .replace(/^.*[\\/]/, '')
-      .replace(/\.(mdx?)$/, '')
+      .replace(/\.(md|mdx)$/, '')
       .replace(/^(cz|en)[_-]/i, '');
   }
 
@@ -18,11 +18,7 @@ export async function getStaticPaths() {
     const czEntry = allEssays.find(e => {
       const isCz = e.id.includes('cz/') || e.id.startsWith('cz-') || e.data?.lang === 'cs' || e.data?.lang === 'cz';
       return isCz && getCleanSlug(e) === slug;
-    }) || allEssays.find(e => {
-      // Explicitní fallback: slug se shoduje a soubor leží mimo en/ složku
-      const isExplicitlyEn = e.id.includes('en/') || e.id.startsWith('en-') || e.data?.lang === 'en';
-      return !isExplicitlyEn && getCleanSlug(e) === slug;
-    });
+    }) || allEssays.find(e => getCleanSlug(e) === slug && !e.id.includes('en'));
 
     const enEntry = allEssays.find(e => {
       const isEn = e.id.includes('en/') || e.id.startsWith('en-') || e.data?.lang === 'en';
@@ -39,7 +35,7 @@ export async function getStaticPaths() {
 const { czEntry, enEntry, slug } = Astro.props;
 
 if (!czEntry && !enEntry) {
-  return Astro.redirect('/404', 302);
+  throw new Error(`Esej nebyla nalezena!`);
 }
 
 const czRendered = czEntry ? await render(czEntry) : null;
@@ -100,15 +96,19 @@ const poster = czEntry?.data.image || enEntry?.data.image || `/images/${slug}.we
 const metaCs = parseFilmMeta(czEntry || enEntry, titleCs, 'cz');
 const metaEn = parseFilmMeta(enEntry || czEntry, titleEn, 'en');
 
+const pageTitle = titleCs;
+const pageDescription = czEntry?.data.description || enEntry?.data.description || "";
+
 const siteUrl = "https://cinema.polygonbeater.eu";
 const posterAbsolute = new URL(poster, siteUrl).href;
 ---
 
 <Layout 
-  title={`${titleCs} / ${titleEn} — Polygon Beater Cinema`} 
-  description={czEntry?.data.description || enEntry?.data.description || ""} 
+  title={pageTitle} 
+  description={pageDescription} 
   image={posterAbsolute} 
   type="article"
+  datePublished={czEntry?.data.date ? new Date(czEntry.data.date as string | Date).toISOString().split('T')[0] : undefined}
 >
   <div id="readProgress" class="read-progress" aria-hidden="true"></div>
 
@@ -123,27 +123,15 @@ const posterAbsolute = new URL(poster, siteUrl).href;
         <h1>{titleCs}</h1>
         <div class="film-meta-bar">
           {metaCs.movieTitle && (
-            <div class="meta-chip">
-              <span class="meta-label">Film</span>
-              <span class="meta-val"><span aria-hidden="true">🎬 </span>{metaCs.movieTitle}</span>
-            </div>
+            <div class="meta-chip"><span class="meta-label">Film</span><span class="meta-val">🎬 {metaCs.movieTitle}</span></div>
           )}
           {metaCs.director && (
-            <div class="meta-chip">
-              <span class="meta-label">Režie</span>
-              <span class="meta-val"><span aria-hidden="true">👤 </span>{metaCs.director}</span>
-            </div>
+            <div class="meta-chip"><span class="meta-label">Režie</span><span class="meta-val">👤 {metaCs.director}</span></div>
           )}
           {metaCs.year && (
-            <div class="meta-chip">
-              <span class="meta-label">Rok</span>
-              <span class="meta-val"><span aria-hidden="true">📅 </span>{metaCs.year}</span>
-            </div>
+            <div class="meta-chip"><span class="meta-label">Rok</span><span class="meta-val">📅 {metaCs.year}</span></div>
           )}
-          <div class="meta-chip">
-            <span class="meta-label">Čtení</span>
-            <span class="meta-val"><span aria-hidden="true">⏱️ </span>~{metaCs.readingTime} min</span>
-          </div>
+          <div class="meta-chip"><span class="meta-label">Čtení</span><span class="meta-val">⏱️ ~{metaCs.readingTime} min</span></div>
         </div>
       </div>
 
@@ -152,34 +140,22 @@ const posterAbsolute = new URL(poster, siteUrl).href;
         <h1>{titleEn}</h1>
         <div class="film-meta-bar">
           {metaEn.movieTitle && (
-            <div class="meta-chip">
-              <span class="meta-label">Movie</span>
-              <span class="meta-val"><span aria-hidden="true">🎬 </span>{metaEn.movieTitle}</span>
-            </div>
+            <div class="meta-chip"><span class="meta-label">Movie</span><span class="meta-val">🎬 {metaEn.movieTitle}</span></div>
           )}
           {metaEn.director && (
-            <div class="meta-chip">
-              <span class="meta-label">Director</span>
-              <span class="meta-val"><span aria-hidden="true">👤 </span>{metaEn.director}</span>
-            </div>
+            <div class="meta-chip"><span class="meta-label">Director</span><span class="meta-val">👤 {metaEn.director}</span></div>
           )}
           {metaEn.year && (
-            <div class="meta-chip">
-              <span class="meta-label">Year</span>
-              <span class="meta-val"><span aria-hidden="true">📅 </span>{metaEn.year}</span>
-            </div>
+            <div class="meta-chip"><span class="meta-label">Year</span><span class="meta-val">📅 {metaEn.year}</span></div>
           )}
-          <div class="meta-chip">
-            <span class="meta-label">Read</span>
-            <span class="meta-val"><span aria-hidden="true">⏱️ </span>~{metaEn.readingTime} min</span>
-          </div>
+          <div class="meta-chip"><span class="meta-label">Read</span><span class="meta-val">⏱️ ~{metaEn.readingTime} min</span></div>
         </div>
       </div>
     </header>
 
     <div class="essay-wrapper">
       <div class="essay-poster-block">
-        <img src={poster} alt={titleCs} width="280" height="420" loading="eager" fetchpriority="high" />
+        <img src={poster} alt={titleCs} width="280" height="420" loading="eager" />
         <div class="poster-caption">
           <span lang="cs">Studijní materiál</span>
           <span lang="en">Educational material</span>

@@ -4,13 +4,15 @@ interface Props {
   description?: string;
   image?: string;
   type?: 'website' | 'article';
+  datePublished?: string;
 }
 
 const { 
   title = "Polygon Beater Cinema — Filmové eseje a analýzy", 
   description = "Polygon Beater Cinema — autorský archiv filmových esejů a analýz o kinematografii, estetice a temných zákoutích filmové historie.",
   image = "/Polygon_Beater_Cinema.jpeg",
-  type = "website"
+  type = "website",
+  datePublished,
 } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site || "https://cinema.polygonbeater.eu");
@@ -34,7 +36,8 @@ const jsonLd = type === "article" ? {
   "description": description,
   "url": canonicalURL.toString(),
   "image": imageUrl,
-  "inLanguage": "cs",
+  "inLanguage": ["cs", "en"],
+  ...(datePublished ? { "datePublished": datePublished } : {}),
   "author": {
     "@type": "Person",
     "name": "Vítězslav Koneval",
@@ -51,7 +54,7 @@ const jsonLd = type === "article" ? {
   "name": title,
   "description": description,
   "url": canonicalURL.toString(),
-  "inLanguage": "cs",
+  "inLanguage": ["cs", "en"],
   "publisher": {
     "@type": "Organization",
     "name": "Polygon Beater Cinema",
@@ -72,6 +75,11 @@ const jsonLd = type === "article" ? {
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalURL.toString()} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <!-- Hreflang pro dvojjazyčný obsah na stejné URL -->
+    <link rel="alternate" hreflang="cs" href={canonicalURL.toString()} />
+    <link rel="alternate" hreflang="en" href={canonicalURL.toString()} />
+    <link rel="alternate" hreflang="x-default" href={canonicalURL.toString()} />
 
     <script is:inline>
       (function() {
@@ -94,11 +102,15 @@ const jsonLd = type === "article" ? {
 
     <meta property="og:site_name" content="Polygon Beater Cinema" />
     <meta property="og:locale" content="cs_CZ" />
+    <meta property="og:locale:alternate" content="en_US" />
     <meta property="og:type" content={type} />
     <meta property="og:url" content={canonicalURL.toString()} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:image" content={imageUrl} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    {datePublished && <meta property="article:published_time" content={datePublished} />}
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
@@ -114,28 +126,12 @@ const jsonLd = type === "article" ? {
     <header class="site-header">
       <div class="wrap header-inner">
         <div class="logo-group">
-          <!-- Vlastní zlaté logo v křivkách -->
           <svg class="static-logo-icon" viewBox="0 0 529.16666 529.16667" width="32" height="32" fill="none" stroke="currentColor" aria-hidden="true">
             <g transform="matrix(0.26458333,0,0,0.26458333,114.1671,19.21975)" style="fill:#c9a24b;fill-opacity:1">
               <g transform="matrix(3.2645089,0,0,3.2645089,-282.76572,-951.67983)" style="fill:#c9a24b;fill-opacity:1">
-                <path
-                  fill-rule="evenodd"
-                  stroke="none"
-                  fill="#c9a24b"
-                  d="m 97.585,698.689 h 3.465 109.332 v 34.716 l 0.367,1.842 1.043,1.561 1.562,1.043 1.841,0.367 h 34.924 l 1.842,-0.367 1.562,-1.043 1.043,-1.561 0.366,-1.842 v -34.716 h 109.667 3.259 l 1.842,-0.367 1.561,-1.043 1.043,-1.561 0.367,-1.842 V 671.13 654.082 h -8.072 V 671.13 H 254.932 232.657 210.382 101.05 V 488.171 h 64.363 v -7.876 H 101.05 97.585 l -1.842,0.366 -1.561,1.043 -1.044,1.562 -0.366,1.842 v 3.063 182.959 22.746 l 0.366,1.842 1.044,1.561 1.561,1.043 z"
-                />
-                <path
-                  fill-rule="evenodd"
-                  stroke="none"
-                  fill="#c9a24b"
-                  d="m 177.419,580.837 30.348,30.454 30.349,30.455 v -55.255 l -0.431,-2.164 -1.225,-1.834 -1.835,-1.226 -2.164,-0.43 z"
-                />
-                <path
-                  fill-rule="evenodd"
-                  stroke="none"
-                  fill="#c9a24b"
-                  d="m 383.906,412.974 h -61.179 -61.179 -79.521 l -1.88,0.374 -1.594,1.066 -1.065,1.594 -0.374,1.88 v 63.734 88.276 h 55.489 l 3.678,0.472 3.004,0.857 3.169,1.7 2.495,2.085 2.229,2.64 1.556,3.024 1.001,3.149 0.328,3.533 v 54.94 h 11.485 61.179 61.179 39.937 l 1.881,-0.374 1.594,-1.065 1.065,-1.594 0.374,-1.881 v -69.899 -72.47 -6.956 -6.437 -63.734 l -0.374,-1.88 -1.065,-1.594 -1.594,-1.066 -1.881,-0.374 h -39.937 l -144.835,269.547 0.126,1.276 -0.126,1.276 -0.372,1.227 -0.604,1.13 -0.813,0.991 -0.991,0.814 -1.131,0.604 -1.227,0.372 -1.276,0.126 -1.275,-0.126 -1.227,-0.372 -1.131,-0.604 -0.991,-0.814 -0.813,-0.991 -0.605,-1.13 -0.372,-1.227 -0.125,-1.276 0.125,-1.276 0.372,-1.227 0.605,-1.13 0.813,-0.991 0.991,-0.813 1.131,-0.605 1.227,-0.372 1.275,-0.126 1.276,0.126 1.227,0.372 1.131,0.605 0.991,0.813 0.813,0.991 0.604,1.13 0.372,1.227 z m -61.179,44.994 56.053,27.595 1.576,1.154 0.4,0.687 0.164,0.688 -0.149,0.694 -0.384,0.694 -1.55,1.188 -56.11,28.875 -56.109,-28.875 -1.55,-1.188 -0.378,-0.694 -0.156,-0.694 0.172,-0.688 0.392,-0.687 1.576,-1.154 z m 61.179,109.517 -61.179,30.605 -61.179,-30.605 v -60.541 l 0.195,-1.08 0.243,-0.912 0.507,-0.736 0.555,-0.57 0.831,-0.295 0.83,-0.128 0.98,0.179 0.98,0.347 52.524,25.715 0.811,0.305 0.81,0.225 0.957,0.134 0.956,0.052 0.957,-0.052 0.956,-0.134 0.811,-0.225 0.811,-0.305 52.524,-25.715 0.979,-0.344 0.98,-0.182 0.831,0.102 0.831,0.321 0.612,0.492 0.498,0.814 0.253,0.996 0.136,0.996 z"
-                />
+                <path fill-rule="evenodd" stroke="none" fill="#c9a24b" d="m 97.585,698.689 h 3.465 109.332 v 34.716 l 0.367,1.842 1.043,1.561 1.562,1.043 1.841,0.367 h 34.924 l 1.842,-0.367 1.562,-1.043 1.043,-1.561 0.366,-1.842 v -34.716 h 109.667 3.259 l 1.842,-0.367 1.561,-1.043 1.043,-1.561 0.367,-1.842 V 671.13 654.082 h -8.072 V 671.13 H 254.932 232.657 210.382 101.05 V 488.171 h 64.363 v -7.876 H 101.05 97.585 l -1.842,0.366 -1.561,1.043 -1.044,1.562 -0.366,1.842 v 3.063 182.959 22.746 l 0.366,1.842 1.044,1.561 1.561,1.043 z" />
+                <path fill-rule="evenodd" stroke="none" fill="#c9a24b" d="m 177.419,580.837 30.348,30.454 30.349,30.455 v -55.255 l -0.431,-2.164 -1.225,-1.834 -1.835,-1.226 -2.164,-0.43 z" />
+                <path fill-rule="evenodd" stroke="none" fill="#c9a24b" d="m 383.906,412.974 h -61.179 -61.179 -79.521 l -1.88,0.374 -1.594,1.066 -1.065,1.594 -0.374,1.88 v 63.734 88.276 h 55.489 l 3.678,0.472 3.004,0.857 3.169,1.7 2.495,2.085 2.229,2.64 1.556,3.024 1.001,3.149 0.328,3.533 v 54.94 h 11.485 61.179 61.179 39.937 l 1.881,-0.374 1.594,-1.065 1.065,-1.594 0.374,-1.881 v -69.899 -72.47 -6.956 -6.437 -63.734 l -0.374,-1.88 -1.065,-1.594 -1.594,-1.066 -1.881,-0.374 h -39.937 l -144.835,269.547 0.126,1.276 -0.126,1.276 -0.372,1.227 -0.604,1.13 -0.813,0.991 -0.991,0.814 -1.131,0.604 -1.227,0.372 -1.276,0.126 -1.275,-0.126 -1.227,-0.372 -1.131,-0.604 -0.991,-0.814 -0.813,-0.991 -0.605,-1.13 -0.372,-1.227 -0.125,-1.276 0.125,-1.276 0.372,-1.227 0.605,-1.13 0.813,-0.991 0.991,-0.813 1.131,-0.605 1.227,-0.372 1.275,-0.126 1.276,0.126 1.227,0.372 1.131,0.605 0.991,0.813 0.813,0.991 0.604,1.13 0.372,1.227 z m -61.179,44.994 56.053,27.595 1.576,1.154 0.4,0.687 0.164,0.688 -0.149,0.694 -0.384,0.694 -1.55,1.188 -56.11,28.875 -56.109,-28.875 -1.55,-1.188 -0.378,-0.694 -0.156,-0.694 0.172,-0.688 0.392,-0.687 1.576,-1.154 z m 61.179,109.517 -61.179,30.605 -61.179,-30.605 v -60.541 l 0.195,-1.08 0.243,-0.912 0.507,-0.736 0.555,-0.57 0.831,-0.295 0.83,-0.128 0.98,0.179 0.98,0.347 52.524,25.715 0.811,0.305 0.81,0.225 0.957,0.134 0.956,0.052 0.957,-0.052 0.956,-0.134 0.811,-0.225 0.811,-0.305 52.524,-25.715 0.979,-0.344 0.98,-0.182 0.831,0.102 0.831,0.321 0.612,0.492 0.498,0.814 0.253,0.996 0.136,0.996 z" />
               </g>
             </g>
           </svg>
@@ -379,7 +375,6 @@ const jsonLd = type === "article" ? {
       
       main { width: 100%; max-width: 100vw; overflow-x: hidden; }
 
-      /* Bezpečné boční odsazení pro všechny články a obsah na mobilech */
       main article,
       .essay-content,
       .article-container,
@@ -388,7 +383,6 @@ const jsonLd = type === "article" ? {
         padding-right: 1.25rem;
       }
 
-      /* Ošetření roztahování obsahu na mobilu */
       p, h1, h2, h3, h4, h5, h6, li, a {
         overflow-wrap: break-word;
         word-break: break-word;
@@ -441,7 +435,6 @@ const jsonLd = type === "article" ? {
       .site-header { border-bottom: 1px solid var(--border); position: sticky; top: 0; background: rgba(10, 10, 11, 0.95); backdrop-filter: blur(6px); z-index: 100; width: 100%; }
       .header-inner { display: flex; align-items: center; justify-content: space-between; padding: 1.1rem 0; position: relative; gap: 0.5rem; }
       
-      /* Elastická skupina loga a nápisu */
       .logo-group { 
         display: flex; 
         align-items: center; 
@@ -459,7 +452,6 @@ const jsonLd = type === "article" ? {
         height: 30px;
       }
 
-      /* Elastické písmo pro nápis, aby se plynule zmenšil a nepřetékal */
       .logo { 
         font-size: clamp(0.8rem, 3.8vw, 1.05rem); 
         letter-spacing: 0.04em; 
