@@ -89,12 +89,42 @@ function parseFilmMeta(entry: any, defaultTitle: string, lang: 'cz' | 'en') {
   return { movieTitle, year, director, readingTime };
 }
 
+// Krátký, spolehlivě zobrazitelný "perex" vedle obrázku — nezávislý na délce
+// celého článku. Použije se ruční excerpt/description z frontmatteru, a když
+// chybí, ořízne se prostý text z těla článku (zbavený markdown syntaxe).
+// Ořízne se VŽDY, ať text pochází odkudkoli — i ručně psaný excerpt může
+// být v praxi celý odstavec, ne krátká anotace.
+function truncateText(text: string, max = 220): string {
+  const clean = text.trim();
+  if (clean.length <= max) return clean;
+  const cut = clean.slice(0, max);
+  const lastSpace = cut.lastIndexOf(' ');
+  return (lastSpace > 0 ? cut.slice(0, lastSpace) : cut) + '…';
+}
+
+function makeExcerpt(entry: any): string {
+  const manual = entry?.data?.excerpt || entry?.data?.description;
+  if (manual) return truncateText(manual);
+
+  const raw = (entry?.body || '')
+    .replace(/^#{1,6}\s.*$/gm, ' ')
+    .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
+    .replace(/[#>*_`~]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  return truncateText(raw);
+}
+
 const titleCs = czEntry?.data.title || enEntry?.data.title || slug;
 const titleEn = enEntry?.data.title || czEntry?.data.title || slug;
 const poster = czEntry?.data.image || enEntry?.data.image || `/images/${slug}.webp`;
 
 const metaCs = parseFilmMeta(czEntry || enEntry, titleCs, 'cz');
 const metaEn = parseFilmMeta(enEntry || czEntry, titleEn, 'en');
+
+const excerptCs = makeExcerpt(czEntry || enEntry);
+const excerptEn = makeExcerpt(enEntry || czEntry);
 
 const pageTitle = titleCs;
 const pageDescription = czEntry?.data.description || enEntry?.data.description || "";
@@ -153,7 +183,10 @@ const posterAbsolute = new URL(poster, siteUrl).href;
       </div>
     </header>
 
-    <div class="essay-wrapper">
+    <!-- Úvodní řádek: obrázek + krátký perex vedle sebe (flex, ne float).
+         Výška řádku = vyšší z obou položek, nezávisle na tom, jak dlouhý
+         je celý článek pod tím. -->
+    <div class="essay-lead">
       <div class="essay-poster-block">
         <img src={poster} alt={titleCs} width="280" height="420" loading="eager" />
         <div class="poster-caption">
@@ -162,18 +195,26 @@ const posterAbsolute = new URL(poster, siteUrl).href;
         </div>
       </div>
 
-      {CzContent && (
-        <div class="essay-body lang-cs-block" lang="cs">
-          <CzContent />
-        </div>
-      )}
-
-      {EnContent && (
-        <div class="essay-body lang-en-block" lang="en">
-          <EnContent />
-        </div>
-      )}
+      <div class="essay-excerpt-block lang-cs-block" lang="cs">
+        <p>{excerptCs}</p>
+      </div>
+      <div class="essay-excerpt-block lang-en-block" lang="en">
+        <p>{excerptEn}</p>
+      </div>
     </div>
+
+    <!-- Tělo článku: vždy na celou šířku, bez ohledu na výšku obrázku výše. -->
+    {CzContent && (
+      <div class="essay-body lang-cs-block" lang="cs">
+        <CzContent />
+      </div>
+    )}
+
+    {EnContent && (
+      <div class="essay-body lang-en-block" lang="en">
+        <EnContent />
+      </div>
+    )}
 
     <div class="essay-author-box">
       <div class="author-avatar-sm" aria-hidden="true">VK</div>
@@ -233,16 +274,28 @@ const posterAbsolute = new URL(poster, siteUrl).href;
   .meta-chip { display: flex; align-items: center; gap: 0.35rem; font-size: 0.85rem; }
   .meta-label { color: var(--text-muted); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.04em; }
   .meta-val { color: var(--accent); font-weight: 500; }
-  .essay-wrapper { margin-bottom: 3rem; }
-  .essay-wrapper::after { content: ""; display: table; clear: both; }
-  .essay-poster-block { float: left; width: 230px; margin: 0 2.2rem 1.5rem 0; }
+
+  /* ---------- Úvodní řádek: obrázek + perex (flex, spolehlivé) ---------- */
+  .essay-lead {
+    display: flex;
+    align-items: flex-start;
+    gap: 2.2rem;
+    margin-bottom: 3rem;
+  }
+  .essay-poster-block { flex: 0 0 230px; width: 230px; }
   .essay-poster-block img { width: 100% !important; max-width: none !important; height: auto; aspect-ratio: 2 / 3; object-fit: cover; display: block; border-radius: 4px; border: 1px solid var(--border); box-shadow: 0 10px 30px rgba(0,0,0,0.5); margin: 0 !important; }
   .poster-caption { font-size: 0.7rem; color: var(--text-muted); text-align: center; margin-top: 0.4rem; letter-spacing: 0.03em; font-style: italic; }
+
+  .essay-excerpt-block { flex: 1; min-width: 0; }
+  .essay-excerpt-block p { font-size: 1.1rem; line-height: 1.75; color: #dedede; margin: 0; font-style: italic; }
+
+  /* ---------- Tělo článku: vždy na celou šířku ---------- */
   .essay-body { font-size: 1.08rem; line-height: 1.8; color: #dedede; }
   .essay-body > *:first-child { margin-top: 0; }
-  .essay-body h2, .essay-body h3 { font-family: var(--font-serif); color: var(--text); margin-top: 3rem; margin-bottom: 1rem; font-weight: 400; clear: both; }
+  .essay-body h2, .essay-body h3 { font-family: var(--font-serif); color: var(--text); margin-top: 3rem; margin-bottom: 1rem; font-weight: 400; }
   .essay-body p { margin-bottom: 1.5rem; }
-  .essay-body img { border-radius: 4px; margin: 2.5rem auto; border: 1px solid var(--border); width: 100%; display: block; clear: both; }
+  .essay-body img { border-radius: 4px; margin: 2.5rem auto; border: 1px solid var(--border); width: 100%; display: block; }
+
   .essay-author-box { display: flex; align-items: center; gap: 1rem; margin-top: 3.5rem; padding-top: 2rem; border-top: 1px solid var(--border); }
   .author-avatar-sm { flex: 0 0 auto; width: 46px; height: 46px; border-radius: 50%; border: 1px solid var(--border); background: var(--bg-elevated); display: flex; align-items: center; justify-content: center; font-family: var(--font-serif); font-size: 0.95rem; color: var(--accent); }
   .author-byline-label { margin: 0 0 0.15rem; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-muted); }
@@ -258,4 +311,9 @@ const posterAbsolute = new URL(poster, siteUrl).href;
   @media (max-width: 640px) {
     .essay-detail { padding-top: 2.5rem; padding-bottom: 4rem; }
     .film-meta-bar { flex-direction: column; gap: 0.4rem; border-radius: 8px; width: 100%; }
-    .essay-poster-block { float: none
+    .essay-lead { flex-direction: column; align-items: center; text-align: center; }
+    .essay-poster-block { flex: 0 0 auto; width: 100%; max-width: 240px; margin: 0 auto; }
+    .archive-nav-btn { display: block; width: 100%; text-align: center; }
+  }
+</style>
+
