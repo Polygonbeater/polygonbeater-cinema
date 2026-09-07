@@ -89,11 +89,10 @@ function parseFilmMeta(entry: any, defaultTitle: string, lang: 'cz' | 'en') {
   return { movieTitle, year, director, readingTime };
 }
 
-// Krátký perex vedle obrázku = skutečný úvodní text článku (od začátku
-// markdownu po první nadpis úrovně 2 nebo 3), ne samostatné frontmatter
-// pole. Počítá se při buildu, takže funguje stejně spolehlivě na jednom
-// i na 216+ článcích bez ruční údržby.
-function truncateText(text: string, max = 320): string {
+// Krátký, spolehlivě zobrazitelný perex vedle obrázku — z frontmatter pole
+// `excerpt` nebo `description`. Ořízne se VŽDY na bezpečnou délku, ať autor
+// napíše cokoli dlouhého, takže sloupec vedle obrázku má vždy rozumnou výšku.
+function truncateText(text: string, max = 220): string {
   const clean = text.trim();
   if (clean.length <= max) return clean;
   const cut = clean.slice(0, max);
@@ -101,21 +100,20 @@ function truncateText(text: string, max = 320): string {
   return (lastSpace > 0 ? cut.slice(0, lastSpace) : cut) + '…';
 }
 
-function extractIntro(entry: any): string {
-  const body: string = entry?.body || '';
+function makeExcerpt(entry: any): string {
+  const manual = entry?.data?.excerpt || entry?.data?.description;
+  if (manual) return truncateText(manual);
 
-  // Najde první řádek, který je nadpis úrovně 2 nebo 3 (## / ###)
-  const headingMatch = body.match(/^#{2,3}\s+.+$/m);
-  const introRaw = headingMatch ? body.slice(0, headingMatch.index) : body;
-
-  const clean = introRaw
-    .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1') // odkazy → jen viditelný text
-    .replace(/[#>*_`~]/g, '')                 // markdown symboly pryč
+  // Záložní varianta, když autor excerpt/description vůbec nevyplnil:
+  // vezme se první kousek těla článku, zbavený markdown syntaxe.
+  const raw = (entry?.body || '')
+    .replace(/^#{1,6}\s.*$/gm, ' ')
+    .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
+    .replace(/[#>*_`~]/g, '')
     .replace(/\s+/g, ' ')
     .trim();
 
-  // Pojistka pro případ, že by úvod (bez nadpisu) byl extrémně dlouhý
-  return truncateText(clean, 320);
+  return truncateText(raw);
 }
 
 const titleCs = czEntry?.data.title || enEntry?.data.title || slug;
@@ -125,8 +123,8 @@ const poster = czEntry?.data.image || enEntry?.data.image || `/images/${slug}.we
 const metaCs = parseFilmMeta(czEntry || enEntry, titleCs, 'cz');
 const metaEn = parseFilmMeta(enEntry || czEntry, titleEn, 'en');
 
-const excerptCs = extractIntro(czEntry || enEntry);
-const excerptEn = extractIntro(enEntry || czEntry);
+const excerptCs = makeExcerpt(czEntry || enEntry);
+const excerptEn = makeExcerpt(enEntry || czEntry);
 
 const pageTitle = titleCs;
 const pageDescription = czEntry?.data.description || enEntry?.data.description || "";
