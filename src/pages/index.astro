@@ -124,6 +124,15 @@ const latestEssays = essays.slice(0, 12);
           <span lang="en">No texts to display.</span>
         </p>
       )}
+
+      {latestEssays.length > 0 && (
+        <div class="archive-cta">
+          <a href="/essays" class="archive-cta-btn">
+            <span lang="cs">Zobrazit celý archiv →</span>
+            <span lang="en">View full archive →</span>
+          </a>
+        </div>
+      )}
     </div>
   </section>
 </Layout>
@@ -223,4 +232,32 @@ const latestEssays = essays.slice(0, 12);
     color: var(--text-muted);
     font-style: italic;
   }
+
+  /* ---------- CTA na celý archiv ---------- */
+  .archive-cta {
+    margin-top: 3rem;
+    text-align: center;
+  }
+  .archive-cta-btn {
+    display: inline-block;
+    padding: 0.9rem 2rem;
+    background: transparent;
+    border: 1px solid var(--accent);
+    color: var(--accent);
+    text-decoration: none;
+    font-size: 0.95rem;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    border-radius: 4px;
+    transition: background 0.2s ease, color 0.2s ease;
+  }
+  .archive-cta-btn:hover {
+    background: var(--accent);
+    color: var(--bg);
+  }
+
+  @media (max-width: 640px) {
+    .archive-cta-btn { display: block; }
+  }
 </style>
+
