@@ -1,0 +1,331 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const allEssays = await getCollection('essays');
+
+  function getCleanSlug(entry: { id: string }) {
+    return entry.id
+      .replace(/^.*[\\/]/, '')
+      .replace(/\.(md|mdx)$/, '')
+      .replace(/^(cz|en)[_-]/i, '');
+  }
+
+  function getEntryKey(entry: any) {
+    return entry.data?.translationSlug || entry.data?.translationKey || getCleanSlug(entry);
+  }
+
+  const uniqueSlugs = Array.from(new Set(allEssays.map(getEntryKey)));
+
+  const mappedEssays = uniqueSlugs.map(slug => {
+    const czEntry = allEssays.find(e => {
+      const isCz = e.id.includes('cz/') || e.id.startsWith('cz-') || e.data?.lang === 'cs' || e.data?.lang === 'cz';
+      return isCz && getEntryKey(e) === slug;
+    }) || allEssays.find(e => getEntryKey(e) === slug && !e.id.includes('en'));
+
+    const enEntry = allEssays.find(e => {
+      const isEn = e.id.includes('en/') || e.id.startsWith('en-') || e.data?.lang === 'en';
+      return isEn && getEntryKey(e) === slug;
+    });
+
+    const rawDate = enEntry?.data?.date || czEntry?.data?.date || '1970-01-01';
+    const dateNum = new Date(rawDate as string | Date).getTime();
+
+    return {
+      slug,
+      czEntry,
+      enEntry,
+      dateNum,
+      titleCs: czEntry?.data?.title || enEntry?.data?.title || slug,
+      titleEn: enEntry?.data?.title || czEntry?.data?.title || slug
+    };
+  });
+
+  mappedEssays.sort((a, b) => b.dateNum - a.dateNum);
+
+  return mappedEssays.map((item, index) => {
+    const nextItem = mappedEssays[index - 1] || null;
+    const prevItem = mappedEssays[index + 1] || null;
+
+    return {
+      params: { slug: item.slug },
+      props: {
+        czEntry: item.czEntry,
+        enEntry: item.enEntry,
+        slug: item.slug,
+        prevEssay: prevItem ? { slug: prevItem.slug, titleEn: prevItem.titleEn } : null,
+        nextEssay: nextItem ? { slug: nextItem.slug, titleEn: nextItem.titleEn } : null
+      }
+    };
+  });
+}
+
+const { czEntry, enEntry, slug, prevEssay, nextEssay } = Astro.props;
+
+if (!czEntry && !enEntry) {
+  throw new Error(`Essay not found!`);
+}
+
+const enRendered = enEntry ? await render(enEntry) : null;
+const czRendered = czEntry ? await render(czEntry) : null;
+
+const EnContent = enRendered?.Content || czRendered?.Content;
+
+function parseFilmMeta(entry: any, defaultTitle: string) {
+  const title = entry?.data?.title || defaultTitle || "";
+  const body = entry?.body || "";
+  const desc = entry?.data?.description || entry?.data?.excerpt || "";
+  const sampleText = (desc + " " + body.slice(0, 600)).replace(/\n/g, ' ');
+
+  let movieTitle = entry?.data?.film_title || entry?.data?.movie || entry?.data?.film || "";
+
+  if (movieTitle.includes('/')) {
+    const parts = movieTitle.split('/').map((p: string) => p.trim());
+    const firstHasCzChars = /[ěščřžýáíéůúťďň]/i.test(parts[0]);
+    movieTitle = firstHasCzChars ? (parts[1] || parts[0]) : parts[0];
+  }
+
+  if (!movieTitle && title) {
+    movieTitle = title.split(/\(\d{4}\)/)[0].trim();
+  }
+
+  movieTitle = movieTitle.replace(/\(\d{4}\)/g, '').trim();
+
+  let year = entry?.data?.year || "";
+  if (!year && title) {
+    const match = title.match(/\((\d{4})\)/);
+    if (match) year = match[1];
+  }
+
+  let director = entry?.data?.director || entry?.data?.director_name || "";
+  if (!director) {
+    const enMatch = sampleText.match(/directed by\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,2})/i);
+    const czMatch = sampleText.match(/v režii\s+([A-ZÁ-Ž][a-zá-ž]+(?:\s+[A-ZÁ-Ž][a-zá-ž]+){1,2})/i);
+    if (enMatch) director = enMatch[1].trim();
+    else if (czMatch) director = czMatch[1].trim();
+  }
+
+  const words = entry?.body ? entry.body.split(/\s+/).length : 0;
+  const readingTime = Math.max(1, Math.ceil(words / 200));
+
+  return { movieTitle, year, director, readingTime };
+}
+
+function truncateText(text: string, max = 220): string {
+  const clean = text.trim();
+  if (clean.length <= max) return clean;
+  const cut = clean.slice(0, max);
+  const lastSpace = cut.lastIndexOf(' ');
+  return (lastSpace > 0 ? cut.slice(0, lastSpace) : cut) + '…';
+}
+
+function makeExcerpt(entry: any): string {
+  const manual = entry?.data?.excerpt || entry?.data?.description;
+  if (manual) return truncateText(manual);
+
+  const raw = (entry?.body || '')
+    .replace(/^#{1,6}\s.*$/gm, ' ')
+    .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
+    .replace(/[#>*_`~]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  return truncateText(raw);
+}
+
+const titleEn = enEntry?.data?.title || czEntry?.data?.title || slug;
+const poster = enEntry?.data?.image || czEntry?.data?.image || `/images/${slug}.webp`;
+const metaEn = parseFilmMeta(enEntry || czEntry, titleEn);
+const excerptEn = makeExcerpt(enEntry || czEntry);
+
+const pageTitle = titleEn;
+const pageDescription = enEntry?.data?.description || czEntry?.data?.description || "";
+
+const siteUrl = "https://cinema.polygonbeater.eu";
+const posterAbsolute = new URL(poster, siteUrl).href;
+const canonicalUrl = `${siteUrl}/en/essays/${slug}`;
+const czAlternateUrl = `${siteUrl}/essays/${slug}`;
+---
+
+<Layout 
+  title={pageTitle} 
+  description={pageDescription} 
+  image={posterAbsolute} 
+  type="article"
+  lang="en"
+  datePublished={enEntry?.data.date ? new Date(enEntry.data.date as string | Date).toISOString().split('T')[0] : undefined}
+>
+  <Fragment slot="head">
+    <link rel="canonical" href={canonicalUrl} />
+    <link rel="alternate" hreflang="en" href={canonicalUrl} />
+    <link rel="alternate" hreflang="cs" href={czAlternateUrl} />
+    <link rel="alternate" hreflang="x-default" href={czAlternateUrl} />
+  </Fragment>
+
+  <div id="readProgress" class="read-progress" aria-hidden="true"></div>
+
+  <article class="essay-detail wrap">
+    <header class="essay-header">
+      <a href="/" class="back-link">
+        ← Back to home
+      </a>
+
+      <div class="essay-title-block">
+        <h1>{titleEn}</h1>
+        <div class="film-meta-bar">
+          {metaEn.movieTitle && (
+            <div class="meta-chip"><span class="meta-label">Movie</span><span class="meta-val">🎬 {metaEn.movieTitle}</span></div>
+          )}
+          {metaEn.director && (
+            <div class="meta-chip"><span class="meta-label">Director</span><span class="meta-val">👤 {metaEn.director}</span></div>
+          )}
+          {metaEn.year && (
+            <div class="meta-chip"><span class="meta-label">Year</span><span class="meta-val">📅 {metaEn.year}</span></div>
+          )}
+          <div class="meta-chip"><span class="meta-label">Read</span><span class="meta-val">⏱️ ~{metaEn.readingTime} min</span></div>
+        </div>
+      </div>
+
+      {!enEntry && (
+        <div class="translation-notice">
+          ℹ️ English translation for this essay is currently not available. Showing Czech source text.
+        </div>
+      )}
+    </header>
+
+    <div class="essay-lead">
+      <div class="essay-poster-block">
+        <img src={poster} alt={titleEn} width="280" height="420" loading="eager" />
+        <div class="poster-caption">Educational material</div>
+      </div>
+
+      <div class="essay-excerpt-block">
+        <p>{excerptEn}</p>
+      </div>
+    </div>
+
+    {EnContent && (
+      <div class="essay-body">
+        <EnContent />
+      </div>
+    )}
+
+    <div class="essay-author-box">
+      <div class="author-avatar-sm" aria-hidden="true">VK</div>
+      <div class="author-byline-text">
+        <p class="author-byline-label">Author</p>
+        <a href="/author" class="author-byline-name">Vítězslav Koneval</a>
+      </div>
+    </div>
+
+    {(prevEssay || nextEssay) && (
+      <nav class="essay-pagination" aria-label="Essay navigation">
+        <div class="nav-card prev">
+          {prevEssay && (
+            <a href={`/en/essays/${prevEssay.slug}`}>
+              <span class="nav-label">← Older essay</span>
+              <span class="nav-title">{prevEssay.titleEn}</span>
+            </a>
+          )}
+        </div>
+        <div class="nav-card next">
+          {nextEssay && (
+            <a href={`/en/essays/${nextEssay.slug}`}>
+              <span class="nav-label">Newer essay →</span>
+              <span class="nav-title">{nextEssay.titleEn}</span>
+            </a>
+          )}
+        </div>
+      </nav>
+    )}
+
+    <div class="essay-bottom-nav">
+      <a href="/essays" class="archive-nav-btn">Back to archive</a>
+      <a href="/" class="archive-nav-btn secondary">Back to home</a>
+    </div>
+  </article>
+
+  <button id="scrollTopBtn" class="scroll-top-btn" aria-label="Back to top" title="Back to top">↑</button>
+</Layout>
+
+<script>
+  const progressBar = document.getElementById('readProgress');
+  const scrollTopBtn = document.getElementById('scrollTopBtn');
+
+  window.addEventListener('scroll', () => {
+    const winScroll = document.documentElement.scrollTop;
+    const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+    if (height > 0) {
+      const scrolled = (winScroll / height) * 100;
+      if (progressBar) progressBar.style.width = `${scrolled}%`;
+    }
+    if (scrollTopBtn) {
+      if (winScroll > 400) scrollTopBtn.classList.add('visible');
+      else scrollTopBtn.classList.remove('visible');
+    }
+  });
+
+  if (scrollTopBtn) {
+    scrollTopBtn.addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  }
+</script>
+
+<style>
+  html { scroll-behavior: smooth; }
+  .read-progress { position: fixed; top: 0; left: 0; height: 3px; background: var(--accent); width: 0%; z-index: 1000; transition: width 0.1s ease-out; }
+  .essay-detail { padding-top: 4rem; padding-bottom: 6rem; max-width: 760px; margin-left: auto; margin-right: auto; }
+  .back-link { display: inline-block; color: var(--text-muted); text-decoration: none; font-size: 0.9rem; margin-bottom: 2.5rem; transition: color 0.15s ease; }
+  .back-link:hover { color: var(--accent); }
+  .essay-title-block { text-align: center; margin-bottom: 2rem; border-bottom: 1px solid var(--border); padding-bottom: 2rem; }
+  .essay-header h1 { font-family: var(--font-serif); font-weight: 400; font-size: clamp(2.2rem, 4vw, 3rem); line-height: 1.15; margin: 0 0 1.2rem 0; color: var(--text); }
+  .film-meta-bar { display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1rem; background: var(--bg-elevated); border: 1px solid var(--border); padding: 0.6rem 1.4rem; border-radius: 20px; margin-top: 0.5rem; }
+  .meta-chip { display: flex; align-items: center; gap: 0.35rem; font-size: 0.85rem; }
+  .meta-label { color: var(--text-muted); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.04em; }
+  .meta-val { color: var(--accent); font-weight: 500; }
+
+  .translation-notice { text-align: center; font-size: 0.85rem; color: var(--text-muted); background: var(--bg-elevated); border: 1px solid var(--border); border-radius: 6px; padding: 0.5rem 1rem; margin-bottom: 2rem; }
+  .essay-lead { display: flex; align-items: flex-start; gap: 2.2rem; margin-bottom: 3rem; }
+  .essay-poster-block { flex: 0 0 230px; width: 230px; }
+  .essay-poster-block img { width: 100% !important; max-width: none !important; height: auto; aspect-ratio: 2 / 3; object-fit: cover; display: block; border-radius: 4px; border: 1px solid var(--border); box-shadow: 0 10px 30px rgba(0,0,0,0.5); margin: 0 !important; }
+  .poster-caption { font-size: 0.7rem; color: var(--text-muted); text-align: center; margin-top: 0.4rem; letter-spacing: 0.03em; font-style: italic; }
+  .essay-excerpt-block { flex: 1; min-width: 0; }
+  .essay-excerpt-block p { font-size: 1.1rem; line-height: 1.75; color: #dedede; margin: 0; font-style: italic; }
+  .essay-body { font-size: 1.08rem; line-height: 1.8; color: #dedede; }
+  .essay-body > *:first-child { margin-top: 0; }
+  .essay-body h2, .essay-body h3 { font-family: var(--font-serif); color: var(--text); margin-top: 3rem; margin-bottom: 1rem; font-weight: 400; }
+  .essay-body p { margin-bottom: 1.5rem; }
+  .essay-body img { border-radius: 4px; margin: 2.5rem auto; border: 1px solid var(--border); width: 100%; display: block; }
+  .essay-author-box { display: flex; align-items: center; gap: 1rem; margin-top: 3.5rem; padding-top: 2rem; border-top: 1px solid var(--border); }
+  .author-avatar-sm { flex: 0 0 auto; width: 46px; height: 46px; border-radius: 50%; border: 1px solid var(--border); background: var(--bg-elevated); display: flex; align-items: center; justify-content: center; font-family: var(--font-serif); font-size: 0.95rem; color: var(--accent); }
+  .author-byline-label { margin: 0 0 0.15rem; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-muted); }
+  .author-byline-name { display: inline-block; font-size: 1rem; font-weight: 600; color: var(--text); text-decoration: none; letter-spacing: 0.02em; transition: color 0.15s ease; }
+  .author-byline-name:hover { color: var(--accent); }
+  .essay-pagination { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2rem; margin-top: 2.5rem; padding-top: 2rem; border-top: 1px solid var(--border); }
+  .nav-card a { display: flex; flex-direction: column; gap: 0.3rem; text-decoration: none; color: var(--text); padding: 1rem 1.2rem; background: var(--bg-elevated); border: 1px solid var(--border); border-radius: 6px; height: 100%; transition: border-color 0.2s ease, transform 0.2s ease; }
+  .nav-card a:hover { border-color: var(--accent); transform: translateY(-2px); }
+  .nav-card.next { text-align: right; }
+  .nav-label { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-muted); }
+  .nav-title { font-weight: 500; color: var(--accent); font-size: 0.95rem; line-height: 1.3; }
+  .essay-bottom-nav { margin-top: 2.5rem; display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; }
+  .archive-nav-btn { display: inline-block; padding: 0.8rem 1.6rem; background: var(--accent); border: 1px solid var(--accent); color: var(--bg); text-decoration: none; font-size: 0.95rem; font-weight: 600; border-radius: 4px; transition: all 0.2s ease; }
+  .archive-nav-btn:hover { opacity: 0.9; }
+  .archive-nav-btn.secondary { background: var(--bg-elevated); color: var(--accent); font-weight: 500; }
+  .archive-nav-btn.secondary:hover { background: var(--accent); color: var(--bg); opacity: 1; }
+  .scroll-top-btn { position: fixed; bottom: 2rem; right: 2rem; background: var(--bg-elevated); border: 1px solid var(--border); color: var(--accent); width: 44px; height: 44px; border-radius: 50%; font-size: 1.2rem; font-weight: bold; cursor: pointer; opacity: 0; visibility: hidden; transition: opacity 0.25s ease, visibility 0.25s ease, border-color 0.2s ease; z-index: 90; box-shadow: 0 4px 12px rgba(0,0,0,0.4); }
+  .scroll-top-btn.visible { opacity: 1; visibility: visible; }
+  .scroll-top-btn:hover { border-color: var(--accent); background: var(--accent); color: var(--bg); }
+
+  @media (max-width: 640px) {
+    .essay-detail { padding-top: 2.5rem; padding-bottom: 4rem; }
+    .film-meta-bar { flex-direction: column; gap: 0.4rem; border-radius: 8px; width: 100%; }
+    .essay-lead { flex-direction: column; align-items: center; text-align: center; }
+    .essay-poster-block { flex: 0 0 auto; width: 100%; max-width: 240px; margin: 0 auto; }
+    .essay-pagination { grid-template-columns: 1fr; }
+    .nav-card.next { text-align: left; }
+    .essay-bottom-nav { flex-direction: column; }
+    .archive-nav-btn { display: block; width: 100%; text-align: center; }
+  }
+</style>

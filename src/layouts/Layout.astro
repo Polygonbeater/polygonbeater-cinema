@@ -76,6 +76,14 @@ const jsonLd = type === "article" ? {
     <link rel="canonical" href={canonicalURL.toString()} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 
+    <!-- RSS Auto-discovery -->
+    <link 
+      rel="alternate" 
+      type="application/rss+xml" 
+      title="Polygon Beater Cinema RSS Feed" 
+      href={new URL('rss.xml', siteUrl).toString()} 
+    />
+
     <!-- Hreflang pro dvojjazyčný obsah na stejné URL -->
     <link rel="alternate" hreflang="cs" href={canonicalURL.toString()} />
     <link rel="alternate" hreflang="en" href={canonicalURL.toString()} />
@@ -90,7 +98,7 @@ const jsonLd = type === "article" ? {
             document.documentElement.setAttribute('lang', saved);
             return;
           }
-          const browserLang = navigator.language || navigator.userLanguage || '';
+          const browserLang = navigator.language || (navigator).userLanguage || '';
           const isCzSk = browserLang.toLowerCase().startsWith('cs') || browserLang.toLowerCase().startsWith('sk');
           const targetLang = isCzSk ? 'cs' : 'en';
           
@@ -120,7 +128,7 @@ const jsonLd = type === "article" ? {
     <meta name="author" content="Vítězslav Koneval" />
 
     <!-- Strukturovaná data JSON-LD -->
-    <script type="application/ld+json" set:html={JSON.stringify(jsonLd)}></script>
+    <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} is:inline></script>
   </head>
   <body>
     <header class="site-header">
@@ -265,17 +273,19 @@ const jsonLd = type === "article" ? {
       const root = document.documentElement;
       const buttons = document.querySelectorAll("[data-set-lang]");
 
-      function applyLang(lang) {
+      function applyLang(lang: string) {
         root.setAttribute("data-lang", lang);
         root.setAttribute("lang", lang);
-        buttons.forEach((btn) => {
+        buttons.forEach((node) => {
+          const btn = node as HTMLElement;
           const isActive = btn.dataset.setLang === lang;
           btn.setAttribute("aria-pressed", String(isActive));
         });
         try { localStorage.setItem("pbc-lang", lang); } catch (e) {}
       }
 
-      buttons.forEach((btn) => {
+      buttons.forEach((node) => {
+        const btn = node as HTMLElement;
         btn.addEventListener("click", () => {
           const lang = btn.dataset.setLang;
           if (lang) applyLang(lang);
@@ -283,7 +293,8 @@ const jsonLd = type === "article" ? {
       });
 
       const currentActiveLang = root.getAttribute('data-lang') || 'cs';
-      buttons.forEach((btn) => {
+      buttons.forEach((node) => {
+        const btn = node as HTMLElement;
         btn.setAttribute("aria-pressed", String(btn.dataset.setLang === currentActiveLang));
       });
 
@@ -329,9 +340,9 @@ const jsonLd = type === "article" ? {
         });
       }
 
-      const nlForm = document.getElementById('newsletter-form');
+      const nlForm = document.getElementById('newsletter-form') as HTMLFormElement | null;
       const nlResult = document.getElementById('newsletter-result');
-      const nlBtn = document.getElementById('newsletter-btn');
+      const nlBtn = document.getElementById('newsletter-btn') as HTMLButtonElement | null;
 
       if (nlForm && nlResult && nlBtn) {
         nlForm.addEventListener('submit', function(e) {
@@ -364,7 +375,7 @@ const jsonLd = type === "article" ? {
               nlResult.style.color = "var(--red-500)";
             }
           })
-          .catch(error => {
+          .catch(() => {
             nlResult.innerHTML = activeLang === 'cs' ? "Chyba připojení k serveru." : "Server connection error.";
             nlResult.style.color = "var(--red-500)";
           })
@@ -474,8 +485,6 @@ const jsonLd = type === "article" ? {
       .logo-static { cursor: default; }
       .logo-accent { color: var(--accent); font-weight: 300; }
       
-      /* Kontejner napravo: nav (schovatelná na mobilu) + vždy viditelný
-         jazykový přepínač + hamburger tlačítko (viditelné jen na mobilu). */
       .header-actions { display: flex; align-items: center; gap: 1.25rem; flex-shrink: 0; }
 
       .site-nav-wrap { display: flex; align-items: center; }
@@ -508,8 +517,6 @@ const jsonLd = type === "article" ? {
         .header-actions { gap: 0.6rem; }
         .lang-switch { padding: 5px 8px; gap: 5px; }
 
-        /* Jen nav (Archiv, O autorovi) se schovává do rozbalovacího panelu.
-           Jazykový přepínač zůstává mimo — je přímo v .header-actions. */
         .site-nav-wrap {
           display: none;
           position: absolute;
@@ -526,8 +533,6 @@ const jsonLd = type === "article" ? {
         .site-nav a { font-size: 1rem; padding: 0.25rem 0; }
       }
 
-      /* Bezpečnostní pojistka pro fakt úzké obrazovky / in-app prohlížeče:
-         logo se dál zmenší, ale text zůstává celý vidět (žádné schovávání). */
       @media (max-width: 400px) {
         .logo { font-size: clamp(0.62rem, 3.2vw, 1.05rem); }
         .static-logo-icon { width: 24px; height: 24px; }
@@ -574,4 +579,3 @@ const jsonLd = type === "article" ? {
     </style>
   </body>
 </html>
-

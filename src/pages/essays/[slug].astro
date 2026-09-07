@@ -12,27 +12,56 @@ export async function getStaticPaths() {
       .replace(/^(cz|en)[_-]/i, '');
   }
 
-  const uniqueSlugs = Array.from(new Set(allEssays.map(getCleanSlug)));
+  function getEntryKey(entry: any) {
+    return entry.data?.translationKey || entry.data?.slug || entry.data?.translationSlug || getCleanSlug(entry);
+  }
 
-  return uniqueSlugs.map(slug => {
+  const uniqueSlugs = Array.from(new Set(allEssays.map(getEntryKey)));
+
+  const mappedEssays = uniqueSlugs.map(slug => {
     const czEntry = allEssays.find(e => {
       const isCz = e.id.includes('cz/') || e.id.startsWith('cz-') || e.data?.lang === 'cs' || e.data?.lang === 'cz';
-      return isCz && getCleanSlug(e) === slug;
-    }) || allEssays.find(e => getCleanSlug(e) === slug && !e.id.includes('en'));
+      return isCz && getEntryKey(e) === slug;
+    }) || allEssays.find(e => getEntryKey(e) === slug && !e.id.includes('en/'));
 
     const enEntry = allEssays.find(e => {
       const isEn = e.id.includes('en/') || e.id.startsWith('en-') || e.data?.lang === 'en';
-      return isEn && getCleanSlug(e) === slug;
+      return isEn && getEntryKey(e) === slug;
     });
 
+    const rawDate = czEntry?.data?.date || enEntry?.data?.date || '1970-01-01';
+    const dateNum = new Date(rawDate as string | Date).getTime();
+
     return {
-      params: { slug },
-      props: { czEntry, enEntry, slug }
+      slug,
+      czEntry,
+      enEntry,
+      dateNum,
+      titleCs: czEntry?.data?.title || enEntry?.data?.title || slug,
+      titleEn: enEntry?.data?.title || czEntry?.data?.title || slug
+    };
+  });
+
+  mappedEssays.sort((a, b) => b.dateNum - a.dateNum);
+
+  return mappedEssays.map((item, index) => {
+    const nextItem = mappedEssays[index - 1] || null;
+    const prevItem = mappedEssays[index + 1] || null;
+
+    return {
+      params: { slug: item.slug },
+      props: {
+        czEntry: item.czEntry,
+        enEntry: item.enEntry,
+        slug: item.slug,
+        prevEssay: prevItem ? { slug: prevItem.slug, titleCs: prevItem.titleCs, titleEn: prevItem.titleEn } : null,
+        nextEssay: nextItem ? { slug: nextItem.slug, titleCs: nextItem.titleCs, titleEn: nextItem.titleEn } : null
+      }
     };
   });
 }
 
-const { czEntry, enEntry, slug } = Astro.props;
+const { czEntry, enEntry, slug, prevEssay, nextEssay } = Astro.props;
 
 if (!czEntry && !enEntry) {
   throw new Error(`Esej nebyla nalezena!`);
@@ -89,9 +118,6 @@ function parseFilmMeta(entry: any, defaultTitle: string, lang: 'cz' | 'en') {
   return { movieTitle, year, director, readingTime };
 }
 
-// Krátký, spolehlivě zobrazitelný perex vedle obrázku — z frontmatter pole
-// `excerpt` nebo `description`. Ořízne se VŽDY na bezpečnou délku, ať autor
-// napíše cokoli dlouhého, takže sloupec vedle obrázku má vždy rozumnou výšku.
 function truncateText(text: string, max = 220): string {
   const clean = text.trim();
   if (clean.length <= max) return clean;
@@ -104,8 +130,6 @@ function makeExcerpt(entry: any): string {
   const manual = entry?.data?.excerpt || entry?.data?.description;
   if (manual) return truncateText(manual);
 
-  // Záložní varianta, když autor excerpt/description vůbec nevyplnil:
-  // vezme se první kousek těla článku, zbavený markdown syntaxe.
   const raw = (entry?.body || '')
     .replace(/^#{1,6}\s.*$/gm, ' ')
     .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
@@ -131,6 +155,8 @@ const pageDescription = czEntry?.data.description || enEntry?.data.description |
 
 const siteUrl = "https://cinema.polygonbeater.eu";
 const posterAbsolute = new URL(poster, siteUrl).href;
+const canonicalUrl = `${siteUrl}/essays/${slug}`;
+const enAlternateUrl = `${siteUrl}/en/essays/${slug}`;
 ---
 
 <Layout 
@@ -140,6 +166,13 @@ const posterAbsolute = new URL(poster, siteUrl).href;
   type="article"
   datePublished={czEntry?.data.date ? new Date(czEntry.data.date as string | Date).toISOString().split('T')[0] : undefined}
 >
+  <Fragment slot="head">
+    <link rel="canonical" href={canonicalUrl} />
+    <link rel="alternate" hreflang="cs" href={canonicalUrl} />
+    <link rel="alternate" hreflang="en" href={enAlternateUrl} />
+    <link rel="alternate" hreflang="x-default" href={canonicalUrl} />
+  </Fragment>
+
   <div id="readProgress" class="read-progress" aria-hidden="true"></div>
 
   <article class="essay-detail wrap">
@@ -181,11 +214,20 @@ const posterAbsolute = new URL(poster, siteUrl).href;
           <div class="meta-chip"><span class="meta-label">Read</span><span class="meta-val">⏱️ ~{metaEn.readingTime} min</span></div>
         </div>
       </div>
+
+      <!-- Indikátor dostupnosti překladu -->
+      {(!czEntry || !enEntry) && (
+        <div class="translation-notice">
+          {!enEntry && (
+            <span class="lang-en-block" lang="en">ℹ️ English translation for this essay is currently not available.</span>
+          )}
+          {!czEntry && (
+            <span class="lang-cs-block" lang="cs">ℹ️ Český překlad této eseje zatím není k dispozici.</span>
+          )}
+        </div>
+      )}
     </header>
 
-    <!-- Úvodní řádek: obrázek + krátký perex vedle sebe (flex, ne float).
-         Výška řádku = vyšší z obou položek, nezávisle na tom, jak dlouhý
-         je celý článek pod tím. -->
     <div class="essay-lead">
       <div class="essay-poster-block">
         <img src={poster} alt={titleCs} width="280" height="420" loading="eager" />
@@ -203,7 +245,6 @@ const posterAbsolute = new URL(poster, siteUrl).href;
       </div>
     </div>
 
-    <!-- Tělo článku: vždy na celou šířku, bez ohledu na výšku obrázku výše. -->
     {CzContent && (
       <div class="essay-body lang-cs-block" lang="cs">
         <CzContent />
@@ -226,6 +267,40 @@ const posterAbsolute = new URL(poster, siteUrl).href;
         <a href="/author" class="author-byline-name">Vítězslav Koneval</a>
       </div>
     </div>
+
+    <!-- Navigace mezi předchozí a následující esejí -->
+    {(prevEssay || nextEssay) && (
+      <nav class="essay-pagination" aria-label="Navigace mezi esejemi">
+        <div class="nav-card prev">
+          {prevEssay && (
+            <a href={`/essays/${prevEssay.slug}`}>
+              <span class="nav-label">
+                <span lang="cs">← Starší esej</span>
+                <span lang="en">← Older essay</span>
+              </span>
+              <span class="nav-title">
+                <span lang="cs">{prevEssay.titleCs}</span>
+                <span lang="en">{prevEssay.titleEn}</span>
+              </span>
+            </a>
+          )}
+        </div>
+        <div class="nav-card next">
+          {nextEssay && (
+            <a href={`/essays/${nextEssay.slug}`}>
+              <span class="nav-label">
+                <span lang="cs">Novější esej →</span>
+                <span lang="en">Newer essay →</span>
+              </span>
+              <span class="nav-title">
+                <span lang="cs">{nextEssay.titleCs}</span>
+                <span lang="en">{nextEssay.titleEn}</span>
+              </span>
+            </a>
+          )}
+        </div>
+      </nav>
+    )}
 
     <div class="essay-bottom-nav">
       <a href="/essays" class="archive-nav-btn">
@@ -272,14 +347,24 @@ const posterAbsolute = new URL(poster, siteUrl).href;
   .essay-detail { padding-top: 4rem; padding-bottom: 6rem; max-width: 760px; margin-left: auto; margin-right: auto; }
   .back-link { display: inline-block; color: var(--text-muted); text-decoration: none; font-size: 0.9rem; margin-bottom: 2.5rem; transition: color 0.15s ease; }
   .back-link:hover { color: var(--accent); }
-  .essay-title-block { text-align: center; margin-bottom: 3rem; border-bottom: 1px solid var(--border); padding-bottom: 2rem; }
+  .essay-title-block { text-align: center; margin-bottom: 2rem; border-bottom: 1px solid var(--border); padding-bottom: 2rem; }
   .essay-header h1 { font-family: var(--font-serif); font-weight: 400; font-size: clamp(2.2rem, 4vw, 3rem); line-height: 1.15; margin: 0 0 1.2rem 0; color: var(--text); }
   .film-meta-bar { display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1rem; background: var(--bg-elevated); border: 1px solid var(--border); padding: 0.6rem 1.4rem; border-radius: 20px; margin-top: 0.5rem; }
   .meta-chip { display: flex; align-items: center; gap: 0.35rem; font-size: 0.85rem; }
   .meta-label { color: var(--text-muted); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.04em; }
   .meta-val { color: var(--accent); font-weight: 500; }
 
-  /* ---------- Úvodní řádek: obrázek + perex (flex, spolehlivé) ---------- */
+  .translation-notice {
+    text-align: center;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0.5rem 1rem;
+    margin-bottom: 2rem;
+  }
+
   .essay-lead {
     display: flex;
     align-items: flex-start;
@@ -293,7 +378,6 @@ const posterAbsolute = new URL(poster, siteUrl).href;
   .essay-excerpt-block { flex: 1; min-width: 0; }
   .essay-excerpt-block p { font-size: 1.1rem; line-height: 1.75; color: #dedede; margin: 0; font-style: italic; }
 
-  /* ---------- Tělo článku: vždy na celou šířku ---------- */
   .essay-body { font-size: 1.08rem; line-height: 1.8; color: #dedede; }
   .essay-body > *:first-child { margin-top: 0; }
   .essay-body h2, .essay-body h3 { font-family: var(--font-serif); color: var(--text); margin-top: 3rem; margin-bottom: 1rem; font-weight: 400; }
@@ -306,7 +390,46 @@ const posterAbsolute = new URL(poster, siteUrl).href;
   .author-byline-name { display: inline-block; font-size: 1rem; font-weight: 600; color: var(--text); text-decoration: none; letter-spacing: 0.02em; transition: color 0.15s ease; }
   .author-byline-name:hover { color: var(--accent); }
 
-  .essay-bottom-nav { margin-top: 2rem; display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; }
+  .essay-pagination {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.2rem;
+    margin-top: 2.5rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--border);
+  }
+  .nav-card a {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    text-decoration: none;
+    color: var(--text);
+    padding: 1rem 1.2rem;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    height: 100%;
+    transition: border-color 0.2s ease, transform 0.2s ease;
+  }
+  .nav-card a:hover {
+    border-color: var(--accent);
+    transform: translateY(-2px);
+  }
+  .nav-card.next { text-align: right; }
+  .nav-label {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-muted);
+  }
+  .nav-title {
+    font-weight: 500;
+    color: var(--accent);
+    font-size: 0.95rem;
+    line-height: 1.3;
+  }
+
+  .essay-bottom-nav { margin-top: 2.5rem; display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; }
   .archive-nav-btn { display: inline-block; padding: 0.8rem 1.6rem; background: var(--accent); border: 1px solid var(--accent); color: var(--bg); text-decoration: none; font-size: 0.95rem; font-weight: 600; border-radius: 4px; transition: all 0.2s ease; }
   .archive-nav-btn:hover { opacity: 0.9; }
   .archive-nav-btn.secondary { background: var(--bg-elevated); color: var(--accent); font-weight: 500; }
@@ -321,8 +444,9 @@ const posterAbsolute = new URL(poster, siteUrl).href;
     .film-meta-bar { flex-direction: column; gap: 0.4rem; border-radius: 8px; width: 100%; }
     .essay-lead { flex-direction: column; align-items: center; text-align: center; }
     .essay-poster-block { flex: 0 0 auto; width: 100%; max-width: 240px; margin: 0 auto; }
+    .essay-pagination { grid-template-columns: 1fr; }
+    .nav-card.next { text-align: left; }
     .essay-bottom-nav { flex-direction: column; }
     .archive-nav-btn { display: block; width: 100%; text-align: center; }
   }
 </style>
-

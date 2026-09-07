@@ -14,7 +14,7 @@ const uniqueSlugs = Array.from(
 );
 
 const essays = uniqueSlugs.map(slug => {
-  const normalizedId = id => id.replace(/\\/g, '/');
+  const normalizedId = (id: string) => id.replace(/\\/g, '/');
   
   const czEntry = allEssays.find(e => {
     const id = normalizedId(e.id);
