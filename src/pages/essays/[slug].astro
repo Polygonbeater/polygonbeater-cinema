@@ -228,7 +228,11 @@ const posterAbsolute = new URL(poster, siteUrl).href;
     </div>
 
     <div class="essay-bottom-nav">
-      <a href="/" class="archive-nav-btn">
+      <a href="/essays" class="archive-nav-btn">
+        <span lang="cs">Zpět do archivu</span>
+        <span lang="en">Back to archive</span>
+      </a>
+      <a href="/" class="archive-nav-btn secondary">
         <span lang="cs">Zpět na úvod</span>
         <span lang="en">Back to home</span>
       </a>
@@ -301,9 +305,13 @@ const posterAbsolute = new URL(poster, siteUrl).href;
   .author-byline-label { margin: 0 0 0.15rem; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-muted); }
   .author-byline-name { display: inline-block; font-size: 1rem; font-weight: 600; color: var(--text); text-decoration: none; letter-spacing: 0.02em; transition: color 0.15s ease; }
   .author-byline-name:hover { color: var(--accent); }
-  .essay-bottom-nav { margin-top: 2rem; text-align: center; }
-  .archive-nav-btn { display: inline-block; padding: 0.8rem 1.6rem; background: var(--bg-elevated); border: 1px solid var(--accent); color: var(--accent); text-decoration: none; font-size: 0.95rem; font-weight: 500; border-radius: 4px; transition: all 0.2s ease; }
-  .archive-nav-btn:hover { background: var(--accent); color: var(--bg); }
+
+  .essay-bottom-nav { margin-top: 2rem; display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; }
+  .archive-nav-btn { display: inline-block; padding: 0.8rem 1.6rem; background: var(--accent); border: 1px solid var(--accent); color: var(--bg); text-decoration: none; font-size: 0.95rem; font-weight: 600; border-radius: 4px; transition: all 0.2s ease; }
+  .archive-nav-btn:hover { opacity: 0.9; }
+  .archive-nav-btn.secondary { background: var(--bg-elevated); color: var(--accent); font-weight: 500; }
+  .archive-nav-btn.secondary:hover { background: var(--accent); color: var(--bg); opacity: 1; }
+
   .scroll-top-btn { position: fixed; bottom: 2rem; right: 2rem; background: var(--bg-elevated); border: 1px solid var(--border); color: var(--accent); width: 44px; height: 44px; border-radius: 50%; font-size: 1.2rem; font-weight: bold; cursor: pointer; opacity: 0; visibility: hidden; transition: opacity 0.25s ease, visibility 0.25s ease, border-color 0.2s ease; z-index: 90; box-shadow: 0 4px 12px rgba(0,0,0,0.4); }
   .scroll-top-btn.visible { opacity: 1; visibility: visible; }
   .scroll-top-btn:hover { border-color: var(--accent); background: var(--accent); color: var(--bg); }
@@ -313,6 +321,7 @@ const posterAbsolute = new URL(poster, siteUrl).href;
     .film-meta-bar { flex-direction: column; gap: 0.4rem; border-radius: 8px; width: 100%; }
     .essay-lead { flex-direction: column; align-items: center; text-align: center; }
     .essay-poster-block { flex: 0 0 auto; width: 100%; max-width: 240px; margin: 0 auto; }
+    .essay-bottom-nav { flex-direction: column; }
     .archive-nav-btn { display: block; width: 100%; text-align: center; }
   }
 </style>
