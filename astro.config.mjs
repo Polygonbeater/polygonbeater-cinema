@@ -29,7 +29,6 @@ export default defineConfig({
       changefreq: 'weekly',
       priority: 0.8,
       serialize(item) {
-        // Eseje mají nejvyšší prioritu, homepage střední, ostatní nižší
         if (item.url.includes('/essays/') && item.url !== 'https://cinema.polygonbeater.eu/essays/') {
           return { ...item, priority: 0.9, changefreq: 'monthly' };
         }
