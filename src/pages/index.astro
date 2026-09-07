@@ -15,13 +15,14 @@ const uniqueSlugs = Array.from(
 
 const essays = uniqueSlugs.map(slug => {
   const normalizedId = id => id.replace(/\\/g, '/');
+  
   const czEntry = allEssays.find(e => {
     const id = normalizedId(e.id);
-    return id.includes(`cz/cz-${slug}`) || id.endsWith(`cz-${slug}`);
+    return id.includes(`cz/${slug}`) || id.includes(`cz-${slug}`);
   });
   const enEntry = allEssays.find(e => {
     const id = normalizedId(e.id);
-    return id.includes(`en/en-${slug}`) || id.endsWith(`en-${slug}`);
+    return id.includes(`en/${slug}`) || id.includes(`en-${slug}`);
   });
   
   return {
@@ -260,4 +261,3 @@ const latestEssays = essays.slice(0, 12);
     .archive-cta-btn { display: block; }
   }
 </style>
-
