@@ -1,3 +1,4 @@
+cat << 'EOF' > src/content/essays/en/blade-runner.md
 ---
 title: "Eyes in the Neon Dusk: Blade Runner and the Architecture of Artificial Memory"
 film: "Blade Runner (1982)"
@@ -68,3 +69,4 @@ A story that began with the cold, observant gaze of an eye overlooking a burning
 A defining dimension of the film (specifically in the *Director's Cut* and *Final Cut*) is the unicorn motif. Deckard’s dream of a unicorn, linked to the silver foil origami left behind by the enigmatic Agent Gaff, strongly implies that Deckard’s most intimate thoughts may themselves be an implanted memory.
 
 *Blade Runner* leaves the viewer with no easy resolution. Instead, it offers an enduring meditation on the fragility of existence, the power of memory, and the aesthetic of a world where the machine longs to be human, while humanity forgets how to be.
+EOF
