@@ -1,3 +1,4 @@
+
 ---
 interface Props {
   title?: string;
@@ -478,9 +479,19 @@ const jsonLd = type === "article" ? {
       .site-nav a { font-size: 0.88rem; color: var(--text-muted); text-decoration: none; font-weight: 500; transition: color 0.15s ease; }
       .site-nav a:hover { color: var(--accent); }
 
-      .lang-switch { display: flex; align-items: center; gap: 0.5rem; font-size: 0.85rem; flex-shrink: 0; }
-      .lang-btn { background: none; border: none; color: var(--text-muted); font: inherit; cursor: pointer; padding: 0.25rem; font-weight: 600; }
-      .lang-btn[aria-pressed="true"], .lang-btn:hover { color: var(--accent); }
+      .lang-switch {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        font-size: 0.78rem;
+        flex-shrink: 0;
+        background: var(--bg-elevated);
+        border: 1px solid var(--border);
+        border-radius: 4px;
+        padding: 6px 10px;
+      }
+      .lang-btn { background: none; border: none; color: var(--text-muted); font: inherit; cursor: pointer; padding: 0; font-weight: 600; opacity: 0.85; transition: opacity 0.2s ease, color 0.15s ease; }
+      .lang-btn[aria-pressed="true"], .lang-btn:hover { color: var(--accent); opacity: 1; }
       .lang-sep { color: var(--border); }
 
       .menu-toggle { display: none; background: none; border: 1px solid var(--border); border-radius: 4px; color: var(--text); cursor: pointer; padding: 0.4rem; align-items: center; justify-content: center; flex-shrink: 0; }
