@@ -1,4 +1,3 @@
-cat << 'EOF' > src/content/essays/en/blade-runner.md
 ---
 title: "Eyes in the Neon Dusk: Blade Runner and the Architecture of Artificial Memory"
 film: "Blade Runner (1982)"

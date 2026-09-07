@@ -1,4 +1,3 @@
-cat << 'EOF' > src/content/essays/cz/blade-runner.md
 ---
 title: "Oči v neónovém soumraku: Blade Runner a architektura umělé paměti"
 film: "Blade Runner (1982)"
