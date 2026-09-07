@@ -218,6 +218,12 @@ const jsonLd = type === "article" ? {
           <p lang="en">© {new Date().getFullYear()} Vítězslav Koneval. All rights reserved.</p>
           
           <div class="footer-links">
+            {!isEssays && (
+              <a href="/essays" class="footer-link">
+                <span lang="cs">Archiv</span>
+                <span lang="en">Archive</span>
+              </a>
+            )}
             {!isAuthor && (
               <a href="/author" class="footer-link">
                 <span lang="cs">O autorovi</span>
@@ -521,9 +527,10 @@ const jsonLd = type === "article" ? {
       }
 
       /* Bezpečnostní pojistka pro fakt úzké obrazovky / in-app prohlížeče:
-         schová se doplňkové slovo "CINEMA", zůstane jen "POLYGON BEATER". */
+         logo se dál zmenší, ale text zůstává celý vidět (žádné schovávání). */
       @media (max-width: 400px) {
-        .logo-accent { display: none; }
+        .logo { font-size: clamp(0.62rem, 3.2vw, 1.05rem); }
+        .static-logo-icon { width: 24px; height: 24px; }
       }
 
       .site-footer { border-top: 1px solid var(--border); padding: 2.5rem 0; margin-top: 5rem; width: 100%; }
