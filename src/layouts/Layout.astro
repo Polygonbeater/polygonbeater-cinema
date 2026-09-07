@@ -147,38 +147,41 @@ const jsonLd = type === "article" ? {
           )}
         </div>
 
-        <button type="button" class="menu-toggle" id="menuToggle" aria-label="Menu" aria-expanded="false">
-          <svg class="icon-hamburger" viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="2" fill="none"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
-          <svg class="icon-close" viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="2" fill="none"><path d="M6 18L18 6M6 6l12 12"/></svg>
-        </button>
+        <div class="header-actions">
+          <div class="site-nav-wrap" id="headerRight">
+            <nav class="site-nav" aria-label="Hlavní navigace / Main navigation">
+              {!isHome && (
+                <a href="/">
+                  <span lang="cs">Úvod</span>
+                  <span lang="en">Home</span>
+                </a>
+              )}
+              {!isEssays && (
+                <a href="/essays">
+                  <span lang="cs">Archiv</span>
+                  <span lang="en">Archive</span>
+                </a>
+              )}
+              {!isAuthor && (
+                <a href="/author">
+                  <span lang="cs">O autorovi</span>
+                  <span lang="en">About Author</span>
+                </a>
+              )}
+            </nav>
+          </div>
 
-        <div class="header-right" id="headerRight">
-          <nav class="site-nav" aria-label="Hlavní navigace / Main navigation">
-            {!isHome && (
-              <a href="/">
-                <span lang="cs">Úvod</span>
-                <span lang="en">Home</span>
-              </a>
-            )}
-            {!isEssays && (
-              <a href="/essays">
-                <span lang="cs">Archiv</span>
-                <span lang="en">Archive</span>
-              </a>
-            )}
-            {!isAuthor && (
-              <a href="/author">
-                <span lang="cs">O autorovi</span>
-                <span lang="en">About Author</span>
-              </a>
-            )}
-          </nav>
-
+          <!-- Vždy viditelný přepínač jazyka — mimo rozbalovací menu -->
           <nav class="lang-switch" aria-label="Přepínač jazyka / Language switch">
             <button type="button" class="lang-btn" data-set-lang="cs" aria-pressed="true">CZ</button>
             <span class="lang-sep">|</span>
             <button type="button" class="lang-btn" data-set-lang="en" aria-pressed="false">EN</button>
           </nav>
+
+          <button type="button" class="menu-toggle" id="menuToggle" aria-label="Menu" aria-expanded="false">
+            <svg class="icon-hamburger" viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="2" fill="none"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+            <svg class="icon-close" viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="2" fill="none"><path d="M6 18L18 6M6 6l12 12"/></svg>
+          </button>
         </div>
       </div>
     </header>
@@ -466,12 +469,16 @@ const jsonLd = type === "article" ? {
       .logo-static { cursor: default; }
       .logo-accent { color: var(--accent); font-weight: 300; }
       
-      .header-right { display: flex; align-items: center; gap: 1.5rem; flex-shrink: 0; }
+      /* Kontejner napravo: nav (schovatelná na mobilu) + vždy viditelný
+         jazykový přepínač + hamburger tlačítko (viditelné jen na mobilu). */
+      .header-actions { display: flex; align-items: center; gap: 1.25rem; flex-shrink: 0; }
+
+      .site-nav-wrap { display: flex; align-items: center; }
       .site-nav { display: flex; align-items: center; gap: 1.25rem; }
       .site-nav a { font-size: 0.88rem; color: var(--text-muted); text-decoration: none; font-weight: 500; transition: color 0.15s ease; }
       .site-nav a:hover { color: var(--accent); }
 
-      .lang-switch { display: flex; align-items: center; gap: 0.5rem; font-size: 0.85rem; }
+      .lang-switch { display: flex; align-items: center; gap: 0.5rem; font-size: 0.85rem; flex-shrink: 0; }
       .lang-btn { background: none; border: none; color: var(--text-muted); font: inherit; cursor: pointer; padding: 0.25rem; font-weight: 600; }
       .lang-btn[aria-pressed="true"], .lang-btn:hover { color: var(--accent); }
       .lang-sep { color: var(--border); }
@@ -483,7 +490,11 @@ const jsonLd = type === "article" ? {
 
       @media (max-width: 640px) {
         .menu-toggle { display: flex; }
-        .header-right {
+        .header-actions { gap: 0.85rem; }
+
+        /* Jen nav (Archiv, O autorovi) se schovává do rozbalovacího panelu.
+           Jazykový přepínač zůstává mimo — je přímo v .header-actions. */
+        .site-nav-wrap {
           display: none;
           position: absolute;
           top: 100%;
@@ -491,15 +502,12 @@ const jsonLd = type === "article" ? {
           right: 0;
           background: var(--bg-elevated);
           border-bottom: 1px solid var(--border);
-          flex-direction: column;
           padding: 1.25rem;
-          gap: 1.25rem;
           box-shadow: 0 10px 20px rgba(0,0,0,0.5);
         }
-        .header-right.is-open { display: flex; }
+        .site-nav-wrap.is-open { display: flex; }
         .site-nav { flex-direction: column; gap: 1rem; width: 100%; text-align: center; }
         .site-nav a { font-size: 1rem; padding: 0.25rem 0; }
-        .lang-switch { justify-content: center; width: 100%; }
       }
 
       .site-footer { border-top: 1px solid var(--border); padding: 2.5rem 0; margin-top: 5rem; width: 100%; }
@@ -543,3 +551,4 @@ const jsonLd = type === "article" ? {
     </style>
   </body>
 </html>
+
