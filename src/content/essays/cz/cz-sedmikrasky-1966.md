@@ -1,9 +1,9 @@
 ---
-title: "Vrzání kloubů v dobře promazaném stroji: O tanci nad střepy a svobodě kažení"
+title: "Vrzání kloubů v dobře promazaném stroji: O tanci nad střepy a svobodě hřešit"
 film: "Sedmikrásky (1966)"
 year: 1966
 date: "2026-09-08"
-description: "Esej o legendárním československém filmu Věry Chytilové. O radikální vzpuře dvou Marií, destrukci měšťácké morálky a naprosté svobodě formy."
+description: "Esej o legendárním československém filmu Věry Chytilové. O radikální vzpuře dvou Marií, destrukci měšťácké morálky a naprosté svobodě hřešit."
 image: "/images/essays/sedmikrasky-1966.webp"
 lang: "cz"
 translationSlug: "sedmikrasky-1966"
