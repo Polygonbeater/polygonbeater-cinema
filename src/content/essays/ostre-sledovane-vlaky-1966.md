@@ -1,9 +1,10 @@
 ---
 title: "Perlička na dně staničního prachu: O smíchu, slzách a ostře sledovaných vlacích"
+summary: "Esej o legendárním oscarovém filmu Jiřího Menzela a Bohumila Hrabala. O erotice jako vzdoru, absurdním hrdinství a hledání lidskosti uprostřed válečného chaosu."
+description: "Esej o legendárním oscarovém filmu Jiřího Menzela a Bohumila Hrabala. O erotice jako vzdoru, absurdním hrdinství a hledání lidskosti uprostřed válečného chaosu."
 film: "Ostře sledované vlaky (1966)"
 year: 1966
 date: "2026-09-08"
-description: "Esej o legendárním oscarovém filmu Jiřího Menzela a Bohumila Hrabala. O erotice jako vzdoru, absurdním hrdinství a hledání lidskosti uprostřed válečného chaosu."
 image: "/images/essays/ostre-sledovane-vlaky-1966.webp"
 lang: "cz"
 translationSlug: "ostre-sledovane-vlaky-1966"
