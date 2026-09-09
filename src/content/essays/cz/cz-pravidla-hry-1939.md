@@ -20,7 +20,7 @@ Vznikla tak fascinující prostorová rovnost. Popředí a pozadí spolu vedou n
 
 ## Dvojí metr a rituální lov
 
-Všechno v tomto světě podléhá dvojímu metru, ale stejným falešným pravidlům. Renoir mistrovsky staví vedle sebe svět pánů a svět služebnictva. Nevěra, lež i žárlivost jsou plně tolerovány, dokud zůstávají skryty pod maskou společenského decorumu. Jakmile však emoce přetečou přes okraj nablýskané formy, etiketa se mění v past.
+Všechno v tomto světě podléhá dvojímu metru, ale stejným falešným pravidlům. Renoir mistrovsky staví vedle sebe svět pánů a svět služebnictva. Nevěra, lež i žárlivost jsou plně tolerovány, dokud zůstávají skryty pod maskou společenského dekora. Jakmile však emoce přetečou přes okraj nablýskané formy, etiketa se mění v past.
 
 Nejhrozivější předehrou nadcházejícího evropského jatka se stává sekvence honu na lesní zvěř. V prudkém, až mechanickém rytmu střihu jsme svědky chladného vyvražďování králíků a bažantů. Tato scéna není pouhou obžalobou panské kratochvíle; je to děsivý, prorocký obraz světa, který ztratil jakoukoliv úctu k životu a pro něhož se zabíjení stalo pouhou rituální hrou. Když se následně na zámku rozjede maškarní večírek a na pódiu tančí kostlivci, hranice mezi divadlem, společenskou maskou a skutečnou smrtí mizí.
 
@@ -30,4 +30,4 @@ Přímo uprostřed této tiché apokalypsy vyslovuje sám Renoir v roli Octava s
 
 > *„Víte, na tomto světě je jedna hrozná věc, a to, že každý má své důvody.“*
 
-V té jediné věti se skrývá vrcholná esence tragikomedie. *Pravidla hry* nevytvářejí zlé monstra ani zloduchy, které by bylo snadné odsoudit. Tragédie spočívá v tom, že každá z postav jedná z motivů, které jsou lidské, pochopitelné a v jádru lidsky křehké. Avšak lapeni v rigidních rituálech společenské smlouvy směřují všichni společně, krok za krokem, k fatálnímu omylu, výstřelu v temnotě a neúprosné smrti.
+V té jediné větě se skrývá vrcholná esence tragikomedie. *Pravidla hry* nevytvářejí zlá monstra ani zloduchy, které by bylo snadné odsoudit. Tragédie spočívá v tom, že každá z postav jedná z motivů, které jsou lidské, pochopitelné a v jádru lidsky křehké. Avšak lapeni v rigidních rituálech společenské smlouvy směřují všichni společně, krok za krokem, k fatálnímu omylu, výstřelu v temnotě a neúprosné smrti.
