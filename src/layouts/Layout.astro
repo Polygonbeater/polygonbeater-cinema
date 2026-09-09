@@ -253,6 +253,15 @@ const jsonLd = type === "article" ? {
         <p class="footer-meta" lang="en">
           Author's archive of film essays and analyses. Contact: <a href="mailto:info@polygonbeater.eu">info@polygonbeater.eu</a>
         </p>
+
+        <!-- Tip jar -->
+        <div class="tip-jar">
+          <a href="https://ko-fi.com/polygonbeater" target="_blank" rel="noopener noreferrer" class="tip-jar-btn">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M23.881 8.948c-.773-4.085-4.859-4.593-4.859-4.593H.723c-.604 0-.679.798-.679.798s-.082 7.324-.022 11.822c.164 2.424 2.586 2.672 2.586 2.672s8.267-.006 11.966-.007c2.44-.164 2.66-2.169 2.626-3.045 4.354.756 6.951-1.191 6.951-1.191l-.27-6.456zM17.51 15.2c-.71.665-1.813.665-1.813.665H4.5V6.5h11.197s.723 0 1.813.665c1.09.665 1.09 2.048 1.09 2.048v3.32s0 1.383-1.09 2.048l.001.619z"/></svg>
+            <span lang="cs">Podpořit na Ko-fi</span>
+            <span lang="en">Support on Ko-fi</span>
+          </a>
+        </div>
       </div>
     </footer>
 
@@ -558,6 +567,26 @@ const jsonLd = type === "article" ? {
       .footer-meta { font-size: 0.85rem; color: var(--text-muted); }
       .footer-meta a { color: var(--text-muted); text-decoration: underline; }
       .footer-meta a:hover { color: var(--accent); }
+
+      .tip-jar { margin-top: 1.5rem; }
+      .tip-jar-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        background: var(--bg-elevated);
+        border: 1px solid var(--accent);
+        color: var(--accent);
+        text-decoration: none;
+        padding: 0.55rem 1.1rem;
+        border-radius: 4px;
+        font-size: 0.85rem;
+        font-weight: 500;
+        transition: background 0.2s ease, color 0.2s ease;
+      }
+      .tip-jar-btn:hover {
+        background: var(--accent);
+        color: var(--bg);
+      }
 
       .back-to-top { position: fixed; bottom: 24px; right: 24px; width: 44px; height: 44px; background: var(--bg-elevated); color: var(--text); border: 1px solid var(--accent); border-radius: 4px; display: flex; align-items: center; justify-content: center; cursor: pointer; z-index: 1000; opacity: 0; visibility: hidden; transition: opacity .3s ease, visibility .3s ease, background .2s ease, color .2s ease, transform .2s ease; }
       .back-to-top.show { opacity: 1; visibility: visible; }
