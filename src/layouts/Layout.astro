@@ -228,7 +228,7 @@ const jsonLd = type === "article" ? {
               <p lang="en">© {new Date().getFullYear()} Vítězslav Koneval. All rights reserved.</p>
             </div>
             
-            <!-- Tip jar -->
+            <!-- Tip jar (vedle jména v patičce) -->
             <div class="tip-jar">
               <a href="https://ko-fi.com/polygonbeater" target="_blank" rel="noopener noreferrer" class="tip-jar-btn">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M23.881 8.948c-.773-4.085-4.859-4.593-4.859-4.593H.723c-.604 0-.679.798-.679.798s-.082 7.324-.022 11.822c.164 2.424 2.586 2.672 2.586 2.672s8.267-.006 11.966-.007c2.44-.164 2.66-2.169 2.626-3.045 4.354.756 6.951-1.191 6.951-1.191l-.27-6.456zM17.51 15.2c-.71.665-1.813.665-1.813.665H4.5V6.5h11.197s.723 0 1.813.665c1.09.665 1.09 2.048 1.09 2.048v3.32s0 1.383-1.09 2.048l.001.619z"/></svg>
@@ -501,4 +501,85 @@ const jsonLd = type === "article" ? {
       .header-actions { display: flex; align-items: center; gap: 1.25rem; flex-shrink: 0; }
 
       .site-nav-wrap { display: flex; align-items: center; }
-      .site-nav { display: flex; align-items: center; gap: 1.25rem;Omlouvám se, ale nemám k dispozici předchozí kontext naší konverzace. Můžete mi prosím upřesnit, o jaký text, kód nebo téma se jedná, abych vám ho mohl vygenerovat či poslat celé?
+      .site-nav { display: flex; align-items: center; gap: 1.25rem; }
+      .site-nav a { text-decoration: none; font-size: 0.9rem; color: var(--text-muted); transition: color 0.15s ease; }
+      .site-nav a:hover { color: var(--text); }
+
+      .lang-switch { display: flex; align-items: center; gap: 0.35rem; font-size: 0.85rem; font-weight: 600; }
+      .lang-btn { background: none; border: none; color: var(--text-muted); cursor: pointer; padding: 0.1rem; font-family: inherit; font-size: inherit; font-weight: inherit; transition: color 0.15s ease; }
+      .lang-btn:hover, .lang-btn[aria-pressed="true"] { color: var(--accent); }
+      .lang-sep { color: var(--border); font-weight: 300; }
+
+      .menu-toggle { display: none; background: none; border: none; color: var(--text); cursor: pointer; padding: 0.2rem; }
+      .menu-toggle .icon-close { display: none; }
+      .site-nav-wrap.is-open ~ .header-actions .menu-toggle .icon-hamburger,
+      .header-actions .menu-toggle[aria-expanded="true"] .icon-hamburger { display: none; }
+      .site-nav-wrap.is-open ~ .header-actions .menu-toggle .icon-close,
+      .header-actions .menu-toggle[aria-expanded="true"] .icon-close { display: block; }
+
+      @media (max-width: 768px) {
+        .menu-toggle { display: block; }
+        .site-nav-wrap {
+          position: absolute;
+          top: 100%;
+          left: 0;
+          width: 100%;
+          background: var(--bg);
+          border-bottom: 1px solid var(--border);
+          padding: 1rem 1.5rem;
+          display: none;
+          box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+        }
+        .site-nav-wrap.is-open { display: block; }
+        .site-nav { flex-direction: column; align-items: flex-start; gap: 1rem; }
+      }
+
+      .site-footer { border-top: 1px solid var(--border); padding: 3rem 0 4rem; margin-top: 4rem; background: var(--bg-elevated); font-size: 0.9rem; color: var(--text-muted); }
+      .footer-inner { display: flex; flex-direction: column; gap: 2rem; }
+      
+      .newsletter-section { max-width: 480px; }
+      .newsletter-form p { margin: 0 0 0.75rem 0; color: var(--text); font-size: 0.95rem; }
+      .newsletter-row { display: flex; gap: 0.5rem; }
+      .newsletter-form input[type="email"] { flex: 1; background: var(--bg); border: 1px solid var(--border); border-radius: 4px; padding: 0.6rem 0.9rem; color: var(--text); font-size: 0.9rem; }
+      .newsletter-form input[type="email"]:focus { outline: none; border-color: var(--accent); }
+      .newsletter-btn { background: var(--accent); color: #0a0a0b; border: none; border-radius: 4px; padding: 0.6rem 1.25rem; font-weight: 600; cursor: pointer; transition: opacity 0.15s ease; white-space: nowrap; }
+      .newsletter-btn:hover { opacity: 0.9; }
+      .newsletter-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+      #newsletter-result { margin-top: 0.5rem; font-size: 0.85rem; }
+
+      .footer-row { display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1.5rem; border-top: 1px solid var(--border); padding-top: 1.5rem; }
+      
+      /* Změněno na row, aby tlačítko bylo vedle jména/copyrightu */
+      .footer-author-group { display: flex; flex-direction: row; align-items: center; gap: 1.5rem; flex-wrap: wrap; }
+      .copyright-text p { margin: 0; }
+      
+      .tip-jar { display: inline-block; }
+      .tip-jar-btn { display: inline-flex; align-items: center; gap: 0.5rem; background: var(--bg); border: 1px solid var(--border); color: var(--text); padding: 0.4rem 0.8rem; border-radius: 4px; font-size: 0.85rem; text-decoration: none; transition: border-color 0.15s ease, color 0.15s ease; width: fit-content; }
+      .tip-jar-btn:hover { border-color: var(--accent); color: var(--accent); }
+      .tip-jar-btn svg { color: var(--accent); flex-shrink: 0; }
+
+      .footer-links { display: flex; gap: 1.5rem; flex-wrap: wrap; }
+      .footer-link { text-decoration: none; color: var(--text-muted); transition: color 0.15s ease; }
+      .footer-link:hover { color: var(--text); }
+      
+      .footer-meta { margin: 0; font-size: 0.85rem; border-top: 1px solid var(--border); padding-top: 1.5rem; }
+      .footer-meta a { color: var(--accent); text-decoration: none; }
+      .footer-meta a:hover { text-decoration: underline; }
+
+      .back-to-top { position: fixed; bottom: 2rem; right: 2rem; background: var(--bg-elevated); border: 1px solid var(--border); color: var(--text); width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; opacity: 0; visibility: hidden; transition: opacity 0.2s ease, visibility 0.2s ease, border-color 0.15s ease; z-index: 99; }
+      .back-to-top.show { opacity: 1; visibility: visible; }
+      .back-to-top:hover { border-color: var(--accent); color: var(--accent); }
+      .back-to-top svg { width: 18px; height: 18px; fill: currentColor; }
+
+      .cookie-banner { position: fixed; bottom: 0; left: 0; width: 100%; background: var(--bg-elevated); border-top: 1px solid var(--border); padding: 1rem 1.5rem; display: flex; justify-content: space-between; align-items: center; gap: 1rem; z-index: 1000; box-shadow: 0 -4px 20px rgba(0,0,0,0.5); }
+      .cookie-banner p { margin: 0; font-size: 0.85rem; color: var(--text-muted); }
+      .cookie-btn { background: var(--accent); color: #0a0a0b; border: none; border-radius: 4px; padding: 0.4rem 1rem; font-size: 0.85rem; font-weight: 600; cursor: pointer; white-space: nowrap; }
+      .cookie-btn:hover { opacity: 0.9; }
+
+      @media (max-width: 640px) {
+        .footer-row { flex-direction: column; }
+        .cookie-banner { flex-direction: column; align-items: flex-start; }
+      }
+    </style>
+  </body>
+</html>
