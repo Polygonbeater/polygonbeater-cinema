@@ -222,8 +222,21 @@ const jsonLd = type === "article" ? {
         </div>
 
         <div class="footer-row">
-          <p lang="cs">© {new Date().getFullYear()} Vítězslav Koneval. Všechna práva vyhrazena.</p>
-          <p lang="en">© {new Date().getFullYear()} Vítězslav Koneval. All rights reserved.</p>
+          <div class="footer-author-group">
+            <div class="copyright-text">
+              <p lang="cs">© {new Date().getFullYear()} Vítězslav Koneval. Všechna práva vyhrazena.</p>
+              <p lang="en">© {new Date().getFullYear()} Vítězslav Koneval. All rights reserved.</p>
+            </div>
+            
+            <!-- Tip jar -->
+            <div class="tip-jar">
+              <a href="https://ko-fi.com/polygonbeater" target="_blank" rel="noopener noreferrer" class="tip-jar-btn">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M23.881 8.948c-.773-4.085-4.859-4.593-4.859-4.593H.723c-.604 0-.679.798-.679.798s-.082 7.324-.022 11.822c.164 2.424 2.586 2.672 2.586 2.672s8.267-.006 11.966-.007c2.44-.164 2.66-2.169 2.626-3.045 4.354.756 6.951-1.191 6.951-1.191l-.27-6.456zM17.51 15.2c-.71.665-1.813.665-1.813.665H4.5V6.5h11.197s.723 0 1.813.665c1.09.665 1.09 2.048 1.09 2.048v3.32s0 1.383-1.09 2.048l.001.619z"/></svg>
+                <span lang="cs">Podpořit na Ko-fi</span>
+                <span lang="en">Support on Ko-fi</span>
+              </a>
+            </div>
+          </div>
           
           <div class="footer-links">
             {!isEssays && (
@@ -253,15 +266,6 @@ const jsonLd = type === "article" ? {
         <p class="footer-meta" lang="en">
           Author's archive of film essays and analyses. Contact: <a href="mailto:info@polygonbeater.eu">info@polygonbeater.eu</a>
         </p>
-
-        <!-- Tip jar -->
-        <div class="tip-jar">
-          <a href="https://ko-fi.com/polygonbeater" target="_blank" rel="noopener noreferrer" class="tip-jar-btn">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M23.881 8.948c-.773-4.085-4.859-4.593-4.859-4.593H.723c-.604 0-.679.798-.679.798s-.082 7.324-.022 11.822c.164 2.424 2.586 2.672 2.586 2.672s8.267-.006 11.966-.007c2.44-.164 2.66-2.169 2.626-3.045 4.354.756 6.951-1.191 6.951-1.191l-.27-6.456zM17.51 15.2c-.71.665-1.813.665-1.813.665H4.5V6.5h11.197s.723 0 1.813.665c1.09.665 1.09 2.048 1.09 2.048v3.32s0 1.383-1.09 2.048l.001.619z"/></svg>
-            <span lang="cs">Podpořit na Ko-fi</span>
-            <span lang="en">Support on Ko-fi</span>
-          </a>
-        </div>
       </div>
     </footer>
 
@@ -497,114 +501,4 @@ const jsonLd = type === "article" ? {
       .header-actions { display: flex; align-items: center; gap: 1.25rem; flex-shrink: 0; }
 
       .site-nav-wrap { display: flex; align-items: center; }
-      .site-nav { display: flex; align-items: center; gap: 1.25rem; }
-      .site-nav a { font-size: 0.88rem; color: var(--text-muted); text-decoration: none; font-weight: 500; transition: color 0.15s ease; }
-      .site-nav a:hover { color: var(--accent); }
-
-      .lang-switch {
-        display: flex;
-        align-items: center;
-        gap: 6px;
-        font-size: 0.78rem;
-        flex-shrink: 0;
-        background: var(--bg-elevated);
-        border: 1px solid var(--border);
-        border-radius: 4px;
-        padding: 6px 10px;
-      }
-      .lang-btn { background: none; border: none; color: var(--text-muted); font: inherit; cursor: pointer; padding: 0; font-weight: 600; opacity: 0.85; transition: opacity 0.2s ease, color 0.15s ease; }
-      .lang-btn[aria-pressed="true"], .lang-btn:hover { color: var(--accent); opacity: 1; }
-      .lang-sep { color: var(--border); }
-
-      .menu-toggle { display: none; background: none; border: 1px solid var(--border); border-radius: 4px; color: var(--text); cursor: pointer; padding: 0.4rem; align-items: center; justify-content: center; flex-shrink: 0; }
-      .menu-toggle .icon-close { display: none; }
-      .menu-toggle[aria-expanded="true"] .icon-hamburger { display: none; }
-      .menu-toggle[aria-expanded="true"] .icon-close { display: block; }
-
-      @media (max-width: 640px) {
-        .menu-toggle { display: flex; }
-        .header-actions { gap: 0.6rem; }
-        .lang-switch { padding: 5px 8px; gap: 5px; }
-
-        .site-nav-wrap {
-          display: none;
-          position: absolute;
-          top: 100%;
-          left: 0;
-          right: 0;
-          background: var(--bg-elevated);
-          border-bottom: 1px solid var(--border);
-          padding: 1.25rem;
-          box-shadow: 0 10px 20px rgba(0,0,0,0.5);
-        }
-        .site-nav-wrap.is-open { display: flex; }
-        .site-nav { flex-direction: column; gap: 1rem; width: 100%; text-align: center; }
-        .site-nav a { font-size: 1rem; padding: 0.25rem 0; }
-      }
-
-      @media (max-width: 400px) {
-        .logo { font-size: clamp(0.62rem, 3.2vw, 1.05rem); }
-        .static-logo-icon { width: 24px; height: 24px; }
-      }
-
-      .site-footer { border-top: 1px solid var(--border); padding: 2.5rem 0; margin-top: 5rem; width: 100%; }
-      
-      .newsletter-section { margin-bottom: 2.5rem; padding-bottom: 2.5rem; border-bottom: 1px dashed var(--border); }
-      .newsletter-form p { margin: 0 0 1rem; font-size: 0.95rem; color: var(--text-muted); }
-      .newsletter-row { display: flex; gap: 0.5rem; max-width: 420px; }
-      .newsletter-row input { flex: 1; background: var(--bg-elevated); border: 1px solid var(--border); color: var(--text); padding: 0.7rem 1rem; border-radius: 3px; font-family: inherit; font-size: 0.9rem; transition: border-color 0.15s ease; min-width: 0; }
-      .newsletter-row input:focus { outline: none; border-color: var(--accent); }
-      .newsletter-btn { background: var(--accent); color: var(--bg); border: none; padding: 0 1.2rem; font-weight: 600; font-size: 0.85rem; text-transform: uppercase; border-radius: 3px; cursor: pointer; transition: opacity 0.15s ease; letter-spacing: 0.05em; flex-shrink: 0; }
-      .newsletter-btn:hover { opacity: 0.9; }
-      .newsletter-btn:disabled { opacity: 0.5; cursor: not-allowed; }
-      #newsletter-result { margin-top: 0.75rem; font-size: 0.85rem; font-weight: 500; }
-
-      .footer-row { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem; margin-bottom: 0.5rem; }
-      .footer-inner p { margin: 0; font-size: 0.85rem; color: var(--text-muted); }
-      .footer-links { display: flex; gap: 1.25rem; }
-      .footer-link { font-size: 0.85rem; color: var(--text-muted); text-decoration: underline; }
-      .footer-link:hover { color: var(--accent); }
-      .footer-meta { font-size: 0.85rem; color: var(--text-muted); }
-      .footer-meta a { color: var(--text-muted); text-decoration: underline; }
-      .footer-meta a:hover { color: var(--accent); }
-
-      .tip-jar { margin-top: 1.5rem; }
-      .tip-jar-btn {
-        display: inline-flex;
-        align-items: center;
-        gap: 0.5rem;
-        background: var(--bg-elevated);
-        border: 1px solid var(--accent);
-        color: var(--accent);
-        text-decoration: none;
-        padding: 0.55rem 1.1rem;
-        border-radius: 4px;
-        font-size: 0.85rem;
-        font-weight: 500;
-        transition: background 0.2s ease, color 0.2s ease;
-      }
-      .tip-jar-btn:hover {
-        background: var(--accent);
-        color: var(--bg);
-      }
-
-      .back-to-top { position: fixed; bottom: 24px; right: 24px; width: 44px; height: 44px; background: var(--bg-elevated); color: var(--text); border: 1px solid var(--accent); border-radius: 4px; display: flex; align-items: center; justify-content: center; cursor: pointer; z-index: 1000; opacity: 0; visibility: hidden; transition: opacity .3s ease, visibility .3s ease, background .2s ease, color .2s ease, transform .2s ease; }
-      .back-to-top.show { opacity: 1; visibility: visible; }
-      .back-to-top:hover { background: var(--accent); color: var(--bg); transform: translateY(-3px); }
-      .back-to-top svg { width: 20px; height: 20px; fill: currentColor; }
-
-      .cookie-banner { position: fixed; bottom: 20px; left: 20px; max-width: 400px; background: var(--bg-elevated); border: 1px solid var(--accent); padding: 20px; z-index: 1000; box-shadow: 0 10px 30px rgba(0,0,0,0.5); display: flex; flex-direction: column; gap: 12px; }
-      .cookie-banner p { margin: 0; font-size: 0.85rem; color: var(--text-muted); line-height: 1.4; }
-      .cookie-btn { align-self: flex-end; background: var(--accent); color: var(--bg); border: none; padding: 8px 16px; font-size: 0.8rem; font-weight: 600; text-transform: uppercase; border-radius: 3px; cursor: pointer; transition: opacity 0.15s ease; }
-      .cookie-btn:hover { opacity: 0.9; }
-
-      @media (max-width: 480px) {
-        .cookie-banner { left: 12px; right: 12px; bottom: 12px; bottom: max(12px, env(safe-area-inset-bottom)); max-width: none; padding: 14px 16px; }
-        .cookie-btn { width: 100%; text-align: center; }
-        .back-to-top { bottom: 76px; right: 16px; width: 40px; height: 40px; }
-        .newsletter-row { flex-direction: column; }
-        .newsletter-btn { padding: 0.8rem; }
-      }
-    </style>
-  </body>
-</html>
+      .site-nav { display: flex; align-items: center; gap: 1.25rem;Omlouvám se, ale nemám k dispozici předchozí kontext naší konverzace. Můžete mi prosím upřesnit, o jaký text, kód nebo téma se jedná, abych vám ho mohl vygenerovat či poslat celé?
