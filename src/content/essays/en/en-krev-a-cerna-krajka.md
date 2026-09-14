@@ -1,5 +1,5 @@
 ---title: "Blood and Black Lace: The Chromatic Anatomy of Death in Bava's Masterpiece (1964)"
-film: "Blood and Black Lace: The Chromatic Anatomy of Death in Bava's Masterpiece (1964)"
+film: "Blood and Black Lace (1964)"
 year: 1964
 date: "2026-01-01"
 description: "An essayistic inquiry approaching Blood and Black Lace (1964) as a genre landmark, a study of fetishism, and the transformation of murder into an art installation."

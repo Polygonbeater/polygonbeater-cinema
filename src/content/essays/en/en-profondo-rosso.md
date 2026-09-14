@@ -1,5 +1,5 @@
 ---title: "The Blind Spot of Perception: A Bloody Grotesque and the Betrayal of Our Own Eyes in Argento's Deep Red (1975)"
-film: "The Blind Spot of Perception: A Bloody Grotesque and the Betrayal of Our Own Eyes in Argento's Deep Red (1975)"
+film: "Deep Red (1975)"
 year: 1975
 date: "2026-01-01"
 image: "/images/essays/profondo-rosso.webp"

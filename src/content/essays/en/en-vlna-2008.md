@@ -1,5 +1,5 @@
 ---title: "On the Cinematographic Terrarium and the Unbearable Heaviness of Freedom"
-film: "On the Cinematographic Terrarium and the Unbearable Heaviness of Freedom"
+film: "The Wave (2008)"
 year: 2008
 date: "2026-09-02"
 description: "An ethological and neurobiological analysis of Gansel's film The Wave exploring the vulnerability of the human operating system to totalitarian structures."

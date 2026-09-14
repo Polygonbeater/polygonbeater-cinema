@@ -1,5 +1,5 @@
 ---title: "Magic, Pride, and the Sarmatian Nobleman: The Cinematic Epic Pan Twardowski (1936)"
-film: "Magic, Pride, and the Sarmatian Nobleman: The Cinematic Epic Pan Twardowski (1936)"
+film: "Pan Twardowski (1936)"
 year: 1936
 date: "2026-09-02"
 description: "Henryk Szaro's ambitious Polish historical epic blends Renaissance splendor, Sarmatian swagger, and folk tales about the Polish Faust."

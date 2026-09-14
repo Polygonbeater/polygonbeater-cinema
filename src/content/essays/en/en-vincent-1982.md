@@ -1,5 +1,5 @@
 ---title: "Tim Burton – Vincent (1982): A Tribute to Gothic Obsession"
-film: "Tim Burton – Vincent (1982)"
+film: "Vincent (1982)"
 year: 1982
 date: "2026-09-03"
 description: "An analytical essay on Tim Burton's debut stop-motion short film, exploring its homage to German Expressionism, Edgar Allan Poe, and Gothic horror."

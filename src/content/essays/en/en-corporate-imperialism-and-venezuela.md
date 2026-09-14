@@ -1,5 +1,5 @@
 ---title: "The Credibility Crisis: Why the US Must Abandon Corporate Imperialism"
-film: "The Credibility Crisis"
+film: "Burn! (1969)"
 year: 1969
 date: "2026-09-03"
 description: "An analytical essay on the mechanics of corporate imperialism, historical US interventions in Latin America, and the Venezuelan crisis."
