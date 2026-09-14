@@ -174,8 +174,8 @@ const titleCs = czEntry?.data.title || enEntry?.data.title || slug;
 const titleEn = enEntry?.data.title || czEntry?.data.title || slug;
 const poster = czEntry?.data.image || enEntry?.data.image || `/images/${slug}.webp`;
 
-const metaCs = parseFilmMeta(czEntry || enEntry, titleCs, 'cz');
-const metaEn = parseFilmMeta(enEntry || czEntry, titleEn, 'en');
+const metaCs = parseFilmMeta(czEntry, titleCs, 'cz');
+const metaEn = parseFilmMeta(enEntry, titleEn, 'en');
 
 const excerptCs = makeExcerpt(czEntry || enEntry);
 const excerptEn = makeExcerpt(enEntry || czEntry);
