@@ -1,4 +1,33 @@
 ---
+const GENRE_MAP: Record<string, string> = {
+  "Sci-Fi": "Sci-Fi", "Mysteriózní": "Mystery", "Filozofický": "Philosophical", "Drama": "Drama",
+  "Surrealismus": "Surrealism", "Metakino": "Meta-cinema", "Dystopie": "Dystopia", "Kultovní": "Cult",
+  "Dokumentární": "Documentary", "Politický": "Political", "Historický": "Historical", "Horor": "Horror",
+  "Němý film": "Silent Film", "Avantgarda": "Avant-garde", "Psychologický": "Psychological",
+  "Animovaný": "Animation", "Komedie": "Comedy", "Hudební": "Musical", "Nová vlna": "French New Wave",
+  "Body horor": "Body Horror", "Experimentální": "Experimental", "Thriller": "Thriller", "Válečný": "War",
+  "Found footage": "Found Footage", "Transgresivní": "Transgressive", "Muzikál": "Musical",
+  "Klasický Hollywood": "Classic Hollywood", "Film noir": "Film Noir", "Soudní drama": "Courtroom Drama",
+  "Krimi": "Crime", "Neorealismus": "Italian Neorealism", "Sociální": "Social Drama", "Cyberpunk": "Cyberpunk",
+  "Folk horor": "Folk Horror", "Art": "Art House", "Romantický": "Romance", "Klasický český film": "Classic Czech Cinema",
+  "Špionážní": "Espionage", "Propaganda": "Propaganda", "Fantasy": "Fantasy", "Epos": "Epic", "Giallo": "Giallo",
+  "Pohádka": "Fairy Tale", "Expresionismus": "Expressionism", "Černá komedie": "Black Comedy", "Satira": "Satire",
+  "Folklor": "Folklore", "Biografický": "Biographical", "Přírodní": "Nature", "Dobrodružný": "Adventure",
+  "Gotický": "Gothic", "Gotický horor": "Gothic Horror", "Protiválečný": "Anti-war", "Politická alegorie": "Political Allegory",
+  "Balada": "Folkloric Ballad", "Postapokalyptický": "Post-apocalyptic", "Road movie": "Road Movie",
+  "Psychologický thriller": "Psychological Thriller", "Erotický thriller": "Erotic Thriller",
+  "Psychologický horor": "Psychological Horror", "Přírodní thriller": "Nature Thriller", "Krátkometrážní": "Short Film",
+  "Cestopisný": "Travelogue", "Detektivní": "Detective", "Paranoický thriller": "Paranoid Thriller", "Western": "Western",
+  "Mystický": "Mystical", "Exotický": "Exotic", "Gotické melodrama": "Gothic Melodrama", "Komedie mravů": "Comedy of Manners",
+  "Duchovní drama": "Spiritual Drama", "Procedurální": "Procedural", "Institucionální drama": "Institutional Drama",
+  "Psychologické drama": "Psychological Drama", "Utopie": "Utopia", "Animovaný dokument": "Animated Documentary",
+  "Sociologický thriller": "Sociological Thriller", "Technologický": "Technological", "Investigativní": "Investigative",
+  "Mediální drama": "Media Drama", "Poetické drama": "Poetic Drama", "Japonský horor": "Japanese Horror", "Kaidan": "Kaidan",
+  "Sociální satira": "Social Satire", "Milenci na útěku": "Lovers on the Run", "Tragédie": "Tragedy", "Survival": "Survival",
+  "Environmentální": "Environmental", "Dobový": "Period", "Esej": "Essay"
+};
+
+
 import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 
@@ -80,6 +109,7 @@ function parseFilmMeta(entry: any, defaultTitle: string, lang: 'cz' | 'en') {
   const sampleText = (desc + " " + body.slice(0, 600)).replace(/\n/g, ' ');
 
   let movieTitle = entry?.data?.film_title || entry?.data?.movie || entry?.data?.film || "";
+  let genres = entry?.data?.genres || [];
 
   if (movieTitle.includes('/')) {
     const parts = movieTitle.split('/').map((p: string) => p.trim());
@@ -115,7 +145,7 @@ function parseFilmMeta(entry: any, defaultTitle: string, lang: 'cz' | 'en') {
   const words = entry?.body ? entry.body.split(/\s+/).length : 0;
   const readingTime = Math.max(1, Math.ceil(words / 200));
 
-  return { movieTitle, year, director, readingTime };
+  return { movieTitle, year, director, readingTime, genres };
 }
 
 function truncateText(text: string, max = 220): string {
@@ -182,40 +212,46 @@ const enAlternateUrl = `${siteUrl}/en/essays/${slug}`;
       </a>
 
       <!-- Česká hlavička -->
-      <div class="essay-title-block lang-cs-block" lang="cs">
-        <h1>{titleCs}</h1>
-        <div class="film-meta-bar">
-          {metaCs.movieTitle && (
-            <div class="meta-chip"><span class="meta-label">Film</span><span class="meta-val">🎬 {metaCs.movieTitle}</span></div>
-          )}
-          {metaCs.director && (
-            <div class="meta-chip"><span class="meta-label">Režie</span><span class="meta-val">👤 {metaCs.director}</span></div>
-          )}
-          {metaCs.year && (
-            <div class="meta-chip"><span class="meta-label">Rok</span><span class="meta-val">📅 {metaCs.year}</span></div>
-          )}
-          <div class="meta-chip"><span class="meta-label">Čtení</span><span class="meta-val">⏱️ ~{metaCs.readingTime} min</span></div>
+        <div class="essay-title-block lang-cs-block" lang="cs">
+          <h1>{titleCs}</h1>
+          <div class="film-meta-bar">
+            {metaCs.movieTitle && (
+              <div class="meta-chip"><span class="meta-label">Film</span><span class="meta-val">🎬 {metaCs.movieTitle}</span></div>
+            )}
+            {metaCs.director && (
+              <div class="meta-chip"><span class="meta-label">Režie</span><span class="meta-val">👤 {metaCs.director}</span></div>
+            )}
+            {metaCs.year && (
+              <div class="meta-chip"><span class="meta-label">Rok</span><span class="meta-val">📅 {metaCs.year}</span></div>
+            )}
+            {metaCs.genres && metaCs.genres.length > 0 && (
+              <div class="meta-chip"><span class="meta-label">Žánr</span><span class="meta-val">🏷️ {metaCs.genres.join(', ')}</span></div>
+            )}
+            <div class="meta-chip"><span class="meta-label">Čtení</span><span class="meta-val">⏱️ ~{metaCs.readingTime} min</span></div>
+          </div>
         </div>
-      </div>
 
-      <!-- Anglická hlavička -->
-      <div class="essay-title-block lang-en-block" lang="en">
-        <h1>{titleEn}</h1>
-        <div class="film-meta-bar">
-          {metaEn.movieTitle && (
-            <div class="meta-chip"><span class="meta-label">Movie</span><span class="meta-val">🎬 {metaEn.movieTitle}</span></div>
-          )}
-          {metaEn.director && (
-            <div class="meta-chip"><span class="meta-label">Director</span><span class="meta-val">👤 {metaEn.director}</span></div>
-          )}
-          {metaEn.year && (
-            <div class="meta-chip"><span class="meta-label">Year</span><span class="meta-val">📅 {metaEn.year}</span></div>
-          )}
-          <div class="meta-chip"><span class="meta-label">Read</span><span class="meta-val">⏱️ ~{metaEn.readingTime} min</span></div>
+        <!-- Anglická hlavička -->
+        <div class="essay-title-block lang-en-block" lang="en">
+          <h1>{titleEn}</h1>
+          <div class="film-meta-bar">
+            {metaEn.movieTitle && (
+              <div class="meta-chip"><span class="meta-label">Movie</span><span class="meta-val">🎬 {metaEn.movieTitle}</span></div>
+            )}
+            {metaEn.director && (
+              <div class="meta-chip"><span class="meta-label">Director</span><span class="meta-val">👤 {metaEn.director}</span></div>
+            )}
+            {metaEn.year && (
+              <div class="meta-chip"><span class="meta-label">Year</span><span class="meta-val">📅 {metaEn.year}</span></div>
+            )}
+            {metaEn.genres && metaEn.genres.length > 0 && (
+              <div class="meta-chip"><span class="meta-label">Genre</span><span class="meta-val">🏷️ {metaEn.genres.map(g => GENRE_MAP[g] || g).join(', ')}</span></div>
+            )}
+            <div class="meta-chip"><span class="meta-label">Read</span><span class="meta-val">⏱️ ~{metaEn.readingTime} min</span></div>
+          </div>
         </div>
-      </div>
 
-      <!-- Indikátor dostupnosti překladu -->
+        <!-- Indikátor dostupnosti překladu -->
       {(!czEntry || !enEntry) && (
         <div class="translation-notice">
           {!enEntry && (
