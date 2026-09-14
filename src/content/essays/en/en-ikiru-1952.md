@@ -1,6 +1,5 @@
----
-title: "Ikiru (1952): Awakening at Ground Zero"
-film: "Ikiru / Žít (1952)"
+---title: "Ikiru (1952): Awakening at Ground Zero"
+film: "Ikiru (1952)"
 year: 1952
 date: "2026-09-03"
 description: "An analytical study of Akira Kurosawa's humanistic masterpiece exploring rebellion against bureaucratic dead time and the search for existential meaning."

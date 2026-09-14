@@ -1,6 +1,5 @@
----
-title: "Apocalypse Now (1979): Descent into the Heart of Darkness"
-film: "Apocalypse Now / Apokalypsa (1979)"
+---title: "Apocalypse Now (1979): Descent into the Heart of Darkness"
+film: "Apocalypse Now (1979)"
 year: 1979
 date: "2026-09-03"
 description: "An analytical study of Francis Ford Coppola's magnum opus exploring moral nihilism, Vittorio Storaro's chiaroscuro cinematography, and Walter Murch's sound design."

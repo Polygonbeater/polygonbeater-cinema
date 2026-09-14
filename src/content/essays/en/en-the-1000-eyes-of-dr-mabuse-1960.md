@@ -1,6 +1,5 @@
----
-title: "The 1,000 Eyes of Dr. Mabuse (1960): Lang’s Visionary Farewell"
-film: "The 1,000 Eyes of Dr. Mabuse / Die 1000 Augen des Dr. Mabuse (1960)"
+---title: "The 1,000 Eyes of Dr. Mabuse (1960): Lang’s Visionary Farewell"
+film: "The 1,000 Eyes of Dr. Mabuse (1960)"
 year: 1960
 date: "2026-09-03"
 description: "An analytical study of Fritz Lang's final artistic testament exploring total surveillance aesthetics, the Hotel Luxor as a Benthamite Panopticon, and Mabuse as an algorithm."

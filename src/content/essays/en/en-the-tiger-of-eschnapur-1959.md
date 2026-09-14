@@ -1,6 +1,5 @@
----
-title: "The Tiger of Eschnapur (1959): Lang’s Chromatic Revenge on Fate"
-film: "The Tiger of Eschnapur / Der Tiger von Eschnapur (1959)"
+---title: "The Tiger of Eschnapur (1959): Lang’s Chromatic Revenge on Fate"
+film: "The Tiger of Eschnapur (1959)"
 year: 1959
 date: "2026-09-03"
 description: "An analytical study of the first part of Fritz Lang's Indian Diptych, exploring technocratic hubris, architecture as a prison, and Eastmancolor aesthetics."

@@ -1,6 +1,5 @@
----
-title: "Vertigo (1958): Anatomy of Obsession"
-film: "Vertigo / Vertigo (1958)"
+---title: "Vertigo (1958): Anatomy of Obsession"
+film: "Vertigo (1958)"
 year: 1958
 date: "2026-09-03"
 description: "An analytical study of Alfred Hitchcock's masterpiece exploring the power of the image, the male gaze, the spiral motif, and the dolly zoom effect."

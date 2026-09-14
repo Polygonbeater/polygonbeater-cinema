@@ -1,6 +1,5 @@
----
-title: "Stalker (1979): Faith in the Zone of Emptiness"
-film: "Stalker / Stalker (1979)"
+---title: "Stalker (1979): Faith in the Zone of Emptiness"
+film: "Stalker (1979)"
 year: 1979
 date: "2026-09-03"
 description: "An analytical study of Andrei Tarkovsky's masterpiece exploring metaphysical pilgrimage, the concept of sculpting in time, and the dialectic of reason and faith."

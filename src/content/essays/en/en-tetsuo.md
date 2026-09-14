@@ -1,6 +1,5 @@
----
-title: "Tetsuo / 鉄男 (1989)"
-film: "Tetsuo / 鉄男"
+---title: "Tetsuo / 鉄男 (1989)"
+film: "Tetsuo"
 director: "Shinya Tsukamoto"
 year: 1989
 date: "2026-01-01"

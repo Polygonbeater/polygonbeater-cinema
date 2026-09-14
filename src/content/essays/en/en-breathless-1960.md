@@ -1,6 +1,5 @@
----
-title: "Breathless (1960): The Speed of the Surface and Death on the Run"
-film: "Breathless / À bout de souffle (1960)"
+---title: "Breathless (1960): The Speed of the Surface and Death on the Run"
+film: "Breathless (1960)"
 year: 1960
 date: "2026-09-03"
 description: "An analytical study of Jean-Luc Godard's French New Wave masterpiece exploring the jump cut, the pure horizontal of style, and the destruction of cinematic time."

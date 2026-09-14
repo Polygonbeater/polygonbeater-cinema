@@ -1,6 +1,5 @@
----
-title: "Children of Men (2006): Hope in the Ashes of Dystopia"
-film: "Children of Men / Potomci lidí (2006)"
+---title: "Children of Men (2006): Hope in the Ashes of Dystopia"
+film: "Children of Men (2006)"
 director: "Alfonso Cuarón"
 year: 2006
 date: "2026-09-03"

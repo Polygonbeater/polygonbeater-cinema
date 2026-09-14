@@ -1,6 +1,5 @@
----
-title: "Persepolis (2007): The Shattered Mirror of Iranian Memory"
-film: "Persepolis / Persepolis (2007)"
+---title: "Persepolis (2007): The Shattered Mirror of Iranian Memory"
+film: "Persepolis (2007)"
 year: 2007
 date: "2026-09-03"
 description: "An analytical study of Marjane Satrapi's animated film exploring the geometry of oppression, Foucault's theory of discipline, and exilic cinema."

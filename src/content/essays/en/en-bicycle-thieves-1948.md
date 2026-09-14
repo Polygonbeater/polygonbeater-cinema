@@ -1,6 +1,5 @@
----
-title: "Bicycle Thieves (1948): Stations of the Cross in the Dust of the Street"
-film: "Bicycle Thieves / Ladri di biciclette (1948)"
+---title: "Bicycle Thieves (1948): Stations of the Cross in the Dust of the Street"
+film: "Bicycle Thieves (1948)"
 year: 1948
 date: "2026-09-03"
 description: "An analytical study of the pillar of Italian Neorealism exploring street aesthetics, the pure horizontal of existence, and the cyclical nature of guilt."

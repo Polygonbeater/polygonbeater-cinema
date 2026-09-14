@@ -1,6 +1,5 @@
----
-title: "8½ (1963): The Labyrinth of Creative Crisis"
-film: "8½ / 8½ (1963)"
+---title: "8½ (1963): The Labyrinth of Creative Crisis"
+film: "8½ (1963)"
 year: 1963
 date: "2026-09-03"
 description: "An analytical study of Federico Fellini's masterpiece exploring meta-cinema, Freudian-Jungian psychoanalysis, and the architecture of the stream of consciousness."
