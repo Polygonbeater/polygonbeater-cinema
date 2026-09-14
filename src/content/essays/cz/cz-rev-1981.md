@@ -1,5 +1,5 @@
 ---title: "Řev (Roar, 1981): Patologie koexistence a dokumentární teror"
-film: "Řev (Roar, 1981)"
+film: "Řev (1981)"
 year: 1981
 date: "2026-09-03"
 description: "Analytická studie unikátního filmového experimentu Noela Marshalla zkoumající dekonstrukci krotitelského mýtu, kameru Jana de Bonta na hraně smrti a rozpad domova v arénu dravců."

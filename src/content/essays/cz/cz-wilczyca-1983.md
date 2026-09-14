@@ -1,5 +1,5 @@
 ---title: "Vlčice (Wilczyca, 1983): Dějiny jako masožravý přízrak a ztělesněné trauma"
-film: "Vlčice (Wilczyca, 1983)"
+film: "Vlčice (1983)"
 year: 1983
 date: "2026-09-03"
 description: "Analytická studie polského gotického hororu Marka Piestraka zkoumající rozpad národního mýtu lednového povstání roku 1863, návrat vytěsněné viny a tělo zvířete jako historické trauma."

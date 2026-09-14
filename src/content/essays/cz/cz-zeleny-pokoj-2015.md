@@ -1,5 +1,5 @@
 ---title: "Zelený pokoj (Green Room, 2015): Klaustrofobní obléhání, subkulturní manipulace a anatomie přežití"
-film: "Zelený pokoj (Green Room, 2015)"
+film: "Zelený pokoj (2015)"
 year: 2015
 date: "2026-09-03"
 description: "Analytická studie brutálního thrilleru Jeremyho Saulniera zkoumající klaustrofobní prostor backstage, subkulturní manipulaci neonacistické komunity, de-glamurizaci násilí a mechaniku animálního přežití."
