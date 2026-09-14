@@ -216,18 +216,18 @@ const enAlternateUrl = `${siteUrl}/en/essays/${slug}`;
           <h1>{titleCs}</h1>
           <div class="film-meta-bar">
             {metaCs.movieTitle && (
-              <div class="meta-chip"><span class="meta-label">Film</span><span class="meta-val">🎬 {metaCs.movieTitle}</span></div>
+              <div class="meta-chip"><span class="meta-label">Film</span><span class="meta-val">{metaCs.movieTitle}</span></div>
             )}
             {metaCs.director && (
-              <div class="meta-chip"><span class="meta-label">Režie</span><span class="meta-val">👤 {metaCs.director}</span></div>
+              <div class="meta-chip"><span class="meta-label">Režie</span><span class="meta-val">{metaCs.director}</span></div>
             )}
             {metaCs.year && (
-              <div class="meta-chip"><span class="meta-label">Rok</span><span class="meta-val">📅 {metaCs.year}</span></div>
+              <div class="meta-chip"><span class="meta-label">Rok</span><span class="meta-val">{metaCs.year}</span></div>
             )}
             {metaCs.genres && metaCs.genres.length > 0 && (
-              <div class="meta-chip"><span class="meta-label">Žánr</span><span class="meta-val">🏷️ {metaCs.genres.join(', ')}</span></div>
+              <div class="meta-chip"><span class="meta-label">Žánr</span><span class="meta-val">{metaCs.genres.join(', ')}</span></div>
             )}
-            <div class="meta-chip"><span class="meta-label">Čtení</span><span class="meta-val">⏱️ ~{metaCs.readingTime} min</span></div>
+            <div class="meta-chip"><span class="meta-label">Čtení</span><span class="meta-val">~{metaCs.readingTime} min</span></div>
           </div>
         </div>
 
@@ -236,18 +236,18 @@ const enAlternateUrl = `${siteUrl}/en/essays/${slug}`;
           <h1>{titleEn}</h1>
           <div class="film-meta-bar">
             {metaEn.movieTitle && (
-              <div class="meta-chip"><span class="meta-label">Movie</span><span class="meta-val">🎬 {metaEn.movieTitle}</span></div>
+              <div class="meta-chip"><span class="meta-label">Movie</span><span class="meta-val">{metaEn.movieTitle}</span></div>
             )}
             {metaEn.director && (
-              <div class="meta-chip"><span class="meta-label">Director</span><span class="meta-val">👤 {metaEn.director}</span></div>
+              <div class="meta-chip"><span class="meta-label">Director</span><span class="meta-val">{metaEn.director}</span></div>
             )}
             {metaEn.year && (
-              <div class="meta-chip"><span class="meta-label">Year</span><span class="meta-val">📅 {metaEn.year}</span></div>
+              <div class="meta-chip"><span class="meta-label">Year</span><span class="meta-val">{metaEn.year}</span></div>
             )}
             {metaEn.genres && metaEn.genres.length > 0 && (
-              <div class="meta-chip"><span class="meta-label">Genre</span><span class="meta-val">🏷️ {metaEn.genres.map(g => GENRE_MAP[g] || g).join(', ')}</span></div>
+              <div class="meta-chip"><span class="meta-label">Genre</span><span class="meta-val">{metaEn.genres.map(g => GENRE_MAP[g] || g).join(', ')}</span></div>
             )}
-            <div class="meta-chip"><span class="meta-label">Read</span><span class="meta-val">⏱️ ~{metaEn.readingTime} min</span></div>
+            <div class="meta-chip"><span class="meta-label">Read</span><span class="meta-val">~{metaEn.readingTime} min</span></div>
           </div>
         </div>
 
