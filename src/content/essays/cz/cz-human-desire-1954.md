@@ -1,6 +1,6 @@
 ---
 title: "Human Desire (1954): Mechanika vášně a naturalistická past"
-film: "Human Desire (1954)"
+film: "Lidská touha / Human Desire (1954)"
 year: 1954
 date: "2026-09-03"
 description: "Analytická studie adaptace Zolovy Lidské bestie Fritze Langa zkoumající environmentální determinismus, mechaniku železnice a tragickou rezignaci."
@@ -11,47 +11,42 @@ translationSlug: "human-desire-1954"
 director: "Fritz Lang"
 ---
 
-Zatímco Jean Renoir ve své verzi z roku 1938 (*La Bête Humaine*) sázel na poetický realismus a tragédii krve, Fritz Lang v roku 1954 přistupuje k látce jako inženýr destrukce. 
+Zatímco Jean Renoir ve své slavné adaptaci z roku 1938 (*La Bête Humaine*) sázel na poetický realismus a osudovou tragédii krve, Fritz Lang v roce 1954 přistupuje k románu Émila Zoly jako inženýr lidské destrukce. Snímek *Human Desire* (*Lidská touha*, 1954, stopáž 91 minut) transformuje francouzský literární naturalismus do reálií poválečné Ameriky. Biologický atavismus nahrazuje Lang nekompromisním environmentálním determinismem – postavy nejsou drceny pouze dědičnými pudy, nýbrž prostředím, které je obklopuje: hlučným, špinavým a mechanicky rigorózním světem železnice.
 
-Lang adaptuje Émila Zolu pro poválečnou Ameriku, kde biologický atavismus nahrazuje environmentálním determinismem. Postavy nejsou proklety pouze svými předky, ale prostředím, které je obklopuje – hlučným, špinavým a mechanicky neúprosným světem železnice.
+### I. Carl Buckley: Ztělesnění animální žárlivosti a člověk-bestie
 
-### I. Carl Buckley (Broderick Crawford): Ztělesnění animální žárlivosti
+Postava Carla Buckleyho (Broderick Crawford) nepředstavuje rafinovaného kriminálníka, nýbrž naturalistický archetyp „člověka-bestie“ (*la bête humaine*):
+* **Těžká fyziognomie zmaru:** Crawford vnáší do role neohrabanou tělesnost a prchlivost, která ostře kontrastuje s technickou precizností vlaků, jež jako železniční zřízenec vypravuje.
+* **Vražda jako mechanický zkrat:** Zabití bohatého majitele dráhy Owense v kupé jedoucího vlaku nevychází z chladné kalkulace, nýbrž z nezvládnutelné exploze žárlivosti a komplexu méněcennosti. Následný Carlův morální pád do alkoholismu a vydírání je ukázkovým zobrazením lidského organismu ovládaného animálními reflexy.
 
-Carl Buckley není klasický noirový padouch; je to naturalistický archetyp „člověka bestie“. Broderick Crawford do role vnáší těžkopádnou fyzičku, která ostře kontrastuje s technickou precizností vlaků, které vypravuje.
+### II. Vicki Buckley: Predátor v masce oběti a instrumentalizace traumatu
 
-* **Vražda jako mechanický zkrat:** Scéna vraždy v kupé vlaku je vyvrcholením jeho neschopnosti ovládat primitivní pudy. Není to rafinovaný zločin, ale exploze nahromaděného tlaku.
-* **Sociální pád:** Carlův úpadek z respektovaného zaměstnance v trosku ovládanou alkoholem a strachem je klasickým zolovským motivem, který Lang zasazuje do reality amerických padesátých let.
+Vicki (Gloria Grahame) tvoří fascinující kapitolu v Langově galerii noirových femme fatales:
+* **Manipulace soucitem:** Na rozdíl od své dřívější postavy Debby v Langově *The Big Heat*, která toužila po morální očistě, Vicki přistupuje k mužům jako k pouhým nástrojům úniku z manželského vězení.
+* **Weaponizace válečného traumatu:** Vicki instinktivně rozpozná zranitelnost strojvedoucího Jeffa Warrena (Glenn Ford), veterána vracejícího se z korejské války. Stylizuje se do role týrané oběti, aby v něm probudila ochranitelský a následně vražedný instinkt vůči svému manželovi. 
+* **Nestálost ve světle:** Kamera Burnetta Guffeye využívá v interiérech jedoucího vlaku míhající se stíny zvenčí. Světelné pruhy přecházející přes Vickiinu tvář vizuálně materializují její vypočítavost a morální labilitu.
 
-### II. Vicki Buckley (Gloria Grahame): Predátor v masce oběti
+### III. Železnice jako mříže osudu a geometrie kolejí
 
-Vicki je jednou z nejvíce fascinujících femme fatales Langovy tvorby. Na rozdíl od Debby z *The Big Heat*, která hledala vykoupení, Vicki vnímá muže jako nástroje k úniku z vlastního domácího vězení.
+Vizuální kód filmu je plně podřízen geometrii železniční infrastruktury:
+* **Sbíhavé linie kolejí:** Časté subjektivní záběry z čela lokomotivy na koleje sbíhající se v nekonečnu fungují jako doslovná metafora determinismu. Životy postav se pohybují po předem položených kolejích; nemohou vybočit, aniž by došlo k vykolejení a katastrofě.
+* **Klaustrofobie soukolí:** Maloměstské byty naplněné dusnem a podezřívavostí ostře kontrastují s obřími, chladnými depy plnými páry, hluku a ocelových kolosů. Člověk je v obou prostorech pouhou nepatrnou součástí mechanického stroje.
 
-* **Instrumentalizace traumatu:** Vicki instinktivně využívá Jeffovo (Glenn Ford) válečné trauma z Koreje. Prezentuje se jako týraná žena, aby v něm probudila ochranitelský (a následně vražedný) instinkt.
-* **Světlo a stín:** Kameraman Burnett Guffey využívá v interiérech vlaku pohybující se světla zvenčí. Stíny se míhají přes Vickiinu tvář v rytmu jedoucího vlaku, což vizuálně vyjadřuje její morální nestálost.
+### IV. Závěr: Triumf stroje nad duší a mechanický fatalismus
 
-### III. Vizualita: Železnice jako mříže osudu
-
-Lang a Guffey vytvořili film definovaný geometrií linií.
-
-* **Perspektiva kolejí:** Časté záběry na koleje sbíhající se v nekonečnu symbolizují fatalismus. Postavy se pohybují po těchto liniích a nemají možnost odbočit.
-* **Kontrast prostorů:** Klaustrofobní byty jsou v ostrém kontrastu s obřími, studenými depy. Člověk je v obou případech jen malou součástkou v soukolí.
-
-### IV. Závěrečná syntéza: Triumf stroje nad duší
-
-Závěr filmu je jedním z nejcyničtějších momentů Langovy americké tvorby. Jeff Warren nezíská ženu, ani není potrestán zákonem. Namísto toho se vrací do kabiny lokomotivy.
-
-* **Kapitulace:** Poslední záběr na Jeffa u ovládacích pák symbolizuje jeho návrat k „součástce“. Krátký únik do světa vášně skončil katastrofou, a tak se vrací k jediné jistotě – k mechanickému pohybu po kolejích, které za něj rozhodují.
-* **Absence katarze:** Řád (stroj) pohltil chaos (vášeň), ale za cenu totální ztráty lidskosti a rezignace na city.
+Závěr filmu představuje jeden z nejchladnějších momentů Langovy americké etapy:
+* **Návrat do kabiny:** Jeff Warren odolá pokušení spáchat vraždu, nezíská však lásku ani vykoupení. Odmítne Vickiinu cynickou hru a vrací se zpět k lokomotivě.
+* **Absence katarze:** Poslední záběr na Jeffa u ovládacích pák jedoucího vlaku stvrzuje jeho dobrovolnou kapitulaci na lidské city. Krátký únik do světa vášně skončil chaosem a smrtí; Jeff volí bezpečí neživého stroje. Řád technologie pohltil lidskou touhu, avšak za cenu absolutní rezignace na vnitřní život.
 
 ### Slovníček pojmů a bibliografie
 
-* **Environmentální determinismus:** Koncept, podle něhož jsou lidské jednání, vášeň a osud plně formovány neúprosným industriálním prostředím.
-* **Mechanický fatalismus:** Vizuální a tematický princip, v němž pravidelný pohyb strojů a kolejí představuje neodvratitelný běh osudu.
-* **Člověk-bestie (La Bête Humaine):** Zolovský naturalistický archetyp jedince ovládaného atavistickými pudy, žárlivostí a zkratkovitým násilím.
-* **Instrumentalizace traumatu:** Strategie femme fatale využívající korejské válečné trauma hlavní postavy k manipulaci a navedení k vraždě.
+* **Environmentální determinismus:** Filozoficko-estetický koncept, podle něhož jsou charakter, emoce i konečný osud člověka předurčeny vnějším fyzickým a průmyslovým prostředím.
+* **Člověk-bestie (La Bête Humaine):** Naturalistický koncept Émila Zoly chápající člověka jako biologický organismus, v němž pod tenkým civilizačním nátěrem dominují atavistické vražedné pudy.
+* **Mechanický fatalismus:** Ztvárnění osudové neodvratnosti prostřednictvím vizuálních motivů strojů, pevných kolejí a technických procedur.
+* **Instrumentalizace traumatu:** Psychologická manipulace zneužívající válečné či osobní trauma partnera k dosažení vlastních utilitárních a mocenských cílů.
 
 **Bibliografie (Chicago Style):**
 * Bogdanovich, Peter. *Fritz Lang in America*. London: Studio Vista, 1967.
 * Eisner, Lotte H. *Fritz Lang*. Translated by Bernard Miall. London: Secker & Warburg, 1976.
-* Gunning, Tom. *The Films of Fritz Lang: Allegories of Vision and Modernity*. London: BFI Publishing, 2000.
-* Zola, Émile. *La Bête humaine*. Paris: Charpentier, 1890.
+* Gunning, Tom. *The Films of Fritz Lang: Allegories of Vision and Modernity*. London: British Film Institute, 2000.
+* Zola, Émile. *La Bête humaine*. Paris: Bibliothèque-Charpentier, 1890.

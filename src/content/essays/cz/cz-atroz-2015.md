@@ -18,21 +18,30 @@ Snímek *Atroz* (2015) v režii Lexa Ortegy patří k nejradikálnějším a nej
 Formální ukotvení filmu funguje jako nástroj přímé konfrontace:
 * Využitím formátu found footage a paralelní linie policejního vyšetřování *Atroz* systematicky boří bezpečný odstup mezi divákem a plátnem.
 * Násilí zde ztrácí jakoukoliv estetizovanou příchuť, ironii či katarzní vykoupení – je podáno v syrové, znepokojivé podobě.
+* Nalezené videokazety imitují estetiku domácího analogového videa (VHS), což evokuje dojem autentického kriminálního materiálu a zbavuje fikční svět bezpečné distance.
 
-### II. Voyeurismus, etika pohledu a nihilismus
+### II. Voyeurismus, etika pohledu a divácká komplicita
 
 Tematická rovnováha filmu se opírá o radikální odmítnutí morálních jistot:
 * Film nefunguje pouhým vyprávěním „o násilí“, nýbrž působí násilím na divácká očekávání a toleranci.
 * Otevřeně zpochybňuje voyeuristickou pozici publika a nutí ho položit si otázku po vlastní odpovědnosti a etice sledování extrémního utrpení.
+* Ortega staví diváka do nepříjemné role nedobrovolného svědka i spolupachatele – akt sledování se stává přímou součástí exploatačního kruhu.
 
-### III. Závěr
+### III. Společenský rozpad a kořeny mexického násilí
 
-*Atroz* představuje esenciální mezník pro debatu o svobodě uměleckého vyjádření a krajních mezích kinematografie v éře digitálního věku.
+Pod brutální slupkou filmu leží konkrétní sociální a politická diagnóza moderního Mexika:
+* Násilí zde není nahodilým excesem několika deviantů, ale symptomem hlubokého systémového selhání, korupce státního aparátu a normalizace brutality ve veřejném prostoru.
+* Zpětné pohledy do dětství protagonisty dekonstruují generační přenos traumatu a toxické maskulinity, které plodí další vlnu agrese.
+
+### IV. Závěr: Hranice únosnosti a zánik katarze
+
+*Atroz* odmítá jakékoliv katarzní vykoupení či žánrovou útěchu. Závěr neposkytuje úlevu v podobě triumfu spravedlnosti; zůstává pouze pocit znechucení a morálního vyčerpání. Představuje esenciální mezník pro debatu o svobodě uměleckého vyjádření a krajních mezích kinematografie v digitální éře.
 
 ### Slovníček pojmů a bibliografie
 
 * **Found footage:** Filmová technika či žánrová forma, v níž je vyprávění prezentováno jako dříve ztracený a posléze objevený záznam z domácích kamer či policejních archivů.
-* **Voyeurismus:** Získávání vizuálního potěšení či posedlého zaujetí sledováním cizího utrpení, intimity nebo násilí z pozice skrytého či chráněného pozorovatele.
+* **Voyeurismus a etika pohledu:** Zkoumání morální odpovědnosti diváka konzumujícího obrazy extrémního utrpení z bezpečí anonymity kinosálu či obrazovky.
+* **Exploatační transgrese:** Překračování etických, estetických i cenzurních tabu za účelem vyvolání přímého somatického odporu a šoku.
 
 **Bibliografie (Chicago Style):**
 * Clover, Carol J. *Men, Women, and Chain Saws: Gender in the Modern Horror Film*. Berkeley: University of California Press, 1992.

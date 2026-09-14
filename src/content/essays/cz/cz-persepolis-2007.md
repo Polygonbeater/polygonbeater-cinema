@@ -1,9 +1,9 @@
 ---
-title: "Persepolis (2007): Rozbité zrcadlo íránské paměti"
+title: "Persepolis (2007): Rozbité zrcadlo íránské paměti a geometrie útlaku"
 film: "Persepolis / Persepolis (2007)"
 year: 2007
 date: "2026-09-03"
-description: "Analytická studie animovaného snímku Marjane Satrapi zkoumající geometrii útlaku, Foucaultovu teorii disciplinace a koncept exilového kina."
+description: "Analytická studie animovaného snímku Marjane Satrapiové a Vincenta Paronnauda zkoumající vizuální minimalismus, Foucaultovu mikrofyziku moci a exilové přízvučné kino."
 image: "/images/essays/persepolis-2007.webp"
 
 lang: "cz"
@@ -11,45 +11,43 @@ translationSlug: "persepolis-2007"
 director: "Marjane Satrapi, Vincent Paronnaud"
 ---
 
-Tato studie dekonstruuje film *Persepolis* (2007) jako model permanentního represivního mechanismu. Zatímco ideologie se mění, „Stroj“ moci zůstává konstantní, živen vnějším násilím a vnitřním strachem. 
+Animovaný autobiografický film *Persepolis* (2007, stopáž 96 minut), režírovaný Marjane Satrapiovou a Vincentem Paronnaudem na motivy jejího stejnojmenného komiksového románu, představuje jeden z nejvýznamnějších příspěvků k modernímu exilovému filmu. Snímek oceněný Cenou poroty na festivalu v Cannes nezachycuje dějiny moderního Íránu (od pádu šáhova režimu přes islámskou revoluci roku 1979 až po válku s Irákem) jako akademickou kroniku, nýbrž jako intimní proces formování a rozpadu lidské identity pod tlakem totalitního státu. 
 
-Metodologicky kombinuje formální analýzu filmového stylu (Bordwell), teorii disciplinární moci (Foucault) a koncept exilového kina (Naficy).
+Tato studie dekonstruuje film skrze tři komplementární teoretické rámce: expresionistickou geometrii černobílého obrazu, foucaultovskou teorii disciplinace těla a koncept exilového přízvučného kina Hamida Naficyho.
 
-### I. Geometrie útlaku
+### I. Geometrie útlaku a expresionistický minimalismus
 
-Vizuální minimalismus v *Persepolis* není estetickou volbou pro krásu, ale funkčním nástrojem. Černobílá plocha podle Bordwella eliminuje vizuální šum a soustředí se na čistý strukturální konflikt. 
+Výtvarné řešení filmu vychází z vědomé redukce formálních prostředků[cite: 134]:
+* **Eliminace vizuálního šumu:** V návaznosti na teoretická východiska Davida Bordwella černobílá plošková animace odstraňuje realistický detail a soustředí se na čistý strukturální konflikt mezi jednotlivcem a mocenským aparátem[cite: 134]. Pouze rámcové scény v přítomnosti na pařížském letišti Orly jsou tónovány do melancholických barev, zatímco vzpomínky na Teherán jsou nekompromisně černobílé[cite: 134].
+* **Monolitická masa stínu:** Podobně jako v německém expresionismu funguje stín jako aktivní přítomnost represivního režimu[cite: 134]. V masových scénách demonstrací či přehlídek revolučních gard se dav slévá v beztvarý černý blok, v němž postava malé Marjane zůstává pouze jako křehká bílá kontura – poslední záchvěv lidské individuality vzdorující anonymnímu aparátu[cite: 134].
 
-Stín (inspirovaný německým expresionismem) zde není pouhou absencí světla, ale hmatatelnou přítomností režimu. V klíčových sekvencích demonstrací je dav zobrazován jako černý monolit, který pohlcuje jednotlivce. Marjane v něm zbývá jen jako tenká bílá linka – poslední vizuální stopa lidské integrity proti anonymní mase moci.
+### II. Foucaultovská mikrofyzika moci a permanentní Stroj
 
-### II. Setrvačnost Stroje
+Zásadním přínosem filmu je poznání, že revoluce nezničila mechanismus represe, pouze vyměnila jeho správce[cite: 134]:
+* **Kontinuita dohledu:** Pád šáhovy tajné policie SAVAK nevedl k osvobození; byl plynule nahrazen teokratickými komitétami a mravnostní policií Pasdaran[cite: 134]. Moc zde neoperuje pouze skrze masové popravy politických vězňů (jako byl Marjanin strýc Anoush), nýbrž proniká do nejintimnější každodennosti[cite: 134].
+* **Disciplinace těla:** Podle Foucaultova konceptu mikrofyziky moci se kontrola realizuje dozorem nad fyzickým tělem – povinným nošením hidžábu, zákazem make-upu, cenzurou západní hudby (kazety Iron Maiden či Michaela Jacksona pašované v podšívce bundy) a kontrolou chůze na ulici[cite: 134]. Panoptikální dohled je internalizován: soused udává souseda a strach nutí občany stát se dobrovolnými vykonavateli státní represe[cite: 134].
 
-Klíčovým bodem analýzy je poznání, že Stroj se nezastaví. Podle Foucaultovy teorie disciplinace revoluce pouze mění operátory a ideologické štítky, nikoliv samotný mechanismus kontroly. 
+### III. Reciproční násilí a exilové „přízvučné kino“
 
-V *Persepolis* vidíme, že panoptikální dohled (soused špehuje souseda pod hrozbou trestu) přežívá pád šáha i nástup teokracie. Moc se zde nereprodukuje skrze velké zákony, ale skrze každodenní „mikrofyziku“ moci – kontrolu těla, oděvu, hudby a způsobu chůze.
+Hamid Naficy ve své teorii *accented cinema* (přízvučného kina) definuje specifický pohled tvůrců žijících v diaspoře, kteří nahlížejí na rodnou zemi s odstupem i neutuchající bolestí[cite: 134]:
+* **Válka jako palivo totality:** Sekvence irácko-íránské války a bombardování Teheránu raketami Scud odhalují, jak režim využívá vnější agresi k upevnění vnitřního teroru[cite: 134]. Vnější hrozba legitimizuje potlačení zbytků občanských svobod; statisíce mladých chlapců z chudých rodin jsou posílány na minová pole s plastovými klíči od ráje na krku[cite: 134].
+* **Dvojí vykořenění:** Marjanin nucený odchod do Vídně nepřináší katarzi, nýbrž zkušenost kulturního odcizení, rasismu a ztráty kořenů[cite: 134]. Exilový subjekt se stává cizincem jak v Evropě, tak po návratu do islamizovaného Teheránu[cite: 134].
 
-### III. Reciproční násilí jako palivo
+### IV. Závěr: Rezistence individuální paměti
 
-Hamid Naficy a jeho koncept „accented cinema“ (přízvučného kina) ukazují, že exilový pohled vidí skrytou symetrii násilí. Sekvence bombardování Teheránu během irácko-íránské války nejsou pro Stroj hrozbou, ale příležitostí k upevnění. 
-
-Vnější údery legitimizují vnitřní teror. Strach z raket transformuje občany v poslušné součástky Stroje, které výměnou za iluzi bezpečí akceptují ztrátu zbytků svobody.
-
-### IV. Závěr: Verdikt
-
-*Persepolis* není historie, je to manuál přežití v systému, který se odmítá vypnout. Integrita jednotlivce je jediným pískem v převodovkách Stroje. 
-
-Pokud Stroj dokáže skrze strach (z bombardování či čistek) ovládnout vnitřní prostor člověka, historie se stane nekonečnou černobílou smyčkou útlaku.
+*Persepolis* odmítá politický didaktismus i roli pasivní oběti[cite: 134]:
+* **Etický odkaz babičky:** Morálním kompasem filmu zůstává postava babičky, která si do podprsenky vkládá jasmínové květy, aby si uchovala vnitřní svěžest a důstojnost. Její rada Marjane (*„Vždycky zůstaň věrná sama sobě“*) tvoří filozofické jádro díla.
+* **Paměť jako zbraň:** Satrapiová dokazuje, že největším vítězstvím nad totalitním režimem je schopnost vyprávět vlastní příběh s humorem, sebeironií a bez sentimentu[cite: 134]. Kreslený film se stává nezničitelným archivem paměti, který odmítá připustit, aby byla bohatá a mnohovrstevnatá perská kultura zredukována na náboženský fanatismus[cite: 134].
 
 ### Slovníček pojmů a bibliografie
 
-* **Mikrofyzika moci (Foucault):** Koncept chápající moc nikoli jako jednoduchý diktát shora, ale jako síť každodenních disciplinárních praktik, normativní kontroly těla, oděvu a chování.
-* **Accented Cinema (Přízvučné kino):** Teorie Hamida Naficyho popisující specifický narativní a vizuální styl exilových režisérů zkoumajících rozpolcenost identity, paměť a vysídlení.
-* **Geometrie útlaku:** Vizuální práce s vysokým černobílým kontrastem a expresionistickým stínem, která redukuje scenérii na strukturální konflikt jednotlivce s masou.
-* **Panoptikální dohled:** Systém vzájemného sledování a společenské auto-cenzury, v němž se občané sami stávají vykonavateli státní kontroly pod hrozbou trestu.
+* **Mikrofyzika moci (Michel Foucault):** Teoretický koncept popisující moc nikoliv jako centralizovaný aparát státu, nýbrž jako rozptýlenou síť každodenních disciplinárních procedur, kontrolujících tělo, oděv, řeč a intimitu jedince[cite: 134].
+* **Přízvučné kino (Accented Cinema):** Koncept Hamida Naficyho označující kinematografii autorů tvořících v exilu či diaspoře, charakterizovanou tématy vykořenění, dvojí identity, nostalgie a kritického odstupu od mateřské i hostitelské kultury[cite: 134].
+* **Expresionistická kontrastní plocha:** Výtvarná metoda využívající polaritu absolutní černé a bílé barvy k vizualizaci ideologické polarity a existenční tísně jedince v totalitním prostoru[cite: 134].
 
 **Bibliografie (Chicago Style):**
-* Bordwell, David, and Kristin Thompson. *Film Art: An Introduction*. 10th ed. New York: McGraw-Hill, 2012.
-* Eisner, Lotte H. *The Haunted Screen: Expressionism in the German Cinema*. Berkeley: University of California Press, 1969.
-* Foucault, Michel. *Discipline and Punish: The Birth of the Prison*. New York: Vintage Books, 1977.
-* Naficy, Hamid. *An Accented Cinema: Exilic and Diasporic Filmmaking*. Princeton: Princeton University Press, 2001.
-* Satrapi, Marjane. *Persepolis*. Paris: L’Association, 2000.
-* Spiegelman, Art. *MetaMaus*. New York: Pantheon Books, 2011.
+* Bordwell, David, and Kristin Thompson. *Film Art: An Introduction*. 10th ed. New York: McGraw-Hill, 2012[cite: 134].
+* Foucault, Michel. *Discipline and Punish: The Birth of the Prison*. Translated by Alan Sheridan. New York: Vintage Books, 1977[cite: 134].
+* Naficy, Hamid. *An Accented Cinema: Exilic and Diasporic Filmmaking*. Princeton: Princeton University Press, 2001[cite: 134].
+* Satrapi, Marjane, and Vincent Paronnaud, dirs. *Persepolis* (Motion Picture). Paris: 2.4.7. Films, 2007.
+* Satrapi, Marjane. *Persepolis*. Paris: L'Association, 2000[cite: 134].

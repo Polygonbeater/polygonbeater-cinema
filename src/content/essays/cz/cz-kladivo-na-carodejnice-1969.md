@@ -1,9 +1,9 @@
 ---
-title: "Kladivo na čarodějnice (1969) – Film o inkoustu"
+title: "Kladivo na čarodějnice (1969): Administrativní teror a moc inkoustu"
 film: "Kladivo na čarodějnice (1969)"
 year: 1969
-date: "2026-09-02"
-description: "Otakar Vávra a Ester Krumbachová neukazují inkvizici skrze oheň, ale skrze tichou administrativu a inkoust. Člověk neumírá, když je odsouzen, ale ve chvíli, kdy je přepsán do protokolu."
+date: "2026-09-03"
+description: "Analytická studie historického dramatu Otakara Vávry a Ester Krumbachové zkoumající inkviziční procesy jako byrokratický mechanismus, vykonstruovanou vinu a paralelu s politickými procesy 50. let."
 image: "/images/essays/kladivo-na-carodejnice-1969.webp"
 
 lang: "cz"
@@ -11,23 +11,42 @@ translationSlug: "kladivo-na-carodejnice-1969"
 director: "Otakar Vávra"
 ---
 
-Kladivo na čarodějnice (1969, r. Otakar Vávra) není film o ohni. Je filmem o inkoustu. Plameny přicházejí až na konci. Skutečné násilí se odehrává mnohem dříve, v okamžiku, kdy se pero poprvé dotkne papíru. Vávrův snímek neukazuje historii jako panoptikum středověkých hrůz, ale jako zlověstně tichou administrativu. Odhaluje děsivou skutečnost: člověk neumírá tehdy, když je odsouzen. Umírá ve chvíli, kdy je přepsán.
+Snímek Otakara Vávry *Kladivo na čarodějnice* (1969, stopáž 103 minut), natočený podle stejnojmenného románu Václava Kaplického a dobových soudních protokolů za scenáristické spolupráce Ester Krumbachové, představuje jeden z nejdrtivějších rozborů totalitního mechanismu v dějinách československé kinematografie. Vávra nepojednává o historii jako o bizarním panoptiku středověkých pověr. Ohně hranic přicházejí až na samotném konci; skutečné násilí se odehrává v tichu kanceláří, v momentě, kdy se husí brk poprvé dotkne čistého papíru.
 
-### Účetní reality
-Inkvizitor Boblig z Edelstadtu (Vladimír Šmeral) není kat. Kat je jen posledním, nejméně důležitým článkem celého řetězce. Boblig je účetní reality. Přichází jako profesionál, který usedá za stůl a převádí lidské osudy do jazyka protokolů. Každé slovo oběti okamžitě ztrácí svůj původní význam. Každá prosba se mění v důkaz. Každé zaváhání v přiznání.
+Tato studie analyzuje film nikoliv jako náboženský spor, nýbrž jako zkoumání administrativního aparátu, který si vinu nevymýšlí k potrestání skutečného zločinu, nýbrž ji systematicky vyrábí pro legitimaci a majetkový prospěch vlastní existence.
 
-Díky této odměřenosti film nepůsobí jako historické drama, ale jako chladná studie mechanismu. Čarodějnické procesy, které v severomoravském regionu v letech 1678–1696 vedly k desítkám poprav a zasáhly stovky lidí, zde nejsou vykresleny jako výjimka z dějin. Jsou jejich znepokojivou možností. Víra, strach, majetkové zájmy i osobní ambice zde vytvářejí smrtící směs, v níž se hranice mezi přesvědčením a cynickým kalkulem postupně rozplývá. Stačí vytvořit systém, který považuje vlastní záznam za důležitější než skutečnost, a pravda přestává být otázkou poznání. Stává se otázkou razítka.
+### I. Boblig z Edelstadtu jako účetní reality
 
-### Zápis, který maže člověka
-Otakar Vávra a scenáristka Ester Krumbachová nepotřebovali divákovi explicitně vysvětlovat, že točí o vykonstruovaných politických procesech 50. let. Tato zkušenost prostupuje filmem téměř v každém obrazu. Z hlediska filmové historie je přitom klíčové, že Kladivo na čarodějnice nestojí přímo v proudu československé nové vlny. Vávra, učitel této formující se generace, stál esteticky i generačně vždy poněkud stranou. O to paradoxnější a mrazivější je, že právě on svou klasickou, precizně sevřenou režií stvořil dílo, které mechanismus institucionálního útlaku analyzuje s ostrostí, jíž se vyrovná jen málokterý film tehdejší dekády.
+Inkvizitor Jindřich František Boblig z Edelstadtu (Vladimír Šmeral) nevystupuje jako fanatický teolog, nýbrž jako chladný právní pragmatik:
+* **Byrokracie zkázy:** Boblig je účetním moci. Usedá za masivní dubový stůl s úředními knihami, pečetidly a váhami. Lidské tragédie, vzpomínky a výpovědi převádí do standardizovaného úředního jazyka inkvizičních manuálů. V jeho přítomnosti slovo oběti okamžitě ztrácí původní obsah – každé zaváhání je důkazem spolčení s ďáblem, každá prosba o milost doznáním.
+* **Ekonomická motivace procesů:** Severomoravské čarodějnické procesy na panství Velké Losiny a v Šumperku v letech 1678–1696 nebyly vyvolány metafyzickým strachem, nýbrž bezohlednou chamtivostí. Majetek odsouzených měšťanů a bohatých rodin byl konfiskován a dělen mezi vrchnost a inkviziční tribunál. Právo se proměnilo v licencovaný loupežný mechanismus.
 
-Vizuální topologie filmu tento pocit nevyhnutelnosti jen prohlubuje. Kamera Josefa Illíka neuhýbá. Zůstává v soudních síních, sleduje tahy brku a nemilosrdně zaznamenává, jak se z živých bytostí stávají položky ve spisech. Lautner není poražen proto, že by se mýlil. Je poražen proto, že vstoupil do systému, v němž pravda přestala být relevantní kategorií. Systém nehledá vinu, kterou by potrestal; systém si vyrábí vinu, aby ospravedlnil svou vlastní existenci.
+### II. Protokol jako nástroj vymazání člověka
 
-### Zlo jako pravidlo
-V tom spočívá trvalá síla Kladiva na čarodějnice. Film neukazuje svět, v němž zlo porušuje pravidla. Ukazuje svět, v němž se zlo stalo pravidlem natolik dokonale, že už jej nikdo zevnitř aparátu jako zlo nevnímá. Neděsíme se démonů, bojíme se průměrnosti a pečlivosti těch, kteří vyplňují formuláře.
+Vávrův a Krumbachové scénář detailně sleduje proces, jímž je živá lidská bytost redukována na položku v soudním spisu:
+* **Systematická tortura:** Mučení (palečnice, španělská bota, skřipec) neslouží k hledání pravdy, ale ke zlomení psychické i fyzické integrity obviněného. Oběť je mučena tak dlouho, dokud neodkýve předem připravený protokol s nesmyslnými přiznáními o sabatech na Petrových kamenech a souloži s ďáblem.
+* **Precedens padesátých let:** Pro československé publikum roku 1969 byla paralela se stalinistickými procesy padesátých let (proces s Miladou Horákovou či Rudolfem Slánským) okamžitě čitelná. Naučené výpovědi, podepisování vlastních ortelů a nátlak na obviněné, aby udávali své přátele a rodiny, zrcadlily praktiky komunistické Státní bezpečnosti. Dokument získal větší autoritu než živý člověk, který před ním stál.
 
-A právě proto Kladivo na čarodějnice nestárne.
-Není totiž filmem o čarodějnicích. Není ani filmem o inkvizici.
-Je filmem o okamžiku, kdy dokument získá větší autoritu než člověk, který před ním stojí.
-Od té chvíle už oheň není nutný.
-Stačí inkoust.
+### III. Děkan Lautner a tragédie osvíceného rozumu
+
+Mravním protipólem inkvizičního stroje je šumperský děkan Kryštof Alois Lautner (Elo Romančík):
+* **Hlas vzdělanosti a tolerance:** Lautner představuje renesančního humanistu – miluje literaturu, hudbu, víno a odmítá pověry. Ztělesňuje společenskou autoritu, která se pokusí bránit své farníky apelem na rozum, církevní hierarchii a světské zákony.
+* **Nevyhnutelnost porážky:** Lautner neprohrává proto, že by jeho argumenty byly chybné. Prohrává proto, že vstoupil do souboje se systémem, v němž racionální argumentace dávno pozbyla platnosti. Inkviziční tribunál nepotřebuje dialog; potřebuje Lautnera zlomit, protože jeho morální integrita zpochybňuje legitimitu aparátu. Závěrečné děkanovo upálení stvrzuje totální kapitulaci etiky před státní zvůlí.
+
+### IV. Závěr: Když se zlo stane platným pravidlem
+
+Vizuální řešení kameramana Josefa Illíka (širokoúhlý černobílý formát, detailní záběry na inkoust vsakující se do listin a kontrast mezi renesanční architekturou a mučírnami) zbavuje snímek historického realismu a činí z něj univerzální memento:
+* **Banalita institucionálního zla:** *Kladivo na čarodějnice* neukazuje svět, kde zlo porušuje zákon. Ukazuje společnost, v níž se zlo samo stalo zákonem a kde ti, kteří posílají nevinné na popraviště, pouze „svědomitě vykonávají své úřední povinnosti“.
+* **Odkaz:** Vávrovo dílo nestárne, protože odhalilo nadčasový princip všech diktatur: k likvidaci svobody a lidskosti není zapotřebí pekelných sil. Postačí vytvořit aparát, který zkorumpuje strach a v němž má úřední razítko vyšší hodnotu než lidský život.
+
+### Slovníček pojmů a bibliografie
+
+* **Malleus Maleficarum (Kladivo na čarodějnice):** Inkviziční manuál Heinricha Kramera z roku 1486 kodifikující teorii čarodějnictví, postupy vyšetřování a užití tortury.
+* **Administrativní teror:** Uplatňování mocenské zvůle a likvidace oponentů prostřednictvím formálně platných zákonů, soudních dekretů a byrokratických protokolů.
+* **Vykonstruovaný politický proces:** Soudní přelíčení, jehož výsledek a rozsudky jsou předem mocensky určeny a v němž jsou důkazy a doznání systematicky vynuceny fyzickým a psychickým nátlakem.
+
+**Bibliografie (Chicago Style):**
+* Kaplický, Václav. *Kladivo na čarodějnice*. Praha: Československý spisovatel, 1963.
+* Krumbachová, Ester. *První knížka Ester*. Praha: Primus, 1994.
+* Šrámková, Vítězslava, ed. *Otakar Vávra: Život a dílo*. Praha: Československý filmový ústav, 1988.
+* Vávra, Otakar. *Paměti aneb Moje filmové století*. Praha: Primus, 1995.

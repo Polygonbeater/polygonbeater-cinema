@@ -1,9 +1,9 @@
 ---
-title: "Řev / Roar (1981): Patologie koexistence a dokumentární teror"
+title: "Řev (Roar, 1981): Patologie koexistence a dokumentární teror"
 film: "Řev / Roar (1981)"
 year: 1981
-date: "2026-09-02"
-description: "Analytická studie dekonstruuje unikátní filmový experiment Řev jako radikální formu dokumentárního teroru, kde se stírá hranice mezi hraným filmem a skutečným napadením dravými šelmami."
+date: "2026-09-03"
+description: "Analytická studie unikátního filmového experimentu Noela Marshalla zkoumající dekonstrukci krotitelského mýtu, kameru Jana de Bonta na hraně smrti a rozpad domova v arénu dravců."
 image: "/images/essays/rev-1981.webp"
 
 lang: "cz"
@@ -11,33 +11,42 @@ translationSlug: "rev-1981"
 director: "Noel Marshall"
 ---
 
-Tato studie dekonstruuje unikátní filmový experiment *Řev* (1981, stopáž 102 minut) jako radikální formu „found footage“ hororu, který vznikl dekády před popularizací tohoto žánru, ovšem s tím rozdílem, že ohrožení bylo reálné. Snímek analyzuje pokus rodiny žít v jednom domě se stovkou dravých šelem. Metodologicky se text zaměřuje na stírání hranice mezi hraným filmem a dokumentací skutečného napadení, na psychologii režiséra Noela Marshalla (posedlost kontrolou nad nekontrolovatelným) a na totální erozi bezpečí v domácím prostoru. Film představuje ultimátní studii krotitelství, které se zvrhlo v chaos, kde lidský hlas a autorita neznamenají nic proti tunám živých svalů a tesáků.
+Snímek Noela Marshalla *Řev* (*Roar*, 1981, stopáž 102 minut) představuje jeden z nejnebezpečnějších, nejbizarnějších a produkčně nejšílenějších experimentů v dějinách světové kinematografie. Film, natáčený s přestávkami celých jedenáct let na ranči v kalifornském Actonu, byl propagován jako rodinná dobrodružná komedie. Ve skutečnosti však funguje jako nezamýšlený a radikální dokumentární horor – dílo, v němž byla veškerá fikční distance mezi hercem a postavou, mezi krotitelem a dravcem, zcela vymazána.
 
-### I. Estetika skutečného ohrožení a horizontála krve
-Vizuální stránka filmu je fascinující svou syrovostí. Nejedná se o stylizaci. 
+Marshall přivedl svou vlastní rodinu (manželku Tippi Hedrenovou, nevlastní dceru Melanii Griffithovou a své syny) do bezprostředního soužití se sto padesáti netrénovanými lvy, tygry, levharty a gepardy[cite: 131]. Výsledkem není idylické poselství o harmonii člověka s divočinou, nýbrž autentický somatický teror, zachycující lidskou aroganci tváří v tvář nekontrolovatelné síle přírody[cite: 131].
 
-* Kamera Jana de Bonta (který při natáčení utrpěl skalpování a vyžádal si 220 stehů) snímá interakce, které jsou v každém vteřině na hraně smrti. Režisér zde buduje horizontálu bezprostředního nebezpečí. 
-* Divák nesleduje herce, ale lidi v šoku. Každý pohyb lva, každé škrábnutí a každý pád je autentický. Horor zde nepramení z příšery ve stínu, ale z faktu, že šelma je přímo v záběru, na hrudi herce, a nikdo – ani režisér, ani krotitel – nemá situaci pod kontrolou.
+### I. Estetika skutečného ohrožení a kinematografie na hraně smrti
 
-### II. Dekonstrukce krotitelského mýtu
-Tradiční krotitelství šelem je založeno na dominanci, strachu a rituálu. *Řev* tento koncept dekonstruuje tím, že do prostoru vypouští netrénovaná zvířata. 
+Vizuální povaha filmu popírá základní iluzorní princip hraného filmu[cite: 131]:
+* **Kamera Jana de Bonta:** Budoucí režisér *Nebezpečné rychlosti* Jan de Bont pracoval s ruční kamerou přímo mezi volně pobíhajícími šelmami[cite: 131]. Během natáčení byl jedním ze lvů napaden, skalpován a jeho zranění si vyžádalo 220 stehů[cite: 131]. Přesto se na plac vrátil. Kamera nesleduje předem nacvičené choreografie; těká v neustálé panice, snímá chaotické útoky a registruje reálné reakce lidského těla bojujícího o přežití[cite: 131].
+* **Krev bez maskérů:** Během natáčení bylo zraněno přes sedmdesát členů štábu a herců (Tippi Hedrenová utrpěla zlomeninu nohy po pádu ze slona a rány na hlavě, Melanie Griffithová podstoupila plastickou operaci obličeje po napadení lvicí)[cite: 131]. Krev stékající po tvářích a rukou protagonistů není filmovým líčidlem; je to skutečná biologická tekutina přitahující další útoky zvířat[cite: 131]. Divák nesleduje dramatické umění, nýbrž voyeurský záznam reálného masakru[cite: 131].
 
-* Postava Hanka (hraná samotným Marshallem) se snaží s lvy komunikovat jako s přáteli, ale film neustále ukazuje, jak naivní a nebezpečná tato představa je. 
-* Scény, kdy lvi „hravě“ ničí vybavení domu nebo srážejí členy rodiny k zemi, evokují hluboký neklid. Ukazují, že lidská civilizace a její pravidla jsou v přítomnosti šelem naprosto irelevantní. Krotitelství je zde zobrazeno jako forma šílenství, která ignoruje biologickou realitu predátora.
+### II. Dekonstrukce krotitelského mýtu a narcismus dominance
 
-### III. Domov jako aréna a somatický teror
-Snímek využívá prostor rodinného domu, který je obvykle symbolem bezpečí, a mění ho v klaustrofobickou arénu. 
+Tradiční cirkusové i filmové krotitelství stálo po staletí na dominanci, železných mřížích, bičích a drezuře[cite: 131]:
+* **Falešný prorok Hank:** Postava zoologa Hanka (ztvárněná samotným režisérem Noelem Marshallem) reprezentuje nebezpečnou patologii mesiášského komplexu[cite: 131]. Hank se pohybuje mezi lvy s naivním přesvědčením, že je jejich „otcem“ a přítelem, s nímž šelmy sdílejí citové pouto[cite: 131]. Marshall však před kamerou nepředvádí harmonii, nýbrž absolutní ztrátu kontroly[cite: 131].
+* **Lhostejnost svalů a tesáků:** Film neúmyslně odhaluje, jak směšná je představa lidské autority v prostoru zaplněném třistakilovými dravci[cite: 131]. Lvi nerespektují Marshallův hlas ani jeho povely; strkají ho do vody, koušou do krku a vlečou po zemi[cite: 131]. Krotitelství je demaskováno jako blud, který zaměňuje chvilkovou toleranci predátora za jeho domestikaci[cite: 131].
 
-* Somatický teror je zde všudypřítomný – vidíme skutečné rány, modřiny a strach v očích Melanie Griffith či Tippi Hedren. Film nutí diváka k voyeurismu na skutečném utrpení štábu (během produkce bylo zraněno přes 70 lidí). 
-* Tato nechtěná autentičnost činí z *Řev* unikátní studii lidské arogance. Domov už není útočištěm, ale klecí, kde se role lovce a kořisti neustále proměňují podle nálady zvířat.
+### III. Domov jako aréna zkázy a somatický teror
 
-### IV. Závěr: Triumf dravé lhostejnosti
-Závěr filmu nepřináší katarzi ani vítězství člověka nad přírodou. Přináší pouze vyčerpání. 
+Příjezd Hankovy nic netušící rodiny do prázdného domu obsazeného smečkou dravců proměňuje bezpečný prostor v past[cite: 131]:
+* **Inverze domova:** Rodinný dům – tradiční symbol bezpečí a soukromí – je zvířaty systematicky demolován[cite: 131]. Lvi procházejí zdmi, rozbíjejí skleněné tabule, spí v postelích a převracejí skříně[cite: 131]. Hrdinové se schovávají v sudech, ve skříňkách na nádobí či v lednici, přičemž každá bariéra je zvířecí vahou okamžitě rozdrcena[cite: 131].
+* **Hysterická křeč přežití:** Strach v očích Tippi Hedrenové a jejích dětí není hereckou metodou Stanislavského; je to čistá fyziologická hrůza lidí, kteří si uvědomují, že jediný špatný pohyb může vyvolat smrtící lovecký reflex[cite: 131]. Film funguje jako mrazivá studie o tom, jak křehká je tenká slupka civilizace, ocitne-li se člověk v teritoriu, kde neplatí jeho zákony[cite: 131].
 
-* Skutečnost, že nikdo během natáčení nezemřel, je považována za statistický zázrak. *Řev* fixuje poznání, že krotitelství je jen křehká iluze, kterou si lidstvo pěstuje, aby se necítilo tak zranitelné. 
-* Film končí vizí světa, kde člověk není pánem tvorstva, ale pouze trpěným hostem v teritoriu, které mu nepatří. Je to nejvíce znepokojivý pohled na šelmy, jaký kdy byl na celuloid zachycen – bez klecí, bez bičů a bez naděje na kontrolu.
+### IV. Závěr: Triumf dravé lhostejnosti a memento lidské pýchy
 
-**Bibliografie / Bibliography (Chicago Style):**
-* Hedren, Tippi. *Tippi: A Memoir*. New York: William Morrow, 2016.
-* Marshall, Noel. *Roar: The Most Dangerous Movie Ever Made (Production Notes)*. Drafthouse Films, 2015.
-* De Bont, Jan. „Interview on the Cinematography of Roar.“ *American Cinematographer*, 1981/2015.
+Závěrečný zdánlivý smír, kdy rodina vyčerpaně usedá mezi odpočívající šelmy a přijímá jejich přítomnost, působí jako hysterický kompromis po psychickém kolapsu:
+* **Statistický zázrak:** To, že při natáčení nikdo nezemřel, nebylo výsledkem režijní profesionality, nýbrž statistickým zázrakem a prostým faktem, že lvi byli před scénami překrmováni[cite: 131]. 
+* **Odkaz:** *Řev* zůstává varovným pomníkem megalomanie[cite: 131]. Dokazuje, že příroda není sentimentálním hřištěm pro lidskou empatii; je to autonomní, lhostejný a nebezpečný svět, v němž člověk bez svých technických zbraní nepředstavuje vládce tvorstva, nýbrž pouhou kořist[cite: 131].
+
+### Slovníček pojmů a bibliografie
+
+* **Dokumentární teror:** Filmový stav, kdy napětí a strach nevycházejí z fikčního scénáře či triků, nýbrž z autentického, nekontrolovaného fyzického nebezpečí hrozícího hercům přímo na scéně[cite: 131].
+* **Krotitelský narcismus:** Psychologický sebeklam jednotlivce přesvědčeného o vlastní schopnosti ovládnout divoké predátory skrze domnělé spirituální či citové pouto[cite: 131].
+* **Somatický voyeurismus:** Pozice diváka konfrontovaného s nezpochybnitelnou realitou skutečného fyzického zranění a tělesné bolesti účinkujících na plátně[cite: 131].
+
+**Bibliografie (Chicago Style):**
+* De Bont, Jan. "Shooting on the Wild Side: The Cinematography of Roar." *American Cinematographer* 63, no. 7 (1982): 712–718.
+* Hedren, Tippi. *Tippi: A Memoir*. New York: William Morrow, 2016[cite: 131].
+* Marshall, Noel, dir. *Roar* (Motion Picture). Los Angeles: Filmways Pictures / Drafthouse Films, 1981.
+* Yule, Andrew. *Hollywood a Go-Go: An Account of the Cannon Phenomenon*. London: Sphere Books, 1987.

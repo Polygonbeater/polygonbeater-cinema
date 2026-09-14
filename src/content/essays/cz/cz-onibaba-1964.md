@@ -3,7 +3,7 @@ title: "Onibaba (1964): Materiální horor a kolaps sociálního imaginárna"
 film: "Onibaba (1964)"
 year: 1964
 date: "2026-09-03"
-description: "Analytická studie filmu Kaneta Šindóa Onibaba (1964), zkoumající materiální horor, estetiku sevření a rozklad sociálního řádu."
+description: "Analytická studie filmu Kaneta Šindóa Onibaba zkoumající materiální horor, širokoúhlou estetiku TohoScope, masku Hanny a historické trauma poválečného Japonska."
 image: "/images/essays/onibaba-1964.webp"
 
 lang: "cz"
@@ -11,52 +11,42 @@ translationSlug: "onibaba-1964"
 director: "Kaneto Šindó"
 ---
 
-Uvedení snímku *Onibaba* v roce 1964 představovalo radikální zlom v poválečné japonské kinematografii. V době, kdy Japonsko navenek prezentovalo obraz technologické modernity – symbolicky ztělesněný tokijskou olympiádou –, se Kaneto Šindó obrátil hluboko do čtrnáctého století, aby vykopal to, co lze popsat jako materialistickou kontrahistorii (Richie 2005; Desser 1988). Šindó odmítá hrdinskou teleologii klasického jidaigeki a rozkládá feudální mytologii. Dějiny v jeho pojetí nepředstavují narativní pokrok, nýbrž cyklickou krizi těla: nekonečnou reprodukci hladu, sexu, násilí a smrti (Standish 2000).
+Uvedení snímku *Onibaba* (1964, stopáž 103 minut) v režii Kaneta Šindóa představovalo zásadní zlom v poválečné japonské kinematografii. V éře, kdy se země navenek prezentovala moderním technologickým optimismem symbolizovaným tokijskými olympijskými hrami, se Šindó obrátil hluboko do občanských válek 14. století, aby vytvořil radikální materialistickou kontrahistorii. Režisér odmítá hrdinský patos klasického žánru jidaigeki a demystifikuje samurajskou kulturu: dějiny v jeho pojetí nepředstavují pokrok cti, nýbrž brutální biologický cyklus hladu, potu, sexuality, animálního násilí a smrti.
 
-*Onibaba* dějiny nereviduje; *Onibaba* je popírá.
+### I. Formální systémy a estetika sevření v trávě suzuki
 
-### Formální systémy a estetika sevření
+Šindóova formální koncepce negeneruje význam skrze psychologizující dialogy, nýbrž prostřednictvím přísně kontrolovaného systému vizuálních a prostorových omezení:
+* **Horizontální vězení TohoScope (2.35:1):** V rozporu s běžnou praxí, která spojuje širokoúhlý formát s epickou otevřeností krajiny, Šindó prostor radikálně instrumentalizuje. Nekonečné pole vysoké pampové trávy (*suzuki*) zaplňuje celý horizont a odpírá divákovi orientaci. Rostlinný labyrint funguje jako ekologický panoptikon – prostředí, které umožňuje pohyb a lov, avšak vylučuje únik.
+* **Chiaroscuro a materiální viditelnost:** Vysoce kontrastní černobílá kamera Kijošiho Kurody exponuje fyzický povrch světa: zbroj zavražděných samurajů jako směnnou komoditu, bahno, lesknoucí se kůži zbrocenou potem a bezednou jámu jako absolutní negaci lidské existence.
+* **Antihumanistický zvukový design:** Hudební doprovod Hikarua Hajašiho rozbíjí melodickou kontinuitu. Disonantní jazzové tóny a extatické rytmy bubnů *taiko* stimulují primární tělesné reflexy a zbavují násilí jakéhokoliv estetického sentimentu.
 
-Šindóova formální koncepce význam neilustruje, nýbrž jej generuje prostřednictvím přísně kontrolovaného systému vizuálních a zvukových omezení.
+### II. Tělo, hlad a dekonstrukce společenské smlouvy
 
-* **Širokoúhlý formát jako horizontální vězení (TohoScope, 2.35:1):** V rozporu s konvenčním spojováním širokoúhlého obrazu s epickou otevřeností Šindó horizontální prostor instrumentalizuje. Hustá suzuki (pampová tráva) laterálně sytí záběr a upírá divákovi hloubku i horizont. Obraz funguje jako uzavřený ekologický panoptikon – prostředí, které umožňuje cirkulaci, avšak znemožňuje únik (Bordwell 2005).
-* **Chiaroscuro a materiální viditelnost:** Vysoce kontrastní černobílá obrazotvornost upřednostňuje hmotu před interioritou. Světlo odhaluje povrchy: zbroj jako komoditu, tělo jako pracovní substrát a jámu jako absolutní negaci. Tato vizuální ekonomie se protíná s pojetím neproduktivní expenditury Georgese Batailleho – energie spotřebované bez kumulace, užitku či symbolické návratnosti (Bataille 1988).
-* **Hloubka ostrosti a morální simultánnost:** Kompozice s hlubokou ostrostí neustále bortí prostorovou hierarchii. Popředí a pozadí koexistují v etické simultánnosti: touha, násilí a smrt sdílejí tutéž vizuální rovinu. Toto odmítnutí percepční priorizace posiluje entropický pohled na svět, v němž žádný prostor nenabízí morální izolaci (Burch 1979).
-* **Antihumanistický zvukový design:** Partitura Hikarua Hajašiho rozkládá melodickou kontinuitu. Jazzová disonance a údery bubnů taiko tříští temporální koherenci a přibližují zvuk tělesnému reflexu spíše než emocionální identifikaci. Hudba přestává lidský rozměr polidšťovat; místo toho znepokojuje (Prince 1991).
+Příběh starší ženy (Nobuko Otowová) a její mladé snachy (Jukiko Kawašiová), které v bažinách vraždí zbloudilé samuraje, házejí jejich těla do hluboké jámy a výzbroj směňují u překupníka za proso, demaskuje samotné základy civilizace:
+* **Biologický redukcionismus:** Válka zbavila postavy veškerých etických zábran. Když materiální podmínky znemožňují přežití, stává se predátorství funkční normou. Láska a rodinné vazby kolabují do boje o kalorický příjem a uspokojení pudu.
+* **Hlad versus erotická touha:** Návrat dezertéra Hačiho (Kei Sató) vnáší do křehkého přežití žen destrukci. Žárlivost a strach z opuštění nutí starou matku k sabotáži erotického vztahu mladé dvojice, což spouští fatální řetězec sebedestrukce.
 
-### Teoretické rámce: Tělo, maska a abjekt
+### III. Maska Hanny: Fúze abjektu a atomové trauma
 
-* **Materialismus a společenská smlouva:** Sociální vztahy jsou redukovány na biologickou nutnost. Šindó ukazuje, že když materiální podmínky znemožňují etický život, stává se monstróznost funkčně normativní. Tento výklad se opírá o marxistické materialistické rámce, které kladou obživu a reprodukci nad ideologii jako primární hybatele sociálního chování (Marx 1846/1978).
-* **Maska a selhání persony:** Maska Hanny funguje jako freudovský i lacanovský kloub. Původně vnější nástroj strachu nakonec srůstá s masem a stává se ztělesněním erupce abjektu. Jak definuje Julia Kristeva, abjekt destabilizuje identitu, systém a řád (Kristeva 1982). Hrůza zde netkví v samotné proměně, nýbrž v ustrnutí – v nemožnosti návratu k symbolické koherenci poté, co maska splynula s tělem.
-* **Atomová paměť a poválečné znetvoření:** Ačkoliv se děj odehrává ve čtrnáctém století, *Onibaba* je široce vnímána jako dílo pronásledované stínem poválečného Japonska (Desser 1988). Znetvořená tvář pod maskou rezonuje s vizuálními diskurzy kolem hibakuša (přeživších atomového bombardování) a zasazuje film do širšího kinematografického kontextu vyrovnávání se s nukleárním traumatem (Broderick 1991; Treat 1995). Jáma funguje jako negativní pomník – prázdnota označující kolaps imperiální mytologie, morální jistoty a budoucnosti.
+Klíčovým zlomem vyprávění je přepadení tajemného samuraje v démonické masce:
+* **Selhání persony:** Matka samuraje zabije a zmocní se jeho masky Hanny, aby v noci děsila snachu a zabránila jí v nočních schůzkách. Avšak maska, původně vnější nástroj psychologického teroru, vlivem deště a hniloby sroste s jejím vlastním obličejem. Zde se projevuje to, co Julia Kristeva definuje jako erupci abjektu – stav, kdy se hranice mezi vlastním tělem a cizorodou odpornou hmotou trvale hroutí.
+* **Ozvěny Hirošimy a Nagasaki:** Tělesná deformace pod strženou maskou nese přímou historickou rezonanci. Šindó, rodák z Hirošimy, vložil do znetvořené, krvácející tváře matky trauma přeživších atomového bombardování (*hibakuša*). Jáma uprostřed rákosí se stává pomníkem prázdnoty a nukleárního zmaru moderního Japonska.
 
-### Vědecká východiska: Směrem k Šindóovu kontinuu
+### IV. Závěr: Venkovský noir a sekulární zatracení
 
-Tyto motivy tvoří koncepční infrastrukturu propojující materiální horor filmu *Onibaba* (1964) se spektrální pomstou v *Kuroneku* (1968).
+Závěrečný hysterický běh matky přes pole suzuki, kdy s obnaženou masitou tváří zoufale křičí: *„Já nejsem démon, já jsem lidská bytost!“*, a její pád do černé jámy představuje definitivní odmítnutí transcendence:
+* **Konec mýtu o člověku:** *Onibaba* artikuluje svět absolutního sekulárního zatracení, v němž neexistuje boží soud ani katarze. Šindóovou nejradikálnější tezí je poznání, že člověk se pod tlakem dějin nemění v démona z vnějšího popudu; po odhození kulturních nátěrů v něm nikdy nic jiného než animální hlad a děs nebylo.
 
-* **Primát metabolické práce:** Šindó prosazuje radikální historiografii ovládanou kalorickou nutností. V *Onibabě* se práce projevuje jako obírání mrtvol a vraždy pro obživu; v *Kuroneku* tato logika prochází spektrální transformací, kde se „práce“ mění v rituální vyhlazování warriorské třídy (Shindó 1973).
-* **Jizva Hanny jako locus tramatu:** Tělesné znetvoření funguje jako transhistorický kanál. Maska Hanny není pouhým folklorním prvkem, nýbrž slouží jako nádoba traumatu kodifikující sociální vyčlenění těl poznamenaných extrémním násilím (Treat 1995).
-* **Ekologický nihilismus a labyrint:** Prostředí – vlnící se tráva či šeptající bambus – vystupuje jako lhostejný svědek. Příroda nepředstavuje útočiště, nýbrž spolupachatele. Tyto labyrintové krajiny vnucují neantropocentrickou temporalitu, v níž se lidské utrpení jeví jako zanedbatelné (Morton 2007).
-* **Jáma a Lacanovo Das Ding:** Jáma tvoří gravitační střed filmu: projev Lacaniánského Reálna (*Das Ding*), nesymbolizovatelného jádra ležícího za jazykem a zákonem (Lacan 1992). Jáma přijímá tělo, ale nenabízí žádnou transcendenci – pouze ticho.
+### Slovníček pojmů a bibliografie
 
-### Závěr: Venkovský noir a sekulární zatracení
+* **Abjekt (Abjection):** Psychoanalytický koncept Julie Kristevy označující stav psychického a tělesného odporu vyvolaný zhroucením hranic mezi subjektem a objektem (např. maso srůstající s maskou).
+* **Ekologický panoptikon:** Prostorové uspořádání přírodního prostředí (rákosová pole suzuki), které svým nepřetržitým vlněním a neprostupností zbavuje člověka horizontu a možnosti úniku.
+* **Hibakuša paměť:** Způsob vizuální reprezentace znetvořených těl v poválečném japonském umění, odkazující k traumatické zkušenosti obětí atomového bombardování.
 
-*Onibaba* je základním dílem venkovského filmu noir, které přenáší morální neprostupnost z městské noční scenérie do přesvíceného přírodního bludiště (Schrader 1972). Artikuluje kinematografii sekulárního zatracení, v níž boží soud chybí a vykoupení je strukturálně znemožněno. Šindóovou největší provokací není zjištění, že se lidé pod nátlakem mění v démony, nýbrž fakt, že po odhození symbolické ochrany v nich nikdy nic jiného nebylo.
-
-### Bibliografie (Chicago Style)
-
-* Bataille, Georges. *The Accursed Share, Vol. 1*. New York: Zone Books, 1988.
+**Bibliografie (Chicago Style):**
+* Bataille, Georges. *The Accursed Share: An Essay on General Economy, Vol. 1*. New York: Zone Books, 1988.
 * Bordwell, David. *Figures Traced in Light: On Cinematic Staging*. Berkeley: University of California Press, 2005.
-* Broderick, Mick. *Nuclear Movies: A Critical Filmography and Guide to Cinema Relating to Atomic Energy, 1913–1991*. Dallas: McFarland, 1991.
-* Burch, Noël. *To the Distant Observer: Form and Meaning in the Japanese Cinema*. Berkeley: University of California Press, 1979.
 * Desser, David. *Eros Plus Massacre: An Introduction to the Japanese New Wave Cinema*. Bloomington: Indiana University Press, 1988.
 * Kristeva, Julia. *Powers of Horror: An Essay on Abjection*. New York: Columbia University Press, 1982.
-* Lacan, Jacques. *The Ethics of Psychoanalysis 1959–1960: The Seminar of Jacques Lacan, Book VII*. Translated by Dennis Porter. New York: W. W. Norton & Company, 1992.
-* Marx, Karl, and Friedrich Engels. *The German Ideology*. New York: International Publishers, 1978 (orig. 1846).
-* Morton, Timothy. *Ecology Without Nature: Rethinking Environmental Aesthetics*. Cambridge: Harvard University Press, 2007.
-* Prince, Stephen. *The Warrior’s Camera: The Cinema of Akira Kurosawa*. Princeton: Princeton University Press, 1991.
 * Richie, Donald. *A Hundred Years of Japanese Film*. Tokyo: Kodansha International, 2005.
-* Schrader, Paul. “Notes on Film Noir.” *Film Comment* 8, no. 1 (1972): 8–13.
-* Shindō, Kaneto. *Eiga o tsukuru* [Making Films]. Tokyo: Iwanami Shoten, 1973.
-* Standish, Isolde. *Myth and Masculinity in the Japanese Cinema: Towards a Political Economy of the Image*. London: Curzon Press, 2000.
-* Treat, John Whittier. *Writing Ground Zero: Japanese Literature and the Atomic Bomb*. Chicago: University of Chicago Press, 1995.
+* Shindō, Kaneto, dir. *Onibaba* (Motion Picture). Tokyo: Toho / Kindai Eiga Kyokai, 1964.

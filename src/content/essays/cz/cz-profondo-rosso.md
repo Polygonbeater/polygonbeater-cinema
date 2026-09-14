@@ -1,8 +1,9 @@
 ---
-title: "Slepá skvrna vnímání: Krvavá groteska a zrada vlastních očí v Argentově Profondo Rosso (1975)"
-film: "Profondo Rosso (1975)"
+title: "Tmavě červená (Profondo Rosso, 1975): Slepá skvrna vnímání a krvavý operní balet"
+film: "Tmavě červená / Profondo Rosso (Deep Red, 1975)"
 year: 1975
-date: "2026-01-01"
+date: "2026-09-03"
+description: "Analytická studie vrcholného gialla Daria Argenta zkoumající trik se zrcadlem, epistemologickou zradu zraku, hudbu skupiny Goblin a dětské trauma Vily křičícího dítěte."
 image: "/images/essays/profondo-rosso.webp"
 
 lang: "cz"
@@ -10,29 +11,48 @@ translationSlug: "profondo-rosso"
 director: "Dario Argento"
 ---
 
-Dario Argento nenatočil v Profondo Rosso (1975) jen prachobyčejnou detektivku, kde se v poslední minutě ukáže, že vraždil zhrzený zahradník. Natočil mistrovskou lekci v tom, jak dokonale zradit divákovy vlastní oči. Kde běžné kriminálky hledají pachatele s lupou v ruce, Argento zhasne světla, pustí vám do uší ječivé syntezátory a nechá vás zírat přímo na vraha, aniž byste vůbec tušili, na co se vlastně díváte. Film je brilantním, mírně cynickým vtipem na účet naší vlastní pozornosti – a krví se v něm rozhodně nešetří.
+Snímek Daria Argenta *Tmavě červená* (*Profondo Rosso*, v mezinárodní distribuci *Deep Red*, 1975, stopáž 127 minut) představuje absolutní tvůrčí a stylový zenit subžánru giallo. Argento v něm překračuje hranice běžné kriminální hádanky a přetváří vyšetřování série brutálních vražd v mistrovskou lekci z epistemologické zrady diváckého zraku[cite: 132]. Kde konvenční detektivka hledá logické stopy s lupou v ruce, tam Argento zhasíná světla, zaplavuje plátno sytou karmínovou barvou, nasazuje agresivní syntezátory skupiny Goblin a nechává diváka zírat přímo do tváře pachatele, aniž by si uvědomil, co ve skutečnosti vidí[cite: 132].
 
-## 1. Zrada zrcadla aneb Když mozek nestíhá
-Ústřední trik celého filmu by se dal vyučovat na iluzionistických školách. Hlavní hrdina, britský klavírista Marcus, prochází bezprostředně po vraždě bytem oběti a je skálopevně přesvědčený, že z podivné galerie děsivých portrétů na stěně zmizel jeden konkrétní obraz. Tento „chybějící obraz“ ho posedne a donutí hrát si na amatérského detektiva.
+Tato studie dekonstruuje film jako brilantní esej o nespolehlivosti lidské percepce, dekonstrukci mužského racionalismu a materializaci zasutého dětského traumatu[cite: 132].
 
-Závěrečná pointa? Žádný obraz na zdi nechyběl. To, co Marcus (a spolu s ním i divák) na zlomek vteřiny viděl, bylo zrcadlo, v němž se odrazila tvář skutečné vražedkyně. Zrak zafungoval naprosto bezchybně, ale lidský mozek byl v ten moment příliš zaměstnán mrtvolou na zemi, než aby tu informaci dokázal správně zpracovat. Argento nám tak s potutelným úsměvem dává sežrat ústřední tezi filmu: vidět a vnímat jsou dvě naprosto odlišné disciplíny.
+### I. Zrada zrcadla aneb Když vědomí nestíhá zrakový vjem
 
-## 2. Mužské ego a detektivní blamáž
-Obsazení Davida Hemmingse do role Marcuse je od Argenta naprosto geniální filmový vtípek. Hemmings si totiž o necelou dekádu dříve zahrál fotografa v Antonioniho Zvětšenině (Blow-Up) – muže, který na fotce neustále hledá důkaz o vraždě, až zjistí, že objektivní realita uniká. Tady se situace opakuje, jen ve vtipnějším balení. Marcus ztělesňuje aroganci klasické mužské racionality. Je přesvědčený, že svět uspořádá a zachrání pomocí čisté logiky.
+Ústřední zápletka filmu je vystavěna na geniálním optickém a psychologickém klamu[cite: 132]:
+* **Fantom chybějícího obrazu:** Britský jazzový klavírista Marcus Daly (David Hemmings) prochází bezprostředně po vraždě telepatky Helgy bytem oběti[cite: 132]. Mezi řadou bizarních portrétů na chodbě zahlédne cosi, co v něm zanechá neodbytný pocit: je skálopevně přesvědčen, že ze zdi zmizel jeden konkrétní obraz[cite: 132]. Tento vjem jej uvrhne do posedlého pátrání po „chybějícím portrétu“[cite: 132].
+* **Katarzní odhalení:** V závěru se ukazuje, že ze zdi žádný obraz nezmizel[cite: 132]. To, co Marcus v šoku na zlomek vteřiny spatřil, bylo zrcadlo, v němž se odrážela tvář skutečné vražedkyně Marthy (Clara Calamaiová) stojící v temnotě za ním[cite: 132]. Zrakový orgán zaznamenal pravdu naprosto přesně, avšak vědomí zatížené pohledem na mrtvolu informaci vytěsnilo[cite: 132]. Argento tím formuluje klíčovou tezi: vidět a uvědomovat si viděné představuje dvě radikálně odlišné kognitivní operace[cite: 132].
 
-Realita je ale mnohem uštěpačnější. Nejenže Marcus svými amatérskými dedukcemi nepřímo pošle na onen svět několik dalších lidí, ale navíc dostane nakládačku v páce od novinářky Gianny. Ta představuje emancipovanou, moderní ženu, která nečeká, až ji někdo zachrání, a z Marcusova ega si s gustem utahuje. Jeho velkolepé pátrání se tak mění v přehlídku přešlapů, které fatálně narážejí na realitu.
+### II. David Hemmings a dekonstrukce arogance mužského rozumu
 
-## 3. Vila hrůzy jako zdivočelá terapie
-Pravda v Profondo Rosso nečeká úhledně srovnaná v policejních spisech, ale je doslova zazděná v opuštěném sídle. Klíčem k záhadě se stává „Vila křičícího dítěte“. Marcus tu s krumpáčem v ruce provádí tu nejagresivnější možnou formu psychoanalýzy: násilím se probourává do skryté místnosti, aby odhalil mumifikovanou mrtvolu a vizuální záznam dávného dětského traumatu.
+Obsazení Davida Hemmingse do role Marcuse představuje rafinovaný metafilmový komentář k Antonioniho kultovní *Zvětšenině* (*Blow-Up*, 1966)[cite: 132]:
+* **Od fotografa k hudebníkovi:** V Antonioniho filmu Hemmings marně zvětšoval fotografii, aby našel objektivní důkaz vraždy[cite: 132]. V *Profondo Rosso* ztělesňuje aroganci karteziánského rozumu – intelektuála přesvědčeného, že svět lze rozluštit dedukcí a logikou[cite: 132].
+* **Emancipovaný kontrapunkt:** Marcusovo amatérské vyšetřování je sérií fatálních omylů, jež nepřímo vedou k brutální smrti několika dalších svědků[cite: 132]. Jeho mužské ego je systematicky zesměšňováno v dialozích s novinářkou Giannou Brezziovou (Daria Nicolodiová), která nad ním vítězí v páce, řídí rozpadlé auto a reprezentuje moderní nezávislou ženu bourající patriarchální stereotypy[cite: 132].
 
-Všechny vraždy v současnosti jsou jen krvavou ozvěnou této původní rodinné tragédie. Dům zde nefunguje jen jako strašidelná kulisa z pouti, ale jako obří, hnijící metafora lidského podvědomí, ve kterém zkrátka někdo zapomněl před lety uklidit.
+### III. Vila křičícího dítěte jako architektura vytěsněného traumatu
 
-## 4. Krev, syntezátory a vražedný balet
-Násilí u Argenta není špinavé a realistické; je to opulentní operní představení. Kamera se často odpoutává od objektivního pohledu, přebírá nervní, voyeurskou optiku vraha a s takřka fetišistickou radostí klouže po lesklých čepelích a skleněných střepech.
+Pravda v Argentově světě neleží v policejních protokolech, nýbrž je fyzicky zazděna v architektuře[cite: 132]:
+* **Probourání do nevědomí:** Pátrání po původu zlověstné dětské říkanky přivádí Marcuse do opuštěné modernistické vily (*Villa Scott* v Turíně)[cite: 132]. Zde s krumpáčem v ruce doslova provádí agresivní psychoanalýzu – odsekává omítku, aby odkryl zazděnou fresku zobrazující brutální vraždu a posléze i mumifikované tělo zavražděného otce[cite: 132].
+* **Dům jako psychická schránka:** Zločin v přítomnosti je pouhou mechanickou ozvěnou potlačené rodinné tragédie z minulosti[cite: 132]. Vila křičícího dítěte funguje jako monumentální symbol lidského podvědomí plného pavučin a zasuté krve, v němž nebylo po celá desetiletí uklizeno[cite: 132].
 
-Zásadní podíl na této šílené atmosféře má tehdy neznámá italská prog-rocková kapela Goblin. Jejich hudba nefunguje jako tradiční podkres – ona na diváka přímo fyzicky útočí. Vražedný mix disonantních syntezátorů, agresivních basových linek a zvrácené dětské říkanky vytváří zvukovou kulisu, při které byste byli nervózní i při obyčejném mazání chleba, natož když čekáte na vraha skrytého ve stínech.
+### IV. Goblin a vizuální mechanika operního násilí
 
-## 5. Závěr: Pointa v kaluži krve
-Profondo Rosso nekončí triumfálním dopadením padoucha a fanfárami. Závěrečná scéna, v níž je vrah fatálně – a s dosti černým humorem – zlikvidován mechanismem výtahu, nepřináší žádnou hrdinskou úlevu. Je to spíše cynické uchechtnutí osudu.
+Argento v *Profondo Rosso* definitivně opouští realistické pojetí násilí a povyšuje jej na výsostný choreografický rituál[cite: 132]:
+* **Fetišizace vražedných set-pieces:** Kamera Luigiho Kuveillera klouže po lesklých čepelích sekáčků, vroucí vodě ve vaně, skleněných střepinách a rozbitých zubech o mramorový krb[cite: 132]. Vražda je traktována jako barokní představení, v němž má tělesná destrukce svou vlastní symetrickou geometrii[cite: 132].
+* **Akustický atak skupiny Goblin:** Zásadním inovátorem atmosféry je italská progresivně-rocková formace Goblin ve spolupráci s Giorgiem Gaslinim[cite: 132]. Jejich agresivní basové linky, zkreslené varhany, syntetizátory a dětský naříkavý popěvek diváka neukolébávají; fyzicky útočí na jeho nervovou soustavu a generují permanentní somatickou úzkost[cite: 132].
 
-Když se Marcus na samém konci vyčerpaně zadívá do kaluže temně červené krve a vidí v ní svůj vlastní obličej, kruh se ironicky uzavírá. Argento nás celé dvě hodiny vodil za nos, abychom nakonec zjistili, že tou největší hrozbou nejsou maskovaní fanatici, ale naše vlastní zabedněnost. Sledovat Profondo Rosso znamená nechat se dobrovolně, a hlavně s obrovskou radostí, podvést.
+### V. Závěr: Pointa v kaluži krve a zánik iluze bezpečí
+
+Závěrečný skon vražedkyně nepřináší žádné hrdinské rozhřešení justice[cite: 132]:
+* **Mechanická dekapitace:** Martha umírá nehodou – její vlastní náhrdelník se zachytí v mříži jedoucího výtahu, což vede k jejímu chladnému uškrcení a dekapitaci[cite: 132].
+* **Odraz v krvi:** V závěrečném záběru Marcus vyčerpaně zírá do kaluže temně rudé krve na podlaze a spatřuje v ní svůj vlastní pokřivený odraz[cite: 132]. Kruh se uzavírá: největší hrozbou nebyla vnější monstra, nýbrž klam lidského vnímání a neschopnost porozumět vlastním smyslům[cite: 132]. Sledovat *Profondo Rosso* znamená nechat se dobrovolně a poučeně konfrontovat s vlastní slepotou[cite: 132].
+
+### Slovníček pojmů a bibliografie
+
+* **Slepá skvrna percepce:** Fenomén lidského vnímání, kdy oko fyzicky zaznamená obraz reality (vrah v zrcadle), avšak mozek jej v důsledku šoku či kognitivního přetížení odmítne zpracovat a vyhodnotit[cite: 132].
+* **Giallo opernost:** Estetický koncept Daria Argenta traktující kriminální násilí jako vysoce stylizovaný, choreograficky vypjatý a vizuálně přehlcený rituál podkreslený agresivní hudbou[cite: 132].
+* **Dětské trauma jako spouštěč:** Psychoanalytický motiv, v němž vytěsněný zážitek násilí z dětství determinuje celoživotní nutkavé vražedné jednání dospělého jedince[cite: 132].
+
+**Bibliografie (Chicago Style):**
+* Argento, Dario, dir. *Profondo Rosso* (Deep Red). Roma: Seda Spettacoli, 1975.
+* Argento, Dario. *Fear: The Autobiography of Dario Argento*. Translated by Alberto Pezzotta. London: Fab Press, 2014.
+* Gallant, Chris, ed. *Art of Darkness: The Cinema of Dario Argento*. Godalming: Fab Press, 2000.
+* McDonagh, Maitland. *Broken Mirrors, Broken Minds: The Dark Dreams of Dario Argento*. Minneapolis: University of Minnesota Press, 2010.

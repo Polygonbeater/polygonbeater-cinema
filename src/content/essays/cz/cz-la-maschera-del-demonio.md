@@ -1,9 +1,9 @@
 ---
-title: "La maschera del demonio (1960): Krása, která odmítla zemřít"
-film: "La maschera del demonio"
+title: "Maska démona (La maschera del demonio, 1960): Krása, která odmítla zemřít"
+film: "Maska démona / La maschera del demonio (1960)"
 year: 1960
-date: "2026-09-02"
-description: "Návrat místo vzkříšení — analýza ikonického gotického hororu Maria Bavy."
+date: "2026-09-03"
+description: "Analytická studie zakladatelského gotického hororu Maria Bavy zkoumající doppelgängera Barbary Steeleové, návrat potlačeného a fluidní hranici mezi krásou a hrůzou."
 image: "/images/essays/la-maschera-del-demonio.webp"
 
 lang: "cz"
@@ -11,46 +11,40 @@ translationSlug: "la-maschera-del-demonio"
 director: "Mario Bava"
 ---
 
-## Úvod: Návrat místo vzkříšení
+Režijní debut Maria Bavy *Maska démona* (*La maschera del demonio*, v mezinárodní distribuci známý též jako *Black Sunday*, 1960, stopáž 87 minut) nepředstavuje pouhou variaci na Gogolovu povídku *Vij*. Je to přelomový okamžik, v němž se evropský filmový horor definitivně vymanil z akademismu a ustavil novou vizuální syntax založenou na fluidním propojení erotické touhy, gotické poezie a fyzického zmaru. Bava, dlouholetý mistr černobílé kamery a optických triků, stvořil dílo, které neděsí vnějšími monstry, nýbrž tím, co patriarchální civilizace odmítá pohřbít a co se s neúprosnou silou vrací z hlubin vytěsněného nevědomí.
 
-Existují horory, které děsí tím, co ukazují, a horory, které děsí tím, co odmítají pohřbít. Film Maria Bavy *La maschera del demonio* patří k té druhé kategorii.
+### I. Úvodní rituál: Kovová maska a počátek věčného návratu
 
-Na první pohled jde o jednoduchý gotický příběh: čarodějnice Asa Vajda je v 17. století odsouzena za čarodějnictví a popravena upálením. Před smrtí však pronáší kletbu a o dvě století později se vrací, aby znovu získala život, tělo a moc. Klíčové však není samotné vzkříšení, ale návrat toho, co bylo vytěsněno.
+Úvodní scéna z moldavského lesa 17. století patří k nejikoničtějším a nejradikálnějším prologům světové kinematografie:
+* **Trest s hřeby:** Princezna Asa Vajda (Barbara Steeleová) a její milenec Javuto jsou inkvizičním soudem obviněni ze satanismu a vampyrismu. Poprava není provedena pouhým upálením – kat jí na obličej přiloží těžkou bronzovou masku s vnitřními ocelovými hroty a masivním úderem kladiva ji zarazí do masa[cite: 105].
+* **Trauma jako počátek:** Násilí zde nefunguje jako uzávěrka příběhu, nýbrž jako jeho prvotní motor[cite: 105]. Úder kladiva zpečeťuje kletbu; potlačené zlo není zničeno, je pouze mechanicky uzavřeno pod kovovou schránkou a čeká na náhodný impuls, který jej po dvou stoletích znovu probudí k životu[cite: 105].
 
-Úvodní scéna s kovovou maskou posetou hřeby patří k ikonickým obrazům evropského hororu. Násilí zde není uzávěrkou příběhu, ale jeho počátkem. Každý úder kladiva otevírá prostor návratu.
+### II. Gotický šerosvit a rozpad osvícenského rozumu
 
-## Psychická krajina a rozpad racionality
+Když v 19. století vstoupí do rodinné hrobky profesor Kruvajan (Andrea Checchi) a mladý lékař Andrej Gorobec (John Richardson), reprezentují osvícenský vědecký rozum[cite: 105]:
+* **Epistemologické selhání:** Bava systematicky ukazuje, jak se pozitivistická věda hroutí tváří v tvář silám, které odmítají racionální výklad[cite: 105]. Kruvajanovo náhodné rozbití skla v rakvi a kapka jeho vlastní krve dopadající na Asinu mumii spouští biologickou regeneraci netvora[cite: 105]. Lékař se nestává zachráncem, nýbrž první zmanipulovanou loutkou oživené čarodějnice.
+* **Krajina jako psychický prostor:** Vizuální svět filmu je čistým triumfem kameramanského génia Maria Bavy[cite: 105]. Těžké studiové mlhy, vykotlané stromy, klenby krypt a pavučiny nepředstavují dekoraci, ale exteriorizaci traumatických pochodů mysli[cite: 105]. Černobílý kontrast modeluje prostor, v němž stíny zlo neskrývají, ale přímo generují[cite: 105].
 
-Asa Vajda není externí monstrum. Je produktem systému, který ji zničil. Představuje návrat potlačeného, stopou represí, které nezmizely, pouze změnily formu.
+### III. Dvojrole Barbary Steeleové: Ambivalence tváře a archetyp Stínu
 
-M. Bava tuto logiku nevyjadřuje dialogem, ale obrazem. Jako bývalý kameraman konstruuje význam prostřednictvím světla, stínu a prostoru. Černobílá kamera nevytváří realistický svět, ale snovou strukturu. Mlhy, krypta, deformované stromy a hluboké stíny nejsou dekorací, ale projekcí psychického prostoru.
+Základní pilíř Bavovy metody spočívá v obsazení britské herečky Barbary Steeleové do fascinující dvojrole[cite: 105]:
+* **Asa versus Katia:** Steeleová ztvárňuje jak krvežíznivou upírku Asu, tak její nevinnou potomkyni, princeznu Katiu[cite: 105]. Obě bytosti sdílejí totožnou fyziognomii, avšak reprezentují odlišné póly lidské psychiky – dravé, nekontrolované *Id* a socializované, submisivní *Ego*[cite: 105].
+* **Destabilizace identity:** Vizuální symetrie obou žen uvádí diváka i mužské postavy do permanentního zmatku[cite: 105]. V momentě, kdy Asa vysává životní sílu z Katie, dochází k doslovnému splývání oběti a agresora. Zlo zde nepřichází jako cizorodý vetřelec zvenčí; má důvěrně známou, milovanou tvář[cite: 105]. Krása a zrůdnost, erotická přitažlivost a hnilobný rozklad se stávají dvěma stranami téže mince[cite: 105].
 
-Inspirace německým expresionismem je zřejmá, avšak transformovaná: stín zde neskrývá monstrum, ale spoluvytváří jej. Racionalita postav se postupně rozpadá pod tlakem reality, která odmítá vysvětlení. Lékaři Kruvajan a Gorobec reprezentují moderní vědu, avšak jejich epistemologické jistoty selhávají.
+### IV. Závěr: Nemožnost smrti a zrod moderního hororu
 
-Modernost filmu spočívá v tom, že monstrum nestojí proti civilizaci – je její součástí.
+Finální zničení Asy vesničany s pochodněmi nepřináší pocit definitivního bezpečí:
+* **Hranice žánru:** *Maska démona* stála na prahu moderní transformace filmového hororu[cite: 105]. Propojila klasickou literární tradici s explicitní tělesností a morbidním magnetismem, čímž otevřela cestu pro pozdější tvorbu Daria Argenta, Lucia Fulciho i Tima Burtona[cite: 105].
+* **Nemožnost zapomnění:** Snímek uzavírá své poselství mrazivým konstatováním: zlo nelze trvale eliminovat ohněm ani zákonem[cite: 105]. Vytěsněné trauma zůstává přítomno pod povrchem kultury, zakryto pouhou maskou, a čeká na chvíli, kdy společenská bdělost znovu poleví[cite: 105].
 
-## Ambivalence zla se známou tváří
+### Slovníček pojmů a bibliografie
 
-Tento princip se koncentruje do dvojrole Barbary Steele, která ztvárňuje Asu i Katii. Dvě postavy sdílejí jednu tvář, ale reprezentují odlišné modality existence.
+* **Gotický doppelgänger:** Narativní a vizuální motiv dvojníka (dvojrole Barbary Steeleové), ztělesňující rozpolcenost lidské osobnosti mezi nevinností a potlačenými destruktivními pudy[cite: 105].
+* **Návrat potlačeného (Return of the Repressed):** Psychoanalytický koncept aplikovaný na horor, v němž tabuizované, vytěsněné obsahy (sexualita, vina, násilí) znovu pronikají do vědomí v monstrózní podobě[cite: 105].
+* **Chiaroscuro v černobílém hororu:** Mistrovská práce s ostrými světelnými kontrasty a hlubokými stíny, modelující prostor jako snové, klaustrofobní bludiště[cite: 105].
 
-Asa je návratem potlačeného, Katia jeho normalizovanou formou. Jejich vizuální podobnost destabilizuje identitu jako takovou. Zlo zde nepřichází zvenčí – má známou tvář.
-
-Motiv lze číst v rovině gotického doppelgängera i jungovského archetypu Stínu. Důležitější než interpretace je však účinek: rozpad hranic mezi nevinností a vinou, životem a smrtí, krásou a hrůzou.
-
-Asa je současně fascinující i děsivá. Bava ji nesnímá jako deformované monstrum, ale jako obraz, který nutí pohled. Horor se tím mění v prostor ambivalence, kde se strach a touha překrývají.
-
-## Závěr: Nemožnost smrti
-
-Není náhodou, že film narážel na cenzurní omezení. Problematická nebyla pouze míra násilí, ale především spojení smrti, krásy a touhy do jediného obrazu.
-
-Film rozrušuje základní kulturní opozice: smrt není opakem života, krása není opakem hrůzy a touha není opakem destrukce. Vše existuje současně.
-
-*La maschera del demonio* stojí na prahu moderního hororu. Ještě vyrůstá z gotické tradice, ale zároveň otevírá prostor pozdější estetice Daria Argenta, Guillerma del Tora či Tima Burtona.
-
-Horor zde již není o monstrech. Je o tom, co se vrací navzdory snaze o zapomnění.
-
-Film nevypráví o smrti. Vypráví o její nemožnosti.
-
-Některé obrazy nelze odstranit. Lze je pouze zakrýt maskou.
-
-A čekat, až se znovu objeví.
+**Bibliografie (Chicago Style):**
+* Bava, Mario, dir. *La maschera del demonio* (Black Sunday). Roma: Galatea Film / Jolly Film, 1960.
+* Howarth, Troy. *The Haunted World of Mario Bava*. Baltimore: Midnight Marquee Press, 2002.
+* Lucas, Tim. *Mario Bava: All the Colors of the Dark*. Cincinnati: Video Watchdog, 2007.
+* Pezzotta, Alberto. *Mario Bava*. Milano: Il Castoro Cinema, 1995.

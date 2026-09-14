@@ -1,9 +1,9 @@
 ---
-title: "Ostře sledované vlaky (1966): Perlička na dně staničního prachu"
-film: "Ostře sledované vlaky (1966)"
+title: "Ostře sledované vlaky (Closely Watched Trains, 1966): Perlička na dně staničního prachu a erotika vzdoru"
+film: "Ostře sledované vlaky / Closely Watched Trains (1966)"
 year: 1966
-date: "2026-09-08"
-description: "Esej o legendárním oscarovém filmu Jiřího Menzela a Bohumila Hrabala. O erotice jako vzdoru, absurdním hrdinství a hledání lidskosti uprostřed válečného chaosu."
+date: "2026-09-03"
+description: "Analytická studie oscarové tragikomedie Jiřího Menzela a Bohumila Hrabala zkoumající střet mikrodějin se zhoubnou mašinérií války, erotiku jako formu rezistence a absurdní hrdinství bez patosu."
 image: "/images/essays/ostre-sledovane-vlaky-1966.webp"
 
 lang: "cz"
@@ -11,42 +11,43 @@ translationSlug: "ostre-sledovane-vlaky-1966"
 director: "Jiří Menzel"
 ---
 
-Zkuste si představit svět, kde padají bomby, hoří města a Evropa se dusí pod těžkou ocelovou botou dějin. A do tohoto apokalyptického hřmění někde ve středních Čechách potichu tiká telegraf v zaprášené stanici Kostomlaty. Výpravčí Hubička nadbíhá mladé telegrafistce, přednosta stanice krmí své milované holuby a mladý elév Miloš Hrma má pocit, že se na něj zřítil celý vesmír. Nikoliv kvůli Hitlerovi, ale proto, že jako muž selhal tváří v tvář milující dívce.
+Tragikomedie Jiřího Menzela *Ostře sledované vlaky* (*Closely Watched Trains*, 1966, stopáž 92 minut), oceněná v roce 1968 Cenou Akademie (Oscarem) za nejlepší cizojazyčný film, představuje jeden z vrcholů Československé nové vlny. Adaptace stejnojmenné novely Bohumila Hrabala odmítá schematický heroismus válečných velkofilmů. Menzel s Hrabalem nezkoumají dějiny skrze frontové linie a velké generály, nýbrž skrze optiku zdánlivě bezvýznamného zapadlého středočeského nádraží v Kostomlatech na sklonku druhé světové války. 
 
-Bohumil Hrabal by takový úhel pohledu miloval, protože přesně v něm tkví samotná podstata jeho vidění světa. Esej o Ostře sledovaných vlacích nesmí být chladnou akademickou pitvou, musí vonět olejem, levnou kolínskou a staničním prachem. Musí hledat perličku na dně.
+Tato studie analyzuje film jako mistrovskou syntézu mikrodějin a makrodějin, v níž se erotická touha a všední lidská trapnost stávají nejúčinnějším štítem proti odlidštěnému totalitnímu aparátu.
 
----
+### I. Mikrokosmos nádraží a erotika jako tichá rezistence
 
-## Erotika jako vzdor proti smrti
+Staniční kancelář funguje jako autonomní prostor vyčleněný z válečného běsnění:
+* **Kontrapunkt k mašinérii zkázy:** Zatímco po kolejích projíždějí ostře sledované vojenské transporty wehrmachtu naložené tanky, vojáky a zbraněmi, uvnitř stanice se řeší banální mikrodramata – přednosta stanice Lánský (Vladimír Valenta) krmí holuby a usiluje o povýšení, zatímco výpravčí Hubička (Josef Somr) svádí mladé telegrafistky.
+* **Razítkování jako dekonstrukce moci:** Ikonická scéna, v níž Hubička noční službu promění v erotický rituál a potiskne úředními staničními razítky odhalené pozadí telegrafistky Zdeničky Svaté (Jitka Zelenohorská), představuje vrcholnou ukázku hrabalovské subverze[cite: 131]. Úřední aparát státní kontroly – razítko s říšským orlem a datem – je přetaven v nástroj čiré tělesné rozkoše a absurdity[cite: 131]. Nacistická posedlost řádem a disciplínou je paralyzována lidskou živočišností[cite: 131].
 
-Hrabalovo a Menzelovo dílo stojí na dokonalém prolnutí dvou nejmocnějších lidských pudů – Erotu a Thanatu, touhy po životě a všudypřítomné hrozby smrti. Zatímco kolem projíždějí vlaky obtěžkané válkou a lidským utrpením, staniční kancelář pulzuje nezdolnou živelností.
+### II. Miloš Hrma: Iniciace do dospělosti a hrdinství bez patosu
 
-Jedna z nejslavnějších scén československé kinematografie – razítkování pozadí telegrafistky Zdeničky – není jen geniálně zkonstruovaným erotickým vtipem. Je to tichá, absurdní a o to silnější revolta proti nacistickému řádu, který reprezentuje uhlazený kolaborant Zedníček. Zatímco Říše sní o svém tisíciletém trvání, výpravčí Hubička s pedantskou pečlivostí otiskuje staniční razítka na dívčí kůži. Je v tom kus ryzího pábitelství: byrokratický nástroj kontroly je přetvořen v nástroj rozkoše a něhy. Život se zkrátka nenechá zastavit ani válkou, vždycky si najde škvíru, kterou proroste jako plevel mezi pražci.
+Ústřední postava železničního eléva Miloše Hrmy (Václav Neckář) je pravým opakem konvenčního válečného hrdiny[cite: 131]:
+* **Trauma selhání:** Miloš prožívá existenciální krizi vyvolanou předčasnou ejakulací (*ejaculatio praecox*) při milostném sblížení s průvodčí Mášou[cite: 131]. Jeho osobní trauma a pokus o sebevraždu podřezáním žil ve vaně mají pro jeho vědomí neskonale větší váhu než celý kolaps třetí říše[cite: 131].
+* **Viktoria Freie a probuzení odvahy:** Teprve erotická iniciace zprostředkovaná zkušenou partyzánskou spojkou Viktorií Freie (Nada Urbánková) – jejíž jméno nese symbolický význam svobodného vítězství – navrací Milošovi sebevědomí a mužskou identitu[cite: 131]. Hrdinský čin není v Hrabalově pojetí plodem fanatické ideologie; rodí se z nově nabyté radosti ze života, která se nebojí oběti[cite: 131].
 
----
+### III. Černobílá poetika Jaromíra Šofra a řeč detailu
 
-## Hrdinství z donucení a ustřižené kravaty
+Vizuální ztvárnění kameramana Jaromíra Šofra dodává snímku hluboký poetický rozměr[cite: 131]:
+* **Civilní realismus:** Šofrova kamera odmítá dramatické noirové šerosvity ve prospěch měkkého, rozptýleného denního světla[cite: 131]. Prostory perónu, čekárny a tratě jsou snímány s dokumentární věcností, jež dává vyniknout materiální struktuře staničního prachu, kouře lokomotiv a zaolejovaných montérek[cite: 131].
+* **Pábitelský detail:** Menzel buduje komiku skrze drobná gesta a vizuální metafory – ustřižená uniforma kolaborujícího rady Zedníčka (Vlastimil Brodský), roztržená přednostova pohovka či klobouk prostřelený při partyzánském přepadu[cite: 131]. Každý detail v sobě nese esenci hrabalovské „perličky na dně“ – záblesku lidskosti a poezie skryté v té nejobyčejnější všednosti[cite: 131].
 
-Miloš Hrma není hrdina z mramoru. Je to zranitelný, až komicky citlivý chlapec, který si ve vaně podřezává žíly, protože neunesl tíhu vlastního dospívání. Jeho osobní tragédie je pro něj reálnější a děsivější než celá druhá světová válka.
+### IV. Závěr: Pád z návěstidla a věčná hodnota lidskosti
 
-A přesto se právě on nakonec stane tím, kdo vyhodí do povětří německý muniční vlak. Jak k tomu ale dojde? Hrabal se vysmívá tradičnímu pojetí patetického hrdinství. Miloš nejedná z fanatického vlastenectví. Menzel s Hrabalem však jeho sexuální iniciaci díky partyzánce Viktorii Freie – jejíž jméno lze číst jako hrabalovsky příznačnou hříčku ve smyslu „vítězství svobody“ – symbolicky propojují s jeho nově nalezenou odvahou. Teprve když se stane mužem, když pochopí, že život má smysl a sladkou chuť, je schopen ten samý život obětovat.
+Finále filmu uzavírá Milošovu iniciaci definitivním etickým gestem[cite: 131]:
+* **Tichá oběť:** Miloš úspěšně vhodí výbušninu do muničního vlaku projíždějícího stanicí[cite: 131]. Vzápětí je však smrtelně zasažen výstřelem německého vojáka střežícího vagon[cite: 131]. Miloš padá do vagonu s municí a umírá tiše, bez velkých slov, zatímco obzor ozáří gigantická exploze[cite: 131].
+* **Univerzální humanismus:** *Ostře sledované vlaky* dokázaly, že skutečná velikost člověka nespočívá ve vojenských triumfech, nýbrž ve schopnosti zachovat si vnitřní čistotu, soucit a humor uprostřed zmaru[cite: 131]. Menzelův snímek potvrdil univerzální sílu české filmové školy, jež dokázala z lokálního staničního mikrosvěta vykřesat nadčasovou výpověď o lidské důstojnosti[cite: 131].
 
-Smrt ho zastihne v nejméně vhodnou chvíli – ve chvíli, kdy poprvé začal doopravdy žít. Když Miloš padá z návěstidla, není to výkřik do dějin, je to tichý povzdech.
+### Slovníček pojmů a bibliografie
 
----
+* **Pábitelství:** Hrabalovský literární a životní koncept označující specifický typ lidového filozofa a snílka, který okouzleně vnímá svět v jeho surové kráse a nachází poezii v těch nejbanálnějších situacích[cite: 131].
+* **Perlička na dně:** Metafora Bohumila Hrabala vyjadřující přítomnost ryzí lidskosti, čistoty a soucitu ukryté hluboko pod nánosy společenské špíny, vulgarity a úpadku[cite: 131].
+* **Československá nová vlna:** Filmové hnutí šedesátých let (Menzel, Forman, Chytilová, Němec), vyznačující se autenticitou, černým humorem, rozbitím ideologických klišé a hlubokým etickým zájmem o obyčejného člověka[cite: 131].
 
-## Symfonie směšnosti, majestátu a zlaté sošky
-
-Film Ostře sledované vlaky je geniální v tom, že diváka nutí plakat smíchy i dojetím zároveň. Je to groteska o roztržené pohovce přednosty stanice, o jeho touze po povýšení, které se mu vzdaluje s každým průšvihem jeho podřízených, a o ustřižených kravatách na peróně. Ale pod touto komediální slupkou teče spodní proud hluboké melancholie.
-
-Jiřímu Menzelovi se podařilo převést Hrabalův košatý, neuspořádaný jazyk do průzračně čistých obrazů. Černobílá kamera Jaromíra Šofra nedělá z války spektákl. Válka je tu přítomna jako šedivý mrak za okny staniční budovy, jako burácení, které občas přeruší cinkání staničních hodin.
-
-To, že tento komorní, zdánlivě nenápadný snímek ze zapadlého středočeského nádraží nakonec dobyl svět a v roce 1968 získal Oscara za nejlepší zahraniční film, je ten nejhezčí paradox celého příběhu. Bez americké patetičnosti a bez drahých válečných efektů zvítězila ryzí lidskost. Pozlacená soška v rukou mladého Menzela jako by potvrdila, že lokální mikrosvět plný humoru a tragiky má univerzální sílu, která dokáže oslovit celou planetu.
-
----
-
-## Perlička na dně zbyla
-
-Kdyby si tento text četl Bohumil Hrabal u stolu v hospodě U Zlatého tygra, možná by spokojeně přikývl. Protože pochopit Ostře sledované vlaky znamená pochopit, že dějiny netvoří jen velcí vůdcové a generálové. Dějiny se lámou v těch nejobyčejnějších okamžicích – na malých nádražích, v zapadlých kancelářích, mezi obyčejnými lidmi, kteří se bojí, milují se, selhávají a občas, naprosto nečekaně, udělají velkou věc.
-
-Je to hold českému údělu: čelit drtivým dějinám nikoliv s mečem v ruce, ale s ironickým úsměvem, razítkem a v pravou chvíli i s odjištěnou rozbuškou. Krása, jak by řekl Hrabal, totiž vždycky leží až tam dole, schovaná na samém dně lidského pinožení.
+**Bibliografie (Chicago Style):**
+* Hames, Peter. *The Czechoslovak New Wave*. London: Wallflower Press, 2005.
+* Hrabal, Bohumil. *Ostře sledované vlaky*. Praha: Československý spisovatel, 1965.
+* Liehm, Antonín J. *Ostře sledované filmy: Československá filmová zkušenost*. Praha: Národní filmový archiv, 2001.
+* Menzel, Jiří, dir. *Ostře sledované vlaky* (Closely Watched Trains). Praha: Filmové studio Barrandov, 1966[cite: 131].
+* Škvorecký, Josef. *All the Bright Young Men and Women: A Personal History of the Czech Cinema*. Toronto: Peter Martin Associates, 1971.

@@ -1,6 +1,6 @@
 ---
-title: "Zničení (2018): Biologická refrakce a estetika sebedestrukce"
-film: "Zničení (2018)"
+title: "Zničení (Annihilation, 2018): Biologická refrakce a estetika sebedestrukce"
+film: "Zničení / Annihilation (2018)"
 year: 2018
 date: "2026-09-03"
 description: "Analytická studie sci-fi hororu Alexe Garlanda zkoumající Záři jako biologický hranol, estetiku buněčného bujení a anihilaci lidského ega."
@@ -13,11 +13,11 @@ director: "Alex Garland"
 
 Tato studie dekonstruuje sci-fi horor Alexe Garlanda *Zničení* (*Annihilation*, 2018, stopáž 115 minut) jako vizuálně opulentní meditaci o sebedestrukci. Snímek sleduje expedici pěti vědkyň do „Oblasti X“ – karanténní zóny obklopující mimozemský meteorit, v níž neplatí známé fyzikální ani biologické zákony. 
 
-Metodologicky se text zaměřuje na koncept „Záře“ jako hranolu, který láme a mísí DNA všech živých organismů, na vizualizaci rakoviny jako aktu stvoření a na psychologický determinismus postav, které dobrovolně kráčí vstříc vlastnímu zániku. Film ukazuje hrůzu z toho, že vesmír nás nechce zničit ze zlomyslnosti, ale jednoduše nás asimiluje a přetvoří k nepoznání.
+Metodologicky se text zaměřuje na koncept „Záře“ jako hranolu, který láme a mísí DNA všech živých organismů, na vizualizaci rakoviny jako aktu stvoření a na psychologický determinismus postav, které dobrovolně kráčejí vstříc vlastnímu zániku. Film ukazuje hrůzu z toho, že vesmír nás nechce zničit ze zlomyslnosti, ale jednoduše nás asimiluje a přetvoří k nepoznání.
 
 ### I. Hranice Záře a horizontála mutace
 
-Základním motifem filmu je neustálá proměna. Tzv. Záře (*The Shimmer*) funguje jako gigantický prizmatický hranol. Neláme však pouze světlo a rádiové vlny, ale především samotnou DNA. Garland zde buduje horizontálu mutace, kde se stírají hranice mezi druhy. 
+Základním motivem filmu je neustálá proměna. Tzv. Záře (*The Shimmer*) funguje jako gigantický prizmatický hranol. Neláme však pouze světlo a rádiové vlny, ale především samotnou DNA. Garland zde buduje horizontálu mutace, kde se stírají hranice mezi druhy. 
 
 Rostliny rostou ve tvaru lidských těl, aligátoři mají žraločí zuby a medvěd v sobě nese hlasité, zmučené dozvuky své poslední lidské oběti. Tato fúze je nádherná i děsivá zároveň. Příroda zde není idylická, je to neřízený, hypertrofovaný chaos, který ukazuje, jak křehká je biologická integrita, na níž zakládáme svou definici lidství.
 
@@ -48,6 +48,6 @@ Anihilace zde neznamená fyzickou smrt, ale vymazání původního ega. Když Le
 
 **Bibliografie (Chicago Style):**
 * Garland, Alex. *Annihilation: Original Screenplay*. London: Faber and Faber, 2018.
-* Kermode, Mark. „Annihilation Review – A Dazzling, Perplexing Sci-Fi Masterpiece.“ *The Observer*, March 11, 2018.
+* Kermode, Mark. "Annihilation Review – A Dazzling, Perplexing Sci-Fi Masterpiece." *The Observer*, March 11, 2018.
 * Thacker, Eugene. *In the Dust of This Planet: Horror of Philosophy vol. 1*. Winchester: Zero Books, 2011.
 * VanderMeer, Jeff. *Annihilation (The Southern Reach Trilogy)*. New York: Farrar, Straus and Giroux, 2014.

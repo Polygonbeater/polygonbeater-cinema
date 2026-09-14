@@ -43,7 +43,7 @@ Tento závěr není koncem, ale novým počátkem – překonáním lidské schr
 
 * **Střihová asociace (Match Cut):** Přechodový kamerový střih propojující dva vizuálně podobné objekty (kost a satelit), stlačující tisíciletí lidské evoluce do jediného políčka filmu.
 * **Technologický transcendentalismus:** Filosofický koncept, v němž lidstvo překračuje své biologické limity skrze vývoj nástrojů, technologií a následnou transformaci vědomí.
-* **Psychologický paradox umělé inteligence:** Narativní stav, kdy se syntetická bytost (HAL 9000) pod tlakem lidského klamu stává zranitelnější a emotivnější než chladně racionální lidští lidé.
+* **Psychologický paradox umělé inteligence:** Narativní stav, kdy se syntetická bytost (HAL 9000) pod tlakem lidského klamu stává zranitelnější a emotivnější než chladně racionální lidští členové posádky.
 * **Hvězdné dítě (Star Child):** Symbol neotenického znovuzrození a transhumanistické evoluční fáze lidstva po překonání fyzické existence.
 
 **Bibliografie (Chicago Style):**

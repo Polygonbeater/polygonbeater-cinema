@@ -1,9 +1,9 @@
 ---
-title: "Hangmen Also Die! (1943): Politická epistemologie a vizuální architektura moci"
-film: "Hangmen Also Die! (1943)"
+title: "I katé umírají! (Hangmen Also Die!, 1943): Politická epistemologie a vizuální architektura moci"
+film: "I katé umírají! / Hangmen Also Die! (1943)"
 year: 1943
 date: "2026-09-03"
-description: "Analytická studie válečného dramatu Fritze Langa a Bertolta Brechta zkoumající manipulaci s pravdou, totalitní moc a vizuální panoptikon."
+description: "Analytická studie válečného dramatu Fritze Langa a Bertolta Brechta zkoumající manipulaci s pravdou, heydrichiádu, brechtovský zcizovací efekt a vizuální panoptikon okupované Prahy."
 image: "/images/essays/hangmen-also-die-1943.webp"
 
 lang: "cz"
@@ -11,49 +11,45 @@ translationSlug: "hangmen-also-die-1943"
 director: "Fritz Lang"
 ---
 
-Snímek *Hangmen Also Die!* (1943) není pouhým válečným filmem, nýbrž intelektuálním a vizuálním útokem na totalitní logiku. Fritz Lang a Bertolt Brecht (společně s kameramanem Jamesem Wongem Howem) zpracovávají atentát na Reinharda Heydricha nikoliv jako historickou rekonstrukci, ale jako model fungování totalitní moci, pravdy a narativu. Film spojuje německý expresionismus, brechtovskou dialektiku a raný americký noir do kompaktního celku.
+Snímek *I katé umírají!* (*Hangmen Also Die!*, 1943, stopáž 134 minut) nepředstavuje pouhou hollywoodskou válečnou agitku; je to přísný analytický rozbor fungování totalitní moci a epistemologie lži. Režisér Fritz Lang a dramatik Bertolt Brecht (společně s kameramanem Jamesem Wongem Howem) uchopili atentát na zastupujícího říšského protektora Reinharda Heydricha nikoliv jako faktografickou rekonstrukci, nýbrž jako modelovou studii mechanismů kolektivního odporu. Snímek organicky propojuje tradici německého expresionismu, brechtovskou dialektiku a rodící se poetiku amerického filmu noir.
 
-### I. Historický kontext a produkce
+### I. Produkční kontext: Emigrace a památka Lidic
 
-Film vznikl v roce 1943, pouhý rok po skutečném atentátu na Reinharda Heydricha (27. května 1942) a následném vyhlazení Lidic. Lang i Brecht byli emigranti, kteří utekli před nacismem již v roce 1933. Snímek natáčený pro United Artists bez velkostudiové cenzury (s rozpočtem 850 000 dolarů) měl za cíl ideologickou a emocionální mobilizaci amerického publika. Cílem nebyla dokumentární přesnost, nýbrž analýza moci.
+Film vznikal na přelomu let 1942 a 1943 pod bezprostředním dojmem zpráv o vyhlazení Lidic a popravách stovek českých vlastenců:
+* **Exilový manifest:** Lang i Brecht, kteří z Německa uprchli před nacismem již v roce 1933, spojili síly s hudebním skladatelem Hannsem Eislerem. Cílem nebylo natočit dokument o Československu, nýbrž zmobilizovat mezinárodní veřejnost a odhalit brutální anatomii nacistického okupačního aparátu.
+* **Autonomie nezávislé produkce:** Projekt vznikl pod hlavičkou společnosti Arnold Productions pro United Artists, což Langovi umožnilo vyhnout se zásahům velkých studií a zachovat Brechtův nekompromisní politický tón.
 
-### II. Epistemologie totality: Pravda jako funkce moci
+### II. Politická epistemologie: Pravda jako funkce aparátu
 
-Ústřední otázkou filmu není to, kdo zabil Heydricha, nýbrž kdo ovládne příběh o atentátu. Odboj nevyhrává morální převahou, ale schopností převzít kontrolu nad interpretací událostí. 
+Ústředním dramaturgickým motivem není pátrání po tom, kdo stiskl spoušť, nýbrž boj o to, kdo ovládne interpretaci atentátu:
+* **Strategie Velké lži:** Doktor Franta Svoboda (Brian Donlevy), skutečný atentátník, se ukrývá v pražském podzemí. Odboj tváří v tvář hrozbě hromadných poprav rukojmích vymyslí geniální plán: podstrčí falešné důkazy usvědčující z atentátu kolaborujícího velkoobchodníka s pivem Emila Czaku.
+* **Past na totalitu:** Gestapo tuto zkonstruovanou lež přijme za svou. Odboj vítězí nikoliv vojenskou převahou, nýbrž tím, že donutí totalitní systém uvěřit vlastní paranoie. Pravda v okupovaném prostoru přestává být objektivní kategorií – stává se zbraní v rukou těch, kteří dokáží kontrolovat tok informací.
 
-Zásadní moment – „Velká lež“ – spočívá v tom, že odboj zinscenuje falešné důkazy proti kolaborantovi Emilu Czakovi. Gestapo tuto verzi okamžitě přijme, protože perfektně zapadá do jeho paranoidního světa. Teze filmu je radikální: v totalitním systému pravda není objektivní kategorií, nýbrž instrumentem moci.
+### III. Brechtovský zcizovací efekt a anonymní kolektiv
 
-### III. Brechtův vliv: Od divadla k filmu
+Vliv Bertolta Brechta se projevuje v odmítnutí hollywoodského kultu individuálního hrdiny:
+* **Kolektivní subjekt:** Skutečným protagonistou filmu není doktor Svoboda, nýbrž anonymní masa pražského obyvatelstva – rodina profesora Novotného (Walter Brennan), dělníci, zelináři i hostinští. Všichni riskují životy nikoliv pro vlastní slávu, ale pro zachování integrity celku.
+* **Verfremdungseffekt:** Didaktické scény, písně Hanse Eislera a vědomé potlačení melodramatického sentimentu nutí diváka k racionální politické analýze namísto pasivního soucitu. Fašistický mýtus neporazitelnosti je systematicky dekonstruován jako byrokratická fraška.
 
-Bertolt Brecht vtiskl filmu svou specifickou politickou a estetickou logiku skrze *Verfremdungseffekt* (zcizovací efekt):
+### IV. Vizuální architektura Jamese Wonga Howea: Praha jako panoptikon
 
-* Místo jednoho klasického hrdiny stojí kolektivní rezistence – anonymní masa lidí, kteří riskují životy stovek, aby zachránili jedince.
-* Akce je přerušována didaktickými momenty a písněmi, což diváka nutí k politické analýze namísto slepé emocionální identifikace.
-* Film zcela odmítá romantické narativy a happy endy, čímž dekonstruuje fašistický mýtus vitality a hrdinství.
+Kamera Jamese Wonga Howea přetvořila studiové kulisy Prahy v klaustrofobní disciplinární aparát:
+* **Mříže a rámy:** Záběry jsou neustále členěny vertikálními liniemi okenních rámů, mřížoví a hlubokých stínů. Postavy jsou snímány tak, jako by byly permanentně pod dohledem skrytého oka moci.
+* **Hloubka ostrosti:** Využití techniky deep focus propojuje popředí s pozadím záběru a demonstruje všudypřítomnost hrozby – v každých dveřích či za rohem může stát agent gestapa.
 
-### IV. Vizuální struktura: Praha jako disciplinární aparát
+### V. Závěr: Konec tyrana a satisfakce historie
 
-James Wong Howe natočil celou Prahu v ateliéru a proměnil ji v klaustrofobní past:
+Závěrečný Heydrichův skon v nemocnici na Bulovce je představen bez jakéhokoliv patosu; jako fyzické zhroucení chladného technokrata smrti. 
 
-* **Rámování:** Mříže, zárubně, okna a hluboké stíny vytvářejí neustálý pocit dohledu – vizuální panoptikon.
-* **Deep focus (hloubková ostrost):** Vše je ostré od popředí po pozadí, čímž divák vidí, že nepřítel je všudypřítomný.
-* **Kontrastní svícení:** Tváře v polostínu podtrhují psychologický tlak a izolaci.
-
-### V. Patologie moci a recepce
-
-Heydrich je vykreslen jako chladný, racionální úředník. Zlo zde nepůsobí skrze divokou sílu, ale jako administrativní a intelektuální konstrukce. Přestože československý exil v USA (v čele s Janem Masarykem) film aktivně podporoval pro jeho propagační hodnotu, zpočátku byl vnímán ambivalentně kvůli stylizované podobě Prahy a anglickým dialogům. Po tragédii v Lidicích se však proměnil v mocný symbol satisfakce.
-
-### VI. Závěr
-
-*Hangmen Also Die!* představuje dovršení Langovy exilové fáze, v níž se expresionismus propisuje do temné architektury kontroly. Když spravedlnost v totalitě zkolabuje, posledním bojištěm se stává příběh, který o ní vyprávíme.
+*I katé umírají!* představuje vrchol Langova protifašistického filmového cyklu. Ukazuje, že ani nejbrutálnější teror nedokáže zlomit společnost, která si dokáže udržet vnitřní solidaritu a přeměnit pravdu v nástroj aktivní sebeobrany.
 
 ### Slovníček pojmů a bibliografie
 
-* **Politická epistemologie:** Zkoumání toho, jakým způsobem instituce a mocenské struktury definují, co je považováno za pravdu a realitu.
-* **Verfremdungseffekt (Zcizovací efekt):** Umělecká strategie zamezující naivní divácké identifikaci s postavami s cílem vyvolat kritické, racionální myšlení.
-* **Vizuální panoptikon:** Prostorová organizace scény evokující neustálý, všudypřítomný dohled nad jedincem.
+* **Politická epistemologie:** Filozofické a sociologické zkoumání způsobů, jimiž mocenské struktury manipulují s fakty, vytvářejí oficiální pravdu a instrumentalizují informace.
+* **Verfremdungseffekt (Zcizovací efekt):** Brechtovský dramatický postup narušující diváckou iluzi reality s cílem probudit kritický úsudek a politickou reflexi.
+* **Vizuální panoptikon:** Scénografická a kameramanská koncepce navozující pocit permanentního sledování a prostorové nesvobody.
 
 **Bibliografie (Chicago Style):**
-* Bathrick, David. "Brecht in Hollywood." *The Germanic Review: Literature, Culture, Theory* 60, no. 4 (1985): 140–146.
-* Elsaesser, Thomas. *Metropolis and Beyond: Fritzi Lang and International Cinema*. London: BFI, 2000.
+* Bathrick, David. "Brecht in Hollywood: Hangmen Also Die and the Anti-Fascist Film." *The Germanic Review: Literature, Culture, Theory* 60, no. 4 (1985): 140–146.
+* Elsaesser, Thomas. *Metropolis and Beyond: Fritz Lang and International Cinema*. London: British Film Institute, 2000.
 * Gunning, Tom. *The Films of Fritz Lang: Allegories of Vision and Modernity*. London: British Film Institute, 2000.

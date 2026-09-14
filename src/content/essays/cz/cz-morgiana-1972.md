@@ -1,9 +1,9 @@
 ---
-title: "Morgiana (1972) – Vražda jako umělecký objekt"
+title: "Morgiana (1972): Vražda jako umělecký objekt a opera narcismu"
 film: "Morgiana (1972)"
 year: 1972
-date: "2026-09-02"
-description: "Juraj Herz v Gotickém hororu Morgiana transformuje sesterství a žárlivost ve vizuální operu narcismu, kde se zlo stává chladnou estetickou volbou v prostředí zrcadel a vnitřního rozkladu."
+date: "2026-09-03"
+description: "Analytická studie gotického psychologického hororu Juraje Herza zkoumající estetizovaný sadismus, zrcadlové plochy, narcistní sesterstvo a vraždu jako umělecký objekt."
 image: "/images/essays/morgiana-1972.webp"
 
 lang: "cz"
@@ -11,19 +11,42 @@ translationSlug: "morgiana-1972"
 director: "Juraj Herz"
 ---
 
-Existují filmy, které se na diváka dívají stejně intenzivně, jako se on dívá na ně. Morgiana Juraje Herze (1972) není pouhým příběhem o dvou sestrách v podání Ivy Janžurové; je to vizuální opera o narcismu, která se odehrává v interiéru zrcadel, v nichž se odráží pouze prázdnota. Zatímco u jiných autorů je zlo vnímáno jako vnější nákaza nebo politický systém, Herz nám zde předkládá zlo jako estetickou volbou, která se rodí z lidské malosti.
+Snímek *Morgiana* (1972, stopáž 98 minut) v režii Juraje Herza, adaptující román Alexandra Grina, představuje absolutní vrchol československé gotické kinematografie a jedno z nejoriginalnějších vizuálních děl evropského psychologického hororu 70. let. Herz opouští reálie politických alegorií a propadá se do hlubin zvrácené estetiky, v níž se sesterstvo, žárlivost a vražda mění v chladnou, dokonale choreografovanou operu narcismu.
 
-### Sestra jako cizorodý objekt
-Vztah mezi Klárou a Victorií je v Herzově podání zbaven veškeré sentimentality. Victoria není postavou z masa a krve; je to architektonicky dokonalý predátor. Herz zde postupně oslabuje běžná sociální a psychologická vysvětlení Viktoriina jednání – dědictví, žárlivost na krásu či muže – až do bodu, kdy její motivace přestává být konkrétním důvodem a mění se v autonomní princip destrukce.
+Tato studie dekonstruuje film jako prostor absolutního solipsismu, v němž postava Viktorie povyšuje zločin na výtvarnou disciplínu a v němž se celé panství stává pastí zrcadel a vnitřního rozkladu.
 
-Její moc nad Klárou nevyvěrá z pouhé závisti, ale z totální kolonizace reality té druhé. Victoria nekoná, ona režíruje. Pomalu, s chirurgickou přesností, otráví Klářino prostředí, její vzpomínky i její smysly. Tento „domácí teror“ v sobě nese mrazivou eleganci. Herz nás konfrontuje s nejhorším možným scénářem intimity: s vědomím, že člověk, který nás zná nejlépe, je tím, kdo si už dávno naplánoval náš zánik.
+### I. Victoria a Klára: Sesterstvo jako parazitický ekosystém
 
-### Zrcadlo jako past
-Vizuální styl Morgiany není jen řemeslnou brilancí; je to past. Jaroslav Kučera zde nepracuje se světlem, aby ho odhalil, ale aby ho pokřivil. Herz opakovaně využívá zrcadla a odrazy jako vizuální motiv narušené identity a vzájemné posedlosti obou sester. Každé zrcadlo je nástrojem, který tříští identitu – zatímco Klára se v odrazech snaží najít potvrzení své existence, Victoria je používá jako kontrolní panely svého bezcitného plánu.
+Vztah dvou sester (obě skvěle ztvárněná Iva Janžurová v jedinečné dvojroli) je zbaven veškeré sentimentality a rodinné sounáležitosti:
+* **Aristokratická predátorka:** Klára je jemná, citlivá a naivní; Victoria je chladná, sadistická, panovačná a hluboce narcistická. Motivace k likvidaci sestry přitom nevyvěrá z banálních pohnutek (majetek či boj o muže), nýbrž z Viktoriiny touhy po absolutní nadvládě nad cizím vědomím.
+* **Kolonizace reality:** Victoria nekoná v afektu; je režisérkou vlastního zvráceného dramatu. Pomalu, s chirurgickou precizností otravuje Klářino nápoje, manipuluje její sny, podstrkuje jí halucinogenní látky a ničí její vztahy. Domácí teror zde nabývá mrazivé, vizuálně úchvatné elegance.
 
-Herzův svět je klaustrofobní, nikoliv proto, že by byl malý, ale proto, že je až příliš dokonalý. Je to estetizovaný rozklad. Jako by se celý dům – od sametových závěsů až po vyleštěný stříbrný servis – podílel na tichém, rytmickém vraždění. Architektura zde není pozadím, je to tichý společník, který s Victorií sdílí tajemství, proč musí být jedna sestra vygumována, aby ta druhá mohla zářit v prázdnotě.
+### II. Zrcadlová past a Kučerova vizuální alchymie
 
-### Zlo jako absolutní proces
-To, co Morgianu vyčleňuje z proudu tehdejší východoevropské kinematografie, je způsob, jakým Herz transformuje žárlivost v čistou, studenou sílu. Victoria nepotřebuje politický program, aby byla děsivá; stačí jí její vlastní schopnost proměnit lidskou bytost v umělecký objekt zmaru.
+Vizuální identita *Morgiany* je postavena na systematickém rozbíjení a tříštění prostoru:
+* **Zrcadla jako kontrolní panely:** Kamera Jaroslava Kučery využívá zrcadlové plochy, odrazy v krystalech, průhledy přes barevné vitráže a zkreslující optické filtry. Zrcadla zde neslouží k ženské ješitnosti, nýbrž jako nástroje panoptikálního dohledu a rozkladu identity.
+* **Estetizovaný rozklad:** Interiéry panství jsou přeplněny sametem, těžkými drapériemi, vycpanými zvířaty a blyštivým stříbrem. Celý dům se podílí na tichém, rytmickém vraždění. Architektura zde ztělesňuje Viktoriinu mysl – je krásná, dokonale uspořádaná, avšak prolezlá vnitřní hnilobou a smrtí.
 
-Herz nám zde podává zprávu o člověku, který se rozhodl být bohem ve svém vlastním mikrokosmu. Je to zneklidňující pohled do propasti, kde se morálka jeví jako zbytečný archaický zvyk. Morgiana je filmem o absolutní samotě. A o tom, že největší hrůza nečeká venku za dveřmi v podobě monster, ale u stolu, v podobě sestry, která se na vás usměje a podá vám sklenici vína, v níž se pomalu rozpouští vaše existence.
+### III. Zlo jako absolutní výtvarný proces
+
+Juraj Herz povyšuje žánr hororu na úroveň vysokého výtvarného umění:
+* **Subjektivní kamera a halucinace:** Když Klára pomalu umírá na účinky pomalu působícího jedu, film přechází do subjektivní roviny zkresleného vnímání – rozostřené záběry, zrychlené střihy, frenetický hudební doprovod Luboše Fišera a vizuální motivy černé kočky (Morgiany) vytvářejí hmatatelný pocit paniky a ztráty kontroly.
+* **Zákon morální pustiny:** Victoria nepoužívá politické ani náboženské dogmata; je ztělesněním moderního nihilismu. Rozhodla se být bohem v malém mikrosvětě svého domu, kde morálka je jen obtížným zvykem pro slabochy.
+
+### IV. Závěr: Odsouzení v prázdném sále
+
+Finále filmu přináší spravedlnost, jež však nepřináší katarzi:
+* **Odhalení a šílenství:** Victoria je odhalena, avšak její pád není morálním vítězstvím, nýbrž propadem do hysterického šílenství. 
+* **Závěrečný obraz:** *Morgiana* zanechává diváka v tísnivém pocitu absolutní osamělosti. Dokazuje, že největší hrůza nečíhá venku v temných lesích, nýbrž u rodinného stolu, v podobě nejbližšího člověka, který se na vás usmívá a podává vám sklenici vína, v níž se pomalu rozpouští váš život.
+
+### Slovníček pojmů a bibliografie
+
+* **Estetizovaný sadismus:** Umělecký přístup transformující krutost, násilí a psychický teror v rafinovanou vizuální a výtvarnou podívanou.
+* **Zrcadlová mise-en-scène:** Režisérský a kameramanský postup využívající odrazy v zrcadlech k multiplikaci postav, dezorientaci diváku a vizualizaci schizofrenního rozpadu identity.
+* **Narcistní solipsismus:** Filozoficko-psychologický stav absolutního uzavření do vlastního ega, v němž okolní svět a lidé existují pouze jako rekvizity k uspokojení vlastní moci.
+
+**Bibliografie (Chicago Style):**
+* Cieslar, Jiří. *Hlasy a tváře*. Praha: Casablanca, 2008.
+* Herz, Juraj. *Autobiografie aneb Moje utrpení s filmem*. Praha: XYZ, 2008.
+* Hames, Peter. *Czech and Slovak Cinema: Theme and Tradition*. Edinburgh: Edinburgh University Press, 2009.
+* Kučera, Jaroslav. *Kamera a filmová řeč*. Praha: Orbis, 1975.

@@ -1,8 +1,9 @@
 ---
-title: "Halucinační transgrese: Psychoanalýza a rozklad buržoazie ve Fulciho Ještěrce s ženskou kůží (1971)"
-film: "Ještěrka s ženskou kůží (1971)"
+title: "Ještěrka s ženskou kůží (Una lucertola con la pelle di donna, 1971): Psychoanalýza a rozklad buržoazie"
+film: "Ještěrka s ženskou kůží / Una lucertola con la pelle di donna (1971)"
 year: 1971
-date: "2026-01-01"
+date: "2026-09-03"
+description: "Analytická studie kultovního gialla Lucia Fulciho zkoumající psychedelickou dekonstrukci buržoazní morálky, instrumentalizaci psychoanalýzy a viscerální vpád tělesného děsu."
 image: "/images/essays/jesterka-s-zenskou-kuzi.webp"
 
 lang: "cz"
@@ -10,31 +11,48 @@ translationSlug: "jesterka-s-zenskou-kuzi"
 director: "Lucio Fulci"
 ---
 
-Lucio Fulci bývá v kontextu italské kinematografie často redukován na tvůrce extrémního gore, ale jeho giallo Ještěrka s ženskou kůží (1971) odhaluje zcela jinou tvář: mistra vizuálního deliria a břitkého společenského kritika. Film záměrně destabilizuje tradiční detektivní narativ, aby se mohl ponořit do psychiky Carol Hammond (Florinda Bolkan), dcery vlivného právníka a politika, provdané za Franka, partnera v právní kanceláři jejího otce. Fulci zde využívá psychedelickou estetiku nikoli jako samoúčelnou vizuální atrakci, ale jako nástroj k dekonstrukci represivních mechanismů vyšší třídy.
+Lucio Fulci bývá v kánonu italského filmu často zjednodušovaně nálepkován jako tvůrce extrémního gore, avšak jeho mistrovské giallo *Ještěrka s ženskou kůží* (*Una lucertola con la pelle di donna*, 1971, stopáž 102 minut) odhaluje zcela jinou autorskou fazetu: suverénního architekta vizuálního deliria a nekompromisního společenského kritika. Snímek radikálně narušuje zavedenou šablonu kriminální detektivky a noří se do rozpadající se psychiky Carol Hammondové (Florinda Bolkanová), dcery prominentního politika a manželky jeho právního partnera. 
 
-Zatímco klasičtí tvůrci gialla hledají vraha ve vnějším světě, Fulci smazává hranice mezi realitou, nevědomím a promyšlenou manipulací. Snímek ohmatává děsivou propast mezi společenskou maskou a zvráceným chladným kalkulem.
+Fulci nevyužívá psychedelickou estetiku pozdních šedesátých let jako pouhou popkulturní manýru, nýbrž jako skalpel k dekonstrukci represivních mechanismů vyšší společenské třídy, v níž se pod nátěrem puritánské cti skrývá chladná mocenská kalkulace.
 
-## 1. Dvě tváře Londýna a topografie represe
-Film chytře využívá prostředí Londýna na přelomu 60. a 70. let a staví v něm do kontrastu dva zdánlivě oddělené světy. Na jedné straně stojí chladný, rigidní svět politického establišmentu a tradice, který reprezentuje Carolina rodina; na druhé straně dekadentní, nespoutaná kontrakultura, jež se ztělesňuje v postavě její bohémské sousedky Julie Durer (Anita Strindberg).
+### I. Dvě tváře Londýna a topografie třídní represe
 
-Tento prostorový a třídní kontrast funguje jako dokonalá exteriorizace Caroliny vlastní psychiky. Její hrůza, ale zároveň neutuchající voyeurská fascinace Juliiným hedonistickým životem na dosah vedlejšího bytu, rozehrává klasický freudiánský konflikt. Rigidní prostředí rodiny funguje jako přísné Superego, jež neustále potlačuje Carolino Id – její skryté, společensky nepřijatelné sexuální a agresivní pudy. Julia není jen sousedkou; stává se projekčním plátnem Caroliných nejtemnějších tužeb a, jak odhalí samotný závěr filmu, její skutečnou milenkou, jejíž hrozba odhalení jejich tajného vztahu se stává bezprostředním motivem vraždy.
+Děj zasazený do Londýna na přelomu šedesátých a sedmdesátých let důmyslně staví proti sobě dva antagonistické světy:
+* **Konzervativní establišment:** Chladné, geometricky strohé viktoriánské interiéry politické elity, v nichž se dbá na rodinnou reputaci a potlačení jakéhokoliv skandálu.
+* **Bohémská kontrakultura:** Sousední byt volnomyšlenkářské Julie Durerové (Anita Strindbergová) představuje nespoutané teritorium večírků, sexuální promiskuity a drog.
+* **Topografie freudovského konfliktu:** Tento prostorový kontrast funguje jako přímá projekce Caroliny psychiky. Julie ztělesňuje Carolino potlačené *Id* – temné pudy a lesbickou touhu, kterou její rodinné *Superego* odmítá tolerovat. Jak odhalí závěr, Julie nebyla pouhou sousedkou z nočních můr, nýbrž Carolinou skutečnou milenkou, jejíž vydírání ohrozilo stabilitu celého rodinného klanu.
 
-## 2. Instrumentalizace snu a epistemologie lži
-Zásadním narativním mechanismem filmu se stávají Caroliny sny, které mají podobu divokých, LSD inspirovaných sekvencí plných barev, erotiky a násilí, jež vrcholí orgiastickou a brutální vraždou Julie. Ve chvíli, kdy je Julia ve vedlejším bytě skutečně nalezena mrtvá – a to přesně tím způsobem, jaký Carol předtím popsala svému psychoterapeutovi –, nastoluje film klasické zpochybnění spolehlivosti vědomí.
+### II. Instrumentalizace snu a epistemologie lsti
 
-Fulci však v závěru tento koncept zcela obrací. Film neukazuje, že by Carolino nevědomí vytvořilo zločin či kontaminovalo realitu. Závěrečná dedukce odhalí, že Carol je skutečnou a vědomou vražedkyní, která své údajné sny záměrně konstruovala tak, aby po vraždě mohly sloužit jako alibi založené na nepříčetnosti. Vytvořila tak předem připravenou psychologickou stopu, která měla skutečnou vraždu prezentovat jako naplnění jejího údajného nevědomého fantazijního scénáře. V této perspektivě psychoanalýza neslouží k odhalení pravdy, ale stává se instrumentalizovanou technologií. Carol používá psychiatrický diskurz a vědomě inscenuje zdání psychické poruchy, aby konstruovala svou nevinu.
+Klíčovým narativním aparátem filmu jsou Caroliny erotické sny plné barevného zkreslení a násilí, vrcholící brutálním ubodáním Julie:
+* **Sen jako předpřipravené alibi:** Když je Julie ve vedlejším bytě nalezena zavražděna přesně tak, jak Carol popsala svému psychoanalytikovi, policie (inspektor Corvin) stojí před záhadou zdánlivě telepatického zločinu.
+* **Zneužití psychiatrického diskurzu:** Fulci však v závěru diváka i vyšetřovatele šokuje. Carol není labilní obětí svého nevědomí, nýbrž chladnokrevnou pachatelkou, která sny úmyslně zinscenovala před terapeutem jako falešnou stopu pro případné obhájení nepříčetnosti. Psychoanalýza zde neslouží k odhalení pravdy, nýbrž funguje jako zbraň k manipulaci soudního systému.
 
-## 3. Audiovizuální rozklad: Kamera, hudba a kontext doby
-Fulciho Londýn je stylizován jako prostor, v němž doznívající estetika „Swinging London“ koexistuje s temnějšími projevy společenské a sexuální dekadence. Tuto tenzi Fulci zachycuje prostřednictvím brilantní technické formy. Kamera Luigiho Kuveillera cíleně deformuje perspektivu a pracuje s extrémními detaily, netradičními kompozicemi a psychedelickými optickými efekty, aby vizuálně roztříštila prostor a zrcadlila tak fragmentaci Caroliny mysli a její zkreslené vnímání reality.
+### III. Audiovizuální rozklad: Kamera Luigiho Kuveillera a hudba Ennia Morriconeho
 
-Tuto epistemologickou nejistotu umocňuje avantgardní hudba Ennia Morriconeho. Morricone se zde vyhýbá tradiční melodické konvenci a namísto ní buduje znepokojivou zvukovou krajinu z experimentálních, disonantních a jazzově inspirovaných pasáží, vokálních efektů a neobvyklých instrumentálních kombinací. Soundtrack tak nefunguje jen jako vnější komentář k ději, ale stává se přímým akustickým ekvivalentem Caroliny potlačené sexuality a bortícího se vědomí.
+Formální výstavba snímku představuje vrchol italského psychologického thrilleru:
+* **Optická dezorientace:** Kamera Luigiho Kuveillera systematicky boří perspektivu – využívá rybí oko, deformující zrcadla, extrémní makrodetaily zorniček a zoomy, které diváka vtahují do klaustrofobie rozpadajícího se vnímání.
+* **Morriconeho disonantní krajina:** Soundtrack Ennia Morriconeho zcela odmítá melodickou líbivost. Mísí atonální smyčce, nervní jazzové rytmy a halucinační ženské vokály Eddy Dell'Orsové, čímž vytváří fyzicky znepokojivý sonický ekvivalent ženské hysterie a vnitřního rozkladu.
 
-## 4. Tělesnost jako vpád reálna
-Fulciho autorský rukopis se projevuje v extrémně tělesném, až viscerálním pojetí hrůzy. Šokující halucinační sekvence v sanatoriu, v níž Carol spatří čtyři vivisektované psy, které film sugestivně prezentuje jako stále živé, je toho dokonalým příkladem. Scéna byla tak vizuálně přesvědčivá, že v Itálii vyvolala právní řízení kvůli podezření, že při jejím natáčení byla skutečně týrána zvířata. Zatímco režisér Fulci se podle dobových zpráv samotných soudních řízení osobně nezúčastnil, producent Edmondo Amati a tvůrce speciálních efektů Carlo Rambaldi museli před soudními orgány doložit, že při natáčení nebyli použiti skuteční psi; Rambaldi jako důkaz předložil mechanické psy použité ve filmu.
+### IV. Tělesnost jako vpád lakonovského Reálna
 
-V rámci této interpretace však tyto momenty fungují jako brutální vpád lacanovského Reálna, které trhá úhlednou fasádu buržoazního bezpečí. Zde navíc vzniká geniální přesah: divák je hrůzou přesvědčen o skutečnosti zvířat, ačkoli jde o umělou konstrukci – což dokonale zrcadlí fakt, jakým Carol manipuluje vyšetřovatele a terapeuty svými uměle zkonstruovanými děsy.
+Fulciho rukopis se projevuje v radikální, viscerální tělesnosti:
+* **Scéna vivisekce psů:** Šokující sekvence v sanatoriu, v níž Carol narazí na čtyři laboratorně otevřené psy s mechanicky tepajícími orgány, představuje brutální vpád reálna, které trhá sterilní fasádu společenského bezpečí.
+* **Právní důsledek iluze:** Scéna byla natolik realistická, že vedla k soudnímu stíhání tvůrců pro podezření z týrání zvířat. Mistr efektů Carlo Rambaldi musel přinést mechanické loutky psů přímo do soudní síně, aby dokázal, že šlo o optický klam. Tento historický fakt jen podtrhuje hlavní téma filmu: moc iluze oklamat i ty nejvyšší institucionální autority.
 
-## 5. Závěr: Chladnokrevná mocenská hra
-Závěrečné odhalení v Ještěrce s ženskou kůží přesahuje rámec detektivní pointy. Samotný název snímku (odkazující na psychedelickou představu jedné z hippie postav) rámuje dílo, které ukazuje propast mezi buržoazní fasádou a potlačovanými touhami, skandály a manipulacemi, jež se pod ní skrývají.
+### V. Závěr: Chladnokrevná mocenská hra buržoazie
 
-Carol je pro utajení svého vztahu a zachování společenské reputace ochotna vraždit a následně překroutit samotnou realitu. Fulci tak předvádí, že skutečné barbarství a patologie nepramení z divoké kontrakulturní revolty. Nejhlubší temnota se skrývá v chladné a vypočítavé manipulaci těch, kteří před světem předstírají nevinnost a sofistikovanost, ale pro ochranu vlastní reputace neváhají manipulovat samotným psychiatrickým diskurzem.
+Finální rozuzlení posouvá *Ještěrku s ženskou kůží* daleko za hranice běžného žánrového vyšetřování:
+* **Triumf společenské masky:** Carol je ochotna obětovat vlastní příčetnost, zavraždit milenku a nechat obvinit nevinné hippies, jen aby ochránila politickou kariéru svého otce a společenský status rodiny.
+* **Pravá tvář barbarství:** Fulci dokazuje, že skutečné monstrum nevychází z divoké revolty kontrakultury, nýbrž se skrývá za bezchybným úsměvem a drahým kostýmem vysoké společnosti, která pro zachování svého vlivu neváhá překroutit samotnou podstatu pravdy.
+
+### Slovníček pojmů a bibliografie
+
+* **Giallo delirium:** Specifický styl italského thrilleru využívající psychedelické vizuální efekty, snové sekvence a barevné filtry k navození stavu psychotické dezorientace.
+* **Instrumentalizace psychoanalýzy:** Narativní postup, v němž postava vědomě manipuluje terapeutickými metodami a psychiatrickou terminologií za účelem vytvoření falešného alibi.
+* **Vpád Reálna (Lacanovský koncept):** Moment, kdy brutální, syrová a nevysvětlitelná tělesná realita (např. vnitřnosti, krev) protrhne symbolický řád a společenskou iluzi bezpečí.
+
+**Bibliografie (Chicago Style):**
+* Howarth, Troy. *Splintered Visions: Lucio Fulci and His Films*. Baltimore: Midnight Marquee Press, 2015.
+* Morricone, Ennio. *Una lucertola con la pelle di donna* (Original Motion Picture Soundtrack). Roma: Beat Records Company, 1971.
+* Thrower, Stephen. *Beyond Terror: The Films of Lucio Fulci*. Godalming: FAB Press, 1999.

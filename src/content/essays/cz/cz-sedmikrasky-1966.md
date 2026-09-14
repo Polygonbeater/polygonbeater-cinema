@@ -1,42 +1,53 @@
 ---
-title: "Vrzání kloubů v dobře promazaném stroji: O tanci nad střepy a svobodě hřešit"
-film: "Sedmikrásky (1966)"
+title: "Sedmikrásky (Daisies, 1966): Destrukce měšťácké morálky, koláž těla a radikální anarchie"
+film: "Sedmikrásky / Daisies (1966)"
 year: 1966
-date: "2026-09-08"
-description: "Esej o legendárním československém filmu Věry Chytilové. O radikální vzpuře dvou Marií, destrukci měšťácké morálky a naprosté svobodě hřešit."
+date: "2026-09-03"
+description: "Analytická studie přelomového díla Věry Chytilové a Ester Krumbachové zkoumající radikální vzpouru dvou Marií, destrukci filmové narace, kolážovou montáž a filosofii zkaženosti."
 image: "/images/essays/sedmikrasky-1966.webp"
+
 lang: "cz"
 translationSlug: "sedmikrasky-1966"
 director: "Věra Chytilová"
 ---
 
-Svět kolem nás se bere smrtonosně vážně. Státní úředníci měří pravítkem délku životního prostoru, morální autority diktují správné držení těla u stolu a architekti lidských duší plánují dokonale nalinkovanou budoucnost. Všechno má mít svůj řád, svou přihrádku a svůj užitek. Jenže co když je celý ten leštěný stroj od základu prohnilý? Co když je ten obdivovaný řád jenom velmi drahým obalem na prázdnotu?
+Snímek Věry Chytilové *Sedmikrásky* (*Daisies*, 1966, stopáž 74 minut), realizovaný ve scenáristické a výtvarné spolupráci s Ester Krumbachovou a za kameramanského mistrovství Jaroslava Kučery, představuje nejradikálnější formální i myšlenkový manifest Československé nové vlny. Film odmítá lineární dramaturgii, psychologický realismus i tradiční morální kánon dobové kinematografie. 
 
-V tu chvíli nezbývá než vzít do ruky nůžky, křídu, otvírák na konzervy a velkou dávku bezostyšnosti. Alespoň jako metaforu jedné z nejradikálnějších vzpour, jaké československý film viděl.
+Chytilová vytváří filosofickou grotesku o dvou dívkách, které tváří v tvář všeobecnému civilizačnímu pokrytectví a zkaženosti světa učiní zásadní rozhodnutí: budou vědomě a systematicky zkažené také. Film funguje jako totální destruktivní karneval, v němž nůžky, jídlo, ženské tělo a filmový pás bourají měšťáckou etiketu i patriarchální řád.
 
-## Těžká práce lidských loutek
+### I. Dvě Marie jako mechanické loutky zkaženého světa
 
-Dvě dívky sedí na plovárně jako dřevěné panenky s vrzajícími klouby. Nic víc než dvě mechanické figurky v mechanickém světě. A najednou padne věta, která v různých překladech a obměnách tvoří myšlenkový základ filmu: „Když je svět zkažený, budeme zkažené i my.“
+Úvodní expozice filmu definuje existenciální východisko celého díla[cite: 98]:
+* **Vrzající klouby na plovárně:** Marie I (Jitka Cerhová) a Marie II (Ivana Karbanová) sedí v plavkách u bazénu a jejich pohyby doprovází mechanický zvuk vrzajícího soukolí[cite: 98]. Jsou stylizovány do role mechanických loutek v dokonale fungujícím, leč vyprázdněném stroji společnosti[cite: 98].
+* **Filosofie zkaženosti jako vzpoura:** Když padne klíčová teze: *„Vadí? Nevadí! Všecko je zkažené... Když je všecko zkažené, budeme zkažené i my!“*, nejde o naivní pubertální rozmar[cite: 98]. Je to radikální etické gesto[cite: 98]. Pokud patriarchální svět redukuje ženu na pouhou dekoraci, spotřební zboží a poslušný doplněk, obě Marie tuto roli přijímají, avšak dovedou její povrchnost k sebedestruktivní absurditě[cite: 98].
 
-To není pouhá výmluva, to je chirurgický řez. Pokud společnost vnímá ženu především jako dekorativní předmět na jedno použití, jako roztomilý doplněk a poslušnou spotřebitelku oficiálních pravidel, protagonistky odmítají hrát tuto frašku podle předepsaných not. Zkaženost se zde stává vědomým způsobem existence a hry.
+### II. Parazitismus na měšťáctvu a nůžky jako nástroj montáže
 
-Marie I a Marie II nepláčou a nenářekají nad osudem. Místo toho se nechávají hostit staršími muži, které pak pod záminkou odjezdu doprovodí na nádraží a nechají je odjet samotné, zatímco ony dál systematicky mění měšťáckou etiketu v hromadu drobečků. Zneužívají systém tím nejprovokativnějším způsobem – dovedou jeho vlastní povrchnost k absurdním důsledkům.
+Jednání obou hrdinek systematicky rozkládá zažité rituály mezilidských vztahů[cite: 98]:
+* **Trapnost jako zbraň:** Marie se nechávají zvát na opulentní večeře staršími, bohatými pány z řad měšťanské elity[cite: 98]. Hltají jídlo, ignorují galantní lichotky, a jakmile pánové očekávají erotickou odměnu, dívky je s úsměvem odvedou na nádraží a posadí do odjíždějícího vlaku[cite: 98]. Měšťácká morálka je zredukována na hromadu okousaných kostí a nezaplacených účtů[cite: 98].
+* **Dekonstrukce těla i filmu:** Nůžky v rukou dívek nestříhají pouze papírové vystřihovánky, šaty či klobásy v ložnici[cite: 98]. Stávají se přímým nástrojem filmové syntaxe[cite: 98]. V slavné sekvenci stříhání začnou Marie porcovat jedna druhou – jejich těla se v divoké kolážové montáži rozpadají na fragmenty rukou, očí, nohou a trupů[cite: 98]. Chytilová tím demonstruje, že filmový střih má moc rozbít samotnou integritu prostoru, času i lidské identity[cite: 98].
 
-## Krotitelky nudy a nůžky na kontinuitu
+### III. Banketní sál a hostina jako oltář pokrytectví
 
-To, co na tomto zběsilém tanci dodnes fascinuje, není jen samotná divokost, ale absolutní svoboda formy. Svět okolo je rozstříhán na kousky, obarven do fialova, zelena a žluta, proměněn v radikální vizuální koláž.
+Vrcholnou fází dívčí destrukce je přepadení luxusního banketního sálu s prohýbajícími se stoly[cite: 98]:
+* **Desakralizace konzumu:** Bohatá hostina připravená pro neviditelnou elitu představuje posvátný oltář konzumní společnosti[cite: 98]. Dívky po něm začnou šlapat v botách, pojídají delikatesy rukama, házejí po sobě dorty a polévají stěny šampaňským[cite: 98]. Jídlo ztrácí svou výživovou hodnotu a proměňuje se ve střelivo a barevnou hmotu totálního rozkladu[cite: 98].
+* **Kučerova barevná alchymie:** Kameraman Jaroslav Kučera využívá trikové filtry, tónování a barevné posuny (od jedovatě zelené přes sytě fialovou až po žlutou)[cite: 98]. Film se mění ve výtvarnou explozi, jež odmítá realistické zobrazení ve prospěch čisté smyslové extáze[cite: 98].
 
-* **Střih jako zbraň:** Nůžky v rukou dívek nestříhají jen rekvizity, ale stávají se součástí filmové řeči. Když se Marie navzájem začnou porcovat nůžkami a jejich těla se vzápětí v rychlé montáži rozpadají na jednotlivé fragmenty, film tím ukazuje, že lze stříhat samotný čas, prostor i lidské tělo. Lineární děj a psychologické bláboly pro tuto estetiku neplatí.
-* **Konec uctívání věcí:** Stůl prohýbající se pod lahůdkami v banketním sále není chrámem hojnosti. Je to oltář pokrytectví. A tak se po něm běhá, jídlo se hází po stěnách, šampaňské stříká do stropu a pečivo a zákusky slouží jako střelivo.
+### IV. Závěr: Falešné napravení a věnování těm, kdo pláčou nad salátem
 
-> *Vadí vám pošlapaný salát? A že kolem vás umírá lidskost, svoboda a myšlení, to vám nevadí?*
+Finále filmu nabízí mrazivou satiru na jakoukoliv nucenou společenskou nápravu[cite: 98]:
+* **Napravené dívky v novinách:** Po pádu křišťálového lustru se Marie v panice pokusí vše napravit[cite: 98]. Zabalí se do starých novin, poskládají rozbité zbytky porcelánu a jídla zpět na stůl a mechanicky šeptají: *„My jsme hodné, my jsme pracovité... a jsme šťastné!“* Pokus o návrat k poslušnosti je však ještě děsivější než samotná destrukce – je to obraz absolutní lži a konformismu[cite: 98].
+* **Dopad padající bomby:** Závěrečný sestřih vojenského bombardování a slavná autorská dedikace (*„Tento film je věnován všem těm, kteří se rozhořčují pouze nad pošlapaným salátem“*) stvrzují etickou neúprosnost díla[cite: 98]. Film byl v Národním shromáždění komunistickým poslancem Pružincem označen za dílo, které „nemá s naším zřízením nic společného“, a putoval do trezoru. *Sedmikrásky* zůstávají trvalou provokací: varováním, že společnost, která více truchlí nad zničenými věcmi než nad pošlapanou svobodou a lidskou důstojností, je sama odsouzena k zániku[cite: 98].
 
-Tato autorská rétorická otázka, inspirovaná slavnou závěrečnou dedikací filmu, je přímým plivnutím do tváře všem, kteří dokáží plakat nad rozbitým talířem, ale mlčí, když se v širším měřítku láme lidská důstojnost. Nejde tu přitom o jednoduchou obhajobu či omluvu destrukce – Věra Chytilová staví diváka do nepříjemné pozice, kdy si tuto destruktivní hru užívá, ale současně sleduje její neúprosný rozpad.
+### Slovníček pojmů a bibliografie
 
-## Mějme odvahu nebýt užiteční
+* **Filmová koláž (Destrukce syntaxe):** Avantgardní střihová a výtvarná technika (Chytilová, Kučera), pracující s fragmentací obrazu, barevnými filtry a rozbíjením časoprostorové kontinuity[cite: 98].
+* **Kulturní anarchie v kinematografii:** Umělecká vzpoura odmítající podřízení tvorby společenským, ideologickým či genderovým normám ve prospěch svobodné hry a absurdity[cite: 98].
+* **Měšťácké pokrytectví:** Společenský stav, v němž je formální dodržování etikety a ochrana majetku nadřazena elementární lidské svobodě a spravedlnosti[cite: 98].
 
-Smyslem existence podle této estetiky není bezvýhradně sloužit nějakému ideologickému plánu nebo cizím očekáváním. V širším filosofickém čtení jde o zpochybnění všech zdánlivě pevných jistot.
-
-Ti, kdo chtějí svět urovnat do úhledných škatulek, budou tenhle nespoutaný výbuch vždycky odmítat. Budou křičet o plýtvání, o anarchii, o neúctě k hodnotám. Jenže na troskách falešné morálky, na střepách zničeného porcelánu a mezi zbytkem roztrhaných papírových šatů se rodí opojný pocit svobody, který však film nenechává vyznít jako prostou idylu – naopak jej nechává znepokojivě prorůstat do nihilistického chaosu.
-
-Je to lekce, která nestárne. Až budete mít pocit, že se vám svět snaží diktovat, kým máte být a jak se máte chovat, vzpomeňte si na dvě holky v květinových věnečcích. Vezměte myšlenkové nůžky, rozstříhejte diktát a snězte ten největší dort, který najdete. Protože na zkaženém světě je nejkrásnější ten okamžik, kdy si uvědomíme, že nemusíme přijmout jeho pravidla.
+**Bibliografie (Chicago Style):**
+* Chytilová, Věra, dir. *Sedmikrásky* (Daisies). Praha: Filmové studio Barrandov, 1966.
+* Hames, Peter. *The Czechoslovak New Wave*. London: Wallflower Press, 2005.
+* Klimeš, Ivan, ed. *Věra Chytilová: Texty a rozhovory*. Praha: Národní filmový archiv, 2014.
+* Krumbachová, Ester. *První knížka Ester*. Praha: Primus, 1994.
+* Škvorecký, Josef. *All the Bright Young Men and Women: A Personal History of the Czech Cinema*. Toronto: Peter Martin Associates, 1971.

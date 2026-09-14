@@ -3,7 +3,7 @@ title: "Jedna noc v jednom městě (2007): Poezie rozkladu a městská groteska"
 film: "Jedna noc v jednom městě (2007)"
 year: 2007
 date: "2026-09-03"
-description: "Hloubková analýza loutkového filmu Jana Baleje, který skrze temnou grotesku, ticho a hmatovou animaci zkoumá lidskou osamělost a dekadenci."
+description: "Hloubková analýza loutkového filmu Jana Baleje zkoumající hmatový surrealismus, městskou osamělost, poetiku rozkladu a absenci lidské řeči."
 image: "/images/essays/jedna-noc-v-jednom-meste-2007.webp"
 
 lang: "cz"
@@ -13,32 +13,41 @@ director: "Jan Balej"
 
 > *„V tomhle městě má i ticho zuby.“*
 
-Snímek *Jedna noc v jednom městě* (2007) od českého režiséra Jana Baleje není filmem, který by se dal jen tak sledovat – je to horečnatý sen, kterým člověk zvolna proplouvá. Toto loutkové dílo, vznikající v náročné stop-motion technice takřka deset let, existuje na pomezí městského folklóru, psychologického hororu a absurdní satiry. Jde o svět postavený z povzdechů, stínů a tlejícího dřeva, kde lidská řeč vyhasla a příběhy vyprávějí už jen groteskní siluety.
+Celovečerní loutkový film Jana Baleje *Jedna noc v jednom městě* (2007, stopáž 75 minut), realizovaný v produkci studia Hafan Film, představuje jeden z nejpozoruhodnějších autorských počinů moderní české animace. Snímek, který vznikal náročnou technikou fázové stop-motion animace po dobu téměř deseti let, se pohybuje na pomezí černé městské grotesky, absurdní balady a existenciálního hororu. 
 
-## Město bez slov
+Balej buduje noční svět z pavučin, zchátralých omítek, cigaretového kouře a tlejícího dřeva žižkovských činžovních domů – prostor, v němž lidská artikulovaná řeč zcela vyhasla a kde o osamělosti vypovídají pouze pokřivené loutkové figury.
 
-Ve filmu zcela chybí dialogy. Komunikaci nahrazují útržky zvuků, skřípění, sípání a vzdechy – poslední výdechy lidského dorozumívání. V polorozpadlém činžovním domě se postavy pohybují jako loutky vyřezané ze samoty:
+### I. Město bez slov: Akustická krajina ticha a vzdechů
 
-* Muž se pokouší stvořit živou ženu z ryby.
-* Stará dáma opečovává nemrtvého mazlíčka.
-* Sousedé na sebe žárlí, špehují se a kují pikle, zatímco řezník ostří nože na maso, které je znepokojivě živé.
+Radikálním formálním gestem filmu je kompletní eliminace srozumitelných mluvených dialogů:
+* **Zvuková dekonstrukce řeči:** Postavy nekomunikují slovy; dorozumívají se chropěním, mlaskáním, vzdechy, skřípěním zubů a zvířecími skřeky. Zvukový design Tobiáše Potočného a hudba kapely Traband (v čele s Jardou Svobodou) povyšují ruchy městské infrastruktury na primární jazyk vyprávění.
+* **Hermetická izolace činžáku:** Starý pavlačový dům funguje jako vertikální bludiště vzájemně oddělených lidských mikrokosmů. V jednotlivých bytech se odehrávají absurdní rituály: osamělý muž se pokouší oživit sešitou mořskou pannu z kapra, stará dáma chová v šuplíku vypreparovaného psa, dva pochybní sousedé se špehují a řezník na dvoře porcuje maso, které vykazuje znepokojivé známky vlastního vědomí.
 
-Jednotlivé povídkové epizody nespojuje pevný děj, nýbrž hustá atmosféra morální korozivnosti a pomalého spirálovitého sestupu do absurdity.
+### II. Tělo jako krajina: Haptická animace a materiální rozklad
 
-## Tělo jako krajina
+Balejovy loutky se výrazně odlišují od klasické líbeznosti tradiční české školy:
+* **Vosková tělesnost:** Postavy mají nažloutlou, jakoby mastnou voskovou pleť, unavené skleněné oči, křivé zuby a roztřesená těla. V jejich fyziognomii se přímo zrcadlí fyzické i morální chátrání prostředí, které obývají.
+* **Hmatový naturalismus:** Stop-motion animace detailně exponuje materiály – strukturu zrezivělého kovu, zašpiněný textil, vlhkost zdí a prach vznášející se ve světle pouličních lamp. Kamera Milana Svobody neuhýbá před tělesnou zchátralostí; činí z rozkladu hmatatelnou a vizuálně fascinující realitu.
 
-Balejovy loutky v sobě snoubí lidskost i monstróznost – mají voskovou kůži, skleněné oči a roztřesená gesta. Jejich křehkost věrně zrcadlí rozklad okolního světa. Světlo se prodírá skrze kouř a prach jako dohasínající svíce, zatímco kamera setrvává na místech, kde to bolí, a pozoruje, jak se dekadence stává všední rutinou.
+### III. Groteska jako soucit a anatomie městské osamělosti
 
-## Groteska jako soucit
+Přestože film pracuje s motivy sadismu, voyeurismu a nekrofilie, Balejův autorský pohled není cynický:
+* **Touha po intimitě za každou cenu:** Groteskní a odpudivé činy postav nepramení z metafyzického zla, nýbrž z paralyzujícího hladu po lidském doteku a blízkosti. Zvrácené chování je zoufalou křečí jedinců, kteří ztratili schopnost standardní sociální interakce.
+* **Humor zmaru:** Černý humor a absurdní situace (např. epizoda s uříznutým uchem přirůstajícím k cizí hlavě) fungují jako ochranný štít před naprostým existenciálním zoufalstvím.
 
-Zatímco hororové příběhy obvykle trestají, Balej pouze pozoruje. Jeho postavy páchají hrozné, absurdní činy, nikoliv však z krutosti, ale z hluboké, zoufalé touhy po doteku, významu a sblížení. Jde o grotesku plnou soucitu – o děs lidí, kteří se snaží být lidmi v okamžiku, kdy lidskost sama vzala za své.
+### IV. Závěr: Odkaz českého surrealismu a kafkovský organismus
 
-## Odkaz českého surrealismu
+*Jedna noc v jednom městě* navazuje na to nejlepší z odkazu Jiřího Trnky a Jana Švankmajera, Balej však opouští prvoplánovou politickou alegorii:
+* **Živoucí organismus periferie:** Noční Praha zde nepředstavuje historickou památku pro turisty, nýbrž tajuplný kafkovský organismus, který pohlcuje své obyvatele.
+* **Ocenění a význam:** Film, oceněný Českým lvem za nejlepší výtvarný počin, potvrdil suverenitu české loutkové animace v digitálním věku. Dokázal, že fyzická loutka má díky své hmatatelnosti a nedokonalosti jedinečnou schopnost zprostředkovat nejhlubší existenciální úzkosti moderního městského člověka.
 
-Jan Balej navazuje na odkaz Jiřího Trnky a Jana Švankmajera, přičemž přebírá jejich hmatový surrealismus, ale odhazuje prvoplánovou symboliku. Jeho město je živoucím organismem, kafkovským ekosystémem vlhkých chodeb, tajných hříchů a blikajících světel. Je to surrealismus zakořeněný v špíně, nikoliv ve snu – pitva moderního života skrze loutkové divadlo.
+### Slovníček pojmů a bibliografie
 
-> *„Balejovo město nespí. Krásně se rozpadá.“*
+* **Hmatový (taktilní) surrealismus:** Výtvarný a animační směr pracující s reálnými, fyzicky opotřebovanými materiály, vyvolávající u diváka bezprostřední smyslovou a tělesnou odezvu.
+* **Stop-motion animace loutek:** Klasická animační technika, při níž je trojrozměrná kloubová loutka manuálně posouvána a exponována okénko po okénku.
+* **Městská groteska:** Žánrová forma mísící prvky hororu, frašky a psychologického dramatu situovaná do tísnivého prostředí moderní městské periferie.
 
-### Bibliografie
-* Šrajer, Martin. *Czech Animation: From Puppet Masters to Digital Era*. Film Academy Press, 2018.
-* Cendelínová, Jana. *Animovaný film v České republice po roce 1989*. AMU, 2015.
+**Bibliografie (Chicago Style):**
+* Balej, Jan, dir. *Jedna noc v jednom městě* (Motion Picture). Praha: Hafan Film, 2007.
+* Cendelínová, Jana. *Animovaný film v České republice po roce 1989*. Praha: Akademie múzických umění, 2015.
+* Šrajer, Martin. *Czech Animation: From Puppet Masters to Digital Era*. Praha: Národní filmový archiv, 2018.

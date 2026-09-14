@@ -1,9 +1,9 @@
 ---
-title: "Labyrint smyslů a stínů: Krize poznání v Argentově Kočce o devíti ocasech (1971)"
-film: "Kočka o devíti ocasech (1971)"
+title: "Kočka o devíti ocasech (Il gatto a nove code, 1971): Labyrint smyslů a krize poznání"
+film: "Kočka o devíti ocasech / Il gatto a nove code (1971)"
 year: 1971
-date: "2026-01-01"
-description: "Esejistická studie nahlížející na film Kočka o devíti ocasech (1971) Daria Argenta jako na filozofickou esej o krizi poznání a limitech lidské percepce."
+date: "2026-09-03"
+description: "Analytická studie druhého gialla Daria Argenta zkoumající epistemologickou krizi zraku, slepého vyšetřovatele, genetický determinismus a avantgardní zvukovou krajinu Ennia Morriconeho."
 image: "/images/essays/kocka-o-deviti-ocasech.webp"
 
 lang: "cz"
@@ -11,26 +11,41 @@ translationSlug: "kocka-o-deviti-ocasech"
 director: "Dario Argento"
 ---
 
-Zrak je klam. Vizuální svět, obzvláště v rámci italského gialla, funguje jako labyrint zrcadel, v němž je pravda pokřivena barvami, úhly a stíny. Když Dario Argento v roce 1971 představil svůj druhý celovečerní film, Kočku o devíti ocasech (Il gatto a nove code), rozhodl se tento optický mýtus radikálně dekonstruovat. Ve filmu, který je definován posedlostí viděním, fotografickým obrazem a pozorováním, staví do centra dění muže, jenž byl zraku zbaven. Bývalý novinář a tvůrce křížovek Franco Arnò (Karl Malden) zde funguje jako slepý vyšetřovatel, jehož schopnost odhalovat pravdu je založena na zcela odlišném režimu vnímání, který mu umožňuje rekonstruovat skutečnost nezávisle na privilegiu zraku.
+Vizuální svět italského gialla tradičně funguje jako labyrint zrcadel, v němž je objektivní pravda pokřivena barvami, deformovanou optikou a stíny. Když Dario Argento v roce 1971 uvedl svůj druhý celovečerní snímek *Kočka o devíti ocasech* (*Il gatto a nove code*, stopáž 112 minut), rozhodl se tento optický mýtus radikálně zpochybnit. Do centra vyšetřování série brutálních vražd spojených s genetickým výzkumným institutem nestaví bystrého pozorovatele, nýbrž muže, který byl zraku zbaven. Bývalý novinář Franco Arnò (Karl Malden) operuje v režimu alternativní smyslové rekonstrukce reality, čímž film otevírá hlubokou epistemologickou debatu o nespolehlivosti samotného vidění.
 
-Tato studie se nenoří pouze do narativní struktury detektivky, ale do samotné filozofie vnímání, limitů poznání a paranoie, kterou Argento ve svém díle artikuluje.
+Tato studie analyzuje snímek jako filozofickou esej o krizi lidské percepce, biologizaci zločinu a technologické úzkosti počátku sedmdesátých let.
 
-### 1. Inverze vizuální moci a tyranie obrazu
+### I. Inverze vizuální moci a spojenectví slepce s reportérem
 
-Klasický thriller spoléhá na tyranii zraku. Děsíme se toho, co hrdina vidí, nebo toho, co naopak zůstává skryto v temném koutě plátna. Argento však činí krok stranou. Spojenectví slepého Franca a mladého, ambiciózního reportéra Carla Giordaniho (James Franciscus) vytváří fascinující dialektiku. Giordani je mužem akce a zraku; vrhá se do nebezpečí, spoléhá na to, co vidí, a neustále se stává obětí vizuálních klamů a logických pastí, které vrah klade.
+Klasický filmový thriller spoléhá na dominanci zrakového vjemu – bojíme se toho, co hrdina spatří v temném koutě. Argento však tento mechanismus rozbíjí:
+* **Dialektika smyslů:** Spojenectví slepého křížovkáře Franca a mladého reportéra Carla Giordaniho (James Franciscus) vytváří funkční epistemologický kontrapunkt. Giordani je mužem akce a zraku; spoléhá na vizuální evidenci a neustále se stává obětí optických pastí a klamů, které vrah nastražil.
+* **Rekonstrukce z fragmentů:** Franco naproti tomu skládá realitu ze zvukových stop, intonace hlasů, časových intervalů a logických dedukcí. Argento ukazuje, že v přetechnizovaném moderním světě je zrak nejsnáze manipulovatelným smyslem. Paradoxně teprve ten, kdo je zbaven zraku, dokáže prohlédnout povrchové lži a dešifrovat podstatu zločinu.
 
-Oproti tomu Franco získává informace způsobem, který není primárně založen na obrazu: naslouchá, rekonstruuje a propojuje fragmenty, jež ostatní přehlížejí. Argento zde mistrovsky argumentuje, že v technologicky a vědecky racionalizované společnosti je zrak tím nejsnáze manipulovatelným smyslem. Vrah v Kočce o devíti ocasech musí čelit analytické mysli, pro niž je skládání zdánlivě nesouvisejících fragmentů v temnotě přirozeným prostředím.
+### II. Genetický determinismus a institut Terzi jako prostor odcizení
 
-### 2. Biologizace zločinu a architektura dezorientace
+Děj snímku je pevně ukotven v dobových obavách z nekontrolovatelného vědeckého pokroku:
+* **Karyotyp 47,XYY:** Zločin nevychází z běžné vášně či loupeže, nýbrž z tajného výzkumu Institutu Terzi zaměřeného na chromozomální anomálii XYY, které dobová (později vyvrácená) genetika připisovala vrozené sklony k násilí a kriminalitě. Argento reflektuje úzkost společnosti z biologického determinismu – obavu, že lidské svědomí a svobodná vůle mohou být redukovány na biochemický vzorec zkumavky.
+* **Modernistická architektura odcizení:** Prostory genetického institutu tvořené sterilním sklem, ocelovými mřížemi a geometrickými chodbami zhmotňují chladný svět bez lidskosti. V tomto sterilním prostředí nepředstavuje věda službu člověku, nýbrž panoptikální aparát generující paranoia a vražedné spiknutí.
 
-Snímek je hluboce zakořeněn v existenciální úzkosti počátku 70. let. Zločin se netočí kolem klasické vášně či chamtivosti, ale kolem genetického výzkumu institutu Terzi a tehdy kontroverzní a dnes již diskreditované hypotézy o souvislosti karyotypu 47,XYY s kriminalitou. Argento tímto motivem ohmatává dobový strach z genetického determinismu, biologizace zločinu a nekontrolovaného technologického pokroku. Co když lze lidskou podstatu redukovat na karyotyp a změřit v laboratoři?
+### III. Audiovizuální disonance a Morriconeho dekonstrukce melodie
 
-Tato úzkost z racionalizovaného světa se odráží i v architektuře filmu. Modernistická architektura, geometrické interiéry a deformující prostorové kompozice vytvářejí prostředí, v němž se orientace stává hluboce nejistou. Není to jen prostor pro vraždu; je to architektonická manifestace světa, který se snaží lidskou iracionalitu strukturovat a kontrolovat, ale zároveň odhaluje limity této racionalizace.
+Nezastupitelnou složku Argentovy metody představuje avantgardní hudební doprovod Ennia Morriconeho:
+* **Kolaps lyrismu:** Morricone staví vedle sebe křehkou, melancholickou melodii (*„Ninna Nanna in Blu“*) a brutální atonální experimenty. Tradiční orchestrální harmonie je narušována skřípěním smyčců, atonálními klavírními údery a zneklidňujícími bezeslovnými ženskými vokalizacemi.
+* **Auditivní zrcadlo paranoie:** Zvuková stopa divákovi nenapovídá bezpečné emoce, nýbrž funguje jako akustický ekvivalent rozpadajícího se světa, v němž každé vrznutí dveří či krok na schodech signalizuje přítomnost predátora.
 
-### 3. Zvuková disonance a rozpad melodie
+### IV. Závěr: Devět stop na konci labyrintu a limity poznání
 
-Dílo by nebylo kompletní bez zneklidňující partitury Ennia Morriconeho. Morricone zde tradiční melodickou funkci neopouští, nýbrž ji radikálně rozkládá. Konfrontuje křehké, lyrické motivy (jako je právě Ninna Nanna in Blu) s experimentálním cool jazzem, disharmonickými texturami a zneklidňujícími bezeslovnými vokalizacemi. Hudba nenapovídá divákovi, co má cítit; funguje jako auditivní zrcadlo roztříštěného, paranoidního světa, v němž se vyšetřovatelé pohybují.
+Název filmu odkazuje k devíti hypotetickým vyšetřovacím stopám, které musí detektivové prozkoumat:
+* **Relativita pravdy:** Argento dokládá, že proces lidského poznání nepřináší definitivní jistotu. Každé rozluštěné vodítko pouze otevírá další labyrint pochybností; fotografický snímek na hřbitově je pořízen těsně před vraždou svědka a jeho negativ zůstává neúplný.
+* **Odkaz:** *Kočka o devíti ocasech* překračuje hranice kriminální zápletky a stává se svébytnou studií o limitech lidského rozumu. Dokazuje, že ve světě ovládaném simulací a manipulací musíme někdy – stejně jako slepý Franco Arnò – zavřít oči, abychom dokázali odhalit pravdu skrytou pod povrchem viditelného.
 
-### 4. Devět cest na konci labyrintu
+### Slovníček pojmů a bibliografie
 
-Název filmu evokuje devět cest – devět možností, které musí Franco a Carlo na své pouti prozkoumat. Argento nám tím sděluje hořkou pravdu o procesu lidského poznání. Rozpletení jedné záhady často vede pouze k další iluzi a fotografický obraz jako údajný důkaz reality odhaluje jen neúplné fragmenty. Kočka o devíti ocasech tak překračuje hranice pouhého žánrového cvičení. Je to filozofická esej o krizi poznání a limitech lidské percepce. Učí nás, že ve světě definovaném manipulací musíme někdy, podobně jako Franco Arnò, zavřít oči, abychom skutečně prohlédli.
+* **Epistemologická krize percepce:** Stav zpochybnění lidských smyslů (zejména zraku) jako spolehlivých nástrojů pro ověřování reality a objektivní pravdy.
+* **Karyotyp XYY (Syndrom supermuže):** Genetická anomálie, v 60. a 70. letech mylně pokládaná za biologickou příčinu agresivního a kriminálního chování jedince.
+* **Auditivní disonance:** Záměrné využití disharmonických a experimentálních zvukových postupů k navození vnitřního psychického neklidu a narušení diváckého komfortu.
+
+**Bibliografie (Chicago Style):**
+* Argento, Dario. *Fear: The Autobiography of Dario Argento*. Translated by Alberto Pezzotta. London: Fab Press, 2014.
+* Gallant, Chris, ed. *Art of Darkness: The Cinema of Dario Argento*. Godalming: Fab Press, 2000.
+* McDonagh, Maitland. *Broken Mirrors, Broken Minds: The Dark Dreams of Dario Argento*. Minneapolis: University of Minnesota Press, 2010.

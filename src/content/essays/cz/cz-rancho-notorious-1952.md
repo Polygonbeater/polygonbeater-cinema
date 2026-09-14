@@ -1,9 +1,9 @@
 ---
 title: "Rancho Notorious (1952): Balada o nenávisti, vraždě a pomstě"
-film: "Rancho Notorious (1952)"
+film: "Rancho Notorious / Rancho Notorious (1952)"
 year: 1952
 date: "2026-09-03"
-description: "Analytická studie stylizovaného westernového noiru Fritze Langa zkoumající žánrovou hybriditu, baladickou strukturu, barevný expresionismus a morální rozklad."
+description: "Analytická studie stylizovaného westernového noiru Fritze Langa zkoumající žánrovou hybriditu, baladickou píseň Chuck-a-Luck, ateliérový Technicolor a morální rozklad pomsty."
 image: "/images/essays/rancho-notorious-1952.webp"
 
 lang: "cz"
@@ -11,56 +11,49 @@ translationSlug: "rancho-notorious-1952"
 director: "Fritz Lang"
 ---
 
-Snímek *Rancho Notorious* (89 min) je Langovým nejvíce stylizovaným westernem a zároveň jeho druhým hloubkovým setkáním s Technicolorem. Pod povrchem žánrového dobrodružství se skrývá čistokrevný noir. Film dekonstruuje mýtus divokého západu a nahrazuje jej typicky langovským tématem neodvratného osudu a morální koroze vyvolané obsesivní touhou po pomstě. Unikátní struktura „písňové balady“ v něm funguje jako antický chór.
+Snímek *Rancho Notorious* (1952, stopáž 89 minut) představuje nejvíce stylizovaný western v americké kariéře Fritze Langa a zároveň jeho druhé hloubkové setkání s technologií třípásového Technicoloru. Pod nánosem žánrových propriet divokého západu (přestřelky, koně, saloony) Lang zkonstruoval čistokrevný film noir. 
 
-### Metodologický rámec
+Film nekompromisně dekonstruuje americký mýtus o hrdinné spravedlnosti pohraničí a nahrazuje jej typicky langovskou anatomií determinismu, v níž obsesivní touha po pomstě mění čestného člověka v nemilosrdné monstrum[cite: 133]. Unikátní baladická struktura navíc proměňuje vyprávění v moderní variaci na antickou tragédii[cite: 133].
 
-* **Žánrová hybridita:** Průnik westernových tropů a noirové osudovosti (tzv. "psychologický western").
-* **Analýza mýtu:** Role ústřední písně jako narativního tmelu a zcizujícího efektu.
-* **Genderová politika:** Pozice „vyhaslé“ femme fatale v podání stárnoucí ikony.
+### I. Produkční kontext: Střet u Fidelity Pictures a souboj s Marlene Dietrichovou
 
-### I. Produkční kontext: Střet u Fidelity Pictures
+Snímek vznikal v napjaté atmosféře pod hlavičkou nezávislé produkční společnosti Fidelity Pictures v distribuci studia RKO[cite: 133]:
+* **Tituly a kompromisy:** Scénář Daniela Taradashe vycházel z původního námětu Sylvie Richards. Lang zamýšlel film uvést pod poetickým názvem *Chuck-a-Luck*, avšak šéf studia RKO Howard Hughes prosadil komerčnější a senzačnější název *Rancho Notorious*[cite: 133].
+* **Střet s hvězdným mýtem:** Legendární spory na place propukly mezi režisérem a Marlene Dietrichovou v roli Altar Keaneové[cite: 133]. Lang po své dlouholeté berlínské přítelkyni požadoval, aby svou postavu hrála bez nánosů hollywoodského glamouru – jako unavenou, stárnoucí saloonní zpěvačku poznamenanou léty v drsném prostředí[cite: 133]. Dietrichová úzkostlivě chránící svůj obraz dokonalé femme fatale s ním vedla permanentní zákopovou válku, což paradoxně vtisklo jejímu výkonu fascinující vnitřní hořkost a tenzi[cite: 133].
 
-Film vznikal v napjaté atmosféře pod hlavičkou nezávislé společnosti Fidelity Pictures (v distribuci RKO). Scénář napsal Daniel Taradash (budoucí držitel Oscara za *Odtud až na věčnost*). Lang chtěl film původně nazvat *Chuck-a-Luck*, ale šéf RKO Howard Hughes prosadil komerčnější název *Rancho Notorious*.
+### II. Balada Chuck-a-Luck jako osudový rámec a zcizovací efekt
 
-Legendární konflikty na place pramenily z Langova požadavku, aby Marlene Dietrich (Altar Keane) hrála svou postavu jako unavenou ženu poznamenanou časem. Dietrich, střežící si svůj glamour obraz, s ním vedla neustálý boj, což paradoxně dodalo výslednému výkonu unikátní vnitřní napětí.
+Strukturální páteř celého filmu tvoří vracející se lidová píseň *The Legend of Chuck-a-Luck* skladatele Kena Darbyho (v podání Williama Leeho)[cite: 133]:
+* **Antický chór:** Píseň neslouží jako pasivní ilustrace nálady[cite: 133]. Pravidelně vstupuje do narativu, přerušuje akci a komentuje vnitřní pochody postav ústředním motivem: *„Hate, Murder and Revenge!“* (Nenávist, vražda a pomsta)[cite: 133].
+* **Brechtovský Verfremdungseffekt:** Písňový rámec funguje jako zcizovací prvek[cite: 133]. Vytrhává diváka z naivního dobrodružného prožitku a nutí jej analyticky sledovat mechaniku osudu[cite: 133]. Cesta Vernyho Haskella (Arthur Kennedy) za vrahem jeho snoubenky Beth je strukturována jako noirové vyšetřování – skrze střípky výpovědí a pátrání po tajemném ranči Chuck-a-Luck, fungujícím jako azyl pro psance výměnou za podíl z loupeží[cite: 133].
 
-### II. Narativní struktura: Kolo štěstěny (Chuck-a-Luck)
+### III. Ateliérový Technicolor a klaustrofobie horizontu
 
-* **Baladický rámec:** Ústřední píseň „The Legend of Chuck-a-Luck“ (zpívá William Lee) není jen hudební kulisou. Pravidelně přerušuje děj a připomíná divákovi ústřední motivy: „Hate, Murder and Revenge“.
-* **Nelineární odkrývání:** Cesta Verny Haskella (Arthur Kennedy) za vrahem jeho snoubenky je strukturou podobná detektivnímu noiru – skrze výslechy a střípky informací se skládá obraz minulosti Altar Keaneové a jejího útočiště pro psance.
+Kameraman Hal Mohr (historicky první držitel Oscara za barevnou kameru) vytvořil spolu s Langem vizuální svět, který popírá mýtus o širých pláních amerického západu[cite: 133]:
+* **Krajina jako vězení:** Přestože se děj odehrává v prérii, snímek působí neobyčejně stísněně[cite: 133]. Lang vědomě odmítl autentické přírodní lokace a většinu scén natočil v interiérech s malovanými zadními prospekty a expresionistickým svícením[cite: 133]. Obzor není otevřeným prostorem svobody, nýbrž uzavřenou arénou determinismu[cite: 133].
+* **Chromatická symbolika:** Agresivní technicolorová paleta pracuje s dramatickým kontrastem[cite: 133]. Sytě rudé šaty Altar Keaneové symbolizují vášeň a krev, zatímco chladné stíny ranče odrážejí morální sterilitu jeho obyvatel[cite: 133].
 
-### III. Vizuální styl: Expresionismus v barvě
+### IV. Dehumanizace pomstou: Rozklad Vernyho Haskella
 
-Kameraman Hal Mohr (držitel prvního Oscara za barevnou kameru) vytvořil s Langem svět, který popírá westernový realismus.
+Ústředním motivem filmu je psychologická degenerace ústředního protagonisty[cite: 133]:
+* **Od oběti k netvorovi:** Verny Haskell vstupuje do příběhu jako bezelstný, mírumilovný rančer zasažený brutálním znásilněním a vraždou své nevěsty při přepadení banky[cite: 133]. Lang však ukazuje, že posedlost odplatou není cestou ke spravedlnosti, nýbrž procesem morální koroze[cite: 133].
+* **Ztráta lidskosti:** Aby Haskell vypátral vraha, infiltruje podsvětí, manipuluje city Altar a postupně přejímá metody i cynismus banditů[cite: 133]. V závěru se stává stejně bezcitným a dravým monstrem jako muži, které pronásleduje[cite: 133].
 
-* **Ateliérová klaustrofobie:** Přestože jde o western, film působí stísněně. Lang záměrně využíval malované horizonty a vysoce stylizované ateliérové svícení, čímž krajinu proměnil v psychologické vězení.
-* **Barevný kód:** Rudé šaty Altar Keaneové a agresivní barvy Technicoloru zvýrazňují iracionalitu a vášeň, které pohánějí postavy k jejich zkáze.
+### V. Závěr: Auditivní fatalismus a zánik westernového mýtu
 
-### IV. Hrdina jako monstrum: Rozklad Verny Haskella
-
-Arthur Kennedy v roli Verny Haskella prochází transformací z nevinného rančera v bezcitného mstitele. Lang zde demonstruje, že pomsta není aktem spravedlnosti, ale procesem dehumanizace.
-
-Haskell se v průběhu své cesty stává tím, co původně nenáviděl – v závěru je stejně amorální jako psanci, které loví.
-
-### V. Zvuk a hudba: Auditivní fatalismus
-
-Hudba Emila Newmana a písně Kena Darbyho tvoří páteř filmu.
-
-Písně fungují podobně jako v Brechtově divadle; vytrhávají diváka z akce a nutí ho k morální reflexi nad děním (zcizující efekt / *Verfremdungseffekt*).
-
-### VI. Závěr: Konec legendy
-
-*Rancho Notorious* uzavírá Langovo období experimentů s barvou a žánry. Ukazuje, že noir není omezen na městské prostředí, ale je především stavem mysli. Film končí bez triumfu; kolo štěstěny se dotáčí a zanechává za sebou pouze prázdnotu. Je to Langův nejvíce ironický a stylizovaný komentář k americkému mýtu o hrdinství.
+Závěrečná přestřelka na ranči Chuck-a-Luck přináší rozklad veškerých iluzí[cite: 133]:
+* **Tragická oběť Altar:** Altar Keaneová umírá, když vlastním tělem zachytí kulku určenou pro Vernyho. Její smrt je vykoupením hříšnice, avšak pro Haskella neznamená úlevu.
+* **Prázdnota kola štěstěny:** Haskell a psanec Frenchy Fairmont (Mel Ferrer) odjíždějí bok po boku do pustiny, zatímco balada doznívá s hořkým konstatováním o marnosti hněvu[cite: 133]. *Rancho Notorious* uzavírá Langovu reflexi amerického žánru: dokázal, že noir není otázkou deštivých velkoměstských chodníků, nýbrž stavem zraněné duše, která se v touze po pomstě sama uvrhne do záhuby[cite: 133].
 
 ### Slovníček pojmů a bibliografie
 
-* **Psychologický western / Westernový noir:** Žánrový kříženec přenášející noirová témata (osudovost, morální korozi, amoralitu) do prostředí divokého západu.
-* **Chuck-a-Luck (Kolo štěstěny):** Narativní i vizuální metafora vrtošivosti osudu a náhody, jež řídí lidské životy bez ohledu na spravedlnost.
-* **Zcizující efekt (Verfremdungseffekt):** Brechtovský přístup využitý skrze vracející se baladu, který přerušuje iluzi děje a nutí diváka analyticky nahlížet na morální rozklad postav.
-* **Ateliérová klaustrofobie:** Záměrné využití neúprosně uzavřených kulis a malovaných pozadí k vytvoření pocitu geografického i duševního uvěznění.
+* **Westernový noir (Psychologický western):** Specifický žánrový kříženec přenášející noirová témata morální koroze, posedlosti, cynismu a osudovosti do ikonografie divokého západu[cite: 133].
+* **Chuck-a-Luck (Kolo štěstěny):** Hazardní hra s kostkami a v přeneseném smyslu narativní metafora slepé náhody a osudového determinismu řídícího lidské konání[cite: 133].
+* **Zcizovací baladický rámec:** Dramaturgický postup využívající komentující píseň (antický chór) k narušení divácké iluze a vyvolání etické reflexe nad jednáním postav[cite: 133].
 
 **Bibliografie (Chicago Style):**
-* Eisner, Lotte H. *Fritz Lang*. Translated by Bernard Miall. London: Secker & Warburg, 1976.
-* Gunning, Tom. *The Films of Fritz Lang: Allegories of Vision and Modernity*. London: BFI Publishing, 2000.
-* Higham, Charles. *Marlene: The Life of Marlene Dietrich*. New York: Norton, 1977.
+* Eisner, Lotte H. *Fritz Lang*. Translated by Bernard Miall. London: Secker & Warburg, 1976[cite: 133].
+* Gunning, Tom. *The Films of Fritz Lang: Allegories of Vision and Modernity*. London: BFI Publishing, 2000[cite: 133].
+* Higham, Charles. *Marlene: The Life of Marlene Dietrich*. New York: W. W. Norton & Company, 1977[cite: 133].
+* Lang, Fritz, dir. *Rancho Notorious* (Motion Picture). Los Angeles: Fidelity Pictures / RKO Radio Pictures, 1952.
+* Taradash, Daniel. *Rancho Notorious: Screenplay*. Los Angeles: RKO Radio Pictures, 1951.

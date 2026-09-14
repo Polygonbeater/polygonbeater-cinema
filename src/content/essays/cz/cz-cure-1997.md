@@ -1,53 +1,53 @@
 ---
-title: "Cure (1997): Nákaza prázdnotou"
-film: "Cure (1997)"
+title: "Cure (1997): Nákaza prázdnotou a destrukce ega"
+film: "Cure / Kjua (1997)"
 year: 1997
 date: "2026-09-03"
-description: "Analytická studie kultovního japonského psychologického hororu Kijoši Kurosawy zkoumající anatomii odcizení, hypnotickou destrukci ega a nákazu prázdnotou."
+description: "Analytická studie kultovního japonského psychologického hororu Kijošiho Kurosawy zkoumající anatomii odcizení, hypnotickou destrukci ega a nákazu prázdnotou."
 image: "/images/essays/cure-1997.webp"
 
 lang: "cz"
 translationSlug: "cure-1997"
-director: "Kijoshi Kurosawa"
+director: "Kiyoshi Kurosawa"
 ---
 
-Tato studie dekonstruuje kultovní japonský psychologický horor *Cure* (1997, stopáž 111 minut) jako mrazivou meditaci o křehkosti lidské identity a potlačených pudech moderní společnosti. Snímek formálně využívá strukturu policejního procedurálu, aby sledoval detektiva Takabeho, který vyšetřuje sérii bizarních vražd. 
+Tato studie dekonstruuje kultovní japonský psychologický horor *Cure* (*Kjua*, 1997, stopáž 111 minut) jako mrazivou meditaci o křehkosti lidské identity a potlačených pudech moderní společnosti. Snímek formálně využívá strukturu policejního procedurálu, aby sledoval detektiva Takabeho vyšetřujícího sérii bizarních hrdelních zločinů. 
 
-Všichni pachatelé se ke svým činům okamžitě přiznávají, ale postrádají jakýkoliv motiv; spojuje je pouze náhodné setkání se záhadným amnestikem Mamijou. Metodologicky se text zaměřuje na klinicky chladnou kameru Tokušóa Kikumury, využití industriálního zvukového designu (nízkofrekvenční hučení, rytmus kapající vody) a zrušení hranice mezi racionálním řádem a potlačenou vertikálou šílenství. Film ukazuje, že skutečný teror nepochází z vnějšího zla nebo monster, ale z děsivého zjištění, že pod naší pečlivě budovanou společenskou maskou neexistuje vůbec nic.
+Všichni pachatelé se ke svým činům okamžitě doznávají, postrádají však jakýkoliv racionální motiv; spojuje je pouze krátké setkání se záhadným amnestikem Mamijou. Metodologicky se text zaměřuje na klinicky chladnou kameru Tokuša Kikumury, industriální zvukový design (nízkofrekvenční hučení ventilací, rytmus kapající vody) a zrušení hranice mezi společenským řádem a potlačenou propastí šílenství. Film ukazuje, že skutečný teror nepochází z vnějších monster, ale ze zjištění, že pod naší civilizační maskou leží absolutní prázdnota.
 
 ### I. Estetika banality a chladná horizontála Tokia
 
-Vizuální identita filmu radikálně rezignuje na jakékoliv tradiční atributy žánru hororu. Režisér Kijoši Kurosawa inscenuje scény v těch nejběžnějších, nejbanálnějších prostorech moderní metropole: sterilní policejní výslekovny, prázdné nemocniční chodby, opuštěné industriální haly a úhledné, bezosobní byty. 
+Vizuální styl filmu radikálně odmítá zažité atributy žánru:
+* **Sterilní prostory metropole:** Režisér Kijoši Kurosawa inscenuje klíčové scény v banálních, neosobních kulisách moderního velkoměsta: kachličkové policejní výslechovny, vyprázdněné nemocniční chodby, opuštěné industriální skelety a geometricky rigorózní byty.
+* **Horizontála odcizení:** V tomto světě neexistují gotické stíny, do nichž by se zlo schovalo; vše se odehrává pod neúprosným světlem studených zářivek. Kamera setrvává ve statických odtažitých celcích (master shots), čímž publikum staví do pozice nezúčastněného pozorovatele. Vraždy probíhají bez afektu, mechanicky a tiše – jako běžný úkon v odlidštěné rutině.
 
-Tato vizuální vyprázdněnost tvoří dokonalou horizontálu odcizení. Neexistují zde žádné temné stíny, do kterých by se zlo mohlo schovat; vše se odehrává pod neúprosným, studeným zářivkovým světlem. Kamera často zůstává statická, v odtažitých celcích (tzv. master shots), čímž diváka staví do role bezmocného, klinického pozorovatele. Samotné vraždy se odehrávají bez afektu, téměř mechanicky a tiše, jako by byly jen dalším automatizovaným úkonem v rutině odcizeného světa.
+### II. Mesmerismus a vymazání identity
 
-### II. Mesmerismus a odemknutí propasti
+Záhadný mladík Mamija (Masato Hagiwara) představuje dokonalé ontologické vakuum:
+* **Čisté zrcadlo:** Trpí ztrátou krátkodobé paměti, nemá žádnou biografii, identitu ani cíl – je prázdnou nádobou, která pouze odráží vnitřní stav svých protějšků.
+* **Odemknutí potlačeného:** Mamija své oběti neovládá násilím ani složitou manipulací. Prostřednictvím primitivních podnětů (škrtnutí zapalovače, rytmus rozlité vody na stole) odbourává sociální filtry a morální zábrany. Funguje jako katalyzátor, jenž uvolňuje hluboko pohřbenou frustraci a nenávist spořádaných občanů (policisty, lékařky, manžela). Vyřezané písmeno „X“ do krků obětí není magickým rituálem, nýbrž doslovným přeškrtnutím lidského ega.
 
-Antagonista filmu, mladík Mamija (Masato Hagiwara), představuje dokonalé ontologické vakuum. Trpí ztrátou krátkodobé paměti, nemá minulost, identitu ani cíl – je to čistá, prázdná schránka, která pouze zrcadlí své okolí. Jeho metoda nepočívá v tom, že by lidem vymýval mozky nebo do nich vkládal cizí, zlomyslné myšlenky. 
+### III. Zvuková krajina podvědomého neklidu
 
-Skrze jednoduché hypnotické podněty (plamen zapalovače, rytmus rozlité vody) pouze odstraňuje společenské zábrany a morální imperativy. Mamija funguje jako klíč, který otevírá potlačenou vertikálu podvědomí a nechává vyhřeznout frustraci, kterou v sobě normální, slušní lidé (policista, lékař, oddaná manželka) dusí. Děsivé, široké „X“ vyřezané do krku každé oběti tak není okultním symbolem, ale definitivním přeškrtnutím lidské identity.
+Akustická složka filmu vytváří intenzivnější napětí než samotný obraz:
+* **Industriální ambient:** Kurosawa zcela vytěsňuje melodickou hudbu a nahrazuje ji permanentním nízkofrekvenčním zvukovým smogem – monotónním hučením klimatizací, duněním vzdálených vlaků a rotací prázdných praček.
+* **Mesmerismus pro diváka:** Tento sonický teror vyvolává fyziologickou úzkost a stírá rozdíl mezi objektivní realitou a propadem detektiva Takabeho do psychózy. Ticho ve filmu nepředstavuje úlevu, nýbrž tíživé očekávání dalšího nevysvětlitelného zkratu.
 
-### III. Zvuková krajina absolutního neklidu
+### IV. Závěr: Tichá apokalypsa a šíření nákazy
 
-Zvuková stopa je v *Cure* mnohem zlověstnější než samotný obraz. Místo klasických hudebních motivů Kurosawa vytváří neustálý, podprahový sonický teror. 
-
-Zvuk hučící ventilace, dunění vzdáleného vlaku, rotující buben prázdné pračky nebo neustálé, arytmické kapání vody fungují jako nástroje mesmerismu nejen pro postavy na plátně, ale i pro samotného diváka. Tento industriální ambient vyvolává pocit fyzické nevolnosti a postupně stírá hranici mezi objektivní realitou a rozpadající se příčetností detektiva Takabeho. Ticho ve filmu nikdy neznamená klid; je to pouze čekání na další narušení.
-
-### IV. Závěr: Tichá apokalypsa a asimilace prázdnoty
-
-Závěrečný akt filmu nemilosrdně odmítá klasické narativní rozhřešení. Detektiv Takabe (Kódži Jakušo) sice Mamiju nakonec najde a fyzicky eliminuje, ale nestává se vítězem. Naopak, konfrontace s absolutní prázdnotou a poslech staré mesmeristické nahrávky na fonografu ho definitivně infikují. 
-
-V mrazivém epilogu v rodinné restauraci vidíme Takabeho, jak klidně, s nově nalezeným vnitřním „mírem“ dojí své jídlo, zatímco servírka za jeho zády najednou, bez jakéhokoliv varování, uchopí nůž. Film končí tichým, apokalyptickým zjištěním: lék (*cure*) na tíhu lidské existence spočívá v absolutním zrušení morálky. Společenská horizontála pravidel byla nenávratně infikována a destrukce ega se bude šířit dál, zcela neviditelně, jako pandemie uvnitř moderní civilizace.
+Závěr filmu nemilosrdně odmítá jakoukoliv katarzi. Detektiv Takabe (Kódži Jakušo) sice Mamiju v opuštěném sanatoriu zastřelí, toto fyzické vítězství je však jeho definitivní duchovní kapitulací:
+* **Převzetí role:** Poslech historické mesmeristické nahrávky na voskovém válečku dovršuje Takabeho vnitřní proměnu. Přebírá Mamijovo poslání prázdného šiřitele zkázy.
+* **Neviditelná epidemie:** V mrazivém epilogu vidíme Takabeho klidně obědvat v restauraci, zatímco servírka v pozadí po krátkém kontaktu s ním bere do ruky nůž. Film končí poznáním, že „léčba“ (*cure*) ze společenského tlaku spočívá v absolutním popření etiky – a tato prázdnota se začíná nepozorovaně šířit jako nevyléčitelná sociální nákaza.
 
 ### Slovníček pojmů a bibliografie
 
-* **Horizontála odcizení:** Sterilní, odtažité vizuální prostředí moderní metropole podtrhující vnitřní prázdnotu a bezosobnost postav.
-* **Mesmeristická sugesce:** Hypnotická metoda využívající jednoduché auditivní či vizuální podněty k odstranění morálních inhibicí a zábran oběti.
-* **Sonický teror:** Využití industriálního ambientu a nízkofrekvenčních zvuků městské infrastruktury k vyvolání podvědomého neklidu a úzkosti.
-* **Destrukce ega:** Rozpad autentičnosti a společenské masky jedince vedoucí k nekontrolovanému uvolnění potlačených destruktivních pudů.
+* **Horizontála odcizení:** Vizuální kompoziční postup využívající chladné, geometrické linie moderní architektury k navození existenciální vyprázdněnosti.
+* **Mesmeristická sugesce:** Využití elementárních smyslových vjemů (oheň, voda, monotónní zvuk) k navození disociativního stavu a odbourání morálních zábran.
+* **Sonický teror:** Zvuková dramaturgie pracující s průmyslovým hlukem, infrazvuky a ambientním šumem za účelem vyvolání somatické úzkosti u diváka.
+* **Destrukce ega:** Psychologický a filozofický proces rozpadu vědomé identity jedince, po němž zůstává pouze animální, pudové jednání.
 
 **Bibliografie (Chicago Style):**
-* Kurosawa, Kiyoshi. *Cure* (The Criterion Collection Booklet). Essay by Chris Fujiwara. New York: Criterion, 2021.
-* Martin, Daniel. „Japan’s Cure for the Horror Film.“ *Asian Cinema* 20, no. 1 (2009): 112–127.
+* Fujiwara, Chris. "Cure: The Bleak Landscape of the Mind." In *Cure* (Criterion Collection Booklet). New York: The Criterion Collection, 2021.
+* Martin, Daniel. "Japan’s Cure for the Horror Film." *Asian Cinema* 20, no. 1 (2009): 112–127.
 * Mes, Tom, and Jasper Sharp. *The Midnight Eye Guide to New Japanese Film*. Berkeley: Stone Bridge Press, 2005.
-* White, Jerry. „Kiyoshi Kurosawa's Cure and the Existential Horror.“ *CineAction*, no. 71 (2007): 45–52.
+* White, Jerry. "Kiyoshi Kurosawa's Cure and the Existential Horror." *CineAction*, no. 71 (2007): 45–52.

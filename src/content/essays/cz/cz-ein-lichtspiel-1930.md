@@ -1,9 +1,9 @@
 ---
-title: "László Moholy-Nagy: Ein Lichtspiel schwarz weiss grau (1930)"
-film: "Ein Lichtspiel schwarz weiss grau (1930)"
+title: "Ein Lichtspiel schwarz weiss grau (1930): Kinetická plastika a světelná mechanika Bauhausu"
+film: "Světelná hra černobílá šedá / Ein Lichtspiel schwarz weiss grau (1930)"
 year: 1930
 date: "2026-09-03"
-description: "Analýza experimentálního filmu Lászlóa Moholy-Nagye, představujícího čistou destilaci filosofie Bauhausu a vizuální vzdor proti nacistickému tradicionalismu."
+description: "Analytická studie experimentálního filmu Lászlóa Moholy-Nagye zkoumající světelně-prostorový modulátor, estetiku Bauhausu a emancipaci filmového světla."
 image: "/images/essays/ein-lichtspiel-1930.webp"
 
 lang: "cz"
@@ -11,26 +11,42 @@ translationSlug: "ein-lichtspiel-1930"
 director: "László Moholy-Nagy"
 ---
 
-*Ein Lichtspiel schwarz weiss grau* (Světelná hra černobílá šedá, 1930) je klíčovým dílem v historii experimentální kinematografie a čistou destilací filosofie Bauhausu. Film, který vytvořil László Moholy-Nagy v době, kdy již patřil k předním osobnostem německé avantgardy, představuje intelektuální a umělecké vyjádření, jež přímo odporovalo estetickým a ideologickým požadavkům nastupujícího nacistického hnutí.
+Krátkometrážní experimentální snímek *Ein Lichtspiel schwarz weiss grau* (*Světelná hra černobílá šedá*, 1930, stopáž 6 minut) maďarského konstruktivisty a profesora výmarského Bauhausu Lászlóa Moholy-Nagye představuje jeden z vrcholných manifestů abstraktní kinematografie. Film vznikl na přelomu 20. a 30. let v době sílícího odporu konzervativních kruhů vůči modernistickému hnutí a funguje jako radikální zkoumání možností filmového média oproštěného od literárních, divadelních a narativních berliček.
 
-## Estetika Bauhausu v pohybu
+Moholy-Nagy v tomto díle demonstruje základní tezi své knihy *Malerei, Fotografie, Film* (1925): film není nástrojem pro záznam inscenované reality, nýbrž autonomním percepčním aparátem schopným tvořit ryze světelnou a kinetickou architekturu.
 
-* **Umělec:** László Moholy-Nagy (maďarský rodák a mistr školy Bauhaus).
-* **Žánr:** Abstraktní, experimentální film / Dokumentace kinetické skulptury.
-* **Hlavní objekt (Světelně-prostorový modulátor):** Ústředním motivem filmu je Moholy-Nagyho vlastní kinetická socha, tzv. Licht-Raum-Modulator. Tento stroj sestával ze složitého souboru perforovaných kovových kotoučů a pohyblivých clon navržených tak, aby kontrolovaly a odrážely světlo a vytvářely dynamické vzory.
-* **Nová vizuální vize:** Moholy-Nagy využil filmové médium k zachycení neustále se měnící souhry světla a stínu. Snímek ztělesňuje přesvědčení Bauhausu, že světlo a technologie představují nové umělecké materiály schopné tvořit čisté, funkční a nefigurativní kompozice.
+### I. Licht-Raum-Modulator: Socha jako světelný generátor
 
-## Přímá výzva tradicionalismu
+Ústředním objektem i jediným „hercem“ filmu je Moholy-Nagyův vlastní kinetický aparát, známý jako *Licht-Raum-Modulator* (Světelně-prostorový modulátor), na němž autor pracoval od roku 1922:
+* **Materiálová kinetika:** Konstrukce sestávala ze soustavy perforovaných kovových kotoučů, mřížek, skleněných spirál a rotujících ploch poháněných elektromotorem. Přístroj sám o sobě nebyl statickou sochou, ale mechanickým nástrojem k modulaci dopadajícího světla.
+* **Světlo jako plastická hmota:** Film zachycuje modulátor v pohybu pod proměnlivým úhlem umělých reflektorů. Světlo zde nevystupuje jako prostředek k osvětlení předmětu, nýbrž jako primární stavební materiál – zhmotňuje se v proudech paprsků, stínech a optických odrazech.
 
-Díky své radikální stručnosti a využití průmyslových materiálů se film stal terčem pro označení za „zvrhlé umění“ (*Entartete Kunst*), neboť odmítal veškeré zásady požadovaného heroického, romantického a figurativního umění:
+### II. Destrukce kauzality a geometrie šedi
 
-* **Čistota formy:** Snímek je striktně ne-narativní a spoléhá výhradně na formální vztahy mezi černými, bílými a šedými tóny, zdroji světla a rytmickým pohybem. Toto zaměření na geometrii bylo nacisty vnímáno jako „bolševické“.
-* **Technologie jako umění:** Oslavou stroje jako zdroje estetické tvorby zpochybnil Moholy-Nagy tradiční německý romantický pohled na umění a potvrdil nezbytnost integrace umění s moderním průmyslem.
+Moholy-Nagy zcela vytěsňuje lidskou postavu, příběh i jakékoliv figurativní záchytné body:
+* **Mikrokosmos tónů:** Jak napovídá samotný název filmu, obrazová plocha je redukována na dynamické vztahy mezi absolutní černí, oslnivou bílou a nekonečnou škálou přechodových šedých tónů.
+* **Rytmická montáž:** Režisér využívá zrcadlení, vícenásobné expozice, extrémní makrodetaily mechanických převodů a negativní obraz. Výsledkem je vizuální polyfonie, v níž se materiální původce stínu rozpouští v čisté kinetické abstrakci. Divák nesleduje mechanický stroj, ale autonomní tanec geometrických forem.
 
-## Odkaz
+### III. Ideologický rozpor: Bauhaus versus tradicionalismus
 
-*Ein Lichtspiel* zůstává jedním z nejvýznamnějších dochovaných dokumentů filmového hnutí Bauhaus. Jeho důraz na to, že světlo, prostor a čas lze vizuálně tvarovat a kontrolovat, ovlivnil generace abstraktních tvůrců a slouží jako svědectví o síle exilové avantgardy.
+Dílo vzniklo v předvečer nástupu nacionálního socialismu a svou samotnou existencí představovalo politický postoj:
+* **Kulturní bolševismus v očích reakce:** Nacistická kulturní politika požadovala po umění návrat k nacionálnímu romantismu, rustikální figuraci a monumentálnímu patosu. Moholy-Nagyova nekompromisní industriální abstrakce byla označena za „zvrhlé umění“ (*Entartete Kunst*).
+* **Demokratizace vnímání:** Pro Bauhaus byla integrace umění, průmyslu a nových médií cestou k emancipaci člověka v moderním světě. Vizuální výchova skrze abstraktní film měla zbavit zrak navyklých schémat a naučit člověka vnímat prostor a technologie bez předsudků.
 
-### Bibliografie
-* Moholy-Nagy, László. *Vision in Motion*. Paul Theobald and Company, 1947.
-* Passuth, Krisztina. *Moholy-Nagy*. Thames and Hudson, 1985.
+### IV. Závěr: Odhmotnění kinematografie a nadčasový odkaz
+
+*Ein Lichtspiel schwarz weiss grau* zůstává klíčovým milníkem vizuální moderny. Moholy-Nagy dokázal, že kinematografie dosahuje své pravé podstaty v momentě, kdy opustí imitaci reality a stane se organizací světla v čase. 
+
+Po uzavření Bauhausu a autorově odchodu do exilu ve Spojených státech ovlivnila tato metoda celou vlnu amerického poválečného strukturalistického filmu i moderní světelné instalace, kde světlo zůstává médiem, které prostor nejen zobrazuje, ale přímo vytváří.
+
+### Slovníček pojmů a bibliografie
+
+* **Licht-Raum-Modulator:** Kinetická plastika z kovu a skla vytvořená Lászlóa Moholy-Nagyem pro zkoumání světelných projekcí a stínových struktur v trojrozměrném prostoru.
+* **Fotogram (Photogram):** Fotografický obraz vytvořený bez fotoaparátu pouhým položením předmětů na fotocitlivý papír a jeho osvícením; princip, který Moholy-Nagy v tomto filmu převedl do kinematografického pohybu.
+* **Kinetická abstrakce:** Umělecký směr definovaný pohybem geometrických forem a světelných polí bez figurativního či narativního obsahu.
+
+**Bibliografie (Chicago Style):**
+* Botar, Oliver A. I. *Sensing the Future: Moholy-Nagy, Media and the Arts*. Zürich: Lars Müller Publishers, 2014.
+* Moholy-Nagy, László. *Malerei, Fotografie, Film*. München: Albert Langen Verlag, 1925.
+* Moholy-Nagy, László. *Vision in Motion*. Chicago: Paul Theobald and Company, 1947.
+* Passuth, Krisztina. *Moholy-Nagy*. London: Thames and Hudson, 1985.

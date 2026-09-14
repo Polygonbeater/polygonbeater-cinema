@@ -1,6 +1,6 @@
 ---
-title: "A Clockwork Orange (1971): Násilí, behaviorismus a státní disciplinace"
-film: "A Clockwork Orange (1971)"
+title: "Mechanický pomeranč (A Clockwork Orange, 1971): Násilí, behaviorismus a státní disciplinace"
+film: "Mechanický pomeranč / A Clockwork Orange (1971)"
 director: "Stanley Kubrick"
 year: 1971
 date: "2026-09-03"
@@ -31,7 +31,7 @@ Kubrickovo užití extrémně širokoúhlých objektivů (Kinoptik Tegea 9,8 mm)
 * **Prostor bez úniku:** Zakřivené stěny vytvářejí paradoxní kombinaci otevřenosti a klaustrofobie – vizuální metaforu liberálního státu, který nabízí formální svobodu, ale svazuje strukturální pastí.
 * **Komplicita diváka:** Prostor se opticky naklání směrem k divákovi a vtahuje ho přímo do ohniska násilí.
 
-### IV. Závěr
+### IV. Závěr: Falešné uzdravení a cena svobodné vůle
 
 Závěrečná věta „I was cured, alright“ obnažuje cynismus moci. Stát nepotřebuje svobodné občany, ale funkční nástroje. Volba zla – se všemi jejími destruktivními důsledky – zůstává jedinou autentickou podmínkou lidské svobody.
 

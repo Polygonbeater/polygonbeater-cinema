@@ -1,9 +1,9 @@
 ---
-title: "Marketa Lazarová (1967) – Tíha bláta a zrod dějin z krve"
-film: "Marketa Lazarová (1967)"
+title: "Marketa Lazarová (1967): Tíha bláta, kmenový animismus a zrod řádu z krve"
+film: "Marketa Lazarová / Marketa Lazarová (1967)"
 year: 1967
-date: "2026-09-02"
-description: "František Vláčil strhává ze středověku romantickou oponu a nabízí fyzický, krutý a smyslově zahlcující prožitek střetu kmenové slobody s náboženským řádem."
+date: "2026-09-03"
+description: "Analytická studie vizionářského historického eposu Františka Vláčila zkoumající drtivou materialitu středověku, kameru Bedřicha Baťky, polyfonní partituru Zdeňka Lišky a střet kmenového pohanství s křesťanskou mocí."
 image: "/images/essays/marketa-lazarova-1967.webp"
 
 lang: "cz"
@@ -11,24 +11,42 @@ translationSlug: "marketa-lazarova-1967"
 director: "František Vláčil"
 ---
 
-František Vláčil ve své adaptaci Vančurova románu Marketa Lazarová (1967) nemilosrdně strhává ze středověku romantickou oponu. Místo uhlazených rytířů a učebnicové chronologie nabízí svět sevřený mrazem, instinkty a permanentním bojem o přežití. Jeho středověk není historickou rekonstrukcí, ale fyzickým, krutým a smyslově zahlcujícím prožitkem.
+Vizionářský historický epos Františka Vláčila *Marketa Lazarová* (1967, stopáž 162 minut), natočený podle stejnojmenného románu Vladislava Vančury za scenáristické spolupráce Františka Pavlíčka, představuje vrcholný monument české i světové kinematografie šedesátých let. Vláčil nemilosrdně strhává ze středověku romantickou oponu devatenáctého století plnou naleštěných rytířských brnění, heraldických ctností a uhlazené chronologie. 
 
-### Hmatatelnost světa a senzorické ponoření
-Nejsilnější složkou filmu je jeho drtivá materialita. Kamera Bedřicha Baťky neustále zdůrazňuje textury: ztvrdlé bláto, zvířecí srst, led a krev. Prostředí zde nefunguje jako kulisa, ale jako aktivní síla, která postavy pohlcuje a formuje.
+Namísto konvenční historické ilustrace vytvořil drtivě fyzický, krutý a smyslově zahlcující prožitek světa v bodě zlomu: světa sevřeného mrazem, vlčími instinkty, pohanským animismem a permanentním bojem o holé biologické přežití. Snímek zachycuje bolestný historický porod moderního státu – proces, v němž je kmenová svoboda archaických lapků nemilosrdně lámána nastupujícím centralizovaným řádem křesťanské a královské moci.
 
-Vláčil usiluje o maximální senzorické ponoření. Divák nemá dobu pouze sledovat, ale téměř fyzicky prožívat – její chlad, vlhkost a tíhu. Těla postav jsou vystavena extrémním podmínkám a brutalita filmu nevychází primárně z inscenace násilí, ale z děsivé lhostejnosti přírody k lidské existenci.
+### I. Hmatatelnost světa a senzorické ponoření Bedřicha Baťky
 
-### Střet dvou krutostí
-Ústřední konflikt mezi loupeživým klanem a královskou mocí není koncipován jako opozice dobra a zla, ale jako střet dvou forem krutosti: archaické a institucionální.
+Nejsilnější formální složkou Vláčilova díla je jeho nekompromisní materialita:
+* **Fyzický nátlak textur:** Kamera Bedřicha Baťky odmítá akademickou malebnost. Neustále exponuje syrové fyzické povrchy: ztvrdlé zmrzlé bláto, hrubou zvířecí srst, ledové krystaly tající na vousech, dýmající krev na sněhu a drsné dřevo loupežnické tvrze Roháček. Prostředí nepředstavuje pasivní kulisu; vystupuje jako aktivní, nelítostný živel, který lidská těla neustále deformuje, pohlcuje a zkouší.
+* **Senzorická autentičnost:** Vláčil se štábem strávil téměř dva roky v extrémních podmínkách šumavských hvozdů. Divák nemá děj pouze sledovat z bezpečného odstupu; je nucen jej fyzicky prožívat – cítit pronikavý chlad, pach potu a mokré vlny. Násilí ve filmu nevychází z choreografického spektáklu, nýbrž z absolutní, chladné lhostejnosti přírody k lidskému osudu.
 
-Kozlíkův rod představuje pudovou kmenovou svoboda, kde jsou pravidla určována výhradně přežitím v nehostinné krajině. Král a hejtman Pivo přinášejí křesťanský řád a zákon, ten však neznamená zmírnění násilí. Naopak jej institucionalizuje, racionalizuje a legitimizuje.
+### II. Střet dvou krutostí: Kmenový animismus versus královský meč
 
-V centru tohoto střetu stojí Marketa – vytržená z klášterního světa a vržená do chaosu, stává se tragickým uzlem, v němž se oba systémy lámou a střetávají.
+Ústřední konflikt mezi loupeživým klanem hejtmana Kozlíka (Josef Kemr) a královskou trestnou výpravou nepracuje s morální opozicí dobra a zla:
+* **Archaická svoboda klanu:** Kozlíkův rod představuje zánik kmenové, pohanské periody lidstva. Jejich život se řídí krví, rodovou věrností a přírodními cykly. Křesťanství přijímají jen povrchně; v jejich světě nadále vládnou staří bůžkové, věštby a animální strach z vlků. Je to svět krutý, divoký, avšak vnitřně autentický.
+* **Racionalizované státní násilí:** Proti nim stojí královská moc reprezentovaná hejtmanem Pivem a německými rytíři. Král nepřináší humanitu ani slitování; přináší právo, centrální správu a křesťanskou dogmatiku. Násilí státu není menší než násilí lapků; je pouze institucionalizované, chladné a byrokraticky legitimované. Starý, organický svět je nahrazován organizovanou mocenskou mašinérií.
 
-### Rozbitá struktura vyprávění
-Film zásadně odmítá lineární vyprávění. Jeho struktura je fragmentovaná, časově přeskakující a polyfonní.
+### III. Akustická polyfonie Zdeňka Lišky a roztříštěná montáž
 
-Tato roztříštěnost přesně odpovídá způsobu, jakým je svět ve filmu prožíván: nikoli jako souvislý příběh, ale jako proud strachu, pudů a znamení. Divák je zbaven odstupu a nucen rekonstruovat význam z fragmentů reality, stejně jako postavy samy.
+Zvuková a hudební architektura Zdeňka Lišky představuje jeden z nejradikálnějších experimentů v dějinách filmové hudby:
+* **Sakrální a pohanská koláž:** Liškova partitura kombinuje staroslověnské a latinské liturgické zpěvy, disonantní chorály, zvony, rituální bicí nástroje, šepot a vlčí vytí. Hudba nepodkresluje emoce postav; je samostatným metafyzickým komentářem, který diváka zatahuje do archaického duchovního prostoru raného středověku.
+* **Asociativní struktura času:** Vláčil a střihač Miroslav Hájek odmítli lineární narativní kauzalitu. Děj přeskakuje v čase, prolíná se s halucinacemi, sny a předtuchami postav. Svět není nahlížen moderním karteziánským rozumem, nýbrž jako polyfonní proud znamení, pudů a animálního děsu, v němž minulost, přítomnost a věčnost splývají v jediný mýtus.
 
-### Závěr: Zrození řádu z destrukce
-Marketa Lazarová je rekviem za starý svět, který je pohlcen novým, organizovanějším, ale stejně krutým systémem. Vláčil odmítá idealizaci dějin. Ukazuje, že civilizační řád nevzniká z ušlechtilých ideálů, ale z násilné transformace společnosti, která se odehrává v blátě, mrazu a krvi zimní krajiny. Přežívají ti, kteří se dokážou přizpůsobit novým podmínkám moci.
+### IV. Závěr: Marketa jako tragický uzel a zrod nového řádu
+
+V epicentru dějinného střetu stojí postava panenské Markety Lazarové (neopakovatelná Magda Vášáryová):
+* **Od klášterního slibu k divoké lásce:** Marketa, zaslíbená otcem Bohu, je unesena Kozlíkovým synem Mikolášem (František Velecký). Uprostřed krve a znásilnění se však v jejím nitru probouzí hluboká, osudová vášeň. Marketa se stává mostem mezi čistotou víry a divokou silou země – přijímá hříšnou lásku jako svůj kříž i své osvobození.
+* **Rekviem za starý svět:** Závěrečný obraz, kdy je Kozlíkův rod vyhlazen, muži popraveni na popravišti a těhotná Marketa kráčí po pláních s dítětem pod srdcem po boku polodivokého blázna Adama, odmítá falešnou idylu. Přežijí pouze ti, kteří dokáží unést tíhu nového řádu. Vláčilovo dílo zůstává nepřekonaným svědectvím: připomíná, že civilizace se nezrodila z ušlechtilých traktátů, nýbrž z kruté bolesti, bláta a krve, z nichž člověk jen s nesmírnou námahou vykupuje svou lidskost.
+
+### Slovníček pojmů a bibliografie
+
+* **Hmatový (taktilní) historismus:** Filmový přístup Františka Vláčila a Bedřicha Baťky, v němž je historická realita evokována detailním snímáním fyzických textur (bláto, krev, led, srst) s cílem navodit tělesný prožitek doby.
+* **Kmenový animismus:** Archaický způsob vnímání světa přisuzující duši a posvátnou sílu přírodním živlům, zvířatům a krajině, stojící v opozici vůči centralizovanému křesťanskému dogmatu.
+* **Polyfonní zvuková montáž (Zdeněk Liška):** Zvuková metoda vrstvení liturgických chorálů, přírodních ruchů a hudebních disonancí do autonomního filozofického pásma nezávislého na vizuální akci.
+
+**Bibliografie (Chicago Style):**
+* Cieslar, Jiří. *František Vláčil: Samotář svázaný časem*. Praha: Národní filmový archiv, 1999.
+* Gajdošík, Petr. *František Vláčil: Život a dílo*. Příbram: Camera Incognita, 2018.
+* Vančura, Vladislav. *Marketa Lazarová*. Praha: Družstevní práce, 1931.
+* Vláčil, František, dir. *Marketa Lazarová* (Motion Picture). Praha: Filmové studio Barrandov, 1967.

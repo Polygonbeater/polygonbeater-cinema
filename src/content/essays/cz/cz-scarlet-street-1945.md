@@ -1,9 +1,9 @@
 ---
-title: "Scarlet Street (1945): Dekonstrukce subjektu, strukturální oslabení a sluchová trajektorie viny"
-film: "Scarlet Street (1945)"
+title: "Šarlatová ulice (Scarlet Street, 1945): Dekonstrukce subjektu a sluchová trajektorie viny"
+film: "Šarlatová ulice / Scarlet Street (1945)"
 year: 1945
 date: "2026-09-03"
-description: "Analytická studie noiru Fritze Langa zkoumající dekonstrukci hrdiny, komodifikaci umělecké identity a Chionovu zvukovou teorii vlivu viny."
+description: "Analytická studie noiru Fritze Langa zkoumající dekonstrukci hrdiny, komodifikaci umělecké identity, weberovskou byrokracii a Chionovu zvukovou teorii viny."
 image: "/images/essays/scarlet-street-1945.webp"
 
 lang: "cz"
@@ -11,62 +11,57 @@ translationSlug: "scarlet-street-1945"
 director: "Fritz Lang"
 ---
 
-Snímek *Scarlet Street* (102 min) představuje jeden z radikálních vrcholů Langovy americké tvorby. Ve srovnání s předchozím snímkem *The Woman in the Window* (1944), jenž nabízí únik skrze snovou logiku, *Scarlet Street* tento narativní ventil nekompromisně uzavírá a nastoluje absolutní fatalismus. Studie zkoumá destabilizaci rodových a společenských rolí v raném poválečném prostoru a skrze zvukovou teorii Michela Chiona analyzuje proces psychického rozkladu hlavního hrdiny.
+Snímek Fritze Langa *Šarlatová ulice* (*Scarlet Street*, 1945, stopáž 102 minut) představuje jeden z nejradikálnějších a nejtemnějších vrcholů americké éry tohoto tvůrce. Ve srovnání s předchozím snímkem *Žena za výlohou* (*The Woman in the Window*, 1944), jenž divákovi nabídl úlevné vysvětlení skrze snovou logiku, *Šarlatová ulice* jakýkoliv narativní ventil nekompromisně uzavírá a nastoluje absolutní fatalistický determinismus. 
 
-### Metodologický rámec a definice noiru
+Lang v adaptaci románu Georgese de La Fouchardière a divadelní hry Andrého Mouézy-Éona (kterou v roce 1931 poprvé zfilmoval Jean Renoir jako *La Chienne*) provádí neúprosnou dekonstrukci maskulinity, komodifikaci umění a skrze průkopnické využití zvuku analyzuje proces definitivního psychického rozpadu lidského subjektu.
 
-Film je nahlížen jako paradigmatický film noir, definovaný nikoliv jako pouhý žánr, ale jako specifický vizuální styl (šerosvit, vertikální kompozice, stíny žaluzií) a tematická fixace na determinismus. Metodologie kombinuje:
+### I. Produkční kontext: Od francouzského naturalismu k fatalistické pasti
 
-* **Komparativní analýzu:** Střet Renoirova francouzského naturalismu s Langovým německým expresionistickým fatalismem.
-* **Sociologii Maxe Webera:** Subverze modelu racionalizované práce a krize institucionální autority.
-* **Zvukovou teorii Michela Chiona:** Analýza subjektivizovaného, diegeticky neukotveného Zvukového pole a auditivní internalizace viny.
+Snímek byl zahajovacím titulem nezávislé produkční společnosti Diana Productions, kterou Lang založil s herečkou Joan Bennettovou a producentem Walterem Wangerem v distribuci studia Universal Pictures[cite: 96]:
+* **Renoir versus Lang:** Zatímco Jean Renoir ve filmu *La Chienne* (1931) uplatňoval francouzský poetický naturalismus, v němž byly postavy formovány vnějším sociálním prostředím, Lang transformuje látku do hermeticky uzavřeného, fatalistického noirového mechanismu, z něhož neexistuje únik[cite: 96].
+* **Konflikt s cenzurou PCA:** Kvůli absenci zákonného potrestání skutečného vraha a cynickému vyznění byl film v roce 1946 lokálně zakázán v New Yorku, Milwaukee a Atlantě[cite: 96]. Dobová cenzura úřadu Production Code Administration (PCA) protestovala proti „neúprosné ponurosti“ a nemorálnosti díla, v němž nevinný muž končí na elektrickém křesle a skutečný viník uniká světské spravedlnosti[cite: 96].
 
-### I. Produkční kontext: Od naturalismu k fatalistické pasti
+### II. Poválečná krize maskulinity a strukturální oslabení
 
-Snímek byl inauguračním titulem nezávislé společnosti Diana Productions (v distribuci Universal Pictures).
+Film vstoupil do kin v atmosféře raně poválečné společenské tenze, kdy návrat demobilizovaných vojáků otřásal ekonomickou autonomií žen a proměňoval tradiční rodinné uspořádání[cite: 96]:
+* **Christopher Cross v krizi:** Postava bankovního pokladníka Christophera Crosse (Edward G. Robinson) reprezentuje muže v hlubokém existenciálním úpadku[cite: 96]. Jeho pětadvacetiletá loajalita k bance i submisivní poslušnost v manželství s panovačnou vdovou Adele vedou k jeho totálnímu strukturálnímu oslabení (*structural emasculation*) uvnitř institucionální hierarchie[cite: 96].
+* **Selhání weberovské racionality:** Crossovo postavení je přímou subverzí modelu racionalizované práce Maxe Webera[cite: 96]. Poctivý úředník za svou celoživotní poslušnost nezískává důstojnost, nýbrž zlaté hodinky a posměch. Jeho naivní únik do světa nedělního malování a naivní zamilovanost do mladé Kitty Marchové (Joan Bennett) nepředstavují osvobození, ale katalyzátor pádu do naprosté iracionality[cite: 96].
 
-* **Renoir vs. Lang:** Zatímco Jean Renoir ve filmu *La Chienne* (1931) pracuje s naturalismem, kde postavy formuje především společenské prostředí, Lang v americkém remakeu transformuje děj v uzavřený, fatalistický systém, z něhož není úniku.
-* **Cenzura a PCA:** Kvůli absenci zákonného a morálního trestu pro vraha byl film v roce 1946 lokálně zakázán v New Yorku, Milwaukee a Atlantě. Dobová kritika vyzdvihla jeho „neúprosnou ponurost“, čímž Lang vědomě provokoval cenzurní kodex Production Code Administration (PCA).
+### III. Vizuální geometrie Miltona Krasnera a benátské žaluzie
 
-### II. Historický kontext: Raně poválečná destabilizace
+Výtvarná stránka filmu je triumfem expresionistické prostorové tísně[cite: 96]:
+* **Mříže ze světla:** Kameraman Milton Krasner využívá ostrý chiaroscuro kontrast[cite: 96]. Vizuální motiv světla pronikajícího skrze benátské žaluzie promítá na stěny pokojů geometrické stíny připomínající vězeňské mříže[cite: 96]. Postavy jsou vizuálně uvězněny v kompozici dříve, než dojde k jakémukoliv zločinu[cite: 96].
+* **Klaustrofobie domova:** Scénografie Alexandra Golitzena přehlušuje Crossovův manželský byt těžkým viktoriánským nábytkem a portrétem prvního manžela Adele, což ostře kontrastuje s prázdným, studeným ateliérem, v němž se odehrává jeho citové i umělecké zneužití[cite: 96].
 
-Film vstupoval do prostoru poválečného společenského napětí, kdy návrat veteránů otřásal nově nabytou ekonomickou autonomií žen a proměňoval strukturu rodiny.
+### IV. Komodifikace autorství a ontologická krádež identity
 
-Christopher Cross (Edward G. Robinson) představuje mužský subjekt v hluboké krizi. Jeho celoživotní loajalita k bance a poslušnost v manželství vedou k jeho strukturálnímu oslabení (*structural emasculation*) uvnitř institucionální hierarchie. Crossův pád je přímo subverzí weberovského modelu racionalizované práce; jeho naivní únik k umění je pouze katalyzátorem neodvratného pádu do iracionality.
+Lang podává břitkou kritiku kapitalistického trhu s uměním, v němž tržní cena zcela zastiňuje tvůrčí pravdu[cite: 96]:
+* **Signatura jako komodita:** Malířský talent Christophera Crosse je uznán teprve ve chvíli, kdy jeho obrazy podepíše svým jménem Kitty a její pasák Johnny Prince (Dan Duryea) je nabídne prestižním galeriím[cite: 96]. Hodnota díla není vázána na estetickou kvalitu, nýbrž na mediální obraz mladé a atraktivní malířky[cite: 96].
+* **Vymazání tvůrce:** Tím, že Cross dobrovolně toleruje tuto falešnou signaturu, aby udržel Kittyin zájem, dopouští se ontologické kapitulace[cite: 96]. Sám sebe připravuje o vlastní identitu – stává se neviditelným přízrakem, zatímco trh a společnost oslavují lhářku jako moderního génia[cite: 96].
 
-### III. Technické pozadí: Geometrie útlaku
+### V. Chionovo subjektivizované zvukové pole a sluchová trajektorie viny
 
-Technická realizace je triumfem vizuální osudovosti. Lang využil elitní tvůrčí tým k dosažení maximálního vizuálního tlaku na postavu.
-
-Kameraman Milton Krasner využívá techniku tvrdých šerosvitových kontrastů. Vizuální motiv venstyle žaluzií promítá na stěny symbolické mříže, které definují hrdinovo uvěznění. Scénografie Alexandra Golitzena přehlušuje Crossovův byt klaustrofobickými detaily, což kontrastuje s neosobním prostorem ateliéru, jenž se stává pastí.
-
-### IV. Komodifikace identity: Falešná signatura jako ontologická lež
-
-Lang provádí hlubokou kritiku trhu jako mechanismu, jenž validuje komerční realitu na úkor subjektivní pravdy.
-
-* **Autorství vs. Podpis:** Tržní hodnota je ve filmu vázána výhradně na jméno a podpis, nikoliv na samotný proces tvorby. Když Kitty (Joan Bennett) podepisuje Crossovy obrazy svým jménem, dopouští se ontologické krádeže jeho identity.
-* **Trh jako validátor:** Lang kritizuje kapitolský mechanismus, kde falešná autorita (signatura) definitivně vymazává skutečného tvůrce z fyzické i společenské existence.
-
-### V. Sluchová trajektorie viny: Zvuk jako pokračování trestu
-
-Závěrečná sekvence je vrcholem Langovy práce se zvukem pod vedením zvukového inženýra Bernarda B. Browna.
-
-Na rozdíl od klasického vypravěčského voice-overu jsou repetitivní, překrývající se hlasy v závěru subjektivizovaným zvukovým polem (*subjective sound field*), které útočí na psychiku postavy. Sluchová trajektorie viny simuluje proces vnitřního psychického rozpadu. Zvuk není pouhým ilustračním doprovodem, ale aktivním trestem v prostoru, kde ticho již neexistuje.
+Závěrečné sekvence filmu představují vrcholné využití moderní zvukové dramaturgie vytvořené zvukařem Bernardem B. Brownem[cite: 96]:
+* **Vražda sekáčkem na led:** Když Cross zjistí, že se mu Kitty a Johnny celou dobu cynicky vysmívali, v afektu dívku ubodá sekáčkem na led. Johnny je následně nespravedlivě odsouzen k popravě na elektrickém křesle za vraždu, kterou nespáchal[cite: 96].
+* **Auditivní peklo v hotelovém pokoji:** Na rozdíl od klasického literárního komentáře využívá Lang koncept, který filmový teoretik Michel Chion definuje jako subjektivizované zvukové pole (*subjective sound field*)[cite: 96]. V levném hotelovém pokoji se Crossovi v hlavě ozývají překrývající se, repetitivní hlasy zavražděné Kitty (*„Jeannie... miluji tě, Jeannie!“*) a popraveného Johnnyho[cite: 96]. Zvuk zde není doprovodem obrazu, ale fyzickým nástrojem neúprosného trestu – Cross nemůže najít úlevu v tichu, protože jeho vlastní svědomí jej pronásleduje jako nekonečná akustická smyčka[cite: 96].
 
 ### VI. Závěr: Ontologie prázdnoty a konec iluzí
 
-*Scarlet Street* (102 min) definitivně dekonstruuje americký mýtus o sebeutváření jedince (*self-made man*). Technická preciznost šerosvitu, neúprosná geometrie scény a sluchová trajektorie viny slouží jako nástroje hrdinova definitivního vymazání ze společnosti. Cross končí jako neviditelný lidský bod v neosobním městském řádu, odsouzen k přežití v neustálé přítomnosti vlastních sluchových přízraků.
+*Šarlatová ulice* definitivně dekonstruuje americký mýtus o sebeutváření jedince (*self-made man*)[cite: 96]:
+* **Přežívající stín:** Christopher Cross není potrestán vězením ani popravou; je odsouzen k doživotnímu bloudění v anonymním velkoměstě jako bezdomovec a společenský vyvrhel[cite: 96].
+* **Zánik identity:** V závěrečném záběru prochází sněhovou vánicí kolem výlohy luxusní galerie, kde je jeho vlastní autoportrét prodáván za deset tisíc dolarů pod jménem Katherine Marchové[cite: 96]. Cross byl beze zbytku vymazán z lidského světa – zbyl pouze zničený subjekt v neosobním městském mechanismu, uvězněný ve vlastní nekonečné vině[cite: 96].
 
 ### Slovníček pojmů a bibliografie
 
-* **Strukturální oslabení (Structural Emasculation):** Proces ztráty společenské, ekonomické a rodinné autority jednotlivce způsobený podřízením rigidním institucionálním hierarchiím a byrokracii.
-* **Subjektivizované zvukové pole:** Auditivní stav ve filmu, kdy divák slyší zvuky a hlasy nikoliv z vnějšího prostředí, ale jako přímou vizualizaci/projekci vnitřního psychického stavu a halucinací postavy (dle M. Chiona).
-* **Ontologická krádež:** Přivlastnění si cizího tvůrčího díla a autorství (např. podpisem), které vede k symbolickému i praktickému vymazání identity původního autora.
-* **Weberovská racionalizace:** Teoretický koncept, dle něhož je moderní společnost organizována kolem efektivity, kalkulovatelnosti a byrokracie, což potlačuje lidskou emocionalitu a osobitost.
+* **Strukturální oslabení (Structural Emasculation):** Ztráta sociální, ekonomické a rodinné autority muže v důsledku absolutní podřízenosti byrokratickému a institucionálnímu aparátu[cite: 96].
+* **Subjektivizované zvukové pole (Michel Chion):** Zvuková technika, při níž divák vnímá zvuky a hlasy nikoliv z vnějšího diegetického prostoru, nýbrž jako přímou projekci halucinací a psychického rozpadu postavy[cite: 96].
+* **Ontologická krádež:** Násilné či zmanipulované přivlastnění cizího autorství a tvůrčího díla, vedoucí k symbolickému zániku původce v sociální realitě[cite: 96].
+* **Chiaroscuro žaluzií:** Noirová technika svícení promítající stíny okenních lamel na stěny a tváře postav jako metaforu vězeňských mříží a osudového determinismu[cite: 96].
 
 **Bibliografie (Chicago Style):**
-* Chion, Michel. *Audio-Vision: Sound on Screen*. Translated by Claudia Gorbman. New York: Columbia University Press, 1994.
-* Eisner, Lotte H. *Fritz Lang*. Translated by Bernard Miall. London: Secker & Warburg, 1976.
-* Gunning, Tom. *The Films of Fritz Lang: Allegories of Vision and Modernity*. London: BFI Publishing, 2000.
-* Jensen, Paul M. *Fritz Lang: The Image and the Look*. New York: A. S. Barnes, 1981.
-* Weber, Max. *The Protestant Ethic and the Spirit of Capitalism*. Translated by Talcott Parsons. New York: Charles Scribner's Sons, 1958.
+* Chion, Michel. *Audio-Vision: Sound on Screen*. Translated by Claudia Gorbman. New York: Columbia University Press, 1994[cite: 96].
+* Eisner, Lotte H. *Fritz Lang*. Translated by Bernard Miall. London: Secker & Warburg, 1976[cite: 96].
+* Gunning, Tom. *The Films of Fritz Lang: Allegories of Vision and Modernity*. London: BFI Publishing, 2000[cite: 96].
+* Jensen, Paul M. *Fritz Lang: The Image and the Look*. New York: A. S. Barnes, 1981[cite: 96].
+* Lang, Fritz, dir. *Scarlet Street* (Motion Picture). Universal City: Diana Productions / Universal Pictures, 1945.
+* Weber, Max. *The Protestant Ethic and the Spirit of Capitalism*. Translated by Talcott Parsons. New York: Charles Scribner's Sons, 1958[cite: 96].

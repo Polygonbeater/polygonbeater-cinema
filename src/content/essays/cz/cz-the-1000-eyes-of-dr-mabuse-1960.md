@@ -1,9 +1,9 @@
 ---
-title: "Tisíc očí dr. Mabuseho (1960): Langovo vizionářské proroctví"
+title: "Tisíc očí dr. Mabuseho (Die 1000 Augen des Dr. Mabuse, 1960): Estetika totálního dohledu a technokratické panoptikum"
 film: "Tisíc očí dr. Mabuseho / Die 1000 Augen des Dr. Mabuse (1960)"
 year: 1960
 date: "2026-09-03"
-description: "Analytická studie posledního díla Fritze Langa zkoumající estetiku totálního dohledu, hotel Luxor jako Benthamovo panoptikum a Mabuseho jako neviditelný algoritmus."
+description: "Analytická studie posledního díla Fritze Langa zkoumající estetiku totálního dohledu, hotel Luxor jako Benthamovo panoptikum, technokratickou totalitu a Mabuseho jako neviditelný algoritmus."
 image: "/images/essays/the-1000-eyes-of-dr-mabuse-1960.webp"
 
 lang: "cz"
@@ -11,40 +11,43 @@ translationSlug: "the-1000-eyes-of-dr-mabuse-1960"
 director: "Fritz Lang"
 ---
 
-Snímek *Tisíc očí dr. Mabuseho* (103 min) představuje Langovu definitivní uměleckou závěť. Po návratu z barevného světa indických mýtů se Lang vrací k postavě, která definovala jeho kariéru. 
+Snímek *Tisíc očí dr. Mabuseho* (*Die 1000 Augen des Dr. Mabuse*, 1960, stopáž 103 minut) představuje definitivní uměleckou i filozofickou závěť Fritze Langa. Po návratu z hollywoodského exilu a realizaci dvoudílného indického dobrodružného eposu se Lang v západoněmecké produkci Artura Braunera vrátil k postavě, která formovala jeho kariéru již od výmarského němého eposu z roku 1922. 
 
-Mabuse v roce 1960 už není jen kriminálník, je to systém. Lang zde jako jeden z prvních filmařů pochopil, že moc budoucnosti nebude v rukou těch, kteří mají zbraně, ale těch, kteří ovládají obrazovky a data.
+Doktor Mabuse v roce 1960 však již není pouhým geniálním zločincem, falešným hráčem či hypnotizérem ovládajícím jednotlivce skrze magickou vůli. V Langově pozdní vizi se Mabuse proměnil v anonymní, všudypřítomný systém – v technokratický mechanismus dohledu a sběru dat. Lang jako jeden z prvních filmařů pochopil, že moc budoucích totalit nebude stát na hlomozu zbraní, nýbrž na neviditelné optické a zvukové kontrole, jež občany redukuje na pouhé datové body[cite: 116].
 
-### I. Technická studie: Estetika totálního dohledu
+### I. Hotel Luxor jako moderní Benthamovo panoptikum
 
-Lang opouští expresionistické stíny i barvy Eastmancoloru a volí strohý, téměř klinický černobílý obraz.
+Architektonickým a narativním středobodem filmu je luxusní západoberlínský hotel Luxor, vybudovaný původně nacistickým režimem za druhé světové války jako špionážní past na zahraniční diplomaty[cite: 116]:
+* **Geometrie neviditelného dohledu:** Hotel je zkonstruován podle filozofického konceptu panoptika Jeremyho Benthama[cite: 116]. V každém pokoji jsou za polopropustnými zrcadly ukryty televizní kamery a odposlechová zařízení napojená na centrální velín v podzemí[cite: 116]. Pozorovaný jedinec je permanentně viditelný, aniž by věděl, že je sledován[cite: 116].
+* **Klinická černobílá věcnost:** Lang opouští expresionistické barokní stíny i barevnost Technicoloru[cite: 116]. Kamera Karla Löba využívá střízlivé, chladné a téměř dokumentární svícení, jež zbavuje prostor jakéhokoliv tajemství[cite: 116]. Špionáž se odehrává za plného světla luxusních apartmánů, v nichž je intimita hostů systematicky komodifikována a přenášena na monitory[cite: 116].
 
-* **Mizanscéna jako panoptikum:** Hotel Luxor je postaven na principu Benthamova panoptika – centrálního bodu, ze kterého je vidět vše, aniž by byl pozorovatel spatřen. Lang využívá dvousměrná zrcadla a skryté kamery k vytvoření atmosféry neustálého voyeurismu.
-* **CCTV styl:** Kamera často přejímá statický, neosobní úhel „bezpečnostního oka“. Tím diváka staví do nepříjemné role komplice Dr. Mabuseho.
+### II. CCTV estetika a zcizení diváckého pohledu
 
-### II. Kritika moderního státu: Mabuse jako algoritmus
+Lang ve filmu přelomovým způsobem formuluje vizuální jazyk moderní sledovací techniky:
+* **Kamera jako bezpečnostní oko:** Obraz opakovaně přejímá statické, neosobní úhly průmyslových kamer (CCTV), snímajících chodby, recepci a výtahy z mírného nadhledu[cite: 116]. Tento odosobněný pohled zbavuje obraz lidské empatie[cite: 116]. Divák je postaven do nepříjemné pozice voyeura a nedobrovolného spolupachatele Mabuseho aparátu[cite: 116].
+* **Zvuková syntéza informací:** Odposlechy v podzemí nahrávají hovory na magnetofonové pásy. Zločin zde neprobíhá jako fyzický akt, nýbrž jako syntéza informací, na jejichž základě neviditelný operátor manipuluje s chováním nic netušících obětí[cite: 116].
 
-Lang v tomto filmu varuje před společností, která vyměnila své soukromí za pohodlí a falešný pocit bezpečí.
+### III. Mabuse jako algoritmus a kritika technokratického státu
 
-* **Neviditelná totalita:** Mabuse v roce 1960 nepoužívá hypnózu, ale technologii. Lang zde kritizuje technokracii bez tváře – moc, která je všude a nikde zároveň.
-* **Ztráta identity:** Lidé v hotelu Luxor už nejsou jedinci, jsou to jen pohyblivé body na monitorech. Lang tímto prorocky předpověděl svět, kde se identita člověka rozpouští v datech.
+Lang podává pronikavou diagnózu západoněmeckého hospodářského zázraku (*Wirtschaftswunder*):
+* **Ztráta tváře pachatele:** Kriminální intriku neřídí fyzicky přítomný Mabuse (který je dávno po smrti), nýbrž průmyslník a psycholog, který přijal jeho identitu[cite: 116]. Vystupuje ve trojí roli: jako slepý věštec Cornelius, jako policejní komisař i jako americký miliardář Henry Travers. Zlo se rozptýlilo do sociálních institucí; je všude a nikde zároveň[cite: 116].
+* **Záměna soukromí za komfort:** Obyvatelé moderního světa se dobrovolně stahují do hotelu Luxor, kde výměnou za luxus, pohodlí a iluzi bezpečí odevzdávají vlastní soukromí[cite: 116]. Lang předpověděl společnost dobrovolného dohledu, v níž lidská bytost ztrácí individuální autonomii a stává se manipulovatelnou figurkou na šachovnici neviditelných ekonomických a politických zájmů[cite: 116].
 
-### III. Závěr: Definitivní sbohem mistra
+### IV. Závěr: Definitivní sbohem mistra a konec kinematografické iluze
 
-Závěr filmu je stejně mrazivý jako Langův odchod z filmového průmyslu.
-
-* **Katarze skrze prázdnotu:** I když je zlo v rámci příběhu odhaleno, Lang naznačuje, že technologie dohledu už v rukou lidstva zůstane.
-* **Odchod do ticha:** Po tomto filmu Lang už nikdy nic nenatočil. Uvědomil si, že jeho vize o světě jako vězení se naplnila. Kinematografie pro něj ztratila smysl ve chvíli, kdy se život stal nekonečným filmem Dr. Mabuseho.
+Závěrečná automobilová honička na mostě a pád Mabuseho limuzíny do řeky přináší zdánlivé žánrové rozuzlení:
+* **Prázdnota bez katarze:** Porážka konkrétního pachatele je iluzorní[cite: 116]. Tisíc očí v hotelu Luxor zůstává nainstalováno; technologická infrastruktura dohledu nemůže být odinstalována a aparát čeká na nového operátora[cite: 116].
+* **Odchod do ticha:** Po tomto filmu již Fritz Lang nenatočil žádný další snímek[cite: 116]. Zjistil, že jeho celoživotní vizionářské varování před mechanizovanou totalitou se stalo všední realitou[cite: 116]. Režisér opustil filmové plátno ve chvíli, kdy se samotný svět proměnil v nekonečný sledovací monitor doktora Mabuseho[cite: 116].
 
 ### Slovníček pojmů a bibliografie
 
-* **Benthamovo panoptikum:** Architektonický a filozofický koncept centrálního dohledu, kde je pozorovaný neustále viditelný, zatímco pozorovatel zůstává skryt.
-* **CCTV estetika:** Vizuální styl využívající statické, neosobní úhly bezpečnostních kamer, které staví diváka do pozice voyeura a spolupachatele.
-* **Technokratická totalita:** Forma moci založená na automatizované technologii, sběru dat a sledování namísto tradičního fyzického násilí či osobní hypnózy.
-* **Algoritmus moci:** Systémový dohled, ve kterém se lidská individualita rozpouští do pouhých datových bodů na monitoru.
+* **Benthamovo panoptikum:** Filozofický a architektonický koncept Jeremyho Benthama (později rozvedený Michelem Foucaultem) popisující vězeňský systém, v němž centrální inspekční věž umožňuje nepřetržitý dohled nad všemi celami, aniž by chovanci věděli, zda jsou v daném okamžiku sledováni[cite: 116].
+* **CCTV estetika:** Specifický filmový styl využívající statické, vyvýšené a širokoúhlé kompozice evokující neosobní záznam bezpečnostních průmyslových kamer[cite: 116].
+* **Technokratická totalita:** Forma moci a společenské kontroly, která nespoléhá na ideologický fanatismus, nýbrž na systémové shromažďování dat, technologický monopol a administrativní dohled nad populací[cite: 116].
 
 **Bibliografie (Chicago Style):**
-* Bogdanovich, Peter. *Fritz Lang in America / The Final Years*. London: Studio Vista, 1967.
-* Eisner, Lotte H. *Fritz Lang*. Translated by Bernard Miall. London: Secker & Warburg, 1976.
-* Gunning, Tom. *The Films of Fritz Lang: Allegories of Vision*. London: BFI Publishing, 2000.
-* Kracauer, Siegfried. *From Caligari to Hitler: A Psychological History of the German Film*. Princeton: Princeton University Press, 1947.
+* Bogdanovich, Peter. *Fritz Lang in America*. London: Studio Vista, 1967[cite: 116].
+* Eisner, Lotte H. *Fritz Lang*. Translated by Bernard Miall. London: Secker & Warburg, 1976[cite: 116].
+* Gunning, Tom. *The Films of Fritz Lang: Allegories of Vision and Modernity*. London: British Film Institute, 2000[cite: 116].
+* Kracauer, Siegfried. *From Caligari to Hitler: A Psychological History of the German Film*. Princeton: Princeton University Press, 1947[cite: 116].
+* Lang, Fritz, dir. *Die 1000 Augen des Dr. Mabuse* (The Thousand Eyes of Dr. Mabuse). Berlin: CCC-Film / CEI Incom, 1960.

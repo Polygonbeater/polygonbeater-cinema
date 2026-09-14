@@ -11,32 +11,37 @@ translationSlug: "casablanca-1942"
 director: "Michael Curtiz"
 ---
 
-*Casablanca*, natočená v roce 1942 a časově úzce spjatá s spojeneckou invazí do Severní Afriky (operace Torch), je mnohem víc než jen válečná romance. Slouží jako silná politická alegorie přechodu Spojených států od doktríny nezasahování k aktivní účasti ve druhé světové válce.
+*Casablanca* (1942, stopáž 102 minut), natočená režisérem Michaelem Curtizem a uvedená do distribuce v těsné návaznosti na spojenecké vylodění v Severní Africe (operace Torch), představuje mnohem více než melodramatickou romanci. Snímek funguje jako přesvědčivá politická alegorie přechodu Spojených států od doktríny nezasahování k přímému vojenskému zapojení do druhé světové války.
 
-## Rick Blaine jako národní alegorie
+### I. Rick Blaine jako národní alegorie
 
-Film zachycuje zásadní zlom v americké psychice. Protagonista Rick Blaine (Humphrey Bogart) ztělesňuje Spojené státy v meziválečném období.
+Film zachycuje hluboký posun v kolektivní mentalitě americké společnosti. Protagonista Rick Blaine (Humphrey Bogart) ztělesňuje trajektorii celého národa v meziválečném období:
+* **Cynický izolacionista:** V úvodu Rick prohlašuje: „Nestrkám hlavu do oprátky pro nikoho.“ Tento postoj dokonale odráží náladu amerického izolacionismu 30. let – touhu zůstat netečný k evropským válkám a soustředit se výhradně na vlastní hospodářskou stabilitu.
+* **Skrytý idealismus:** Pod chladnou slupkou majitele nočního klubu však dříme bývalý bojovník za svobodu, který v minulosti pašoval zbraně do Etiopie a bojoval proti fašismu ve Španělsku.
 
-* **Cynický neutrální pozorovatel:** V úvodu filmu Rick slavně prohlašuje: „Nestrkám hlavu do oprátky pro nikoho.“ Tato věta dokonale vystihuje náladu amerického izolacionismu, která dominovala 30. letům 20. století – touhu zůstat stranou evropských konfliktů a soustředit se výhradně na vlastní zájmy a domácí stabilitu.
+### II. Narativní kritika neutrality a pasivní spoluviny
 
-## Kritikou izolacionismu
+Dramatická struktura filmu systematicky demontuje mýtus o tom, že neutralita může být udržitelným morálním postojem:
+* **Neudržitelnost odstupu:** Rickova snaha vytvořit ze svého podniku neutrální oázu je konfrontována s arogancí nacistické moci (major Strasser) a ryzím odhodláním protinacistického odboje (Victor Laszlo).
+* **Morální imperativ:** Film ukazuje, že tváří v tvář totalitnímu zlu není neutralita projevem rozvahy, nýbrž pasivní kolaborací. Odmítnutí pomoci pronásledovaným znamená nepřímou podporu agresora.
 
-Nativní struktura *Casablanky* je navržena tak, aby rozebrala argumenty pro neutralitu.
+### III. Od vlastního prospěchu k oběti
 
-* **Neudržitelnost apatie:** Film systematicky demonstruje, že „hledět si svého“ je v konfrontaci s totalitní agresí nemožné. Rickova snaha zůstat neutrálním pozorovatelem ve svém podniku je neustále narušována brutalitou nacistické přítomnosti (major Strasser) a morální čistotou odboje (Victor Laszlo).
-* **Pasivní spoluvina:** Snímek nenápadně argumentuje, že tváří v tvář tyranii není izolacionismus neutrálním politickým postojem, nýbrž morálním selháním. Nedělat nic znamená pomáhat utlačovateli.
+Studio Warner Bros., pověstné svým důsledným protinacistickým angažmá, vložilo do snímku jasný mobilizační vzkaz pro americkou veřejnost roku 1942:
+* **Obětování soukromého štěstí:** Rickův vnitřní přerod vrcholí ochotou vzdát se milované Ilsy (Ingrid Bergman) ve prospěch Laszlova politického poslání. Osobní zájmy musejí ustoupit kolektivnímu zápasu o svobodu.
+* **Zrod spojenectví:** Legendární závěrečná scéna na zamlženém letišti, kdy Rick a zkorumpovaný prefekt Renault (Claude Rains) odcházejí bojovat po boku odboje, symbolizuje zrod atlantického spojenectví a definitivní připojení USA ke Svobodným Francouzům a Spojencům.
 
-## Historický dopad a obrat
+### IV. Závěr: Casablanca jako politický manifest
 
-Film, který produkovalo studio Warner Bros. – známé svým včasným a neústupným protinacistickým postojem –, sehrál významnou roli v kultivaci veřejného diskurzu v roce 1942.
+*Casablanca* zůstává nepřekonaným příkladem politického dramatu, které dokonale vystihlo historický zlom let 1941–1942. Přetavila abstraktní geopolitickou debatu v srozumitelný morální imperativ a dokázala, že v éře globálního ohrožení svobody je politická apatie neudržitelným luxusem.
 
-* **Od vlastního prospěchu k oběti:** Vývoj postavy Ricka Blaina odráží nutnou trajektorii celého národa. Jeho proměna z cynického izolacionisty v odhodlaného bojovníka, který obětuje osobní štěstí (Ilsy) ve prospěch vyššího dobra (válečného úsilí), sloužila americké veřejnosti jako mocný vzkaz: osobní a politická neutralita má své hranice.
-* **Výzva k akci:** Film nekončí romantickým spojením, nýbrž vznikem spojenectví (Rick a kapitán Renault kráčející do mlhy), což symbolizuje moment, kdy se USA konečně připojují k Svobodným Francouzům a Spojencům v boji proti fašismu.
+### Slovníček pojmů a bibliografie
 
-### Proč zůstává *Casablanca* definitivním příkladem:
-* Zachycuje specifického ducha doby let 1941–1942 a krystalizuje moment, kdy si Amerika uvědomila, že již nemůže stát stranou.
-* Přerámcovává politickou debatu o izolacionismu v morální imperativ a dokazuje, že nečinnost je nebezpečný luxus.
+* **Politický izolacionismus:** Zahraničněpolitická doktrína usilující o neangažovanost v mezinárodních vojenských konfliktech, dominující politické scéně USA v meziválečné éře.
+* **Národní alegorie:** Narativní postup, kdy osudy, morální dilemata a vývoj fiktivního protagonisty přímo zrcadlí historický vývoj celého státu či společenství.
+* **Vichistická kolaborace:** Režim maršála Pétaina spravující neobsazenou jižní část Francie a kolonie, zosobněný postavou pragmatického kapitána Renaulta balancujícího mezi loajalitou k Němcům a vlastním prospěchem.
 
-### Bibliografie
-* Roffman, Peter, and Jim Purdy. *The Hollywood Social Problem Film*. Indiana University Press, 1981.
-* Wood, Bret. *Orson Welles: A Bio-Bibliography*. Greenwood Press, 1990.
+**Bibliografie (Chicago Style):**
+* Harmetz, Aljean. *Round Up the Usual Suspects: The Making of Casablanca*. New York: Hyperion, 1992.
+* Roffman, Peter, and Jim Purdy. *The Hollywood Social Problem Film: Madness, Despair, and Politics from the Depression to the Fifties*. Bloomington: Indiana University Press, 1981.
+* Schatz, Thomas. *Boom and Bust: American Cinema in the 1940s*. Berkeley: University of California Press, 1999.

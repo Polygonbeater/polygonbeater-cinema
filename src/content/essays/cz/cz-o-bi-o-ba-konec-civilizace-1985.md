@@ -1,9 +1,9 @@
 ---
-title: "O-Bi, O-Ba: Konec civilizace (1985) – Architektura vykonstruované naděje"
-film: "O-Bi, O-Ba: Konec civilizace (1985)"
+title: "O-Bi, O-Ba: Konec civilizace (1985): Architektura vykonstruované naděje"
+film: "O-Bi, O-Ba: Konec civilizace / O-bi, O-ba: Koniec cywilizacji (1985)"
 year: 1985
-date: "2026-09-02"
-description: "Piotr Szulkin zkoumá terminální fázi lidstva uzavřeného v rozpadajícím se podzemním bunkru, kde instituce využívají mýtus o záchranné Arše k udržení kontroly nad populací bez budoucnosti."
+date: "2026-09-03"
+description: "Analytická studie postapokalyptického sci-fi Piotra Szulkina zkoumající mýtus o záchranné Arše, rozklad podzemní Kopule, sociální entropii a byrokracii zmaru."
 image: "/images/essays/o-bi-o-ba-konec-civilizace-1985.webp"
 
 lang: "cz"
@@ -11,19 +11,41 @@ translationSlug: "o-bi-o-ba-konec-civilizace-1985"
 director: "Piotr Szulkin"
 ---
 
-Piotr Szulkin ve svém sci-fi snímku O-Bi, O-Ba: Konec civilizace (1985) opouští tradiční žánrové konvence postapokalyptického filmu. Nezaměřuje se na fyzický boj o přežití v pustině, ale na terminální fázi lidské společnosti uzavřené v rozpadajícím se podzemním bunkru (Kopuli) po jaderné válce. Film funguje jako mrazivá sociologická studie, která zkoumá, jak institucionální moc využívá mýtus k udržení kontroly nad populací, jež už reálně nemá žádnou budoucnost.
+Snímek Piotra Szulkina *O-Bi, O-Ba: Konec civilizace* (*O-bi, O-ba: Koniec cywilizacji*, 1985, stopáž 88 minut), třetí část jeho volné sci-fi tetralogie, radikálně dekonstruuje tradiční schémata postapokalyptického žánru. Szulkin neinscenuje hrdinský boj o přežití v nukleární pustině; zaměřuje se na terminální stádium lidské společnosti uzavřené v rozpadajícím se podzemním betonovém bunkru (Kopuli) po globální jaderné katastrofě. 
 
-### Archa jako nástroj moci
-Ústředním motivem narativu je mýtus o „Arše“ – záchranné lodi, která má obyvatele Kopule spasit. Film však postupně naznačuje, že Archa je spíše propagandistický konstrukt než reálná možnost záchrany. Szulkin ukazuje, že Archa funguje především jako mocenský mýtus udržovaný vládnoucími strukturami. Je to psychologický tlumič, který má zabránit anarchii a poskytnout lidem iluzi cíle.
+Film funguje jako mrazivá sociologická a politická parabola o moci, která v situaci materiálního i biologického kolapsu udržuje kontrolu nad obyvatelstvem prostřednictvím cynicky vykonstruovaného spasitelského mýtu.
 
-Tento konstrukt lze interpretovat jako ostrou alegorii pozdního totalitarismu (specificky polského reálného socialismu 80. let). Systém již nedokáže zajistit základní materiální potřeby, Kopule se fyzicky hroutí, a tak instituce distribuuje iluzi. Szulkin ukazuje naději nikoliv jako pozitivní lidskou vlastnost, ale jako ultimátní opium, paralyzující nástroj, který brání vzpouře a udržuje masy v pasivní agónii.
+### I. Archa jako mocenský mýtus a sociální anestetikum
 
-### Vizuální entropie a klaustrofobie
-Formální stránka filmu je zcela podřízena konceptu fyzického a morálního rozkladu. Scénografie a svícení vytvářejí svět, který je zbaven přirozeného světla. Interiéry jsou vlhké, tísnivé, osvětlené pouze studenými neony a nouzovými žárovkami. Kostýmy zhmotňují absolutní nedostatek – postavy nosí hadry, které jsou vizuálním důkazem civilizační regrese.
+Ústřední osou společenského uspořádání v podzemí je fanatická víra v příchod „Archy“ – mýtické vesmírné lodi, jež má zachránit přeživší z trosek bunkru:
+* **Falešná eschatologie:** Špionážní úředník Soft (Jerzy Stuhr) postupně odhaluje, že Archa nikdy neexistovala. Byla vymyšlena samotným velením bunkru jako propagandistická lež a psychologický tlumič vzpoury.
+* **Naděje jako paralyzující nástroj:** Szulkin demaskuje naději nikoliv jako ušlechtilou lidskou vlastnost, nýbrž jako smrtící narkotikum. Obyvatelé Kopule pasivně čekají na zázrak, namísto aby opravovali pukající betonové stěny a chránili své holé životy. Mýtus o spáse udržuje masy v poslušné agónii a legitimizuje vládnoucí aparát.
 
-Tuto vizuální entropii lze číst jako metaforický model degradace prostoru a psychického stavu společnosti. Kamera se často pohybuje v těsných, přelidněných chodbách, čímž evokuje pocit, že postavy nejsou lidskými bytostmi s vlastní vůlí, ale spíše hmyzem uvězněným v hroutícím se úlu. Kopule není úkrytem, ale hromadnou hrobkou, do níž pomalu zatéká mrazivá voda.
+### II. Vizuální entropie a klaustrofobie podzemního úlu
 
-### Byrokracie apokalypsy
-Nejděsivějším aspektem Szulkinovy vize není hrozba radiace, ale všudypřítomná apatie. Soft (Jerzy Stuhr), který působí jako úředník a správce společenského pořádku v Kopuli, prochází tímto světem s cynickou rezignací. Instituce nadále trvají na dodržování protokolů, předpisů a třídních rozdílů, přestože strop bunkru již doslova praská.
+Výtvarná koncepce filmu zhmotňuje materiální a duchovní rozklad společnosti zbavené slunce:
+* **Klinická špína a neonový chlad:** Kamera Witolda Sobocińského rámuje prostor v tísnivých, vlhkých modrozelených a šedých tónech. Interiéry jsou zaplaveny prosakující radioaktivní vodou, párou, rozpadajícími se kabely a rezavým potrubím.
+* **Hmyzí existence:** Přelidněné koridory bunkru nepředstavují domov, nýbrž gigantický hnijící úl. Postavy jsou oděny do špinavých hadrů a igelitů, které stírají rozdíly mezi pohlavími i společenskými třídami. Lidská existence je zredukována na živočišné přežívání a obchodování s bezcennými papírovými bankovkami a zbytky jídla.
 
-Film tak demystifikuje samotný zánik. Apokalypsa zde není velkolepou katarzní událostí, nýbrž pomalým, byrokraticky řízeným uhníváním. O-Bi, O-Ba je krutou diagnózou lidské povahy: tváří v tvář jisté destrukci se společnost nesemkne k hrdinskému činu, ale raději se nechá uchlácholit lží, zatímco instituce mechanicky vykonávají své funkce až do úplného utonutí.
+### III. Byrokracie apokalypsy a postava Softa
+
+Nejděsivějším prvkem Szulkinovy vize není hrozba mrazu a radiace zvenčí, nýbrž všudypřítomná institucionální netečnost:
+* **Správce v agonii:** Soft prochází labyrintem bunkru jako unavený byrokrat zkázy. Setkává se s politickými pohlaváry, prostitutkami, šmelináři i vědci, přičemž všichni mechanicky lpí na svých institucionálních rituálech a hierarchiích, přestože strop nad jejich hlavami doslova praská pod vahou ledu.
+* **Alegorie pozdního socialismu:** Snímek představuje brilantní satiru na vyprázdněný polský komunistický režim éry stanného práva osmdesátých let. Systém už nedokáže zajistit základní životní potřeby ani teplo, ekonomika je v troskách, a tak aparát distribuuje pouze falešnou ideologickou naději a represi.
+
+### IV. Závěr: Apokalypsa jako administrativní uhnívání
+
+Finále filmu definitivně odmítá jakoukoliv transcendentální katarzi:
+* **Prolomení klenby:** Když strop Kopule nevydrží tlak a ledová masa začne pohřbívat poslední zbytky obyvatel, lidé neprchají do bezpečí; v extatickém šílenství se vrhají vstříc bílému světlu a padajícímu ledu v domnění, že přistála vysněná Archa.
+* **Triumf sebeklamu:** Soft zůstává sám uprostřed hroutícího se betonu. *O-Bi, O-Ba* dokazuje, že civilizace nezaniká hrdinským výbuchem, nýbrž tichým, byrokraticky řízeným rozkladem, v němž společnost raději dobrovolně zvolí smrt v iluzi než bolestnou pravdu o vlastním konci.
+
+### Slovníček pojmů a bibliografie
+
+* **Sociální entropie:** Nevratný proces postupného rozpadu společenských vazeb, morálních norem a institucionálních struktur v uzavřeném prostředí krize.
+* **Spasitelský mýtus (Mýtus Archy):** Manipulativní ideologická konstrukce sloužící k udržení poslušnosti ovládaných mas příslibem vnější záchrany.
+* **Szulkinovská dystopie:** Specifický subžánr polského sci-fi filmu (Piotr Szulkin) propojující postapokalyptické kulisy, kousavou grotesku, kafkovskou byrokracii a ostrou kritiku totalitarismu.
+
+**Bibliografie (Chicago Style):**
+* Loska, Krzysztof. "Wizje końca świata w polskim filmie science fiction." *Kwartalnik Filmowy*, no. 43 (2003): 145–158.
+* Sobolewski, Tadeusz. *Za duży blask: O kinie współczesnym*. Kraków: Znak, 2004.
+* Szulkin, Piotr, dir. *O-bi, O-ba: Koniec cywilizacji* (Motion Picture). Warszawa: Zespół Filmowy Perspektywa, 1985.

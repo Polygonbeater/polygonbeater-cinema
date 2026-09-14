@@ -1,9 +1,9 @@
 ---
-title: "Krátký film o zabíjení (1988) – Anatomie mechanické smrti"
-film: "Krátký film o zabíjení (1988)"
+title: "Krátký film o zabíjení (Krótki film o zabijaniu, 1988): Anatomie mechanické smrti"
+film: "Krátký film o zabíjení / Krótki film o zabijaniu (1988)"
 year: 1988
-date: "2026-09-02"
-description: "Krzysztof Kieślowski zbavuje vraždu i státní popravu romantického nátěru a vytváří chladnou, metodickou studii physicality umírání a institucionální brutality."
+date: "2026-09-03"
+description: "Analytická studie mistrovského díla Krzysztofa Kieślowského zkoumající etickou symetrii individuální vraždy a státem řízené popravy, toxickou vizuální asfyxii Sławomira Idziaka a fyzickou tíhu umírání."
 image: "/images/essays/krotki-film-o-zabijaniu-1988.webp"
 
 lang: "cz"
@@ -11,22 +11,42 @@ translationSlug: "krotki-film-o-zabijaniu-1988"
 director: "Krzysztof Kieślowski"
 ---
 
-Krzysztof Kieślowski ve svém snímku Krátký film o zabíjení (1988) zbavuje akt vraždy jakéhokoliv žánrového, romantického či katarzního nátěru. Nejde o horor ani o klasický thriller. Je to chladná, metodická studie toho, jak obrovské fyzické i institucionální úsilí je potřeba k tomu, aby byl ukončen lidský život. Film ukazuje brutalitu nikoliv jako exces, ale jako banální, namáhavý a špinavý proces.
+Snímek Krzysztofa Kieślowského *Krátký film o zabíjení* (*Krótki film o zabijaniu*, 1988, stopáž 84 minut), rozšířená celovečerní verze pátého dílu televizního cyklu *Dekalog*, představuje jeden z nejdrtivějších etických traktátů v dějinách světové kinematografie. Kieślowski zbavuje akt usmrcení člověka jakéhokoliv žánrového nátěru, romantického heroizmu či hollywoodské katarze. Nejedná se o kriminální thriller ani o horor; je to chladná, metodická pitva obrovské fyzické námahy a institucionálního chladu, které jsou zapotřebí k definitivnímu vyhasnutí lidského života.
 
-### Fyzika uškrcení
-Středobodem filmu je vražda taxikáře, kterou spáchá mladík Jacek. V klasické kinematografii trvá smrt několik vteřin a často nese estetickou nebo morální hodnotu. Kieślowski a kameraman Sławomir Idziak však tuto scénu natahují do mimořádně dlouhé a agonizující sekvence, která patří k nejdiskutovanějším scénám násilí evropské kinematografie 80. let.
+Tato studie analyzuje film skrze etickou symetrii dvou vražd (soukromé a státem posvěcené), vizuální klaustrofobii toxických filtrů Sławomira Idziaka a demystifikaci trestu smrti.
 
-Tuto scénu lze analyzovat jako záměrnou destrukci filmového mýtu o smrti. Zabití zde není aktem síly, ale neohrabaným, chaotickým a vyčerpávajícím procesem. Jacek taxikáře škrtí, bije, a když oběť stále dýchá, musí použít kámen. Film nás nutí sledovat samotnou mechaniku umírání, zvířecí odpor těla a hrůznou banalitu krve a špíny. Brutalita zde nespočívá v krvi, ale v té nesnesitelné délce a fyzické tíze činu.
+### I. Fyzika uškrcení a demystifikace individuálního násilí
 
-### Symetrie násilí a chlad státu
-Kieślowského snímek je vystavěn na paralelním sledování tří postav (Jacka, taxikáře a mladého advokáta Piotra), jejichž osudy se postupně spojí do mrazivé symetrie. Po Jackově chaotické vraždě následuje druhá vražda – poprava Jacka státem. Z hlediska sociologického a právního rámce lze film číst jako zdrcující kritiku trestu smrti.
+Středobodem první poloviny filmu je brutální vražda taxikáře Mariana, kterou na opuštěném břehu Visly spáchá dvacetiletý tulák Jacek Lazar (Mirosław Baka):
+* **Agonická délka trvání:** V běžné kinematografii trvá filmová smrt několik vteřin. Kieślowski tuto sekvenci záměrně natahuje do sedmi minut nesnesitelného fyzického zápasu. Zabití zde není elegantním úkonem; je to neohrabaný, upocený a mechanicky namáhavý proces.
+* **Odpor biologické hmoty:** Jacek oběť škrtí šňůrou, bije pěstmi, rdousí a v panice doráží masivním kamenem zabaleným do novin. Kamera nutí diváka vnímat zvířecí pud sebezáchovy bránícího se těla, chropění, krev a prach. Násilí je zbaveno veškeré estetizace a představeno jako odporná, žalostná dřina.
 
-Státní mašinérie je zde zobrazena s děsivou pečlivostí. Příprava oprátky, kontrola mechanismu propadla, byrokratické procedury a přítomnost lékaře tvoří institucionální zrcadlo k Jackovu činu. Film záměrně staví oba akty vedle sebe a vybízí diváka k otázce, zda mezi soukromou vraždou a klinickou státní popravou existuje zásadní morální rozdíl. Brutalita instituce je o to děsivější, že se halí do pláště spravedlnosti.
+### II. Symetrie násilí a chlad institucionální popravy
 
-### Vizuální asfyxie
-Klíčovým prvkem filmu je jeho technická a obrazová realizace. Sławomir Idziak použil přes objektiv soustavu vlastnoručně upravených zelených a žlutých filtrů. Výsledkem je obraz, který vypadá jako nemocný. Nebe není modré, ale toxicky žlutozelené, tváře lidí působí nezdravě, okraje záběrů jsou často potaženy temnou vinětací.
+Kieślowského dramaturgický génius spočívá v paralelním sledování osudů tří mužů – vraha Jacka, oběti taxikáře a mladého idealistického advokáta Piotra Balického (Krzysztof Globisz), který právě složil advokátní zkoušky a dostává Jacka jako svůj první případ:
+* **Zrcadlení dvou vražd:** Po brutálním činu následuje druhá vražda – státem organizovaná poprava oběšením v suterénu varšavské věznice. Kieślowski buduje mezi oběma akty dokonalou morální a mechanickou symetrii.
+* **Byrokratická rutina smrti:** Poprava je provedena s děsivou procedurální pečlivostí. Přítomnost prokurátora, soudce, lékaře a kata, přezkoušení mechanismu propadla, položení mísy na piliny pod oprátku a nabídnutí poslední cigarety tvoří institucionální rituál. Státní mašinérie zabíjí bez hněvu, čistě administrativně. Film klade divákovi neúprosnou otázku: jaký je morální rozdíl mezi zločinem vyšinutého mladíka a chladnokrevnou, zákonem posvěcenou vraždou vykonanou jménem společnosti?
 
-Tento kameramanský postup neslouží jen k vytvoření „špinavé“ atmosféry. Lze jej interpretovat jako vizualizaci společenské a morální dezintegrace pozdně socialistické Varšavy. Svět ve filmu vypadá, jako by se dusil, ještě předtím, než se vůbec utáhne první smyčka na krku. Idziakovo snímání nedovoluje divákovi únik; každá kompozice funguje jako klaustrofobická past.
+### III. Vizuální asfyxie: Žlutozelený filtr Sławomira Idziaka
 
-### Závěr: Smrt bez glorifikace
-Krátký film o zabíjení je dílem, které diváka fyzicky vyčerpává. Nenechává prostor pro slitování, neomlouvá vraha a nedává rozhřešení ani státu. Je to ultimátní demystifikace smrti. Ukazuje, že zabití člověka – ať už v bahně na okraji města, nebo v kachličkami obložené cele – je vždy fyzickým přerušením lidského života, zbaveným glorifikace i romantizace. Je to brutalita obnažená na kost.
+Vizuální řešení kameramana Sławomira Idziaka činí z filmu fyzicky tísnivý zážitek:
+* **Optická infekce:** Idziak použil soustavu speciálně vyrobených zelenožlutých filtrů v kombinaci s masivní horní a boční vinětací (ztmavením okrajů obrazu). Varšava pozdního socialismu nevypadá jako reálné město, nýbrž jako nemocný, rozpadající se svět bez nebe, slunce a čistého vzduchu.
+* **Pocit dušení:** Obraz působí dojmem asfyxie (dušení) dávno předtím, než se utáhne první smyčka. Filtry stírají lidskou kůži do voskových, mrtvolných tónů a uzavírají postavy do beznadějného klaustrofobního prostoru, z něhož nelze uniknout.
+
+### IV. Závěr: Smrt bez glorifikace a etický imperativ
+
+Závěrečný výkřik zoufalství mladého advokáta Piotra v autě po vykonané popravě (*„Nenávidím to, nenávidím!“*) shrnuje etické poselství celého díla:
+* **Politický dopad:** Film vyvolal v Polsku i v celé Evropě masivní celospolečenskou debatu o legitimitě hrdelního práva a přímo přispěl k vyhlášení moratoria a následnému zrušení trestu smrti v Polsku.
+* **Absolutní demystifikace:** *Krátký film o zabíjení* zůstává nekompromisním mementem. Dokázal, že zabití člověka – ať už na blátivé cestě zmateným individuem, nebo v kachličkované vězeňské cele v souladu s trestním řádem – představuje vždy neodvolatelné přetržení lidského bytí, před nímž nelze obstát s čistým svědomím.
+
+### Slovníček pojmů a bibliografie
+
+* **Vizuální asfyxie:** Kameramanský postup (Sławomir Idziak) využívající zabarvené filtry a vinětaci k navození tísnivého pocitu dušení, toxického prostředí a prostorové bezvýchodnosti.
+* **Symetrie násilí:** Filozofické a narativní srovnání individuálního zločinu a státem organizovaného trestu smrti, odhalující jejich totožnou destruktivní podstatu.
+* **Institucionální zabíjení:** Mechanizovaný proces popravy zbavený emocí, prováděný úředním aparátem pod rouškou formální spravedlnosti.
+
+**Bibliografie (Chicago Style):**
+* Insdorf, Annette. *Double Lives, Second Chances: The Cinema of Krzysztof Kieślowski*. New York: Hyperion, 1999.
+* Kieślowski, Krzysztof. *Kieślowski on Kieślowski*. Edited by Danusia Stok. London: Faber and Faber, 1993.
+* Kieślowski, Krzysztof, and Krzysztof Piesiewicz. *Decalogue: The Ten Commandments*. London: Faber and Faber, 1991.
+* Žižek, Slavoj. *The Fright of Real Tears: Krzysztof Kieślowski between Theory and Post-Theory*. London: British Film Institute, 2001.

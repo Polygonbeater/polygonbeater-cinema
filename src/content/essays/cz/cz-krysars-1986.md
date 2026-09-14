@@ -1,9 +1,9 @@
 ---
 title: "Krysař (1986): Dřevěná apokalypsa a mravní rozpad"
-film: "Krysař (1986)"
+film: "Krysař / The Pied Piper (1986)"
 year: 1986
 date: "2026-09-03"
-description: "Hloubková analýza loutkového mistrovského díla Jiřího Barty, zkoumající morální hnilobu, totalitní alegorii a expresivní stop-motion animaci."
+description: "Hloubková analýza loutkového mistrovského díla Jiřího Barty zkoumající morální hnilobu, expresionistickou stop-motion animaci a totalitní alegorii chamtivosti."
 image: "/images/essays/krysars-1986.webp"
 
 lang: "cz"
@@ -13,38 +13,40 @@ director: "Jiří Barta"
 
 > *„Když město přestalo naslouchat, flétna si vzpomněla, jak mluvit.“*
 
-*Krysař* Jiřího Barty z roku 1986 představuje jednu z nejtemnějších a nejpůsobivějších alegorií v dějinách animace – příběh vytesaný ze dřeva, stínů a ticha. Barta proměňuje klasickou pověst z Hamelin v noční můru o morálním úpadku, chamtivosti a kolapsu lidského ducha. Nejde o příběh potkanů, nýbrž o zprávu o tom, co zbude, když se lidé sami potkany stanou.
+Snímek Jiřího Barty *Krysař* (1986, stopáž 53 minut) představuje jednu z nejtemnějších a výtvarně nejpůsobivějších alegorií v dějinách světové animace – monumentální baladu vytesanou ze dřeva, ostrých stínů a tísnivého ticha. Barta radikálně přetváří klasickou saskou pověst o krysaři z Hameln (i její literární zpracování Viktorem Dykem) v mrazivé podobenství o etickém rozkladu, nenasytnosti a nevyhnutelném kolapsu civilizace, která vyměnila lidskost za mamon. Nejde o pouhý příběh deratizátora; je to nekompromisní zpráva o tom, co zbude ze společnosti, v níž se lidé sami stali krysami[cite: 101].
 
-## Dřevěný svět mrtvých
+### I. Dřevěný svět mrtvých a expresionistická architektura
 
-Každý záběr *Krysaře* je vystavěný, nikoliv kreslený – miniaturní město zkroucených dřevěných domů, křivých věží a loutkových občanů, kteří skřípou a klikají jako stroje.
+Výtvarné řešení filmu, na němž Barta spolupracoval s výtvarníkem Janem Bulánkem, zcela odmítá líbivost tradiční loutky:
+* **Kubisticko-expresionistická deformace:** Město Hameln je vystavěno z těžkých, zkroucených dřevěných trámů, křivých věží a nakloněných portálů[cite: 101]. Architektura působí jako klaustrofobní past, v níž se postavy pohybují v mechanických, trhaných repeticích[cite: 101].
+* **Měšťané jako orloj chamtivosti:** Obyvatelé města nejsou individualizovanými charaktery, nýbrž groteskními dřevěnými reliéfy s vyřezanými grimasami bezohlednosti, žranice a lakoty[cite: 101]. Místo artikulované lidské řeči vydávají pouze skřeky, mechanické klapání čelistí a skřípavé pazvuky evokující soukolí nefunkčního stroje[cite: 101]. Zlato je všudypřítomnou modlou, jež balzamuje veškeré projevy soucitu[cite: 101].
 
-* **Karikatury nenasytnosti:** Měšťáci se pohybují v trhaných repeticích, jejich tváře jsou vyřezány do groteskních masek chtíče, obžerství a posedlosti. Zlato se leskne všude, ale duši neprozáří žádné světlo.
-* **Balzamované město:** Celé město působí jako balzamovaná plastika korupce, kde i hlodavci vykazují více života než jejich lidští páni.
+### II. Krysař jako neúprosný soudce a očistný živel
 
-## Krysař jako zúčtování
+Titulní postava vstupuje do vyprázdněného města jako přízračný poutník z jiného světa:
+* **Stín bez tváře:** Krysař je zahalen v beztvarém černém plášti; jeho tvář zůstává skryta pod kápí, z níž vystupují pouze pronikavé oči[cite: 101]. Nevystupuje jako mstitel či námezdní lovec, nýbrž jako personifikace svědomí a kosmického řádu[cite: 101].
+* **Pravda flétny:** Zvuk jeho píšťaly (v hudebním pojetí Michaela Kocába) nepředstavuje líbeznou melodii, ale syrové zvukové echo pravdy[cite: 101]. Krysy, které vyrazí ze šachet a podlah, nejsou vnější pohromou, nýbrž fyzickou manifestací hniloby, již si měšťané sami vypěstovali[cite: 101]. Když konšelé poruší smlouvu a odmítnou vyplatit slíbenou odměnu, nepropadá hněvu – chladně naplňuje zákon příčiny a následku[cite: 101].
 
-Krysař nevstupuje do příběhu jako hrdina, nýbrž jako stín – tichý prorok zahalený do tmy.
+### III. Hmatový stop-motion rozklad a materiálová syrovost
 
-* **Hlas pravdy:** Jeho flétna neslibuje radost ani vykoupení, nýbrž přivolává pravdu. Když spustí, krysy se vyhrnou ze škvír jako probuzené svědomí a proženou se městem, aby zničily iluzi řádu.
-* **Očistná píseň:** Když ho měšťané zradí a odepřou mu odměnu, jeho finální melodie není pomstou. Je to očištění; odvádí děti pryč, aby je zachránil před světem, který je duchovně mrtvý.
+Bartova animační metoda představuje vrcholný protiklad k uhlazené studiové animaci:
+* **Fyzický odpor hmoty:** Film důsledně exponuje materiálovou strukturu – letokruhy vyřezávaného dřeva, třísky, zkorodované železo, prach a kosti[cite: 101]. Pohyb loutek není hladký; drhne v kloubech, což umocňuje pocit ztuhlé, odumírající reality[cite: 101].
+* **Krysy z pravé kožešiny:** Využití reálných kožešin a kostí pro hlodavce vnáší do stylizovaného dřevěného světa znepokojivý biologický naturalismus, který stírá hranici mezi pohádkou a somatickým děsem.
 
-## Stop-motion jako rozklad
+### IV. Závěr: Apokalypsa do propasti a novorozeně v troskách
 
-Bartova animace je pravým opakem disneyovské hladkosti – je syrová, fyzická a nedokonalá. Každý pohyb drhne jako ozubené kolo vyskakovající z osy a světlo bliká jako dohasínající svíce. Dominují textury: prach, letokruhy dřeva a zašlý kov. Jde o animaci jako archeologii, která odkrývá vrstvy civilizace coby hnilobu.
+Závěrečná katarze odmítá romantické smíření. Krysař svou flétnou neomámí děti, nýbrž celé dospělé obyvatelstvo města:
+* **Proměna v hlodavce:** V halucinačním finále se měšťané sami mění v krysy a v hysterickém tranzu se vrhají ze srázu do propasti. Civilizace zkažená chamtivostí požírá samu sebe[cite: 101].
+* **Nevinnost na prahu nového věku:** Jedinými přeživšími v mrtvém, ztichlém Hameln zůstávají starý rybář a opuštěné novorozeně. Rybář dítě odnáší pryč ze zničeného města, čímž Barta nabízí křehkou naději na nový začátek mimo dosah civilizačního mamonu. *Krysař* zůstává nadčasovým mementem o tom, že společnost, která zapomene na etiku a lidskost, je odsouzena k vlastnímu sebezničení[cite: 101].
 
-## Podobenství o kontrole a korupci
+### Slovníček pojmů a bibliografie
 
-Snímek vznikl v závěrečném období komunistického Československa a nese v sobě nezaměnitelnou váhu alegorie. Uctívání zlata ze strany měšťanů zrcadlí morální úpadek poslušné společnosti, která vyměnila individualitu za materiální pohodlí. Jejich pád není božským trestem, nýbrž logickým vyústěním vlastní slepoty.
+* **Dřevěný expresionismus:** Specifický výtvarný koncept Jiřího Barty kombinující řezbářskou tradici s ostrými úhly a pokřivenou perspektivou německého filmového expresionismu[cite: 101].
+* **Animovaná alegorie moci:** Narativní postup využívající loutkovou formu k politické obžalobě konformismu, korupce a morálního úpadku totalitní společnosti[cite: 101].
+* **Materiálová haptika:** Důraz na fyzickou strukturu použitých materiálů (dřevo, rez, kožešina), vyvolávající u diváka bezprostřední smyslový pocit tíže a rozpadu[cite: 101].
 
-## Odkaz
-
-* Grand Prix na Mezinárodním festivalu animovaných filmů v Annecy (1986).
-* Považován za jeden z vrcholů českého loutkového expresionismu.
-* Ovlivnil generaci surrealistických animátorů včetně bratří Quayů.
-
-> *„Píseň krysaře není pomstou – je pamětí. Hraje pro všechny, kdo kdysi slyšeli pravdu a místo ní si zvolili zlato.“*
-
-### Bibliografie
-* Liehm, Antonín J., & Liehm, Mira. *The Most Important Art: Eastern European Film After 1945*. University of California Press, 1977.
-* Hames, Peter. *Czech and Slovak Cinema: Theme and Tradition*. Edinburgh University Press, 2009.
+**Bibliografie (Chicago Style):**
+* Barta, Jiří, dir. *Krysař* (The Pied Piper). Praha: Krátký film Praha / Studio Jiřího Trnky, 1986.
+* Hames, Peter. *Czech and Slovak Cinema: Theme and Tradition*. Edinburgh: Edinburgh University Press, 2009[cite: 101].
+* Liehm, Antonín J., and Mira Liehm. *The Most Important Art: Eastern European Film After 1945*. Berkeley: University of California Press, 1977[cite: 101].
+* Ulver, Stanislav, ed. *Animace a doba: Sborník k dějinám českého animovaného filmu*. Praha: Sdružení přátel animovaného filmu, 2004.

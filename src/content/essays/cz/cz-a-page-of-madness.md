@@ -1,25 +1,44 @@
 ---
-title: "A Page of Madness (Kurutta Ippêji, 1926)"
-film: "A Page of Madness"
-date: "2026-09-02"
-description: "Ztracený stín z roku 1926 — analýza radikálního japonského experimentu."
+title: "A Page of Madness (Kurutta Ippêji, 1926): Kinetická psychóza a avantgarda beze slov"
+film: "A Page of Madness / Kurutta Ippêji (1926)"
+year: 1926
+date: "2026-09-03"
+description: "Analytická studie radikálního němého experimentu Teinosukeho Kinugasy zkoumající optické deformace, absenci mezititulků a subjektivizaci šílenství."
 image: "/images/essays/a-page-of-madness.webp"
 
 lang: "cz"
 translationSlug: "a-page-of-madness"
 director: "Teinosuke Kinugasa"
-year: 1926
 ---
 
-Píše se rok 1971. Stárnoucí režisér Teinosuke Kinugasa prohledává starý sklad na svém pozemku a v zaprášených krabicích po téměř padesáti letech objevuje zázrak: dochovaný originální filmový materiál svého vlastního filmu, který byl filmovým světem dlouho považován za navždy ztracený [^1]. V kůlně tak po celá desetiletí spočíval ukrytý film *A Page of Madness* (Kurutta Ippêji, 1926) – jeden z nejradikálnějších experimentů v dějinách kinematografie.
+Píše se rok 1971. Stárnoucí režisér Teinosuke Kinugasa prohledává sklad na svém venkovském pozemku a v zaprášených krabicích po téměř padesáti letech objevuje filmový zázrak: dochovaný originální negativ vlastního filmu, který mezinárodní filmová věda dávno pokládala za ztracený. V kůlně po celá desetiletí odpočíval snímek *A Page of Madness* (*Kurutta Ippêji*, 1926) – jeden z nejodvážnějších formálních experimentů v dějinách světové kinematografie.
 
-Příběh tohoto snímku nás vrací zpět do poloviny dvacátých let, do období krátce po ničivém zemětřesení v Kantó. Kinugasa se tehdy spojil s literární skupinou Shinkankakuha (Nová škola vnímání) a spolu s budoucím nositelem Nobelovy ceny Jasunarim Kawabatou vytvořili dílo, které zásadně odmítlo tehdejší filmové konvence [^2].
+### I. Skupina Shinkankakuha a radikální moderna
 
-*A Page of Madness* se odehrává v psychiatrické léčebně, ale příběh správce a jeho hospitalizované manželky není vyprávěn slovy. Snímek záměrně neobsahuje žádné mezititulky, které byly pro němý film tehdejší doby běžné [^3]. Místo textu působí na diváka čistá, kinetická energie obrazu. Kamera narušuje realitu pomocí optických deformací, filtrů a experimentálních kamerových postupů, které proměňují prostředí léčebny v noční můru. Přímé vrstvení obrazů (superimpozice) vytváří hutný vizuální šum, zatímco rytmická montáž vtahuje diváka do roztříštěného vnímání pacientů [^4].
+Snímek vznikl v bouřlivém ovzduší po ničivém zemětřesení v regionu Kantó v roce 1923, které rozbilo tradiční společenské jistoty a otevřelo prostor radikální avantgardě. Kinugasa spojil síly s literární skupinou *Shinkankakuha* (Nová škola vnímání) v čele s budoucím nobelistou Jasunarim Kawabatou. Cílem nebylo adaptovat literární příběh, nýbrž stvořit čistě kinematografický zážitek, který obchází verbální logiku a útočí přímo na smysly diváka.
 
-Nejde o film, který by měl být pouze sledován; je to dílo, které je třeba vizuálně rozluštit. Pokud tě zajímá filmové řemeslo, práce se světlem a hranice obrazového vyprávění bez slov, jde o jedno ze zásadních děl kinematografie roku 1926.
+### II. Absence mezititulků: Narace čistým rytmem
 
-[^1]: Richie, Donald. *A Hundred Years of Japanese Film*. Kodansha International, 2001, s. 92.
-[^2]: Gerow, Aaron. *A Page of Madness: Cinema and Modernity in 1920s Japan*. Center for Japanese Studies, University of Michigan, 2008, s. 12–14.
-[^3]: Tamtéž, s. 42–43.
-[^4]: Richie, Donald. *A Hundred Years of Japanese Film*, s. 93.
+Příběh starého námořníka, který se nechá zaměstnat jako zřízenec v blázinci, aby byl nablízku své hospitalizované duševně nemocné ženě, je vyprávěn bez jediného vysvětlujícího mezititulku:
+* **Emancipace obrazu:** Kinugasa záměrně odmítl jak berličku textových karet, tak přítomnost tradičního japonského vypravěče (*benši*), který v kinech běžně doprovázel němé filmy.
+* **Montážní kinetika:** Význam není budován kauzální posloupností děje, ale rytmickými asociacemi, zběsilým střihem a kontrapunktem detailů mříží, tekoucí vody a tančících těl.
+
+### III. Optické deformace a subjektivizace psychózy
+
+Prostředí léčebny není zobrazeno z odstupu chladného pozorovatele. Kamera využívá distorzní čočky, zakřivená zrcadla a promyšlené vrstvení expozic (superimpozice):
+* **Stírání normality:** Hranice mezi vnitřním světem pacientů a realitou zřízence zcela mizí. Zlatá mříž blázince se proměňuje v univerzální klec lidského vědomí.
+* **Karnavalizace utrpení:** Závěrečná snová scéna rozdávání masek pacientům demonstruje, že iluze štěstí a maska normality jsou jedinou obranou před nesnesitelnou tíhou reality.
+
+### IV. Závěr: Odkaz ztraceného mistrovského díla
+
+*A Page of Madness* předběhl svou dobu o celá desetiletí. Zatímco německý expresionismus budoval iluzi šílenství především skrze malované kulisy, Kinugasa dosáhl téhož účinku čistě kinematografickými prostředky – pohybem kamery, světlem a střihem. Jde o základní kámen asijské filmové avantgardy, který i po sto letech ohromuje svou nezkrocenou vizuální energií.
+
+### Slovníček pojmů a bibliografie
+
+* **Shinkankakuha (Nová škola vnímání):** Japonské meziválečné modernistické hnutí usilující o zachycení bezprostředních smyslových vjemů namísto realistického popisu.
+* **Benši (Benshi):** Tradiční japonští živí vypravěči doprovázející promítání němých filmů; Kinugasa jejich roli záměrně vyloučil.
+* **Superimpozice:** Vícenásobná expozice umožňující vrstvení několika obrazů přes sebe za účelem evokace psychického zmatku a halucinace.
+
+**Bibliografie (Chicago Style):**
+* Gerow, Aaron. *A Page of Madness: Cinema and Modernity in 1920s Japan*. Ann Arbor: Center for Japanese Studies, University of Michigan, 2008.
+* Richie, Donald. *A Hundred Years of Japanese Film*. Tokyo: Kodansha International, 2001.

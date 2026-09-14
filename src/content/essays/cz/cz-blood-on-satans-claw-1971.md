@@ -1,6 +1,6 @@
 ---
-title: "Krev na Satanově drápu (1971): Nákaza z půdy a rituál dětí"
-film: "Krev na Satanově drápu (1971)"
+title: "Krev na Satanově drápu (The Blood on Satan's Claw, 1971): Nákaza z půdy a rituál dětí"
+film: "Krev na Satanově drápu / The Blood on Satan's Claw (1971)"
 director: "Piers Haggard"
 year: 1971
 date: "2026-09-03"
@@ -11,7 +11,7 @@ lang: "cz"
 translationSlug: "blood-on-satans-claw-1971"
 ---
 
-Tato studie dekonstruuje stěžejní dílo britského folk-hororu *Krev na Satanově drápu* (1971, stopáž 93 minut) jako mrazivou sondu do zrodu pohanského kultu v Anglii 17. století. Snímek analyzuje postupný rozklad venkovské komunity poté, co je na poli vyorána znetvořená, chlupatá lebka neznámého původu. 
+Tato studie dekonstruuje stěžejní dílo britského folk-hororu *Krev na Satanově drápu* (*The Blood on Satan's Claw*, 1971, stopáž 93 minut) jako mrazivou sondu do zrodu pohanského kultu v Anglii 17. století. Snímek analyzuje postupný rozklad venkovské komunity poté, co je na poli vyorána znetvořená, chlupatá lebka neznámého původu. 
 
 Nález funguje jako psychologický a biologický virus, který nakazí místní mládež, jež se pod vedením charismatické Angel Blake začne uchylovat k rituálním vraždám, nošení zvířecích masek a uctívání bytosti zvané Behemot. Metodologicky se text zaměřuje na konflikt mezi generacemi, symboliku nezvládnutelné přírody (bahno a kožešiny) a erozi křesťanské autority. Film ukazuje venkovskou tradici nikoliv jako folklorní idylu, ale jako neustálou hrozbu propadu do zvířecího barbarství.
 
@@ -25,7 +25,7 @@ Tato půda v sobě skrývá pre-křesťanskou, temnou sílu. Zatímco úřady (z
 
 Film vznikl v době po doznívajícím hnutí hippies na konci 60. let, a jeho narativ jasně zrcadlí generační konflikt. Místní mládež, fascinovaná nálezem a vedená andělsky krásnou, ale psychopatickou Angel Blake (Linda Hayden), odmítá autoritu rodičů a církve. 
 
-Vytvářejí vlastní, zvrácený sabat hluboko v lesích. Jejich „hry“ začínají rituálním oblékáním a končí znásilněním a lidskými oběťmi. Angel Blake funguje jako temná verze Májové královny – nenosí květiny, ale krvavou autoritu, pomocí které manipuluje ostatní děti, aby obětovaly své vrstevníky pro uspokojení entity dřímající pod zemí.
+Vytvářejí vlastní sabat hluboko v lesích. Jejich „hry“ začínají rituálním oblékáním a končí znásilněním a lidskými oběťmi. Angel Blake funguje jako temná verze Májové královny – nenosí květiny, ale krvavou autoritu, pomocí které manipuluje ostatní děti, aby obětovaly své vrstevníky pro uspokojení entity dřímající pod zemí.
 
 ### III. Kožešina, masky a fyzická mutace
 
@@ -37,14 +37,14 @@ Ztrácejí lidskou identitu a mění se ve smečku. Odřezávání infikované k
 
 Když racionální přístup definitivně selže, nastupuje brutální vertikála moci. Soudce (Patrick Wymark) si uvědomuje, že s tímto druhem zla nelze vyjednávat, ani ho nelze léčit teologií. Ve finále odhazuje soudcovskou paruku, bere do ruky obrovský meč a vede vesničany do lesa, aby kult fyzicky vyhladili. 
 
-Závěrečný střet s částečně zhmotněným monstrem Behemotem není soubojem dobrých modliteb, ale krvavou řezničinou. Návrat k řádu je vykoupen radikálním násilím. Oslavy jara jsou utopeny v krvi dětí, protože příroda, jak film neustále připomíná, vyžaduje maso.
+Závěrečný střet s částečně zhmotněným monstrem Behemotem není soubojem modliteb, ale krvavou nutností obnovy řádu. Návrat ke stabilitě je vykoupen radikálním násilím. Oslavy jara jsou utopeny v krvi dětí, protože příroda, jak film neustále připomíná, vyžaduje biologickou oběť.
 
 ### Slovníček pojmů a bibliografie
 
 * **Horizontála bahna:** Vizuální vymezení venkovského prostoru jako tlející, biologické hmoty skrývající pohanské síly pod povrchem civilizace.
 * **Archeologie zla:** Koncept, kde zlo není vnější či duchovní entitou, ale fyzickým pozůstatkem pohanské minulosti vyoraným přímo ze země.
 * **Ďáblova kůže (Devil's Skin):** Fyzický a biologický projev nákazy v podobě zvířecí srsti na tělech dospívajících, ztělesňující regres lidství do primárního barbarství.
-* **Brutální vertikála moci:** Neúprosné a násilné obnovení civilizačního řádu státní či soudní autoritou bez ohledu na věk pachatelů.
+* **Brutální vertikála moci:** Neúprosné obnovení civilizačního řádu autoritou meče bez ohledu na věk pachatelů.
 
 **Bibliografie (Chicago Style):**
 * Haggard, Piers. *The Blood on Satan’s Claw* (Audio Commentary). Directed by Piers Haggard. London: Odeon Entertainment, 2010. DVD.

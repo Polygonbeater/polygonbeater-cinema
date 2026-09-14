@@ -1,9 +1,9 @@
 ---
-title: "Mocny człowiek (1929): Ztracený klenot polského němého filmu"
-film: "Mocny człowiek (1929)"
+title: "Mocný člověk (Mocny człowiek, 1929): Ztracený a nalezený vrchol polského němého filmu"
+film: "Mocný člověk / Mocny człowiek (1929)"
 year: 1929
-date: "2026-09-02"
-description: "Psychologické drama režiséra Henryka Szara podle románu Stanisława Przybyszewského představuje vrchol polské němé kinematografie ovlivněný expresionismem."
+date: "2026-09-03"
+description: "Analytická studie psychologického dramatu Henryka Szara podle románu Stanisława Przybyszewského zkoumající expresionistickou vizualitu, morální pád a moderní znovuzrození v Bruselu."
 image: "/images/essays/mocny-czlowiek-1929.webp"
 
 lang: "cz"
@@ -11,21 +11,41 @@ translationSlug: "mocny-czlowiek-1929"
 director: "Henryk Szaro"
 ---
 
-Snímek *Mocny człowiek*, který měl premiéru druhého října 1929 současně ve dvou varšavských kinech, patří k nejdůležitějším a nejvyspělejším dílům polské němé kinematografie. Režisér Henryk Szaro společně se scenáristou Jerzym Braunem adaptovali stejnojmenný román Stanisława Przybyszewského z roku 1912.¹ Cílem tvůrců bylo přenést literární téma viny, trestu a chorobné ctižádosti do moderního vizuálního jazyka, ovlivněného dobovým německým expresionismem.
+Psychologické drama *Mocný člověk* (*Mocny człowiek*, 1929, stopáž 82 minut) v režii Henryka Szara a podle scenáristické spolupráce s Jerzym Braunem představuje jeden z technicky nejvyspělejších a esteticky nejradikálnějších vrcholů polské němé kinematografie. Snímek, adaptující stejnojmenný naturalistický román Stanisława Przybyszewského z roku 1912, měl slavnostní premiéru 2. října 1929 ve Varšavě a vzápětí úspěšně zamířil do evropské distribuce. 
 
-Film dobová kritika i veřejnost přijaly s nadšením, přičemž vyzdvihován byl především moderní střih, dynamické tempo vyprávění a zručnost režiséra. Ačkoliv byl *Mocny człowiek* po svém uvedení úspěšně exportován do několika evropských zemí, po druhé světové válce se v Polsku nedochovala ani jedna kopie a dílo bylo dlouhá desetiletí považováno za ztracené. Teprve v roce 1997 byla v Královském filmovém archivu v Bruselu nalezena kopie s francouzskými titulky, jež posléze prošla digitální rekonstrukcí.²
+Válka a následná devastace polských filmových archivů však způsobily, že dílo na dlouhá desetiletí beze stopy zmizelo a bylo považováno za definitivně ztracené. Teprve v roce 1997 byla v Královském filmovém archivu v Bruselu (*Cinematek*) objevena kompletní kopie s francouzskými mezititulky, jež posléze prošla digitální rekonstrukcí.
 
-### 1. Námět a narativní struktura
-Středobodem vyprávění je postava průměrného a talentu zbaveného novináře Henryka Bieleckého, jehož ztvárnil Gregori Chmara. Bielecki touží po literární slávě a bohatství, avšak nedisponuje potřebnými schopnostmi. Během návštěvy u svého přítele, talentovaného, leč nemocného a na morfiu závislého spisovatele Jerzyho Górského (toho hraje Artur Socha), si přečte jeho nový rukopis. Ačkoliv si je Bielecki plně vědom nesmírné umělecké hodnoty díla, zhodnotí jej před autorem jako podprůměrné. Tím zničí veškeré přítelovy naděje. Vzápětí mu nabídne morfium, čímž jej vědomě postrčí k dobrovolnému ukončení života.
+### I. Expresionistická stylistika a moderní vizuální jazyk
 
-Pod rouškou noci se následně do Górského bytu vrací a rukopis odcizí, aniž by tušil, že jej zpoza závěsu pozoruje jeho vlastní milenka Łucja, kterou hraje Agnes Kuck. Tu Bielecki předtím zavrhl, a ona přišla k umírajícímu Górskému hledat útěchu. Bielecki ukradený román s názvem *Mocny człowiek* vydává pod svým vlastním jménem. Tím okamžitě dosahuje vysněného uznání, stává se miláčkem společnosti a jeho tvář plní první strany novin.³
+Režisér Henryk Szaro a kameraman Giovanni Vitrotti vytvořili dílo hluboce poučené německou filmovou avantgardou:
+* **Vizuální psychologie viny:** Film rezignuje na popisné divadelní svícení a využívá silný expresionistický šerosvit, ostré úhly kamery a geometricky sevřené kompozice interiérů, které zrcadlí vnitřní rozklad a paranoiu hlavního hrdiny.
+* **Dynamický střih:** Moderní rytmus střihu spojuje vnitřní duševní stavy postav s hektickým tempem velkoměsta, čímž *Mocný člověk* anticipuje estetiku vrcholného evropského němého filmu před nástupem zvukové éry.
 
-### 2. Téma viny a trestu
-Ústřední konflikt se však nevyčerpává samotným zločinem. Příběh se láme v okamžiku, kdy Bielecki potkává Ninu Ligęzovou (Maria Majdrowicz), vdanou ženu, k níž pojme silný cit. Právě láska k jiné ženě v něm paradoxně probouzí do té doby umlčené svědomí. Bielecki, oslavovaný společností jako literární génius, postupně podléhá tíze vlastního podvodu.
+### II. Henryk Bielecki a morální anatomie plagiátu
 
-Tajemství, které zná jeho opuštěná milenka Łucja, a jeho vlastní prohlubující se paranoia vytvářejí neúnosný tlak. *Mocny człowiek* se tak stává tragickým podobenství o člověku, který se pro dosažení statutu takzvaného nadčlověka nezastaví před zločinem, aby byl nakonec zničen samotným úspěchem, jenž mu nepatří.
+Ústřední postavou tragického příběhu je Henryk Bielecki (Grigori Chmara), průměrný novinář a literát poháněný chorobnou touhou po slávě, penězích a moci, aniž by disponoval jakýmkoliv skutečným uměleckým talentem:
+* **Zločin z bezvýchodnosti:** Bielecki navštíví svého nemocného a na morfiu závislého přítele, talentovaného spisovatele Jerzyho Górského (Artur Socha), u něhož objeví dokončený rukopis geniality. Místo pomoci Górskému vnukne myšlenku na sebevraždu a po jeho smrti rukopis chladnokrevně zcizí[cite: 106].
+* **Kariéra na cizí krvi:** Vydání románu pod vlastním jménem mu rázem přináší obdiv veřejnosti, peníze a společenský triumf. Avšak úspěch postavený na cizím uměleckém utrpení se stává pastí.
 
-**Odborné reference:**
-1. Przybyszewski, Stanisław: *Mocny człowiek*. Nakladatel, Varšava, 1912.
-2. Údaje k historii nalezení filmu čerpány z archivu Národní filmotéky (*Filmoteka Narodowa – Instytut Audiowizualny*).
-3. Szaro, Henryk: *Mocny człowiek* (film). Polsko, 1929.
+### III. Paranoia, Łucja a psychologický kolaps
+
+Pád hlavního hrdiny je urychlen přítomností svědků a vlastním svědomím:
+* **Svědek ve stínu:** Krádež rukopisu v opuštěném bytě tajně pozorovala Łucja (Agnes Kuck), Bieleckého opuštěná milenka, která přišla za umírajícím Górskim hledat útěchu[cite: 106]. Její tichá přítomnost proměňuje Bieleckého triumf v permanentní úzkost.
+* **Procitnutí skrze cit:** Zlom přichází v momentě, kdy Bielecki potkává Ninu Ligęzovou (Maria Majdrowiczová) a upřímně se zamiluje. Paradoxně teprve čistý cit v něm probouzí svědomí; sláva a bohatství ztrácejí smysl ve chvíli, kdy je jeho identita založena na lži.
+
+### IV. Závěr: Odkaz znovunalezeného pokladu
+
+Objevení a digitalizace *Mocného člověka* představovaly pro polskou filmovou historiografii událost dekády[cite: 106]:
+* **Nadčasová platnost:** Film ukazuje, že touha po úspěchu za každou cenu a cynická komodifikace duchovních hodnot nejsou výsadou moderní doby, nýbrž univerzálním selháním lidského individua.
+* **Odkaz:** *Mocny człowiek* i po téměř sto letech od svého vzniku ohromuje suverénní režisérskou řemeslnou zručností, psychologickou hloubkou a mrazivým svědectvím o ceně, kterou člověk platí za ztrátu vlastní duše.
+
+### Slovníček pojmů a bibliografie
+
+* **Polská němá avantgarda:** Poválečné období rozvoje polské kinematografie, jež usilovalo o emancipaci od divadelní konvence skrze využití moderní filmové řeči, střihu a světla.
+* **Psychologický expresionismus ve filmu:** Stylizace prostoru a osvětlení odrážející morální vinu, úzkost a duševní rozklad protagonisty.
+
+**Bibliografie (Chicago Style):**
+* Przybyszewski, Stanisław. *Mocny człowiek*. Warszawa: Nakładem Gebethnera i Wolffa, 1912[cite: 106].
+* Szaro, Henryk, dir. *Mocny człowiek* (Motion Picture). Warszawa: Sfinks, 1929[cite: 106].
+* Zalewski, Marek. *Kino polskie lat dwudziestych*. Warszawa: Wydawnictwa Artystyczne i Filmowe, 1983.
+* Dokumentace k nálezu a restaurování filmu. Warszawa: Filmoteka Narodowa – Instytut Audiowizualny (FINA), 1997[cite: 106].

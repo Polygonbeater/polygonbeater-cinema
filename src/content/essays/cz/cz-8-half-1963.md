@@ -1,6 +1,6 @@
 ---
 title: "8½ (1963): Labyrint tvůrčí krize"
-film: "8½ / 8½ (1963)"
+film: "8½ (Otto e mezzo, 1963)"
 year: 1963
 date: "2026-09-03"
 description: "Analytická studie mistrovského díla Federica Felliniho zkoumající metafilm, freudovsko-jungiánskou psychoanalýzu a architekturu proudu vědomí."

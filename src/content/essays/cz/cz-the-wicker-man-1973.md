@@ -1,9 +1,9 @@
 ---
-title: "Rituál (1973): Slunce jako nástroj teroru"
+title: "Rituál (The Wicker Man, 1973): Slunce jako nástroj teroru a střet dogmat"
 film: "Rituál / The Wicker Man (1973)"
 year: 1973
 date: "2026-09-03"
-description: "Analytická studie zakladatelského díla folk hororu zkoumající fenomén teroru za denního světla, izolaci skrze folkovou hudbu a zhoubný střet dvou absolutních dogmat."
+description: "Analytická studie zakladatelského díla folk hororu zkoumající fenomén teroru za denního světla, diegetickou hudbu Paula Giovanniho a zhoubný střet křesťanské a pohanské vertikály."
 image: "/images/essays/the-wicker-man-1973.webp"
 
 lang: "cz"
@@ -11,43 +11,42 @@ translationSlug: "the-wicker-man-1973"
 director: "Robin Hardy"
 ---
 
-Tato studie dekonstruuje zakladatelské dílo subžánru folk hororu *Rituál* (*The Wicker Man*, 1973, stopáž 88 minut) jako radikální polemiku s konceptem civilizační nadřazenosti a náboženského dogmatu. Snímek analyzuje pátrání puritánského policejního seržanta po zmizelé dívce na izolovaném ostrově Summerisle, jehož obyvatelé praktikují předkřesťanský keltský polyteismus. 
+Snímek Robina Hardyho *Rituál* (*The Wicker Man*, 1973, stopáž 88 minut), natočený podle scénáře Anthonyho Shaffera na motivy románu Davida Pinnera *Ritual*, představuje fundamentální základní kámen subžánru folk hororu a jeden z nejvýznamnějších britských filmů sedmdesátých let. Hardy a Shaffer radikálně odmítli gotické klišé nočních hradů, pavučin a netopýrů, jež v té době chrlila studia Hammer Film Productions. 
 
-Metodologicky se text zaměřuje na fenomén „hororu za denního světla“, diegetické využití folkové hudby Paula Giovanniho a nevyhnutelný střet dvou nesmiřitelných ideologických vertikál. Film ukazuje, že nejčistší podoba hrůzy se neskrývá ve stínech, ale přichází s úsměvem, písní na rtech a za plného slunečního svitu.
+Místo toho zasadili děj do oslnivého jarního slunce na izolovaném hebridském ostrově Summerisle a stvořili mrazivou anatomii střetu dvou nesmiřitelných dogmatických systémů: rigidního křesťanského autoritářství reprezentovaného puritánským policejním seržantem Howiem a archaického keltského polyteismu obnoveného ostrovní komunitou v čele s charismatickým Lordem Summerislem.
 
-### I. Horizontála denního světla a falešná idyla
+### I. Daylight Horror a pastorální past ostrova Summerisle
 
-Vizuální identita filmu představuje absolutní inverzi tradičních hororových pravidel. Režisér Robin Hardy a scenárista Anthony Shaffer odmítají gotické propriety (tmu, mlhu, rozpadající se hrady). Zlo v *Rituálu* operuje na prosluněné horizontále rozkvetlé jarní krajiny. 
+Vizuální styl filmu představuje totální inverzi konvenčních postupů kinematografického děsu[cite: 126]:
+* **Hrůza v plném světle:** Zlo v *Rituálu* neoperuje ve stínech ani v šeru; odehrává se za jasného, hřejivého slunečního svitu na rozkvetlých sadech, loukách a plážích[cite: 126]. Společenství na Summerisle nepředstavuje bandu temných satanistů; jsou to usměvaví, pracovití a radostní lidé oslavující plodnost, sexualitu a přírodní cykly[cite: 126].
+* **Klamná idyla:** Tato prosluněná pastorální atmosféra funguje jako dokonalá psychologická past[cite: 126]. Seržant Neil Howie (Edward Woodward) i divák jsou dezorientováni zdánlivou vstřícností obyvatel, což jim brání včas rozpoznat chladnou a precizně zorganizovanou past, jež se kolem cizince stahuje od první minuty jeho příletu hydroplánem[cite: 126].
 
-Ostrov Summerisle působí jako pastorální utopie, kde obyvatelé žijí v naprostém souladu s přírodou, oslavují sexualitu a smrt vnímají jako přirozenou součást cyklu. Tato vizuální a atmosférická idyla je však jen dokonalou psychologickou pastí. Divák, stejně jako hlavního hrdina, je oslepen světlem a vřelostí komunity, což mu brání rozpoznat chladnou a neúprosnou logiku blížícího se rituálu.
+### II. Zvuková krajina Paula Giovanniho a diegetická izolace
 
-### II. Zvuková krajina jako nástroj izolace
+Hudební doprovod Paula Giovanniho a skupiny Magnet tvoří organickou páteř celého narativu[cite: 126]:
+* **Hudba jako rituální zbraň:** Písně v *Rituálu* nejsou vnějším scénickým doprovodem; jsou diegetické – postavy je samy zpívají v hostinci U Zeleného muže (*The Green Man*), ve škole i při pouličních procesích[cite: 126]. Folkové balady vycházející z autentických textů Roberta Burnse a staroanglických nápěvů neslouží k lacinému strašení, nýbrž fungují jako zvuková manifestace kolektivní kmenové mysli ostrova[cite: 126].
+* **Akustická stěna:** Pro seržanta Howieho představuje zpěv obyvatel neprostupnou zeď, z níž je systematicky vylučován[cite: 126]. Erotická píseň a tanec hostinské dcery Willow (Britt Eklandová) za tenkou stěnou jeho pokoje či dětský popěvek u májky (*Maypole Song*) demonstrují hluboký rozpor mezi křesťanským pocitem hříchu a pohanskou oslavou těla[cite: 126].
 
-Hudba Paula Giovanniho není v tomto snímku pouhým podkresem, ale zbraní. Písně jsou organickou součástí děje (diegetická hudba) – postavy je zpívají v hospodě, na návsi i při rituálech. Místo aby hudba vyvolávala laciné lekačky, slouží k prohloubení izolace seržanta Howieho (Edward Woodward). 
+### III. Střet vertikál: Puritánský kříž proti přírodnímu pragmatismu
 
-Každý sborový zpěv vesničanů tvoří neviditelnou, nepropustnou stěnu, která cizince vyčleňuje. Hudba zde funguje jako zvukové zhmotnění kolektivní mysli ostrova, proti níž nemá racionalita jedince žádnou šanci. Zpěv dětí o májce (*Maypole song*) nebo svádivá píseň Willow (Britt Ekland) stírají hranice mezi nevinností a perverzí.
+Dramatickým motorem filmu není banální souboj dobra se zlem, nýbrž střet dvou absolutních ideologických konstrukcí[cite: 126]:
+* **Howieho komplex mučedníka:** Seržant z pevniny reprezentuje státní zákon, policejní moc a represivní křesťanskou morálku[cite: 126]. Jeho arogance a neochvějné přesvědčení o vlastní civilizační nadřazenosti jej činí slepým[cite: 126]. Howie si neuvědomuje, že jeho pátrání po údajně zavražděné dívce Rowan Morrisonové bylo od počátku zinscenováno a že svou vytrvalostí sám kráčí vstříc vlastní záhubě[cite: 126].
+* **Lord Summerisle a ekonomie oběti:** Lord Summerisle (životní role Christophera Leeho) nevystupuje jako primitivní pohan, nýbrž jako kultivovaný aristokrat a pragmatický vládce[cite: 126]. Odhaluje skutečnou motivaci kultu: loňská neúroda jablek hrozí ostrovu ekonomickým kolapsem. K usmíření božstev slunce a úrody (Nuada) nestačí běžná zvířecí oběť; je zapotřebí člověka, který splňuje přísná kritéria – musí přijít z vlastní vůle, mít moc krále (představitel zákona), být pannou a věřit v posmrtný život. Howie do této role dokonale a dobrovolně vpadne[cite: 126].
 
-### III. Střet vertikál: Kříž proti přírodě
+### IV. Závěr: Hořící proutěný gigant a hluchota nebes
 
-Narativním jádrem filmu není boj dobra se zlem, ale smrtící kolize dvou absolutních dogmat. Seržant Howie reprezentuje rigidní křesťanskou vertikálu a státní autoritu. Jeho pýcha a neochvějná víra ve vlastní morální a civilizační nadřazenost ho zaslepují. 
-
-Na druhé straně stojí Lord Summerisle (Christopher Lee), aristokratický intelektuál, který pragmaticky využívá pohanství k udržení sociálního smíru a ekonomické prosperity ostrova (úroda jablek). Howieho pád nespočívá v tom, že by byl morálně zkorumpován, ale v tom, že jeho křesťanský komplex mučedníka a spasitele zapadá přesně do role, kterou pro něj pohané v rámci svého obětního rituálu připravili.
-
-### IV. Závěr: Hořící proutěný muž a hluchota nebes
-
-Závěrečná sekvence uvnitř gigantické proutěné sochy je jedním z nejděsivějších a zároveň nejkrásnějších obrazů světové kinematografie. Hardy zde ukazuje triumf absolutního fanatismu na obou stranách. 
-
-Zatímco obyvatelé ostrova radostně a s upřímnou vírou zpívají středoanglickou jarní píseň *Sumer Is Icumen In*, umírající Howie do plamenů zoufale recituje Žalm 23 a modlí se ke Kristu. Ani jedno dogma neustoupí. Neexistuje zde žádný „zlý“ antagonista, pouze dvě skupiny lidí, které dělají to, co považují za naprosto správné. *Rituál* zanechává diváka v bodě absolutní ontologické hrůzy – s vědomím, že nejpříšernější činy lidstva jsou často konány s naprostým přesvědčením o jejich nezbytnosti a posvátnosti.
+Závěrečná sekvence obětování na mořském útesu představuje jeden z nejmocnějších a nejvíce zneklidňujících obrazů světové kinematografie[cite: 126]:
+* **Sumer Is Icumen In:** Obyvatelé ostrova v maskách zvířat uzavřou Howieho do nitra obří proutěné sochy (*The Wicker Man*) spolu se zvířaty a zapálí ji[cite: 126]. Za zvuků radostného sborového zpěvu středověké jarní písně *Sumer Is Icumen In* hledí vstříc zapadajícímu slunci v upřímné víře, že jejich čin zajistí přežití komunity[cite: 126].
+* **Dvě modlitby bez odpovědi:** Howie v plamenech zoufale zpívá Žalm 23 a vyhrožuje vesničanům, že pokud úroda selže i příští rok, obětují samotného Lorda Summerisla[cite: 126]. Film končí pádem hořící hlavy proutěného obra, odhalující klesající rudé slunce. *Rituál* zanechává diváka v bodě absolutní ontologické úzkosti: demonstruje, že ty nejhrůznější činy v dějinách nepáchají monstra, nýbrž společenství hluboce přesvědčená o posvátnosti a morální nezbytnosti svého konání[cite: 126].
 
 ### Slovníček pojmů a bibliografie
 
-* **Horor za denního světla:** Podžánrový fenomén přenášející zdroj úzkosti z potemnělých gotických kulis na prosluněnou, zdánlivě idylickou venkovskou krajinu.
-* **Diegetická izolace hudbou:** Využití tradičních folkových písní zpívaných postavami na plátně jako zvukové bariéry utvářející neprostupnou kolektivní identitu.
-* **Střet ideologických vertikál:** Nesmiřitelný konflikt dvou náboženských a společenských dogmat, v němž pýcha a neochota k dialogu vedou k tragickému obětování.
-* **Ontologická hrůza:** Pocit hlubokého znejistění vyvolaný vědomím, že nejpříšernější činy lidstva bývají páchány s upřímným přesvědčením o jejich posvátnosti.
+* **Folk horor:** Subžánr hororu situovaný do rurálního a izolovaného prostředí, v němž konflikt vychází z přežívajících pohanských kultů, archaických rituálů a střetu s moderní městskou racionalitou[cite: 126].
+* **Horor za denního světla (Daylight Folk Horror):** Vizuální metoda pracující s motivem teroru za jasného denního svitu v rozkvetlé přírodě, rozbíjející tradiční klišé nočního strašení[cite: 126].
+* **Proutěný muž (Wicker Man):** Obří figurína z proutí popsaná Juliem Caesarem v *Zápiscích o válce galské*, užívaná keltskými druidy k lidským obětem zápalnou formou.
 
 **Bibliografie (Chicago Style):**
-* Bartholomew, David. „The Wicker Man.“ *Cinefantastique* 6, no. 3 (1977): 12–23.
-* Brown, Allan. *Inside The Wicker Man: How Not to Make a Cult Classic*. Edinburgh: Polygon, 2000.
-* Scovell, Adam. *Folk Horror: Hours Dreadful and Things Strange*. Columbia: Auteur Publishing, 2017.
-* Woodward, Edward. *That's the Way I See It*. London: Hodder & Stoughton, 1989.
+* Brown, Allan. *Inside The Wicker Man: How Not to Make a Cult Classic*. Edinburgh: Polygon, 2000[cite: 126].
+* Hardy, Robin, dir. *The Wicker Man* (Motion Picture). London: British Lion Film Corporation, 1973.
+* Scovell, Adam. *Folk Horror: Hours Dreadful and Things Strange*. Leighton Buzzard: Auteur Publishing, 2017[cite: 126].
+* Shaffer, Anthony. *The Wicker Man: Screenplay*. London: British Lion, 1973.

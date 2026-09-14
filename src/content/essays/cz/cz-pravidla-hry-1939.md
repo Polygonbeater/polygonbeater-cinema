@@ -1,33 +1,53 @@
 ---
-title: "Tanec na okraji propasti: Pravidla hry a geometrie společenské přetvářky"
-film: "Pravidla hry (1939)"
+title: "Pravidla hry (La Règle du jeu, 1939): Tanec na okraji propasti a geometrie přetvářky"
+film: "Pravidla hry / La Règle du jeu (1939)"
 year: 1939
-date: "2026-09-09"
-description: "Esej o mistrovském díle Jeana Renoira. O chladné anatomii mravního rozkladu, hloubce ostrosti a tragikomedii společenských masek."
+date: "2026-09-03"
+description: "Analytická studie mistrovského díla Jeana Renoira zkoumající demokratizaci prostoru skrze hloubku ostrosti, rituální lov, mravní rozklad evropské buržoazie v předvečer války a etiku relativismu."
 image: "/images/essays/pravidla-hry-1939.webp"
+
 lang: "cz"
 translationSlug: "pravidla-hry-1939"
 director: "Jean Renoir"
 ---
 
-V předvečer historické katastrofy, kdy se Evropa nezadržitelně řítila do propasti druhé světové války, vytvořil Jean Renoir dílo, které nebylo pouhým zrcadlem společnosti, ale jejím nemilosrdným rentgenem. Když byla *Pravidla hry* (*La Règle du Jeu*) v roce 1939 poprvé uvedena, publikum v sále křičelo, film čelil rychlým střihovým zásahům a záhy byl úředně zakázán. Není se co divit. Renoir totiž vyšší francouzské společnosti nenabídl utěšující komedii mravů, ale chladnou a elegantní anatomii mravního rozkladu, v níž se pod nablýskaným povrchem etikety ukrývá smrtící prázdnota.
+V předvečer historické katastrofy, v létě roku 1939, kdy se Evropa nezadržitelně řítila do propasti druhé světové války, vytvořil Jean Renoir dílo, které nebylo pouhým zrcadlem francouzské společnosti, nýbrž jejím nemilosrdným rentgenem. Když byla *Pravidla hry* (*La Règle du jeu*, stopáž 110 minut) poprvé uvedena do pařížských kin, vyvolala v publiku hysterický odpor – diváci v sále zapalovali noviny, film byl podroben drastickým cenzurním škrtům a po vypuknutí války úředně zakázán jako „demoralizující“. 
 
-## Labyrint prostoru a hloubka ostrosti
+Renoir totiž vyšší buržoazii nenabídl bezpečnou salonní komedii, nýbrž chladnou, elegantní a vizuálně revoluční anatomii mravního rozkladu, v níž se pod nablýskanou slupkou společenského dekora ukrývá naprostá duchovní vyprázdněnost a slepota.
 
-Převratnost tohoto snímku nespočívá jen v tom, co říká, ale především v tom, jak nahlíží na prostory a lidi uvnitř nich. Společně s kameramanem Jeanem Bacheletem se Renoir vzepřel tehdejší tradici klasického hollywoodského střihu. Namísto rozbíjení scény na detailní pohledy a střídavé protipohledy využil hloubku ostrosti a virtuositu dlouhého záběru. 
+### I. Hloubka ostrosti a demokratizace filmového prostoru
 
-Vznikla tak fascinující prostorová rovnost. Popředí a pozadí spolu vedou neustálý, tichý rozhovor: zatímco vyšší buržoazie v salonu rozvíjí své marnivé flirty, služebnictvo v chodbách prožívá své vlastní milostné tragédie. Nikdo z diváků nemůže uniknout k jedinému, dopředu vybranému detailu; kamera neprovozuje moralistickou diktaturu, ale nechává svět zámku La Colinière dýchat v celé jeho labyrintové složitosti.
+Převratnost *Pravidel hry* spočívá v radikální rekonfiguraci filmového jazyka, na níž Renoir spolupracoval s kameramanem Jeanem Bacheletem[cite: 135]:
+* **Odvržení hollywoodského střihu:** Namísto tradičního analytického střihu (střídání detailů a protipohledů) Renoir prosadil dlouhé plynulé záběry (*plan-séquence*) a revoluční využití hloubky ostrosti (*deep focus*)[cite: 135].
+* **Rovnost plánů:** Popředí i pozadí záběru jsou stejně ostré a rovnocenné[cite: 135]. Zatímco v popředí salonu aristokraté vedou povrchní společenské konverzace, v hloubce pole za prosklenými dveřmi procházejí milenci či sluhové[cite: 135]. Divák není režií manipulován k jedinému detailu; je nucen vnímat komplexní sociální prostor v celé jeho polyfonní složitosti[cite: 135]. André Bazin označil tento styl za základní kámen moderního filmového realismu.
 
-## Dvojí metr a rituální lov
+### II. Zámek La Colinière: Dvojí morálka pánů a sluhů
 
-Všechno v tomto světě podléhá dvojímu metru, ale stejným falešným pravidlům. Renoir mistrovsky staví vedle sebe svět pánů a svět služebnictva. Nevěra, lež i žárlivost jsou plně tolerovány, dokud zůstávají skryty pod maskou společenského dekora. Jakmile však emoce přetečou přes okraj nablýskané formy, etiketa se mění v past.
+Děj odehrávající se během víkendového pobytu na venkovském zámku markýze Roberta de la Chesnaye (Marcel Dalio) důsledně zrcadlí dvě společenské vrstvy[cite: 135]:
+* **Paralelní záletnictví:** Svět aristokracie (markýz, jeho žena Christine, letec André Jurieux) se řídí identickými zákony nevěry, žárlivosti a lži jako svět sloužících v suterénu (hajný Schumacher, komorník Marceau, služka Lisette)[cite: 135].
+* **Fetišizace formy:** Rozdíl spočívá pouze v konvenci. Nevěra a cynismus jsou plně tolerovány, dokud jsou praktikovány v souladu se společenskou etiketou – tedy v tichu a za zavřenými dveřmi[cite: 135]. Skutečným hříchem ve světě La Colinière není zrada, nýbrž autentický cit a porušení pravidel hry[cite: 135]. Jakmile pilot Jurieux projeví skutečnou, nespoutanou vášeň, stává se pro společnost nebezpečným cizorodým prvkem.
 
-Nejhrozivější předehrou nadcházejícího evropského jatka se stává sekvence honu na lesní zvěř. V prudkém, až mechanickém rytmu střihu jsme svědky chladného vyvražďování králíků a bažantů. Tato scéna není pouhou obžalobou panské kratochvíle; je to děsivý, prorocký obraz světa, který ztratil jakoukoliv úctu k životu a pro něhož se zabíjení stalo pouhou rituální hrou. Když se následně na zámku rozjede maškarní večírek a na pódiu tančí kostlivci, hranice mezi divadlem, společenskou maskou a skutečnou smrtí mizí.
+### III. Rituální hon a tanec kostlivců: Předzvěst evropských jatek
 
-## Každý má své důvody
+Dvě centrální sekvence filmu fungují jako děsivé proroctví blížící se válečné apokalypsy[cite: 135]:
+* **Mechanizované vraždění na honech:** Pověstná scéna střelby v zámeckém revíru představuje vrcholnou ukázku montáže[cite: 135]. Páni v tvídových oblecích střílejí z drahých pušek stovky zajíců, králíků a bažantů hnaných nadháňkami[cite: 135]. Rytmus palby, padající zvířata a jejich smrtelné křeče v trávě jsou nasnímány s mechanickou chladností[cite: 135]. Není to sport; je to rituální jatka, zrcadlící lhostejnost vládnoucí elity k prolité krvi[cite: 135].
+* **Danse macabre:** Noční maškarní bál, v němž postavy převlečené za kostlivce tančí na jevišti na hudbu Saint-Saënsova *Tance kostlivců*, završuje rozpad reality[cite: 135]. Hranice mezi divadelní fraškou, střelbou ze žárlivosti a skutečnou smrtí definitivně mizí[cite: 135]. Společnost tančí na palubě Titaniku, neschopna vnímat blížící se konec vlastního světa[cite: 135].
 
-Přímo uprostřed této tiché apokalypsy vyslovuje sám Renoir v roli Octava slova, která tvoří srdce celého díla:
+### IV. Závěr: „Každý má své důvody“ a triumf lži
 
-> *„Víte, na tomto světě je jedna hrozná věc, a to, že každý má své důvody.“*
+Srdce celé Renoirovy humanistické filozofie vyslovuje sám režisér ve své slavné herecké roli Octava: *„Víte, na tomto světě je jedna hrozná věc, a to, že každý má své důvody.“*[cite: 135]
+* **Absence viníka:** Film nevytváří padouchy. Všichni aktéři jednají z motivů, které jsou lidsky pochopitelné, křehké a zranitelné[cite: 135]. Avšak uvězněni v soukolí společenských pravidel směřují k fatálnímu omylu – zastřelení Andrého Jurieuxe žárlivým hajným v temném parku[cite: 135].
+* **Společenská zástěrka vraždy:** Když markýz la Chesnaye předstoupí před své hosty a vraždu chladně prohlásí za „politováníhodnou nehodu“, společnost se uklidní a vrací se k rituálnímu tanci. *Pravidla hry* zůstávají nepřekonanou vizuální studií o tom, jak civilizace raději přijme pohodlnou lež a smrt nevinného, než aby připustila trhlinu ve své vlastní společenské masce[cite: 135].
 
-V té jediné větě se skrývá vrcholná esence tragikomedie. *Pravidla hry* nevytvářejí zlá monstra ani zloduchy, které by bylo snadné odsoudit. Tragédie spočívá v tom, že každá z postav jedná z motivů, které jsou lidské, pochopitelné a v jádru lidsky křehké. Avšak lapeni v rigidních rituálech společenské smlouvy směřují všichni společně, krok za krokem, k fatálnímu omylu, výstřelu v temnotě a neúprosné smrti.
+### Slovníček pojmů a bibliografie
+
+* **Hloubka ostrosti (Deep Focus):** Kameramanská technika udržující ostré celé zorné pole od bezprostředního popředí až po horizont, umožňující komplexní rozehrání několika paralelních dějů uvnitř jediného záběru[cite: 135].
+* **Dlouhý záběr (Plan-séquence):** Narativní postup, v němž je celá dramatická scéna natočena v jediném nepřerušovaném záběru bez střihu, což posiluje autenticitu času a prostoru.
+* **Danse Macabre (Tanec smrti):** Středověký výtvarný a divadelní motiv připomínající rovnost všech lidí před smrtí, ve filmu ztvárněný maškarním bášem předzvěstujícím druhou světovou válku[cite: 135].
+
+**Bibliografie (Chicago Style):**
+* Bazin, André. *Jean Renoir*. Edited by François Truffaut. New York: Simon and Schuster, 1973.
+* Faulkner, Christopher. *The Social Cinema of Jean Renoir*. Princeton: Princeton University Press, 1986.
+* Renoir, Jean, dir. *La Règle du jeu* (The Rules of the Game). Paris: Nouvelles Éditions Françaises (NEF), 1939[cite: 135].
+* Renoir, Jean. *My Life and My Films*. Translated by Norman Denny. New York: Atheneum, 1974.
+* Serceau, Daniel. *Jean Renoir: L'insoumission*. Paris: Éditions du Cerf, 1981.

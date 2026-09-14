@@ -1,9 +1,9 @@
 ---
-title: "Diabeł (1972) – Historie jako hysterická halucinace"
-film: "Diabeł (1972)"
+title: "Ďábel (Diabeł, 1972): Historie jako hysterická halucinace"
+film: "Ďábel / Diabeł (1972)"
 year: 1972
-date: "2026-09-02"
-description: "Andrzej Żuławski v roce 1793 nahlíží na dějiny jako na hnisající ránu a radikální řetězec hysterických krizí, v nichž se kolaps státního řádu prolíná s rozpadem lidské psychiky."
+date: "2026-09-03"
+description: "Analytická studie historického dramatu Andrzeje Żuławského zkoumající rozpad polského státu v roce 1793, barokní exces, postavu Cizince a hysterickou nákazu šílenstvím."
 image: "/images/essays/diabel-1972.webp"
 
 lang: "cz"
@@ -11,22 +11,39 @@ translationSlug: "diabel-1972"
 director: "Andrzej Żuławski"
 ---
 
-Andrzej Żuławski dokončil Ďábla (Diabeł) v roce 1972, v době, kdy byla polská kulturní politika pod přísným dohledem cenzury. Film byl po svém vzniku zadržen a do běžné distribuce se dostal až po roce 1988, kdy došlo k uvolnění cenzurních omezení. Tento osud filmu není jen historickou poznámkou; je to kontext, který podtrhuje radikalitu díla. Żuławski zde nepracuje s historií jako s archivním materiálem, ale jako s otevřenou, hnisající ranou.
+Andrzej Żuławski dokončil svůj radikální autorský snímek *Ďábel* (*Diabeł*, 1972, stopáž 119 minut) v atmosféře zostřeného dohledu komunistické cenzury po polských politických krizích let 1968 a 1970. Film byl komunistickými úřady okamžitě stažen a zamčen do trezoru; k divákům se dostal až v roce 1988. Tento osud nebyl náhodný – Żuławski nepřistupuje k minulosti jako k pietnímu historickému plátnu, nýbrž jako k hnisající ráně, v níž se rozklad státní suverenity stává přímou příčinou totálního rozpadu lidské integrity.
 
-### Apokalypsa v roce 1793
-Film je zasazen do roku 1793, do období druhého dělení Polska. Protagonista Jakub, polský šlechtic a důstojník, je zachráněn z pruského vězení tajemným „Cizincem“ (Ďáblem). Cesta, kterou Jakub následně podniká skrze rozvrácenou, barokně naddimenzovanou krajinu, není cestou k osvobození, ale sestupem do šílenství.
+### I. Apokalypsa roku 1793 a kolaps společenského řádu
 
-Zatímco klasická historická dramata bývají ukotvena v kauzalitě, Ďábel je fragmentární. Historii lze v tomto snímku vnímat nikoliv jako sekvenci příčin a následků, ale jako řetězec hysterických krizí. Żuławski sugeruje vizi, v níž kolaps státního řádu nevyhnutelně vede k rozkladu integrity lidské psychiky. Jakub není hrdinou v klasickém smyslu; je to troska, která se v průběhu filmu stává nástrojem chaosu.
+Děj je situován do dramatického roku 1793, do období druhého dělení Polska a vpádu pruských vojsk:
+* **Rozbití dějinné kauzality:** Klasická historická dramata budují iluzi logických příčin a následků. Żuławski naproti tomu zobrazuje dějiny jako chaotický sled hysterických záchvatů a násilí.
+* **Cesta do nitra šílenství:** Polský šlechtic a spiklenec Jakub (Leszek Teleszyński) je osvobozen z hořícího vězení tajemným Cizincem. Jeho následná pouť rozvrácenou, bahnitou a krvácející krajinou není cestou k národnímu osvobození, nýbrž nezadržitelným sestupem do psychotického běsnění a bratrovražedného zmaru.
 
-### Ďábel jako katalyzátor rozkladu
-Je nutné rozlišit mezi metafyzickou entitou a Żuławského „Cizincem“. Postava Cizince zde funguje spíše jako agent provokatér. Není to zosobněné zlo, které pokouší lidstvo zvenčí; je to zhmotnění rozkladu, který v postavách již dřímá.
+### II. Postava Cizince: Ďábel jako agent provokatér
 
-Nabízí se paralela k Foucaultovu pojetí moci a šílenství (Dějiny šílenství): instituce, které mají udržovat společenský řád (šlechta, církev), se v narativu filmu samy stávají zdroji násilí. Cizinec tak působí jako katalyzátor, který společnosti nastavuje zrcadlo její vlastní krutosti. Film efektivně naznačuje, že k rozpoutání pekla nepotřebujeme nadpřirozené síly – stačí politické vakuum, bezvládí a absence morálního kompasu.
+Postava Cizince (Wojciech Pszoniak) nepředstavuje tradiční personifikaci metafyzického zla, které pokouší nevinné zvenčí:
+* **Katalyzátor skrytého hnilobného procesu:** Cizinec funguje jako politický agent provokatér a zosobněný rozpad, jenž v polské šlechtické společnosti již dávno dřímal. Pouze odstraňuje morální zábrany a dává Jakubovi břitvu do ruky.
+* **Foucaultovské bezvládí:** Instituce, které měly garantovat řád a morálku (rodina, šlechta, církev), se v narativu samy proměnily ve zvrácená doupata zrady, incestu a kolaborace. Peklo nevyžaduje nadpřirozený zásah; rodí se automaticky z mocenského vakua, cynismu a absence etického kompasu.
 
-### Estetika barokního excesu
-Żuławského styl v Ďáblovi balancuje na hraně snesitelnosti. Kinematografie není klidným pozorovatelem; kamera je agresivní a neustále v pohybu. Film se vědomě vyhýbá tradiční „historické patině“ a volí barokní exces. Vše je hlučné, krvavé a výrazné.
+### III. Estetika barokního excesu a somatická kinetika
 
-Tato estetika není samoúčelná. Má diváka uvést do stavu psychického vypětí, který koresponduje s vnitřním rozkladem postav. Je to „historický horor“, kde mlha není romantickou kulisou, ale stavem mysli.
+Formální stránka filmu balancuje na samotné hranici fyzické snesitelnosti pro diváka:
+* **Agresivní kamera v běhu:** Kamera Andrzeje J. Jaroszewicze je neustále v trhavém, krouživém pohybu, střídá zběsilé jízdy s detaily zpocených, křičících a krví potřísněných tváří.
+* **Hysterický exces:** Żuławski odmítá akademickou patinu historického kostýmního filmu. Zvukové stopě dominuje hysterický křik, křečovité vzlyky a agresivní rocková hudba Andrzeje Korzyńského. Tento barokní exces vědomě vyvolává u publika somatické napětí a úzkost, jež přímo zrcadlí vnitřní rozklad protagonistů.
 
-### Závěr: Když se řád mění v prach
-Ďábel zůstává zneklidňujícím svědectvím o křehkosti civilizačních struktur. Film nepředkládá lekci z dějepisu, ale analytickou zprávu o povaze moci. Ukazuje, že když se autorita rozpadne a společnost ztratí svůj cíl, nastupuje nihilismus, který nehledá řešení, ale pouze destrukci. Żuławski v roce 1972 vytvořil dílo, které funguje jako zrcadlo nastavené společnosti – zrcadlo, do kterého bylo v tehdejší době příliš nebezpečné se podívat.
+### IV. Závěr: Když se řád mění v prach
+
+*Ďábel* zůstává jedním z nejtemnějších a nejradikálnějších zkoumání politické i psychologické katastrofy ve světové kinematografii. Żuławski ukazuje, že když se rozpadne státní institucionální rámec a společnost ztratí svůj transcendentální smysl, nenastává svoboda, nýbrž masožravý nihilismus. 
+
+Film byl zakázán, protože v portrétu zkorumpovaného Polska konce 18. století komunističtí funkcionáři přesně rozpoznali nelichotivé zrcadlo morální agonie vlastního režimu po brutálním potlačení dělnických protestů.
+
+### Slovníček pojmů a bibliografie
+
+* **Barokní exces:** Filmová estetika stavějící na vyostřené emocionalitě, vizuálním přehlcení, tělesném naturalismu a dynamické kinetice kamery.
+* **Agent provokatér:** Postava manipulátora (zde Cizinec / Ďábel), která nepáchá násilí přímo, ale systematicky vytváří podmínky k tomu, aby se oběť sama zničila vlastními činy.
+* **Dějinná hysterie:** Filozoficko-umělecká koncepce chápající historické milníky nikoli jako racionální proces pokroku, nýbrž jako záchvaty kolektivního šílenství a destrukce.
+
+**Bibliografie (Chicago Style):**
+* Goddard, Michael. *The Cinema of Andrzej Żuławski: The Dynamic Leap*. London: Wallflower Press, 2014.
+* Mazierska, Ewa, and Michael Goddard, eds. *Polish Cinema in a Transnational Context*. Rochester: University of Rochester Press, 2014.
+* Żuławski, Andrzej. *Diabeł* (Film Script and Interviews). Warszawa: Filmoteka Narodowa, 1988.

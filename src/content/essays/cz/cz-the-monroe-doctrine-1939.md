@@ -1,9 +1,9 @@
 ---
-title: "Monroeova doktrína (1939): Od neutrality k ekonomickému imperializmu"
-film: "The Monroe Doctrine (1939)"
+title: "Monroeova doktrína (The Monroe Doctrine, 1939): Od izolacionismu k ekonomické hegemonii"
+film: "Monroeova doktrína / The Monroe Doctrine (1939)"
 year: 1939
 date: "2026-09-03"
-description: "Analýza krátkého filmu Warner Bros. z roku 1939, historických kořenů Monroeovy doktríny a jejího moderního promítnutí do americké zahraniční politiky."
+description: "Analytická studie historického krátkého filmu studia Warner Bros. zkoumající ideologické kořeny Monroeovy doktríny, didaktickou obhajobu izolacionismu a Rooseveltovo corollarium."
 image: "/images/essays/the-monroe-doctrine-1939.webp"
 
 lang: "cz"
@@ -11,30 +11,43 @@ translationSlug: "the-monroe-doctrine-1939"
 director: "A. Edward Sutherland"
 ---
 
-Krátký film *The Monroe Doctrine* (1939), produkovaný společností Warner Bros., slouží jako klíčový historický artefakt odrážející hluboce zakřeněný americký izolacionismus na prahu druhé světové války. Nejedná se o kritiku, nýbrž o didaktickou a patriotickou obhajobu tradiční zahraniční politiky USA, která prosazovala názor, že se Spojené státy mají soustředit výhradně na západní polokouli a vyhnout se „zapleteným aliancím“ v Evropě.
+Krátkometrážní historický snímek *Monroeova doktrína* (*The Monroe Doctrine*, 1939, stopáž 16 minut), natočený v produkci studia Warner Bros. v režii A. Edwarda Sutherlanda v technologii Technicolor, představuje klíčový ideologický artefakt americké kinematografie na samém prahu druhé světové války. Film nevznikl jako kritická historická analýza, nýbrž jako didaktická a silně patriotická obhajoba tradičního amerického izolacionismu v okamžiku, kdy v Evropě po invazi do Polska propukl nový vojenský požár. 
 
-V roce 1939, kdy přes Atlantik vypukla válka, mělo dílo ujistit americkou veřejnost, že povinností národa je chránit vlastní sféru vlivu – celou Ameriku – před nepřátelskými evropskými mocnostmi (konkrétně nacistickým Německem a fašistickou Itálií), které se pokoušely získat pozice prostřednictvím ekonomické a politické subverze. Je zásadní připomenout, že doktrína byla již od svého vzniku v roce 1823 vnitřně jednostranná a paternalistická. Nešlo o pakt s latinskoamerickými národy, nýbrž o prohlášení o nich, které stavělo USA do role samozvaného strážce regionu a zacházelo se suverénními státy jako s objekty americké bezpečnosti, nikoli jako s partnery.
+Warner Bros. skrze rekonstrukci klíčových dějinných mezníků ubezpečovalo americkou veřejnost, že posvátnou povinností Spojených států je bránit západní polokouli před pronikáním nepřátelských evropských mocností (tehdy zosobněných nacistickým Německem a fašistickou Itálií) a vyhnout se přímému zapojení do evropských válek.
 
-## Kritické přehodnocení: Imperialistické dědictví doktríny
+### I. Paternalismus roku 1823: Geopolitické vytyčení sféry vlivu
 
-Zatímco film z roku 1939 prezentoval doktrínu jako mírový štít proti vnějšímu vlivu, její skutečné dědictví je definováno její aplikací. Původní princip nezasahování v Evropě byl historicky rychle převrácen naruby, aby ospravedlnil bující intervencionismus v Latinské Americe.
+Film didakticky rekonstruuje vyhlášení doktríny prezidentem Jamesem Monroem v prosinci roku 1823:
+* **Deklarace pro polokouli:** Původní doktrína formulovaná ministrem zahraničí Johnem Quincym Adamsem varovala evropské monarchie před pokusy o rekolonizaci nově vzniklých suverénních republik v Latinské Americe výměnou za americké nezasahování do záležitostí evropských států.
+* **Jednostranný protektorát:** Sutherlandův snímek sice doktrínu oslavuje jako štít svobody, historiografická analýza však odhaluje její vnitřní jednostrannost[cite: 126]. Nešlo o multilaterální smlouvu uzavřenou s latinskoamerickými národy, nýbrž o mocenský edikt, který ze Spojených států učinil samozvaného arbitra regionu a zacházel s jižními sousedy jako s pasivními objekty americké bezpečnostní politiky[cite: 126].
 
-Tento posun byl rozhodně zpečetěn Rooseveltovým corollariem (1904), které si pro USA přisvojilo právo uplatňovat „mezinárodní policejní moc“ nad latinskoamerickými státy s cílem zabránit evropským věřitelům v intervenci. Tento mechanismus umožnil USA stát se jediným ekonomickým a vojenským arbitrem a proměnit západní polokouli v americký „uzavřený ekonomický prostor“ dlouho před současnými obchodními válkami. Tento precedent intervence a ekonomické kontroly vytvořil praktický základ pro pozdější převraty podpořené USA a pro exploataci přírodních zdrojů, čímž se doktrína stala nástrojem amerického imperializmu.
+### II. Rooseveltovo corollarium: Zrod mezinárodní policejní moci
 
-## Éra Trumpa: Kritická verze „Corolla“
+Propagandistický oblouk filmu plynule přechází k počátku 20. století, kdy došlo k zásadní reinterpretaci původního defenzivního konceptu[cite: 126]:
+* **Policista západní polokoule:** Theodore Roosevelt v roce 1904 vyhlásil tzv. Rooseveltovo corollarium, jež si pro Washington přisvojilo právo uplatňovat „mezinárodní policejní moc“ v případě chronického selhání či platební neschopnosti latinskoamerických vlád[cite: 126]. Původní zákaz evropských intervencí byl převrácen v legitimaci soustavných amerických vojenských i hospodářských zásahů v Karibiku a Střední Americe[cite: 126].
+* **Uzavřený ekonomický prostor:** Z doktríny se stal nástroj prosazování zájmů amerických korporací (např. United Fruit Company) a proměny Latinské Ameriky v ekonomické zázemí USA, chráněné před jakoukoliv zahraniční hospodářskou konkurencí[cite: 126].
 
-Pojem „Trumpova verze Corolla Monroeovy doktríny“ je analytickým konstruktem popisujícím strategii kombinující tradiční geopolitickou dominanci s moderním ekonomickým protekcionismem. Tento přístup představuje promyšlenou snahu o demontáž zaběhnutých aliancí a smluv ve prospěch jednostranného národního zájmu.
+### III. Mobilizace roku 1939: Odpověď na fašistickou infiltraci
 
-### Vzdalování se od spojenců a podkopávání smluv
+V kontextu roku vzniku snímek reagoval na akutní geopolitické obavy Rooseveltovy administrativy[cite: 126]:
+* **Pátá kolona v Jižní Americe:** Nacistické Německo se v pozdních třicátých letech pokoušelo získat vliv v Brazílii, Argentině a Chile prostřednictvím hospodářských smluv, německých komunit a politické propagandy[cite: 126]. Film *Monroeova doktrína* fungoval jako vizuální mobilizační výzva připomínající, že ochrana západní polokoule představuje přímou linii národní obrany USA[cite: 126].
+* **Technicolorový didaktismus:** Využití nákladného třípásového Technicoloru a obsazení předních herců propůjčilo historickým postavám (Monroe, Adams, Bolívar, Lincoln, Theodore Roosevelt) auru neomylných otců zakladatelů, což posilovalo důvěru diváků v kontinuitu amerického kurzu[cite: 126].
 
-Současná politika představuje zřetelný ústup od poválečného internacionalistického konsenzu. Opakovaným zpochybňováním základního závazku NATO a náznaky záměru odstoupit od dohod dávají USA najevo hluboký odstup od tradičních spojenců a multilaterálních smluv. To sice připomíná izolacionistické nálady roku 1939, aplikuje je to však na samotný systém, jehož vznik USA pomáhaly formovat, čímž oslabují spojenectví a ohrožují model kolektivní bezpečnosti.
+### IV. Závěr: Proměny hegemonie a moderní ekonomická koerce
 
-### Ekonomická koerce a konsolidace sféry vlivu
+*Monroeova doktrína* zůstává cenným dokumentem o tom, jak Hollywood pomáhal konstruovat a upevňovat zahraničněpolitický konsenzus národa[cite: 126]:
+* **Od vojenských intervencí k celním válkám:** Z historického hlediska představuje snímek most mezi tradičním izolacionismem a poválečným globálním intervencionismem[cite: 126]. Mechanismus vymáhání vlivu se v průběhu dekád transformoval z přímých vojenských invazí do podoby ekonomické koerce, celních bariér a strategických investic zaměřených na vytlačení nových globálních konkurentů z regionu[cite: 126].
+* **Odkaz:** Sutherlandův snímek dokládá, že filmová fikce v krizových dějinných okamžicích slouží jako mocný nástroj k oživení historických mýtů, jež mají legitimizovat mocenské nároky státu a přesvědčit společnost o morální oprávněnosti její dominance[cite: 126].
 
-Aspekt „Corolla“ odkazuje na využívání ekonomických nástrojů – konkrétně hrozby cel a cla (jak bylo použito v případě produkce vozů Corolla v Mexiku) – k vynucení dodržování výrobních podmínek uvnitř USA či u jejich bezprostředních sousedů. Tato ekonomická koerce je využívána jako geopolitická zbraň k prosazení cílů Monroeovy doktríny: zajištění ekonomické dominance USA na polokouli a především vyloučení Číny ze strategických investic, jako jsou 5G sítě, energetické projekty a infrastruktura v celé Latinské Americe.
+### Slovníček pojmů a bibliografie
 
-Základním nebezpečím tohoto přístupu je snaha o znovuzavedení geopolitického rámce 19. století v multipolárním světě 21. století. Zatímco původní doktrína čelila konkurenci slábnoucích evropských mocností, moderní verze naráží na konkurenci globálních ekonomických gigantů, jako je Čína. Tím, že současný přístup současně odczizuje tradiční spojence USA a antagonizuje rozvíjející se ekonomiky na vlastní polokouli, riskuje oslabení měkké moci USA a nechtěně tlačí latinskoamerické státy směrem k mimozápadním mocnostem.
+* **Monroeova doktrína (1823):** Zahraničněpolitická koncepce prezidenta USA Jamese Monroea deklarující nezasahování evropských mocností na americkém kontinentu výměnou za neutralitu USA v evropských záležitostech[cite: 126].
+* **Rooseveltovo corollarium (1904):** Dodatek k Monroeově doktríně opravňující Spojené státy k výkonu „mezinárodní policejní moci“ v Latinské Americe za účelem udržení stability a zabránění evropským intervencím[cite: 126].
+* **Ekonomická koerce:** Uplatňování hospodářského nátlaku, sankcí, cel a blokací investic s cílem donutit suverénní stát k podřízení se geopolitickým požadavkům velmoci[cite: 126].
+* **Izolacionismus v USA:** Politický směr usilující o neangažovanost Spojených států v mezinárodních vojenských aliancích a konfliktech mimo západní polokouli[cite: 126].
 
-### Bibliografie
-* Perkins, John. *Confessions of an Economic Hit Man: 3rd Edition*. Berrett-Koehler Publishers, 2023.
-* Smith, Peter W. *Talons of the Eagle: Latin America, the United States, and the World*. Oxford University Press, 2012.
+**Bibliografie (Chicago Style):**
+* Perkins, Dexter. *A History of the Monroe Doctrine*. Boston: Little, Brown and Company, 1955.
+* Perkins, John. *Confessions of an Economic Hit Man: 3rd Edition*. Oakland: Berrett-Koehler Publishers, 2023[cite: 126].
+* Smith, Peter H. *Talons of the Eagle: Latin America, the United States, and the World*. 4th ed. Oxford: Oxford University Press, 2012[cite: 126].
+* Sutherland, A. Edward, dir. *The Monroe Doctrine* (Short Motion Picture). Burbank: Warner Bros., 1939.

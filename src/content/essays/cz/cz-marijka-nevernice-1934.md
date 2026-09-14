@@ -1,9 +1,9 @@
 ---
-title: "Marijka nevěrnice (1934) – Avantgarda, autenticita a syrová poezie Podkarpatské Rusi"
-film: "Marijka nevěrnice (1934)"
+title: "Marijka nevěrnice (1934): Baladický realismus a avantgardní obraz Podkarpatské Rusi"
+film: "Marijka nevěrnice / Marijka the Unfaithful (1934)"
 year: 1934
-date: "2026-09-02"
-description: "Snímek Vladislava Vančury, Ivana Olbrachta a Bohuslava Martinů spojuje formální postupy avantgardy s neorealistickým zachycením drsného života v Koločavě a okolí."
+date: "2026-09-03"
+description: "Analytická studie vizionářského snímku Vladislava Vančury a Ivana Olbrachta zkoumající neherecké obsazení, avantgardní montáž, baladický mýtus a sociální realitu meziválečné Podkarpatské Rusi."
 image: "/images/essays/marijka-nevernice-1934.webp"
 
 lang: "cz"
@@ -11,27 +11,42 @@ translationSlug: "marijka-nevernice-1934"
 director: "Vladislav Vančura"
 ---
 
-Film *Marijka nevěrnice* (1934) patří mezi nejvýraznější avantgardní experimenty československé kinematografie 30. let. Snímek, na kterém se podílelo tvůrčí jádro tehdejší elity – režisér Vladislav Vančura, scenárista Ivan Olbracht a hudební skladatel Bohuslav Martinů –, opustil pražské ateliéry a natáčel se přímo v reálných lokacích Podkarpatské Rusi. Jde o filmovou baladu, která spojuje formální postupy avantgardy s téměř etnografickým zachycením drsného života v Koločavě a okolí.
+Snímek spisovatele a režiséra Vladislava Vančury *Marijka nevěrnice* (1934, stopáž 72 minut), realizovaný podle původního scénáře Ivana Olbrachta a Karla Nového s hudbou Bohuslava Martinů, představuje naprosto výjimečný klenot československé meziválečné kinematografie. Film nevznikl v bezpečí pražských ateliérů na Barrandově; štáb se vydal přímo do odlehlých hvozdů Podkarpatské Rusi, do vesnice Koločava a na divokou řeku Tereblu, aby zde zachytil život v jeho nejryzejší, archaické a sociálně drsné podobě. 
 
-### 1. Střet přírodního živlu a civilizačního řádu
-Klíčovým interpretačním rámcem díla je hluboký kontrast mezi archaickým světem hor a modernizačním tlakem první republiky. Tento konflikt se odráží ve struktuře vyprávění i ve faktuře obrazu a zvuku.
+Vančura s Olbrachtem vytvořili dílo baladického realismu, v němž se avantgardní filmařské postupy prolínají s etnografickou věrností a v němž lidský milostný trojúhelník podléhá stejným neúprosným zákonům jako divoká příroda polonin.
 
-* **Využití neherců:** Vančura udělal na svou dobu radikální rozhodnutí a do většiny rolí obsadil místní obyvatele (Rusíny a Židy), doplněné jen několika profesionálními herci (např. Robert Ford v roli vyšetřovatele). Snímek tak anticipuje některé postupy pozdějšího italského neorealismu. Vrásčité tváře a autentické dialekty horalů výrazně narušují konvenční ateliérovou stylizaci tehdejší české produkce.
-* **Baladická fatalita a státní aparát:** Děj je poháněn archaickými motivy těžké fyzické práce, vášně a krevní msty (příběh Marijky, Danila a podvedeného Petra). Do tohoto fatálního cyklu vstupuje československý soudní aparát reprezentující moderní řád. Ten aplikuje byrokratické právo, které však nedokáže plně obsáhnout hloubku místní baladické tragédie.
-* **Strukturální role hudby:** Hudba Bohuslava Martinů zde plní strukturální funkci; neslouží jen jako emocionální podkres, ale udává samotný rytmus vyprávění. Dynamika plavení dřeva ostře kontrastuje s byrokratickými procedurami, čímž vzniká tenze mezi přírodním živlem a umělým administrativním řádem.
+### I. Neherci v Koločavě a etnografický baladismus
 
-### 2. Ideologická marginalizace v obdobích totality
-Vzhledem ke své formě a obsahu se film v pozdějších desetiletích ocitl mimo preferovaný distribuční rámec obou totalitních režimů, což vedlo k jeho dlouhodobému upozadění.
+Zásadním uměleckým gestem tvůrců bylo absolutní odmítnutí profesionálních herců z Prahy:
+* **Tváře polonin:** Veškeré role ve filmu ztvárnili skuteční obyvatelé Podkarpatské Rusi – ukrajinští a rusínští sedláci, voraři a židovští obchodníci (v titulní roli Marijky vystoupila negramotná venkovská dívka Anna Škelejová). Postavy nehrají podle divadelních konvencí; jejich chůze, unavené tváře a drsné ruce nesou nesmazatelný otisk celoživotní dřiny.
+* **Autenticita jazyka:** Film byl natočen v původním rusínském dialektu a jidiš, což dobové pražské publikum mátlo, avšak dílu zajistilo mimořádnou dokumentární a etnografickou hodnotu, překračující hranice běžné fikce.
 
-* **Období nacistické okupace:** V době protektorátu, zvláště po popravě Vladislava Vančury (1942), film nezapadal do nacistické kulturní politiky. Přirozené zobrazení tradiční židovské komunity Podkarpatské Rusi i důraz na východokarpatské prostředí způsobily, že se snímek prakticky vytratil z širší veřejné distribuce, aniž by k tomu byl nutný explicitní byrokratický zákaz.
-* **Poválečné období a socialistický realismus:** Po roce 1948 a nástupu komunistického režimu se film obtížně začleňoval do nové doktríny. Absence třídního boje, důraz na baladický fatalismus, náboženský spiritualismus a zobrazení tradičních židovských obchodníků nevyhovovaly požadavkům socialistického realismu. Snímek tak na dlouhá léta zůstal na okraji distribuce.
-* **Ztráta paměti:** Poté, co byla Podkarpatská Rus po druhé světové válce připojena k Sovětskému svazu, stalo se zobrazení tohoto území jakožto integrální součásti meziválečného Československa politicky nekomfortním tématem.
+### II. Práce s dřevem a vorařský fatalismus na horských řekách
 
-### Závěr
-*Marijka nevěrnice* představuje fascinující vizuální a antropologickou studii oblasti zasažené meziválečnou modernizací. Díky Vančurově nekompromisní kameře a formálním experimentům film přesáhl dobové konvence a dnes slouží jako jeden z nejpozoruhodnějších filmových obrazů střetu mýtu a blížící se modernity v tehdejší střední Evropě.
+Centrální osou vyprávění je těžká, nebezpečná práce vorařů (pltníků), kteří svážejí vytěžené kmeny z karpatských pralesů do údolí:
+* **Příroda jako neúprosný živel:** Kamera Jaroslava Blažka snímá kácení staletých smrků, stavbu vorů a divokou plavbu po rozvodněné horské řece s dynamikou sovětské montážní školy. Dřevo a voda nejsou pouhými kulisami; jsou aktivními činiteli děje, v nichž jediná chyba znamená jistou smrt.
+* **Sociální determinismus:** Muži odcházejí na celé týdny kácet stromy do hor, aby splatili dluhy u místního židovského krčmáře. Jejich život je zacyklen v neustálém zápasu s bídou, v němž je lidské tělo pouhým pracovním nástrojem směňovaným za kukuřičnou mouku a kořalku.
 
-**Odborné reference:**
-1. Olbracht, Ivan: *Hory a staletí*. Melantrich, Praha, 1932. (Esejistický základ pro pochopení Olbrachtova vnímání Podkarpatské Rusi).
-2. Havelka, Jiří: *Vladislav Vančura jako filmový režisér*. Československý filmový ústav, Praha, 1978. (Rozbor Vančurových postupů a práce s neherci).
-3. Szczepanik, Petr: *Konzervy se slovy: Počátky zvukového filmu a česká mediální kultura 30. let*. Host, Brno, 2009. (Analýza zvukové a hudební stopy filmu).
-4. Bednařík, Petr - Jirák, Jan - Köpplová, Barbara: *Dějiny českých médií*. Grada, Praha, 2011. (Kontext kulturní politiky, ideologického tlaku a distribučních modelů během totalitních období).
+### III. Milostný trojúhelník jako přírodní nutnost
+
+Paralelně s vorařskou dřevou se rozvíjí komorní drama zrady a žárlivosti:
+* **Petro, Marijka a Danylo:** Zatímco poctivý, zamlklý Petro dře v lesích, jeho osamělá žena Marijka podléhá vášni k mladému a divokému Danilovi. Vančura tento mimomanželský vztah nesoudí z pozice měšťácké morálky; nahlíží na něj jako na elementární přírodní projev tělesné touhy uprostřed izolovaného horského světa.
+* **Tragédie bez patosu:** Konflikt mezi muži neústí v melodramatickou hádku, nýbrž v nevyhnutelnou fyzickou kolizi na rozbouřené řece, v níž se trest za nevěru naplňuje s chladnou samozřejmostí přírodního zákona.
+
+### IV. Závěr: Epos o zániku archaického řádu
+
+*Marijka nevěrnice* zůstává jedinečným filmovým testamentem zaniklého světa:
+* **Martinů a poetická avantgarda:** Hudební partitura Bohuslava Martinů, plná disonancí a lidových motivů, v kombinaci s Vančurovým básnickým cítěním povýšila lokální drama na nadčasovou tragédii.
+* **Kulturní paměť:** Film zachytil Podkarpatskou Rus v době jejího začlenění do první republiky dříve, než toto území pohltily geopolitické změny druhé světové války a sovětská anexe. Zůstává nepřekonaným pomníkem karpatské kultury, v němž se česká avantgarda sklonila před syrovou pravdou země a lidu.
+
+### Slovníček pojmů a bibliografie
+
+* **Baladický realismus:** Umělecký směr propojující syrové, sociálně přesné zachycení reality s mýtickou osudovostí a poetickou strukturou lidové balady.
+* **Etnografický neherecký film:** Metoda obsazování výhradně původních obyvatel daného regionu namísto profesionálních herců za účelem dosažení maximální kulturní a tělesné autenticity.
+* **Podkarpatská Rus v meziválečném filmu:** Specifický tematický okruh československé kinematografie 30. let (Vančura, Olbracht, Innemann), reflektující východní periferii republiky jako prostor střetu moderního státu s archaickým světem.
+
+**Bibliografie (Chicago Style):**
+* Klimeš, Ivan. *Kinematografie a stát v českých zemích 1895–1945*. Praha: Národní filmový archiv, 2016.
+* Olbracht, Ivan. *Hory a staletí*. Praha: Melantrich, 1935.
+* Polák, Vladimír. *Vladislav Vančura a film*. Praha: Československý filmový ústav, 1981.
+* Vančura, Vladislav, dir. *Marijka nevěrnice* (Motion Picture). Praha: Ufa-Film / Mezinárodní filmová společnost, 1934.

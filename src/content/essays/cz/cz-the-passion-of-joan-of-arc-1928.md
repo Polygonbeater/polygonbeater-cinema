@@ -1,9 +1,9 @@
 ---
-title: "Utrpení Panny orleánské (1928): Anatomie absolutna"
+title: "Utrpení Panny orleánské (La Passion de Jeanne d'Arc, 1928): Tvář jako krajina a anatomie absolutna"
 film: "Utrpení Panny orleánské / La Passion de Jeanne d'Arc (1928)"
 year: 1928
 date: "2026-09-03"
-description: "Analytická studie mistrovského díla Carla Theodora Dreyera zkoumající dekonstrukci prostoru, tvář jako spirituální bojiště a architekturu útlaku."
+description: "Analytická studie mistrovského díla Carla Theodora Dreyera zkoumající dekonstrukci prostoru, Rudolphovu kameru extrémních detailů, tvář Renée Falconettiové a transcendentální odpor."
 image: "/images/essays/the-passion-of-joan-of-arc-1928.webp"
 
 lang: "cz"
@@ -11,43 +11,43 @@ translationSlug: "the-passion-of-joan-of-arc-1928"
 director: "Carl Theodor Dreyer"
 ---
 
-Tato studie dekonstruuje mistrovské dílo němé éry *Utrpení Panny orleánské* (1928, stopáž 82 minut) jako radikální zkoumání limitů filmového média a lidské výdrže. Snímek analyzuje soudní proces s Janou z Arku nikoliv jako historický epos, ale jako komorní, klaustrofobický střet mezi pozemskou dogmatikou a čistou spirituální vírou. 
+Němý mistrovský snímek dánského režiséra Carla Theodora Dreyera *Utrpení Panny orleánské* (*La Passion de Jeanne d'Arc*, 1928, stopáž 82 minut) představuje jeden z absolutních vrcholů světové kinematografie a radikální epistemologický bod nula filmového média. Dreyer odmítl konvenční historickou výpravnost, bitevní scény i dekorativní patos dobových velkofilmů. 
 
-Metodologicky se text zaměřuje na revoluční použití extrémních detailů (kamera Rudolph Maté), vědomé zmatení prostorové orientace a ikonický, naturalistický herecký projev Renée Jeanne Falconetti. Film ukazuje, že nejbrutálnější konflikt se neodehrává na fyzickém bitevním poli, ale v mikrokosmu lidské tváře, kde je institucionální moc absolutně bezmocná vůči vnitřnímu přesvědčení.
+Vycházeje z autentických latinských a francouzských soudních protokolů z procesu v Rouenu roku 1431, zredukoval dramatický konflikt na komorní, klaustrofobickou a spirituální konfrontaci mezi rigidním dogmatismem církevní instituce a čistou vnitřní vírou osamělé venkovské dívky. Film demonstruje, že nejstrašnější a nejhlubší bojiště lidských dějin se neodehrává na válečném poli, nýbrž v mikrokosmu lidské tváře, před níž pozemská mocenská mašinérie ztrácí svou autoritu[cite: 127].
 
-### I. Tvář jako jediná krajina
+### I. Tvář jako jediná krajina a revoluce extrémního detailu
 
-Vizuální identita filmu představuje v dějinách kinematografie bod nula. Dreyer a jeho kameraman Rudolph Maté téměř zcela eliminovali ustavující záběry (*establishing shots*). Zbavili diváka bezpečí prostorové orientace a nahradili fyzický svět nekonečným sledem extrémních detailů (*extreme close-ups*). 
+Dreyer a jeho geniální kameraman Rudolph Maté (budoucí oscarový hollywoodský kameraman a režisér) provedli revoluci ve filmové syntaxi tím, že z vyprávění téměř zcela odstranili ustavující záběry (*establishing shots*)[cite: 127]:
+* **Zrušení prostorové orientace:** Divák je zbaven možnosti ukotvit se v přehledném interiéru[cite: 127]. Fyzická architektura soudní síně mizí ve prospěch nepřetržitého proudu extrémních detailů (*extreme close-ups*)[cite: 127]. 
+* **Tělesnost bez make-upu:** Dreyer zakázal veškerá filmová líčidla a masky[cite: 127]. Tvář francouzské divadelní herečky Renée Jeanne Falconettiové (pro niž to byla jediná filmová role kariéry) se stává jedinou krajinou celého díla – topografií bolesti, v níž je zřetelná každá vráska, kožní pór, chvění rtů a stékající slzy[cite: 127]. Herecký výkon dosahuje hmatatelné somatické authenticity, jež diváka konfrontuje s čistou lidskou duší v mezní existenciální situaci[cite: 127].
 
-Tvář Renée Jeanne Falconetti se stává jedinou skutečnou krajinou filmu – topografií utrpení, na níž je vidět každá vráska, pór a slza. Režisérovo striktní odmítnutí jakéhokoliv filmového make-upu strhlo z herců divadelní masky a proměnilo obraz v syrový, až klinicky přesný záznam lidské duše v mezní situaci.
+### II. Geometrie útlaku: Podhledy moci a vertikála transcendence
 
-### II. Geometrie útlaku a směr pohledu
+Střet mezi světským aparátem a spirituální integritou je vyjádřen výhradně skrze geometrické úhly snímání a směry pohledů[cite: 127]:
+* **Deformující podhledy inkvizitorů:** Církevní soudci a teologové (vedeni biskupem Cauchonem) jsou snímáni z ostrých podhledů[cite: 127]. Kamera je rámuje jako gigantické, groteskní a hrozivé monumenty z kamene, jež se tyčí nad obžalovanou[cite: 127]. Jejich těžká těla, bradavice a úlisné úsměvy zosobňují materiální tíhu institucionální moci[cite: 127]. Jejich pohledy směřují neúprosně dolů – k zemi, k paragrafům a k tělesnému trestu[cite: 127].
+* **Oči směřující k nebi:** Jana je naproti tomu snímána z mírných nadhledů zdůrazňujících její tělesnou zranitelnost, ostříhanou hlavu a vězeňské okovy[cite: 127]. Její oči se však neustále upírají vzhůru, mimo hranice filmového rámu[cite: 127]. Její pohled proráží klenby soudní síně a směřuje k transcendenci, na niž inkviziční tribunál nedosáhne[cite: 127].
 
-Střet mezi pozemským světem a duchovní sférou je ve filmu vyjádřen čistě skrze úhly kamery a směr pohledů. Inkvizitoři reprezentují drtivou tíhu instituce a moci; jsou často snímáni z extrémních podhledů, což je vizuálně deformuje a činí z nich obří, hrozivé monumenty tyčící se nad obětí. 
+### III. Abstraktní scénografie a kinetika vizuálního nátlaku
 
-Jejich pohledy směřují nekompromisně dolů, k zemi a k fyzickému tělu. Naopak Jana je snímána z mírných nadhledů, aby byla zdůrazněna její fyzická zranitelnost a izolace, avšak její oči se neustále upírají vzhůru, mimo rámec obrazu. Její pohled proráží strop soudní síně a směřuje k transcendenci, na kterou světská moc nedosáhne.
+Výtvarná koncepce Hermanna Warma (architekta *Kabinetu doktora Caligariho*) a Jeana Huga odmítá realistickou rekonstrukci středověku[cite: 127]:
+* **Bílé stěny teroru:** Scéna je tvořena holými, křídově bílými omítkami, asymetrickými klenbami a lomenými úhly bez oken a nábytku[cite: 127]. Architektura neposkytuje útočiště; je zhmotněním psychologického nátlaku[cite: 127].
+* **Skokový střih jako úder:** Dreyerova montážní skladba pracuje s prudkými změnami úhlů bez přechodových záběrů[cite: 127]. Otázky inkvizitorů útočí na Janu jako fyzické rány[cite: 127]. Rytmus výslechů je drcen střihovými šoky, jež divákovi znemožňují vydechnout a zatahují jej přímo do výslechové cely[cite: 127].
 
-### III. Klaustrofobie a asymetrie moci
+### IV. Závěr: Oheň na hranici a ontologické vítězství
 
-Scénografie Hermanna Warma a Jeana Huga je záměrně abstraktní a holá. Bílé stěny bez oken a lomené, asymetrické klenby nevytvářejí historickou iluzi 15. století, ale architektonické zhmotnění psychologického teroru. 
-
-Dreyerův agresivní skokový střih (předjímající moderní kinematografii) buduje frenetický rytmus, v němž tváře inkvizitorů útočí na Janu jako vizuální rány. Neexistuje zde žádné pozadí, do kterého by hrdinka nebo divák mohli uniknout; prostor je definován výhradně tlakem, který vyvíjí na střed.
-
-### IV. Závěr: Oheň jako ontologické vítězství
-
-Závěrečná sekvence popravy na hranici radikálně převrací logiku porážky. Fyzická destrukce Janina těla v plamenech není triumfem jejích soudců, ale jejím konečným osvobozením. Oheň stravuje pozemskou schránku, čímž umožňuje absolutní vítězství jejího ducha. 
-
-Následná vzpoura přihlížejícího davu a její brutální potlačení vojskem pak vrací film zpět do syrové reality – ukazuje, že jakmile je spirituální absolutno zjeveno v hmotném světě, vyvolá to chaos, protože zkorumpovaný systém nedokáže snést zrcadlo vlastní brutality.
+Závěrečná sekvence upálení na náměstí v Rouenu radikálně převrací logiku pozemské porážky[cite: 127]:
+* **Osvobození skrze plameny:** Fyzická likvidace Janina těla v dýmu a ohni není vítězstvím instituce, nýbrž jejím konečným selháním[cite: 127]. Oheň stravuje hmotnou schránku, čímž dovršuje její duchovní vykoupení[cite: 127]. V momentě její smrti se nad náměstím vznáší hejno ptáků jako symbol svobody.
+* **Vzpoura davu a zrcadlo násilí:** Následné povstání přihlížejících měšťanů a jeho krvavé potlačení anglickými vojáky vrací film do drsné reality dějin[cite: 127]. Dreyer dokazuje, že zjevení absolutní duchovní čistoty vyvolává v mocenském aparátu paniku, protože odhaluje jeho vnitřní prázdnotu a brutalitu[cite: 127]. *Utrpení Panny orleánské* zůstává nesmrtelnou oslavou lidského svědomí, jež dokáže zvítězit i nad tím nejmocnějším dogmatickým aparátem světa[cite: 127].
 
 ### Slovníček pojmů a bibliografie
 
-* **Tvář jako jediná krajina:** Estetický princip nahrazující fyzický prostor a kulisy detailními záběry lidské tváře zbavené make-upu.
-* **Geometrie útlaku:** Využití extrémních úhlů kamery (podhledů a nadhledů) k vizualizaci neprostupných mocenských hierarchií.
-* **Abstraktní scénografie:** Holé, asymetrické architektonické prvky sloužící jako fyzické zhmotnění psychologického teroru.
-* **Ontologické vítězství:** Reinterpretace fyzického zničení jedince jako definitivního osvobození ducha a triumfu nad pozemskou dogmatikou.
+* **Tvář jako krajina (Cinema of Faces):** Dreyerův kompoziční princip nahrazující prostorové kulisy extrémními detaily lidských tváří bez líčidel, fungujícími jako přímý odraz duševních pochodů[cite: 127].
+* **Skokový střih (Jump Cut v němé éře):** Rychlé střihové přechody mezi nesourodými úhly kamery narušující plynulou kontinuitu za účelem vyvolání psychologického napětí a dezorientace[cite: 127].
+* **Ontologické vítězství:** Stav, kdy je fyzické zničení jedince mocenským aparátem převráceno v definitivní morální a spirituální triumf jeho ideálů[cite: 127].
 
 **Bibliografie (Chicago Style):**
-* Bazin, André. *The Cinema of Cruelty: From Buñuel to Hitchcock*. New York: Seaver Books, 1982.
-* Bordwell, David. *The Films of Carl Theodor Dreyer*. Berkeley: University of California Press, 1981.
-* Pipolo, Tony. „The Passion of Joan of Arc.“ *Cineaste* 35, no. 4 (2010): 65–67.
-* Tybjerg, Casper. „The Passion of Joan of Arc: A Cinema of Faces.“ In *The Cinema of Scandinavia*, edited by Tytti Soila, 23–32. London: Wallflower Press, 2005.
+* Bazin, André. *The Cinema of Cruelty: From Buñuel to Hitchcock*. Edited by François Truffaut. New York: Seaver Books, 1982[cite: 127].
+* Bordwell, David. *The Films of Carl Theodor Dreyer*. Berkeley: University of California Press, 1981[cite: 127].
+* Dreyer, Carl Theodor, dir. *La Passion de Jeanne d'Arc* (Motion Picture). Paris: Société Générale des Films, 1928.
+* Pipolo, Tony. "The Passion of Joan of Arc." *Cineaste* 35, no. 4 (2010): 65–67[cite: 127].
+* Tybjerg, Casper. "The Passion of Joan of Arc: A Cinema of Faces." In *The Cinema of Scandinavia*, edited by Tytti Soila, 23–32. London: Wallflower Press, 2005[cite: 127].

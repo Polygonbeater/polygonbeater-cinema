@@ -1,9 +1,9 @@
 ---
-title: "Magie, pýcha a sarmatský šlechtic: Filmový epos Pan Twardowski (1936)"
-film: "Pan Twardowski (1936)"
+title: "Pan Twardowski (1936): Magie, pýcha a sarmatský faustovský mýtus"
+film: "Pan Twardowski / Pan Twardowski (1936)"
 year: 1936
-date: "2026-09-02"
-description: "Ambiciózní polský historický epos režiséra Henryka Szara spojuje renesanční nádheru, sarmatský furiantismus a lidové pověsti o polském Faustovi."
+date: "2026-09-03"
+description: "Analytická studie polského historického velkofilmu Henryka Szara zkoumající sarmatský furiantismus, adaptaci faustovské legendy, trikovou seanci s Barbarou Radziwiłłównou a lidovou ironii kletby."
 image: "/images/essays/pan-twardowski-1936.webp"
 
 lang: "cz"
@@ -11,22 +11,42 @@ translationSlug: "pan-twardowski-1936"
 director: "Henryk Szaro"
 ---
 
-Když se polský režisér Henryk Szaro rozhodl v roce 1936 zadaptovat legendu o mistru Twardowském, nešlo o žádný komorní experiment. Šlo o to ukázat sílu a velkolepost polské kinematografie. *Pan Twardowski* byl jedním z nejdražších a nejambicióznějších projektů své doby. Szaro vzal prastarou pověst o polském Faustovi a přetavil ji ve fascinující historický epos, kde se snoubí renesanční nádhera s lidovými povídačkami o čertech a kouzlech.
+Když polský režisér Henryk Szaro v roce 1936 uvedl do kin monumentální historický epos *Pan Twardowski* (stopáž 104 minut), nešlo o běžné kostýmní drama. Projekt, natočený ve varšavských ateliérech Falanga za mimořádných produkčních nákladů, představoval demonstraci technické i výpravné suverenity meziválečného polského filmu. Szaro vzal prastarou národní legendu o krakovském alchymistovi a čaroději ze 16. století – literárně kodifikovanou Józefem Ignacym Kraszewským a Adamem Mickiewiczem – a přetavil ji ve velkolepou fresku, v níž se renesanční okultismus snoubí s polským sarmatským furiantstvím a barokním folklórem.
 
-### 1. Slovanský Faust nechce jen moudrost, chce žít
-Zapomeňte na německého Fausta, který se trápí nad knihami ve své zaprášené studovně. Jan Twardowski (Franciszek Brodniewicz) je typický polský šlechtic – sarmat. Je hrdý, vášnivý a touží po všem, co svět nabízí: po bohatství, kráse a nekonečné moci. Když v krakovském podzemí vyvolá temné síly, nečiní tak z vědecké zvědavosti, ale z čisté životní nenasytnosti.
+Tato studie dekonstruuje film jako svébytnou slovanskou variantu faustovského mýtu, kde hrdina neusiluje o čisté vědecké poznání, nýbrž o absolutní prožití pozemské existence a přelstění samotného pekelného řádu.
 
-Smlouva s peklem je zde navíc podepsána s typickým furiantstvím. Twardowski si myslí, že je chytřejší než samotný vládce pekel. Do krvavého pergamenu si vymíní absurdní kličku: ďábel (kterého s neuvěřitelně mrazivou elegancí hraje Kazimierz Junosza-Stępowski) si smí jeho duši vzít výhradně ve městě Řím. A tam se alchymista pochopitelně nikdy nevydá.¹
+### I. Slovanský Faust: Sarmatská pýcha a furiantský pakt
 
-### 2. Iluzionista na královském dvoře
-Zatímco první polovina filmu ukazuje Twardowského cestu k moci, ta druhá představuje vizuální hostinu plnou speciálních efektů. Legendární je především sekvence na dvoře truchlícího krále Zikmunda II. Augusta. Král prosí mága, aby mu umožnil ještě jednou spatřit jeho zesnulou milovanou ženu Barbaru Radziwiłłovnu. Szaro v této scéně exceluje. Pomocí tehdy inovativních dvojexpozic a zrcadlových triků tvoří na plátně nádhernou a zároveň děsivou duchařskou seanci, která dodnes neztratila nic ze své působivosti.²
+Postava mistra Jana Twardowského (Franciszek Brodniewicz) se zásadně odlišuje od goethovského asketického vzdělance:
+* **Živelná touha po bytí:** Twardowski není osamělým teoretikem uzavřeným ve vědecké cele. Je to typický polský šlechtic (*szlachcic*) – sarmat, ovládaný hrdostí, nespoutaným temperamentem a touhou po moci, zlatě, kráse a nekonečné tělesné rozkoši[cite: 132]. Smlouvu s ďáblem neuzavírá z touhy po metafyzické pravdě, nýbrž z nenasytného hladu po plnosti života[cite: 132].
+* **Klička s městem Řím:** Pakt s Mefistofelem je podepsán s aristokratickou arogancí[cite: 132]. Twardowski se domnívá, že díky své právnické a alchymistické chytrosti může vládce temnot obelstít[cite: 132]. Do krvavého pergamenu si vymíní zdánlivě neuskutečnitelnou podmínku: ďábel (ztvárněný s mrazivou elegancí Kazimierzem Junoszou-Stępowským) si smí jeho duši odnést výhradně ve městě Řím, kam se polský šlechtic nikdy nehodlá vydat[cite: 132].
 
-### 3. Pekelná pointa u cesty
-Vyvrcholení příběhu je dokonalou ukázkou lidové ironie. Zlo nepotřebuje používat hrubou sílu, stačí mu lidská nepozornost. Twardowski je na útěku a hledá útočiště v zapadlém venkovském hostinci. Když se před ním náhle zjeví Mefistofeles, alchymista se mu vysměje s tím, že nejsou v Itálii. Ďábel však pouze s úsměvem ukáže na oprýskaný štít nad dveřmi. Hostinec se jmenuje „Řím“.
+### II. Triková seance na královském dvoře: Zikmund August a Barbara Radziwiłłówna
 
-Přestože původní legenda končí tím, že ďábel alchymistu unese a ten v půli cesty skončí uvězněn na Měsíci, film z třicátých let nabízí romantičtější východisko. I tak ale *Pan Twardowski* zůstává nádhernou připomínkou doby, kdy filmaři dokázali míchat černou magii, historickou epiku a národní mýty do jednoho divácky strhujícího celku.³
+Vrcholná sekvence filmu demonstruje Szarovo mistrovství v oblasti optických triků a rané filmové magie[cite: 132]:
+* **Nekromantie pro krále:** Zlomený král Zikmund II. August po záhadné smrti své milované manželky Barbary Radziwiłłówny upadá do hluboké apatie a prosí Twardowského, aby vyvolal jejího ducha[cite: 132].
+* **Dvojitá expozice a zrcadla:** Szaro a jeho kameramani Janusz Gautier a Seweryn Steinwurzel vytvořili scénu nekromantické seance pomocí inovativních dvojexpozic a kouřových clon[cite: 132]. Zjevení průsvitné postavy královny Barbary v zrcadle patří k technickým vrcholům polského meziválečného filmu, přičemž scéna funguje jako přesvědčivý průnik psychologického dramatu a čistého vizuálního iluzionismu[cite: 132].
 
-**Odborné reference:**
-1. Kraszewski, Józef Ignacy: *Mistrz Twardowski*. Gebethner i Wolff, Varšava, 1840.
-2. Haltof, Marek: *Polish National Cinema*. Berghahn Books, Oxford, 2002.
-3. Szaro, Henryk: *Pan Twardowski* (film). Polsko, 1936.
+### III. Hostinec Řím: Lidová ironie a past na lidskou pýchu
+
+Závěr Twardowského pozemské pouti nabízí lekci z folklorní etiky a ironie osudu[cite: 132]:
+* **Geografická léčka:** Twardowski, prchající před rostoucí tíhou hříchu, hledá úkryt v zapadlém venkovském zájezdním hostinci[cite: 132]. Když se před ním zhmotní Mefistofeles, alchymista se mu vysměje s odkazem na smlouvu[cite: 132]. Ďábel však s cynickým úsměvem ukáže na vývěsní štít nad vchodem nesoucí nápis „Koczma Rzym“ (Hostinec Řím)[cite: 132]. Zlo nepotřebuje lámat zákony; stačí mu lidská nepozornost a neznalost prostředí[cite: 132].
+* **Útěk na Měsíc:** Původní lidová legenda končí tím, že Twardowski během letu do pekla začne zpívat mariánskou píseň a ďábel jej upustí na Měsíc, kde alchymista pobývá dodnes[cite: 132]. Szarova filmová verze tento mýtus transformovala do smířlivějšího morálního závěru, v němž Twardowski své hříchy vykupuje lítostí a obětí pro druhé[cite: 132].
+
+### IV. Závěr: Památník polského meziválečného velkofilmu
+
+*Pan Twardowski* představuje klíčové svědectví o ambicích polské kinematografie 30. let[cite: 132]:
+* **Syntéza tradice a techniky:** Henryk Szaro dokázal organicky propojit národní literární kánon, renesanční výpravu a moderní trikové postupy do divácky strhujícího tvaru[cite: 132].
+* **Kulturní kontinuita:** Film zůstává zásadním dokumentem o síle sarmatského mýtu v polské kultuře – příběhem o lidské pýše, která vyzvala nebesa i peklo, aby nakonec nalezla pokoru před zákonitostmi lidské smrtelnosti[cite: 132].
+
+### Slovníček pojmů a bibliografie
+
+* **Sarmatismus:** Kulturní ideologie polské šlechty (šlachty) od 16. do 18. století, odvozující svůj původ od starověkých Sarmatů, vyznačující se hrdostí, rytířským furiantstvím, barokní teatrálností a lpěním na stavovských svobodách[cite: 132].
+* **Faustovský pakt:** Právní a teologická metafora zaprodání duše temným silám výměnou za dočasné pozemské výhody (mládí, bohatství, magická moc)[cite: 132].
+* **Optická dvojexpozice:** Trikový postup dvojího osvícení filmového pásu, umožňující zhmotnit na plátně průhledné duchy, přízraky či vnitřní vize postav[cite: 132].
+
+**Bibliografie (Chicago Style):**
+* Haltof, Marek. *Polish National Cinema*. New York: Berghahn Books, 2002[cite: 132].
+* Kraszewski, Józef Ignacy. *Mistrz Twardowski: Powieść z podań gminnych*. Warszawa: Nakładem Gebethnera i Wolffa, 1874.
+* Mickiewicz, Adam. *Pani Twardowska*. Wilno: Józef Zawadzki, 1822.
+* Szaro, Henryk, dir. *Pan Twardowski* (Motion Picture). Warszawa: Falanga, 1936[cite: 132].
