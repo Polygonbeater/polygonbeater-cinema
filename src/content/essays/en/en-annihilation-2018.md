@@ -1,5 +1,4 @@
----
-title: "Annihilation (2018): Biological Refraction and the Aesthetics of Self-Destruction"
+---title: "Annihilation (2018): Biological Refraction and the Aesthetics of Self-Destruction"
 film: "Annihilation (2018)"
 year: 2018
 date: "2026-09-03"

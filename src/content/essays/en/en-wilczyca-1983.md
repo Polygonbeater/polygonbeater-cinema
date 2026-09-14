@@ -1,6 +1,5 @@
----
-title: "The Wolfess (1983) – History as a Carnivorous Phantom"
-film: "Wilczyca (1983)"
+---title: "The Wolfess (1983) – History as a Carnivorous Phantom"
+film: "The Wolfess (1983)"
 year: 1983
 date: "2026-09-02"
 description: "Marek Piestrak tears the romantic bandage off the Polish 1863 January Uprising. The gothic horror Wilczyca frames historical trauma as a festering wound where repressed guilt returns in animalistic form."

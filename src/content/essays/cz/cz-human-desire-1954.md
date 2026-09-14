@@ -1,6 +1,5 @@
----
-title: "Human Desire (1954): Mechanika vášně a naturalistická past"
-film: "Lidská touha / Human Desire (1954)"
+---title: "Human Desire (1954): Mechanika vášně a naturalistická past"
+film: "Human Desire (1954)"
 year: 1954
 date: "2026-09-03"
 description: "Analytická studie adaptace Zolovy Lidské bestie Fritze Langa zkoumající environmentální determinismus, mechaniku železnice a tragickou rezignaci."

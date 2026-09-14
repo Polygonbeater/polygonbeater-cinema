@@ -1,6 +1,5 @@
----
-title: "The Primal Flash: Urban Gaze, Hitchcock, and the Birth of Giallo in Bava's The Girl Who Knew Too Much (1963)"
-film: "The Primal Flash: Urban Gaze, Hitchcock, and the Birth of Giallo in Bava's The Girl Who Knew Too Much"
+---title: "The Primal Flash: Urban Gaze, Hitchcock, and the Birth of Giallo in Bava's The Girl Who Knew Too Much (1963)"
+film: "The Primal Flash: Urban Gaze, Hitchcock, and the Birth of Giallo in Bava's The Girl Who Knew Too Much (1963)"
 year: 1963
 date: "2026-01-01"
 image: "/images/essays/divka-ktera-vedela-prilis-mnoho.webp"

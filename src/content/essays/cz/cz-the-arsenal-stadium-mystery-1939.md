@@ -1,6 +1,5 @@
----
-title: "Záhada na stadiónu Arsenalu (The Arsenal Stadium Mystery, 1939): Sportovní autenticita a detektivka na prahu války"
-film: "Záhada na stadiónu Arsenalu / The Arsenal Stadium Mystery (1939)"
+---title: "Záhada na stadiónu Arsenalu (The Arsenal Stadium Mystery, 1939): Sportovní autenticita a detektivka na prahu války"
+film: "Záhada na stadiónu Arsenalu (The Arsenal Stadium Mystery, 1939)"
 director: "Thorold Dickinson"
 year: 1939
 date: "2026-09-03"

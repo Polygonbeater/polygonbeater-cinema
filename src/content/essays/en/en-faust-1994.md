@@ -1,6 +1,5 @@
----
-title: "Jan Švankmajer’s Faust (1994): Tactile Governance and the Limits of Subjectivity"
-film: "Faust (1994)"
+---title: "Jan Švankmajer’s Faust (1994): Tactile Governance and the Limits of Subjectivity"
+film: "Jan Švankmajer’s Faust (1994)"
 year: 1994
 date: "2026-09-03"
 description: "Analytical study of Jan Švankmajer's surrealist masterpiece, exploring tactile governance, material procedures, and the procedural breakdown of subjectivity."

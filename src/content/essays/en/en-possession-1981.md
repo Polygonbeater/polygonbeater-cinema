@@ -1,5 +1,4 @@
----
-title: "Possession (1981): The Anatomy of Hysteria and the Materialization of Pain"
+---title: "Possession (1981): The Anatomy of Hysteria and the Materialization of Pain"
 film: "Possession (1981)"
 year: 1981
 date: "2026-09-03"

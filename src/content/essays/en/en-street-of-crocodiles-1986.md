@@ -1,5 +1,4 @@
----
-title: "Street of Crocodiles (1986): A Decaying Dream and the Afterlife of Objects"
+---title: "Street of Crocodiles (1986): A Decaying Dream and the Afterlife of Objects"
 film: "Street of Crocodiles (1986)"
 director: "identical twins Stephen"
 year: 1986

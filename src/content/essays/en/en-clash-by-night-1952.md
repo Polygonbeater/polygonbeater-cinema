@@ -1,5 +1,4 @@
----
-title: "Clash by Night (1952): Coastal Naturalism, Masculinity in Crisis, and the Birth of a Modern Icon"
+---title: "Clash by Night (1952): Coastal Naturalism, Masculinity in Crisis, and the Birth of a Modern Icon"
 film: "Clash by Night (1952)"
 year: 1952
 date: "2026-09-03"

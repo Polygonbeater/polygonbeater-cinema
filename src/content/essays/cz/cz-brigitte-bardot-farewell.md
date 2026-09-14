@@ -1,6 +1,5 @@
----
-title: "A Bůh stvořil ženu (Et Dieu… créa la femme, 1956): Brigitte Bardotová a revoluce těla"
-film: "A Bůh stvořil ženu / Et Dieu… créa la femme (1956)"
+---title: "A Bůh stvořil ženu (Et Dieu… créa la femme, 1956): Brigitte Bardotová a revoluce těla"
+film: "A Bůh stvořil ženu (Et Dieu… créa la femme, 1956)"
 year: 1956
 date: "2026-09-03"
 description: "Analytická studie filmu Rogera Vadima a ohlédnutí za odkazem Brigitte Bardotové, která přepsala pravidla ženské suverenity a popkulturní ikonicity."

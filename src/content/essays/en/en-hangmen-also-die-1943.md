@@ -1,5 +1,4 @@
----
-title: "Hangmen Also Die! (1943): Political Epistemology and Visual Architecture of Power"
+---title: "Hangmen Also Die! (1943): Political Epistemology and Visual Architecture of Power"
 film: "Hangmen Also Die! (1943)"
 year: 1943
 date: "2026-09-03"

@@ -1,5 +1,4 @@
----
-title: "Das Testament des Dr. Mabuse (1933): Terror, Bureaucracy, and the Disembodied Voice"
+---title: "Das Testament des Dr. Mabuse (1933): Terror, Bureaucracy, and the Disembodied Voice"
 film: "Das Testament des Dr. Mabuse (1933)"
 year: 1933
 date: "2026-09-03"

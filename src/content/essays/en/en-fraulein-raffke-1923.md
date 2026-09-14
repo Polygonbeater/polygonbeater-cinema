@@ -1,5 +1,4 @@
----
-title: "Fräulein Raffke (1923): Dancing on the Edge of the Abyss"
+---title: "Fräulein Raffke (1923): Dancing on the Edge of the Abyss"
 film: "Fräulein Raffke (1923)"
 year: 1923
 date: "2026-09-03"

@@ -1,5 +1,4 @@
----
-title: "Animal Farm (1954): A Cold War Cinematic Allegory"
+---title: "Animal Farm (1954): A Cold War Cinematic Allegory"
 film: "Animal Farm (1954)"
 director: "John Halas and"
 year: 1954

@@ -1,5 +1,4 @@
----
-title: "Secret Beyond the Door (1947): Architecture of Fate, the Freudian Myth, and the Labyrinth of the Mind"
+---title: "Secret Beyond the Door (1947): Architecture of Fate, the Freudian Myth, and the Labyrinth of the Mind"
 film: "Secret Beyond the Door (1947)"
 year: 1947
 date: "2026-09-03"

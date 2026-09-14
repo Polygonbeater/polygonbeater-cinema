@@ -1,6 +1,5 @@
----
-title: "Tygr z Ešnapuru (Der Tiger von Eschnapur, 1959): Technokratická arogance, barevný fatalismus a palácové panoptikum"
-film: "Tygr z Ešnapuru / Der Tiger von Eschnapur (1959)"
+---title: "Tygr z Ešnapuru (Der Tiger von Eschnapur, 1959): Technokratická arogance, barevný fatalismus a palácové panoptikum"
+film: "Tygr z Ešnapuru (Der Tiger von Eschnapur, 1959)"
 year: 1959
 date: "2026-09-03"
 description: "Analytická studie prvního dílu indického diptychu Fritze Langa zkoumající technokratickou aroganci západního inženýra, Eastmancolor jako psychologickou zbraň, hadí tanec a palácové panoptikum moci."

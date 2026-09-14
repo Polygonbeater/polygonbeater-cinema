@@ -1,6 +1,5 @@
----
-title: "Sedmikrásky (Daisies, 1966): Destrukce měšťácké morálky, koláž těla a radikální anarchie"
-film: "Sedmikrásky / Daisies (1966)"
+---title: "Sedmikrásky (Daisies, 1966): Destrukce měšťácké morálky, koláž těla a radikální anarchie"
+film: "Sedmikrásky (Daisies, 1966)"
 year: 1966
 date: "2026-09-03"
 description: "Analytická studie přelomového díla Věry Chytilové a Ester Krumbachové zkoumající radikální vzpouru dvou Marií, destrukci filmové narace, kolážovou montáž a filosofii zkaženosti."

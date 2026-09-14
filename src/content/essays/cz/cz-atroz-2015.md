@@ -1,5 +1,4 @@
----
-title: "Atroz (2015): Extrémní horor, found footage a etika zobrazení násilí"
+---title: "Atroz (2015): Extrémní horor, found footage a etika zobrazení násilí"
 film: "Atroz (2015)"
 director: "Lex Ortega"
 year: 2015

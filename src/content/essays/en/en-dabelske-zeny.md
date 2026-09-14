@@ -1,6 +1,5 @@
----
-title: "Anatomy of Guilt and the Trap of Self-Deception: A Deep Dive into Diabolique (1955)"
-film: "Anatomy of Guilt and the Trap of Self-Deception: A Deep Dive into Diabolique"
+---title: "Anatomy of Guilt and the Trap of Self-Deception: A Deep Dive into Diabolique (1955)"
+film: "Anatomy of Guilt and the Trap of Self-Deception: A Deep Dive into Diabolique (1955)"
 year: 1955
 date: "2026-01-01"
 description: "An essayistic study of Henri-Georges Clouzot's Diabolique (1955), exploring human guilt, escalating paranoia, and psychological traps."

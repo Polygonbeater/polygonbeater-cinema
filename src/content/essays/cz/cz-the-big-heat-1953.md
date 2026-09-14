@@ -1,6 +1,5 @@
----
-title: "Velký zátah (The Big Heat, 1953): Anatomie systémového rozkladu a sterilita násilí"
-film: "Velký zátah / The Big Heat (1953)"
+---title: "Velký zátah (The Big Heat, 1953): Anatomie systémového rozkladu a sterilita násilí"
+film: "Velký zátah (The Big Heat, 1953)"
 year: 1953
 date: "2026-09-03"
 description: "Analytická studie kultovního noiru Fritze Langa zkoumající systémovou korupci, osvětlení ve vysokém klíči (high-key), zranitelnost domova a proměnu hrdiny ve stroj na pomstu."

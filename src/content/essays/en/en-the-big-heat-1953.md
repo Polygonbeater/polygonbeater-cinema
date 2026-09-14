@@ -1,5 +1,4 @@
----
-title: "The Big Heat (1953): An Anatomy of Systemic Rot"
+---title: "The Big Heat (1953): An Anatomy of Systemic Rot"
 film: "The Big Heat (1953)"
 year: 1953
 date: "2026-09-03"

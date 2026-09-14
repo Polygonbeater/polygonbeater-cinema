@@ -1,6 +1,5 @@
----
-title: "Dimensions of Dialogue (Možnosti dialogu, 1982): The Cannibalism of Communication"
-film: "Dimensions of Dialogue (1982)"
+---title: "Dimensions of Dialogue (Možnosti dialogu, 1982): The Cannibalism of Communication"
+film: "Dimensions of Dialogue (Možnosti dialogu, 1982)"
 year: 1982
 date: "2026-09-03"
 description: "An analytical essay on Jan Švankmajer's masterpiece, dissecting the failure of communication, totalitarian uniformity, and the physical alchemy of clay."

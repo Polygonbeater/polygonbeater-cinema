@@ -1,6 +1,5 @@
----
-title: "Strach (1983): Subjektivita psychopatie a kinetika zla"
-film: "Strach / Angst (1983)"
+---title: "Strach (1983): Subjektivita psychopatie a kinetika zla"
+film: "Strach (1983)"
 director: "Gerald Kargl"
 year: 1983
 date: "2026-09-03"

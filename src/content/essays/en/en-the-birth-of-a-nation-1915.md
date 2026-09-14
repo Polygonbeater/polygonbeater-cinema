@@ -1,5 +1,4 @@
----
-title: "The Birth of a Nation (1915): The Genesis of Film Technique and Ideology"
+---title: "The Birth of a Nation (1915): The Genesis of Film Technique and Ideology"
 film: "The Birth of a Nation (1915)"
 year: 1915
 date: "2026-09-03"

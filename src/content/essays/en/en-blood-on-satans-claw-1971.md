@@ -1,5 +1,4 @@
----
-title: "The Blood on Satan's Claw (1971): Contagion from the Soil and the Children's Ritual"
+---title: "The Blood on Satan's Claw (1971): Contagion from the Soil and the Children's Ritual"
 film: "The Blood on Satan's Claw (1971)"
 director: "Piers Haggard"
 year: 1971

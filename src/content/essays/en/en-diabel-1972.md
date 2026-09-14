@@ -1,5 +1,4 @@
----
-title: "Diabeł (1972) – History as a Hysterical Hallucination"
+---title: "Diabeł (1972) – History as a Hysterical Hallucination"
 film: "Diabeł (1972)"
 year: 1972
 date: "2026-09-02"

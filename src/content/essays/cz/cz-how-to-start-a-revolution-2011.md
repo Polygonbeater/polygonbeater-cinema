@@ -1,6 +1,5 @@
----
-title: "How to Start a Revolution (2011): Strategický narativ a Machiavelli nenásilí"
-film: "Jak začít revoluci / How to Start a Revolution (2011)"
+---title: "How to Start a Revolution (2011): Strategický narativ a Machiavelli nenásilí"
+film: "How to Start a Revolution (2011)"
 year: 2011
 date: "2026-09-03"
 description: "Analytická studie dokumentu Ruaridha Arrowa o odkazu Dr. Genea Sharpa zkoumající mechanismy nenásilného boje, pilíře moci a politické jiu-jitsu."

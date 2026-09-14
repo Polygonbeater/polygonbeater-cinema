@@ -1,5 +1,4 @@
----
-title: "Cikáni (1921): Mýtus absolutní svobody a romantická projekce osudu"
+---title: "Cikáni (1921): Mýtus absolutní svobody a romantická projekce osudu"
 film: "Cikáni (1921)"
 year: 1921
 date: "2026-09-03"

@@ -1,5 +1,4 @@
----
-title: "Mamma Roma (1962): Tragédie mateřské lásky a římské pašije Pierra Paola Pasoliniho"
+---title: "Mamma Roma (1962): Tragédie mateřské lásky a římské pašije Pierra Paola Pasoliniho"
 film: "Mamma Roma (1962)"
 year: 1962
 date: "2026-09-03"

@@ -1,5 +1,4 @@
----
-title: "The Woman in the Window (1944): Diagnosis of a Single Second and Dream Geometry"
+---title: "The Woman in the Window (1944): Diagnosis of a Single Second and Dream Geometry"
 film: "The Woman in the Window (1944)"
 year: 1944
 date: "2026-09-03"

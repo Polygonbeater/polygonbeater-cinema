@@ -1,5 +1,4 @@
----
-title: "Grizzly Man (2005): Mýtus o přátelství a lhostejnost dravce"
+---title: "Grizzly Man (2005): Mýtus o přátelství a lhostejnost dravce"
 film: "Grizzly Man (2005)"
 year: 2005
 date: "2026-09-03"

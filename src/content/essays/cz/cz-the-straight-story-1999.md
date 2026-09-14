@@ -1,6 +1,5 @@
----
-title: "Příběh Alvina Straighta (The Straight Story, 1999): Radikální pomalost, horizont pokory a poutnictví starce"
-film: "Příběh Alvina Straighta / The Straight Story (1999)"
+---title: "Příběh Alvina Straighta (The Straight Story, 1999): Radikální pomalost, horizont pokory a poutnictví starce"
+film: "Příběh Alvina Straighta (The Straight Story, 1999)"
 year: 1999
 date: "2026-09-03"
 description: "Analytická studie nejkřehčího a nejradikálnějšího díla Davida Lynche zkoumající pomalost jako etické gesto, pastorální krajinu středozápadu, tělesnost Richarda Farnswortha a pouť za odpuštěním."

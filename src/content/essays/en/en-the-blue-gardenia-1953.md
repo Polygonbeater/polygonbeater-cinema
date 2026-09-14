@@ -1,5 +1,4 @@
----
-title: "The Blue Gardenia (1953): Media Manipulation, Technological Alienation, and the Amnesiac Trap"
+---title: "The Blue Gardenia (1953): Media Manipulation, Technological Alienation, and the Amnesiac Trap"
 film: "The Blue Gardenia (1953)"
 year: 1953
 date: "2026-09-03"

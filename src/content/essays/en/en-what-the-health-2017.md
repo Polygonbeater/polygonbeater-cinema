@@ -1,5 +1,4 @@
----
-title: "What the Health (2017): When Science Becomes a Weapon"
+---title: "What the Health (2017): When Science Becomes a Weapon"
 film: "What the Health (2017)"
 year: 2017
 date: "2026-09-03"

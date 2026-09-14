@@ -1,6 +1,5 @@
----
-title: "Persona (1966): Rozpad masky, labilita identity a ontologie ticha"
-film: "Persona / Persona (1966)"
+---title: "Persona (1966): Rozpad masky, labilita identity a ontologie ticha"
+film: "Persona (1966)"
 year: 1966
 date: "2026-09-03"
 description: "Analytická studie radikálního mistrovského díla Ingmara Bergmana zkoumající labilitu lidské identity, bílé světlo ostrova Fårö, optiku Svena Nykvista a sebereflexivní destrukci filmového materiálu."

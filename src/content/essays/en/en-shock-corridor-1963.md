@@ -1,5 +1,4 @@
----
-title: "Shock Corridor (1963): The Psychiatric State, Depoliticization, and the Cold War"
+---title: "Shock Corridor (1963): The Psychiatric State, Depoliticization, and the Cold War"
 film: "Shock Corridor (1963)"
 year: 1963
 date: "2026-09-03"

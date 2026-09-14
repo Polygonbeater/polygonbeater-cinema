@@ -1,6 +1,5 @@
----
-title: "Dělníci odcházející z továrny (1895): Zrod kinematografie a ontologie pohybu"
-film: "Dělníci odcházející z továrny / La Sortie de l'usine Lumière à Lyon (1895)"
+---title: "Dělníci odcházející z továrny (1895): Zrod kinematografie a ontologie pohybu"
+film: "Dělníci odcházející z továrny (1895)"
 year: 1895
 date: "2026-09-03"
 description: "Analytická studie zakladatelského snímku kinematografie bratří Lumièrů zkoumající historickou projekci v Grand Café, kompozici rámu, mýtus o panice a zrod moderního diváka."

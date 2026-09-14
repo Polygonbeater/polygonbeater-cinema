@@ -1,5 +1,4 @@
----
-title: "House by the River (1950): The Aesthetics of Decay, the River of Oblivion, and Narcissistic Pathology"
+---title: "House by the River (1950): The Aesthetics of Decay, the River of Oblivion, and Narcissistic Pathology"
 film: "House by the River (1950)"
 year: 1950
 date: "2026-09-03"

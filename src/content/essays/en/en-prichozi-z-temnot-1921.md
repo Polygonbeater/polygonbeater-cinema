@@ -1,5 +1,4 @@
----
-title: "Arrival from the Darkness (1921): A Pioneering Work of Czechoslovak Occult Horror"
+---title: "Arrival from the Darkness (1921): A Pioneering Work of Czechoslovak Occult Horror"
 film: "Arrival from the Darkness (1921)"
 year: 1921
 date: "2026-09-03"

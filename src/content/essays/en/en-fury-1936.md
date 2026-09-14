@@ -1,5 +1,4 @@
----
-title: "Fury (1936): Fast Emotion, the Manufacture of Certainty, and the Mob as a System"
+---title: "Fury (1936): Fast Emotion, the Manufacture of Certainty, and the Mob as a System"
 film: "Fury (1936)"
 year: 1936
 date: "2026-09-03"

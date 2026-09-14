@@ -1,6 +1,5 @@
----
-title: "Zabití posvátného jelena (The Killing of a Sacred Deer, 2017): Chirurgická vina a symetrie trestu"
-film: "Zabití posvátného jelena / The Killing of a Sacred Deer (2017)"
+---title: "Zabití posvátného jelena (The Killing of a Sacred Deer, 2017): Chirurgická vina a symetrie trestu"
+film: "Zabití posvátného jelena (The Killing of a Sacred Deer, 2017)"
 year: 2017
 date: "2026-09-03"
 description: "Analytická studie psychologického thrilleru Yorgose Lanthimose zkoumající klinický determinismus, deadpan herectví, jazyk jako masku a mechaniku rituální reciprocity."

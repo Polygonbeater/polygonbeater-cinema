@@ -1,5 +1,4 @@
----
-title: "Rancho Notorious (1952): A Ballad of Hate, Murder, and Revenge"
+---title: "Rancho Notorious (1952): A Ballad of Hate, Murder, and Revenge"
 film: "Rancho Notorious (1952)"
 year: 1952
 date: "2026-09-03"

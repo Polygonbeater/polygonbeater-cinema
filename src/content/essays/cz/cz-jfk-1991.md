@@ -1,5 +1,4 @@
----
-title: "JFK (1991): Systém montážně generované epistemické autority"
+---title: "JFK (1991): Systém montážně generované epistemické autority"
 film: "JFK (1991)"
 year: 1991
 date: "2026-09-03"

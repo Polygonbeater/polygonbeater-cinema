@@ -1,5 +1,4 @@
----
-title: "Nosferatu, eine Symphonie des Grauens (1922): The Shadow of the Century"
+---title: "Nosferatu, eine Symphonie des Grauens (1922): The Shadow of the Century"
 film: "Nosferatu, eine Symphonie des Grauens (1922)"
 director: "the visionary"
 year: 1922

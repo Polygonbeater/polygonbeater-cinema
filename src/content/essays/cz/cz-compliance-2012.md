@@ -1,6 +1,5 @@
----
-title: "Nařčení (Compliance, 2012): Anatomie slepé poslušnosti a tyranie autority"
-film: "Nařčení / Compliance (2012)"
+---title: "Nařčení (Compliance, 2012): Anatomie slepé poslušnosti a tyranie autority"
+film: "Nařčení (Compliance, 2012)"
 year: 2012
 date: "2026-09-03"
 description: "Analytická studie psychologického thrilleru Craiga Zobela zkoumající systémovou poslušnost, Milgramův experiment, kognitivní paralýzu a difúzi odpovědnosti."

@@ -1,5 +1,4 @@
----
-title: "Cabaret (1972): The Anatomy of Conscious Complicity and Compartmentalization in a Defective Community"
+---title: "Cabaret (1972): The Anatomy of Conscious Complicity and Compartmentalization in a Defective Community"
 film: "Cabaret (1972)"
 year: 1972
 date: "2026-09-02"

@@ -1,6 +1,5 @@
----
-title: "Žena za výlohou (The Woman in the Window, 1944): Diagnóza jedné vteřiny a snová geometrie viny"
-film: "Žena za výlohou / The Woman in the Window (1944)"
+---title: "Žena za výlohou (The Woman in the Window, 1944): Diagnóza jedné vteřiny a snová geometrie viny"
+film: "Žena za výlohou (The Woman in the Window, 1944)"
 year: 1944
 date: "2026-09-03"
 description: "Analytická studie kultovního noiru Fritze Langa zkoumající potlačenou měšťáckou touhu, snový zvrat, Miltonovu chiaroscuro kameru a zrcadlení se snímkem Scarlet Street."

@@ -1,5 +1,4 @@
----
-title: "Moon (2009): Existential Isolation and the Horror of Corporate Recycling"
+---title: "Moon (2009): Existential Isolation and the Horror of Corporate Recycling"
 film: "Moon (2009)"
 year: 2009
 date: "2026-09-03"

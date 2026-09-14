@@ -1,5 +1,4 @@
----
-title: "Leptirica (1973) – The Deconstruction of the Vampire Myth and the Rawness of Balkan Folklore"
+---title: "Leptirica (1973) – The Deconstruction of the Vampire Myth and the Rawness of Balkan Folklore"
 film: "Leptirica (1973)"
 year: 1973
 date: "2026-09-02"

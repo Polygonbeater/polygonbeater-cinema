@@ -1,6 +1,5 @@
----
-title: "Valčík s Bašírem (Vals Im Bashir, 2008): Animovaná archeologie paměti a trauma Sabry a Šatíly"
-film: "Valčík s Bašírem / Vals Im Bashir (Waltz with Bashir, 2008)"
+---title: "Valčík s Bašírem (Vals Im Bashir, 2008): Animovaná archeologie paměti a trauma Sabry a Šatíly"
+film: "Valčík s Bašírem (Vals Im Bashir, 2008)"
 year: 2008
 date: "2026-09-03"
 description: "Hloubková analýza animovaného dokumentu Ariho Folmana propojujícího psychologickou disociaci, kolektivní vinu libanonské války roku 1982, digitální cut-out animaci a šok reálného archivu."

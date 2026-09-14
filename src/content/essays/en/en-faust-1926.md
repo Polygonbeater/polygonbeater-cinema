@@ -1,5 +1,4 @@
----
-title: "Faust (1926): Cinematic Apparatus, Embodied Vision, and the Organization of Moral Space"
+---title: "Faust (1926): Cinematic Apparatus, Embodied Vision, and the Organization of Moral Space"
 film: "Faust (1926)"
 year: 1926
 date: "2026-09-03"

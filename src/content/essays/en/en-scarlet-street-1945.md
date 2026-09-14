@@ -1,5 +1,4 @@
----
-title: "Scarlet Street (1945): Subject Deconstruction, Structural Emasculation, and the Auditory Trajectory of Guilt"
+---title: "Scarlet Street (1945): Subject Deconstruction, Structural Emasculation, and the Auditory Trajectory of Guilt"
 film: "Scarlet Street (1945)"
 year: 1945
 date: "2026-09-03"

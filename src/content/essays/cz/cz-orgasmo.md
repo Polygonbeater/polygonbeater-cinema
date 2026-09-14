@@ -1,6 +1,5 @@
----
-title: "Orgasmo (1969): Zlatá klec paranoie a psychologická destrukce"
-film: "Orgasmo / Orgasmo (1969)"
+---title: "Orgasmo (1969): Zlatá klec paranoie a psychologická destrukce"
+film: "Orgasmo (1969)"
 year: 1969
 date: "2026-09-03"
 description: "Esejistická analýza psychologického thrilleru Umberta Lenziho zkoumající manipulaci, gaslighting, architekturu slunné izolace a rozpad buržoazní suverenity."

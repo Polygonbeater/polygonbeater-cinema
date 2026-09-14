@@ -1,5 +1,4 @@
----
-title: "All the King’s Men (1949): The Anatomy of Populism"
+---title: "All the King’s Men (1949): The Anatomy of Populism"
 film: "All the King’s Men (1949)"
 year: 1949
 date: "2026-09-03"

@@ -1,5 +1,4 @@
----
-title: "A Force More Powerful (2000): Století nenásilného konfliktu a občanská neposlušnost"
+---title: "A Force More Powerful (2000): Století nenásilného konfliktu a občanská neposlušnost"
 film: "A Force More Powerful (2000)"
 year: 2000
 date: "2026-09-03"

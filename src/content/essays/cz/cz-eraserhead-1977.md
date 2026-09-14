@@ -1,6 +1,5 @@
----
-title: "Mazací hlava (Eraserhead, 1977): Industriální paranoia a noční můra otcovství"
-film: "Mazací hlava / Eraserhead (1977)"
+---title: "Mazací hlava (Eraserhead, 1977): Industriální paranoia a noční můra otcovství"
+film: "Mazací hlava (Eraserhead, 1977)"
 year: 1977
 date: "2026-09-03"
 description: "Analytická studie celovečerního debutu Davida Lynche zkoumající industriální pustinu, somatickou úzkost z reprodukce a surrealistickou destrukci ega."

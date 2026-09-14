@@ -1,5 +1,4 @@
----
-title: "Allegro Non Troppo (1976): When Civilization Dances to the Wrong Music"
+---title: "Allegro Non Troppo (1976): When Civilization Dances to the Wrong Music"
 film: "Allegro Non Troppo (1976)"
 year: 1976
 date: "2026-09-03"

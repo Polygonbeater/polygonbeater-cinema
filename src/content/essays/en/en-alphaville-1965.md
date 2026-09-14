@@ -1,5 +1,4 @@
----
-title: "Alphaville (1965): Technocracy, Language, and the Administration of Power"
+---title: "Alphaville (1965): Technocracy, Language, and the Administration of Power"
 film: "Alphaville (1965)"
 year: 1965
 date: "2026-09-03"

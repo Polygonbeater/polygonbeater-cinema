@@ -1,5 +1,4 @@
----
-title: "You Only Live Once (1937): When Stigma Replaces Proof and Justice Fails"
+---title: "You Only Live Once (1937): When Stigma Replaces Proof and Justice Fails"
 film: "You Only Live Once (1937)"
 year: 1937
 date: "2026-09-03"

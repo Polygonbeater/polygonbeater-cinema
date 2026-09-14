@@ -1,5 +1,4 @@
----
-title: "Santa Claus (1898): The Cinematic Birth of Christmas Magic"
+---title: "Santa Claus (1898): The Cinematic Birth of Christmas Magic"
 film: "Santa Claus (1898)"
 year: 1898
 date: "2026-09-03"

@@ -1,5 +1,4 @@
----
-title: "Der Fuehrer's Face (1943): Animated Psychological Warfare and Totalitarian Satire"
+---title: "Der Fuehrer's Face (1943): Animated Psychological Warfare and Totalitarian Satire"
 film: "Der Fuehrer's Face (1943)"
 year: 1943
 date: "2026-09-03"

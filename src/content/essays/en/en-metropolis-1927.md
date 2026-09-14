@@ -1,5 +1,4 @@
----
-title: "Metropolis (1927): Architecture of Power, the Geometry of Oppression, and the Human Machine"
+---title: "Metropolis (1927): Architecture of Power, the Geometry of Oppression, and the Human Machine"
 film: "Metropolis (1927)"
 year: 1927
 date: "2026-09-03"

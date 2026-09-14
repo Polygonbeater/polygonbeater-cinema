@@ -1,6 +1,5 @@
----
-title: "Cabiriiny noci (Le notti di Cabiria, 1957): Manuál pro zachování integrity v éře cynismu"
-film: "Cabiriiny noci / Le notti di Cabiria (1957)"
+---title: "Cabiriiny noci (Le notti di Cabiria, 1957): Manuál pro zachování integrity v éře cynismu"
+film: "Cabiriiny noci (Le notti di Cabiria, 1957)"
 year: 1957
 date: "2026-09-03"
 description: "Psychologická analýza Felliniho mistrovského díla zkoumá mechanismy zneužívání důvěry, hledání spasitele a finální znovuzískání lidské suverenity."

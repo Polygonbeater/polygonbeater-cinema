@@ -1,5 +1,4 @@
----
-title: "The Revolt of the Toys (1947): A Post-War Lullaby of Resistance"
+---title: "The Revolt of the Toys (1947): A Post-War Lullaby of Resistance"
 film: "The Revolt of the Toys (1947)"
 director: "pioneering animation artist"
 year: 1947

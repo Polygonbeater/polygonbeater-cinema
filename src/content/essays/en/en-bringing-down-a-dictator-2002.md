@@ -1,5 +1,4 @@
----
-title: "Bringing Down a Dictator (2002): The Birth of Revolutionary Branding"
+---title: "Bringing Down a Dictator (2002): The Birth of Revolutionary Branding"
 film: "Bringing Down a Dictator (2002)"
 year: 2002
 date: "2026-09-03"

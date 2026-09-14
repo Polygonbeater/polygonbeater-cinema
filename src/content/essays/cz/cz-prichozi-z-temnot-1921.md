@@ -1,6 +1,5 @@
----
-title: "Příchozí z temnot (1921): Okultní pýcha, alchymie a historická anachronie"
-film: "Příchozí z temnot / The Arrival from the Darkness (1921)"
+---title: "Příchozí z temnot (1921): Okultní pýcha, alchymie a historická anachronie"
+film: "Příchozí z temnot (1921)"
 year: 1921
 date: "2026-09-03"
 description: "Analytická studie raného československého okultního hororu Jana S. Kolára zkoumající alchymistický experiment, oživení rytíře Ješka, vliv německého expresionismu a etiku lidské pýchy."

@@ -1,6 +1,5 @@
----
-title: "A Labyrinth of Senses and Shadows: The Crisis of Knowledge in Argento's The Cat o' Nine Tails (1971)"
-film: "A Labyrinth of Senses and Shadows: The Crisis of Knowledge in Argento's The Cat o' Nine Tails"
+---title: "A Labyrinth of Senses and Shadows: The Crisis of Knowledge in Argento's The Cat o' Nine Tails (1971)"
+film: "A Labyrinth of Senses and Shadows: The Crisis of Knowledge in Argento's The Cat o' Nine Tails (1971)"
 year: 1971
 date: "2026-01-01"
 description: "An essayistic inquiry into Dario Argento's The Cat o' Nine Tails (1971) exploring the philosophy of perception, the limits of knowledge, and paranoia."

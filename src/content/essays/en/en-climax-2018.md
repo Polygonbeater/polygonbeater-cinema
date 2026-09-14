@@ -1,5 +1,4 @@
----
-title: "Climax (2018): The Choreography of Chaos and the Collapse of the Social Contract"
+---title: "Climax (2018): The Choreography of Chaos and the Collapse of the Social Contract"
 film: "Climax (2018)"
 year: 2018
 date: "2026-09-02"

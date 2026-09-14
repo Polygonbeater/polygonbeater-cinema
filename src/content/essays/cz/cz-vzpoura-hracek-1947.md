@@ -1,6 +1,5 @@
----
-title: "Vzpoura hraček (1947): Poválečná ukolébavka odporu a materiální animace Hermíny Týrlové"
-film: "Vzpoura hraček / The Revolt of the Toys (1947)"
+---title: "Vzpoura hraček (1947): Poválečná ukolébavka odporu a materiální animace Hermíny Týrlové"
+film: "Vzpoura hraček (1947)"
 year: 1947
 date: "2026-09-03"
 description: "Hloubková analýza průkopnického krátkometrážního filmu Hermíny Týrlové kombinujícího stop-motion loutkovou animaci s hraným filmem v politické protinacistické satiře ze zlínských ateliérů."

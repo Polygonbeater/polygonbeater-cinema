@@ -1,5 +1,4 @@
----
-title: "Onibaba (1964): Material Horror and the Collapse of the Social Imaginary"
+---title: "Onibaba (1964): Material Horror and the Collapse of the Social Imaginary"
 film: "Onibaba (1964)"
 year: 1964
 date: "2026-09-03"

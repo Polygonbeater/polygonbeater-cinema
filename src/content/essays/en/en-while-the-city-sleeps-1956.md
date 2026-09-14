@@ -1,5 +1,4 @@
----
-title: "While the City Sleeps (1956): Media Predators and the Lipstick Killer"
+---title: "While the City Sleeps (1956): Media Predators and the Lipstick Killer"
 film: "While the City Sleeps (1956)"
 year: 1956
 date: "2026-09-03"

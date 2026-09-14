@@ -1,6 +1,5 @@
----
-title: "Nepřivolávej nic zlého (2022 & 2024): Tyranie slušnosti a technická architektura (ne)poslušnosti"
-film: "Nepřivolávej nic zlého / Speak No Evil (2022 & 2024)"
+---title: "Nepřivolávej nic zlého (2022 & 2024): Tyranie slušnosti a technická architektura (ne)poslušnosti"
+film: "Nepřivolávej nic zlého (2022 & 2024)"
 director: "Christian Tafdrup, James Watkins"
 year: 2022
 date: "2026-09-03"

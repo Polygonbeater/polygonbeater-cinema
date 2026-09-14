@@ -1,5 +1,4 @@
----
-title: "Martha Marcy May Marlene (2011): The Physics of Paranoia and the Erasure of the Ego"
+---title: "Martha Marcy May Marlene (2011): The Physics of Paranoia and the Erasure of the Ego"
 film: "Martha Marcy May Marlene (2011)"
 year: 2011
 date: "2026-09-03"

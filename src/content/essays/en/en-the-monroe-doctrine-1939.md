@@ -1,5 +1,4 @@
----
-title: "The Monroe Doctrine (1939): From Neutrality to Economic Imperialism"
+---title: "The Monroe Doctrine (1939): From Neutrality to Economic Imperialism"
 film: "The Monroe Doctrine (1939)"
 year: 1939
 date: "2026-09-03"

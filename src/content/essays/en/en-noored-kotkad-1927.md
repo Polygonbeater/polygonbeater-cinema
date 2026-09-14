@@ -1,5 +1,4 @@
----
-title: "Noored kotkad (1927) – A Visual Representation of an Independent Baltic"
+---title: "Noored kotkad (1927) – A Visual Representation of an Independent Baltic"
 film: "Noored kotkad (1927)"
 director: "Theodor Luts"
 year: 1927

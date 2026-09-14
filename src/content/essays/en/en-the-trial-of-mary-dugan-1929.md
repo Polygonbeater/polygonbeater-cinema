@@ -1,5 +1,4 @@
----
-title: "The Trial of Mary Dugan (1929): The Birth of the Courtroom Drama"
+---title: "The Trial of Mary Dugan (1929): The Birth of the Courtroom Drama"
 film: "The Trial of Mary Dugan (1929)"
 director: "playwright Bayard Veiller"
 year: 1929

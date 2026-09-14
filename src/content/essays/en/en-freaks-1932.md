@@ -1,5 +1,4 @@
----
-title: "Freaks (1932): Todd Browning's Misunderstood Masterpiece"
+---title: "Freaks (1932): Todd Browning's Misunderstood Masterpiece"
 film: "Freaks (1932)"
 director: "Todd Browning fresh"
 year: 1932

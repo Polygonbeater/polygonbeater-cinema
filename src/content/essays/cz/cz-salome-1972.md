@@ -1,6 +1,5 @@
----
-title: "Salomè (1972): Radikální ikonoklastie Carmela Beneho a estetika protikina"
-film: "Salomè / Salomè (1972)"
+---title: "Salomè (1972): Radikální ikonoklastie Carmela Beneho a estetika protikina"
+film: "Salomè (1972)"
 director: "Carmelo Bene"
 year: 1972
 date: "2026-09-03"

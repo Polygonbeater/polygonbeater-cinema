@@ -1,5 +1,4 @@
----
-title: "The Straight Story (1999): David Lynch’s Most Radical Masterpiece"
+---title: "The Straight Story (1999): David Lynch’s Most Radical Masterpiece"
 film: "The Straight Story (1999)"
 year: 1999
 date: "2026-09-03"

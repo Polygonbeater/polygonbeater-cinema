@@ -1,5 +1,4 @@
----
-title: "Nikola Šuhaj (1947): Baladická mytizace a poválečná reflexe ztraceného prostoru"
+---title: "Nikola Šuhaj (1947): Baladická mytizace a poválečná reflexe ztraceného prostoru"
 film: "Nikola Šuhaj (1947)"
 year: 1947
 date: "2026-09-03"

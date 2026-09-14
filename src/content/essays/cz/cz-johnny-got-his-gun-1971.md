@@ -1,5 +1,4 @@
----
-title: "Johnny Got His Gun (1971): Vědomí jako poslední vězení"
+---title: "Johnny Got His Gun (1971): Vědomí jako poslední vězení"
 film: "Johnny Got His Gun (1971)"
 year: 1971
 date: "2026-09-03"

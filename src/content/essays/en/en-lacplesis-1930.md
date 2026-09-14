@@ -1,5 +1,4 @@
----
-title: "Lāčplēsis (1930) – Mythological Monument as a Pillar of National Identity"
+---title: "Lāčplēsis (1930) – Mythological Monument as a Pillar of National Identity"
 film: "Lāčplēsis (1930)"
 director: "Aleksandrs Rustei"
 year: 1930

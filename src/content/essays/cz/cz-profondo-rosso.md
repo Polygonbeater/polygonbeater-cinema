@@ -1,6 +1,5 @@
----
-title: "Tmavě červená (Profondo Rosso, 1975): Slepá skvrna vnímání a krvavý operní balet"
-film: "Tmavě červená / Profondo Rosso (Deep Red, 1975)"
+---title: "Tmavě červená (Profondo Rosso, 1975): Slepá skvrna vnímání a krvavý operní balet"
+film: "Tmavě červená (Profondo Rosso, 1975)"
 year: 1975
 date: "2026-09-03"
 description: "Analytická studie vrcholného gialla Daria Argenta zkoumající trik se zrcadlem, epistemologickou zradu zraku, hudbu skupiny Goblin a dětské trauma Vily křičícího dítěte."

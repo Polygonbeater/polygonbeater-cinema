@@ -1,5 +1,4 @@
----
-title: "The Good, the Bad and the Ugly (1966): An Existential Epic"
+---title: "The Good, the Bad and the Ugly (1966): An Existential Epic"
 film: "The Good, the Bad and the Ugly (1966)"
 year: 1966
 date: "2026-09-03"

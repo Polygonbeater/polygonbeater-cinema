@@ -1,5 +1,4 @@
----
-title: "O-Bi, O-Ba: The End of Civilization (1985) – The Architecture of Manufactured Hope"
+---title: "O-Bi, O-Ba: The End of Civilization (1985) – The Architecture of Manufactured Hope"
 film: "O-Bi, O-Ba: The End of Civilization (1985)"
 year: 1985
 date: "2026-09-02"

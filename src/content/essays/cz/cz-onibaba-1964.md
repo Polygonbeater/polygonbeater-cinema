@@ -1,5 +1,4 @@
----
-title: "Onibaba (1964): Materiální horor a kolaps sociálního imaginárna"
+---title: "Onibaba (1964): Materiální horor a kolaps sociálního imaginárna"
 film: "Onibaba (1964)"
 year: 1964
 date: "2026-09-03"

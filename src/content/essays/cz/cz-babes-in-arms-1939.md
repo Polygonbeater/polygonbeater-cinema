@@ -1,6 +1,5 @@
----
-title: "Zpívající mládí (Babes in Arms, 1939): Zlatý věk hollywoodského muzikálu"
-film: "Zpívající mládí / Babes in Arms (1939)"
+---title: "Zpívající mládí (Babes in Arms, 1939): Zlatý věk hollywoodského muzikálu"
+film: "Zpívající mládí (Babes in Arms, 1939)"
 year: 1939
 date: "2026-09-03"
 description: "Hloubková analýza klasického MGM muzikálu Busbyho Berkeleyho s Mickeym Rooneyem a Judy Garlandovou o dospívání, vaudevillu a zrodu hitu Good Morning."

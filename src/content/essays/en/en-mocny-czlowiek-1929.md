@@ -1,5 +1,4 @@
----
-title: "Mocny człowiek (1929): The Lost Jewel of Polish Silent Cinema"
+---title: "Mocny człowiek (1929): The Lost Jewel of Polish Silent Cinema"
 film: "Mocny człowiek (1929)"
 year: 1929
 date: "2026-09-02"

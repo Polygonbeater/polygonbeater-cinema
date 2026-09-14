@@ -1,6 +1,5 @@
----
-title: "Případ Mary Duganové (The Trial of Mary Dugan, 1929): Zrod zvukového soudního dramatu a rétorika morálky"
-film: "Případ Mary Duganové / The Trial of Mary Dugan (1929)"
+---title: "Případ Mary Duganové (The Trial of Mary Dugan, 1929): Zrod zvukového soudního dramatu a rétorika morálky"
+film: "Případ Mary Duganové (The Trial of Mary Dugan, 1929)"
 director: "Bayard Veiller"
 year: 1929
 date: "2026-09-03"

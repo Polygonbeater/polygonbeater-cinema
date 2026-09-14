@@ -1,5 +1,4 @@
----
-title: "Bride of Frankenstein (1935) – Tragic Grotesque and the Myth of Loneliness"
+---title: "Bride of Frankenstein (1935) – Tragic Grotesque and the Myth of Loneliness"
 film: "Bride of Frankenstein (1935)"
 year: 1935
 date: "2026-09-02"

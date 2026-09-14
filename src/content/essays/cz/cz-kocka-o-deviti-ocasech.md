@@ -1,6 +1,5 @@
----
-title: "Kočka o devíti ocasech (Il gatto a nove code, 1971): Labyrint smyslů a krize poznání"
-film: "Kočka o devíti ocasech / Il gatto a nove code (1971)"
+---title: "Kočka o devíti ocasech (Il gatto a nove code, 1971): Labyrint smyslů a krize poznání"
+film: "Kočka o devíti ocasech (Il gatto a nove code, 1971)"
 year: 1971
 date: "2026-09-03"
 description: "Analytická studie druhého gialla Daria Argenta zkoumající epistemologickou krizi zraku, slepého vyšetřovatele, genetický determinismus a avantgardní zvukovou krajinu Ennia Morriconeho."

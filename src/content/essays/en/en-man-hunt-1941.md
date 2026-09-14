@@ -1,5 +1,4 @@
----
-title: "Man Hunt (1941): Personal Manifesto, Shadows, and the First Strike Against Nazism"
+---title: "Man Hunt (1941): Personal Manifesto, Shadows, and the First Strike Against Nazism"
 film: "Man Hunt (1941)"
 year: 1941
 date: "2026-09-03"

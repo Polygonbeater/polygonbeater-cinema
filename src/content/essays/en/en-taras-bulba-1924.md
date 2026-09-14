@@ -1,5 +1,4 @@
----
-title: "Taras Bulba (1924) – Émigré Nostalgia and the Image of a Lost World"
+---title: "Taras Bulba (1924) – Émigré Nostalgia and the Image of a Lost World"
 film: "Taras Bulba (1924)"
 director: "Vladimir Strizhevsky"
 year: 1924

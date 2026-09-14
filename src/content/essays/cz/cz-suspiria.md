@@ -1,6 +1,5 @@
----
-title: "Suspiria (1977 & 2018): Estetická past, geometrie hrůzy a historická vina"
-film: "Suspiria / Suspiria (1977 & 2018)"
+---title: "Suspiria (1977 & 2018): Estetická past, geometrie hrůzy a historická vina"
+film: "Suspiria (1977 & 2018)"
 year: 1977
 date: "2026-09-03"
 description: "Srovnávací analytická studie dvou verzí kultovního hororu Suspiria od Daria Argenta a Lucy Guadagnina zkoumající technicolorový teror, matriarchát a trauma Německého podzimu."

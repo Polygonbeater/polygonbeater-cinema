@@ -1,5 +1,4 @@
----
-title: "Martha Marcy May Marlene (2011): Fyzika paranoie a vymazání ega"
+---title: "Martha Marcy May Marlene (2011): Fyzika paranoie a vymazání ega"
 film: "Martha Marcy May Marlene (2011)"
 year: 2011
 date: "2026-09-03"

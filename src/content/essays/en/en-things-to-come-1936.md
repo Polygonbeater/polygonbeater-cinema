@@ -1,5 +1,4 @@
----
-title: "Things to Come (1936): H.G. Wells and the Technocratic Dilemma"
+---title: "Things to Come (1936): H.G. Wells and the Technocratic Dilemma"
 film: "Things to Come (1936)"
 year: 1936
 date: "2026-09-03"

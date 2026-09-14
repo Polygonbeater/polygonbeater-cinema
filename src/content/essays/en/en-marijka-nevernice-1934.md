@@ -1,5 +1,4 @@
----
-title: "Marijka the Unfaithful (1934) – Avant-Garde, Authenticity, and the Raw Poetry of Carpathian Ruthenia"
+---title: "Marijka the Unfaithful (1934) – Avant-Garde, Authenticity, and the Raw Poetry of Carpathian Ruthenia"
 film: "Marijka the Unfaithful (1934)"
 year: 1934
 date: "2026-09-02"

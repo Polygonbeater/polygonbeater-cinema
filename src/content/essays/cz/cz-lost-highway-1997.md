@@ -1,5 +1,4 @@
----
-title: "Lost Highway (1997): Past, ze které není úniku, a Möbiova páska identity"
+---title: "Lost Highway (1997): Past, ze které není úniku, a Möbiova páska identity"
 film: "Lost Highway (1997)"
 year: 1997
 date: "2026-09-03"

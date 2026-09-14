@@ -1,5 +1,4 @@
----
-title: "Moonfleet (1955): Gotická studie morálního úpadku"
+---title: "Moonfleet (1955): Gotická studie morálního úpadku"
 film: "Moonfleet (1955)"
 year: 1955
 date: "2026-09-03"

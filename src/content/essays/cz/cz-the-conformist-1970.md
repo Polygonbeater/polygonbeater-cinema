@@ -1,6 +1,5 @@
----
-title: "Konformista (Il conformista, 1970): Mechanika poslušnosti a vizuální geometrie fašismu"
-film: "Konformista / Il conformista (1970)"
+---title: "Konformista (Il conformista, 1970): Mechanika poslušnosti a vizuální geometrie fašismu"
+film: "Konformista (Il conformista, 1970)"
 year: 1970
 date: "2026-09-03"
 description: "Hloubková analýza mistrovského díla Bernarda Bertolucciho zkoumající psychologii konformismu, fašistickou architekturu, přelomovou kameru Vittoria Storara a vytěsněné trauma sexuality."

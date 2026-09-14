@@ -1,6 +1,5 @@
----
-title: "Rancho Notorious (1952): Balada o nenávisti, vraždě a pomstě"
-film: "Rancho Notorious / Rancho Notorious (1952)"
+---title: "Rancho Notorious (1952): Balada o nenávisti, vraždě a pomstě"
+film: "Rancho Notorious (1952)"
 year: 1952
 date: "2026-09-03"
 description: "Analytická studie stylizovaného westernového noiru Fritze Langa zkoumající žánrovou hybriditu, baladickou píseň Chuck-a-Luck, ateliérový Technicolor a morální rozklad pomsty."

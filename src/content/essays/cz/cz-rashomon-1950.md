@@ -1,6 +1,5 @@
----
-title: "Rašomon (Rashomon, 1950): Rozpad objektivní pravdy a epistemologický relativismus"
-film: "Rašomon / Rashomon (1950)"
+---title: "Rašomon (Rashomon, 1950): Rozpad objektivní pravdy a epistemologický relativismus"
+film: "Rašomon (Rashomon, 1950)"
 year: 1950
 date: "2026-09-03"
 description: "Analytická studie přelomového mistrovského díla Akiry Kurosawy zkoumající epistemologický relativismus, nespolehlivé vypravěče, revoluční kameru Kazua Mijagawy a etické vykoupení skrze nalezené dítě."

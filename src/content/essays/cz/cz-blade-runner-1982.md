@@ -1,5 +1,4 @@
----
-title: "Blade Runner (1982): Oči v neonovém soumraku a architektura umělé paměti"
+---title: "Blade Runner (1982): Oči v neonovém soumraku a architektura umělé paměti"
 film: "Blade Runner (1982)"
 year: 1982
 date: "2026-09-03"

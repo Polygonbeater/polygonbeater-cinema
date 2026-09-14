@@ -1,6 +1,5 @@
----
-title: "The Myth of Absolute Freedom: Gypsies (1921) and the Romantic Projection of Fate"
-film: "Gypsies (1921)"
+---title: "The Myth of Absolute Freedom: Gypsies (1921) and the Romantic Projection of Fate"
+film: "The Myth of Absolute Freedom: Gypsies (1921)"
 director: "Karel Anton and"
 year: 1921
 date: "2026-09-02"

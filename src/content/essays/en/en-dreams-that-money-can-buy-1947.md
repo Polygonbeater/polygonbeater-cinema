@@ -1,5 +1,4 @@
----
-title: "Dreams That Money Can Buy (1947): A Manifesto of the Subconscious"
+---title: "Dreams That Money Can Buy (1947): A Manifesto of the Subconscious"
 film: "Dreams That Money Can Buy (1947)"
 year: 1947
 date: "2026-09-03"

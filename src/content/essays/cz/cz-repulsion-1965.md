@@ -1,6 +1,5 @@
----
-title: "Hnus (Repulsion, 1965): Subjektivizovaný prostor, senzorické přetížení a psychický rozpad"
-film: "Hnus / Repulsion (1965)"
+---title: "Hnus (Repulsion, 1965): Subjektivizovaný prostor, senzorické přetížení a psychický rozpad"
+film: "Hnus (Repulsion, 1965)"
 director: "Roman Polanski"
 year: 1965
 date: "2026-09-03"

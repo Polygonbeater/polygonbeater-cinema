@@ -1,5 +1,4 @@
----
-title: "Kladivo na čarodějnice (1969): Administrativní teror a moc inkoustu"
+---title: "Kladivo na čarodějnice (1969): Administrativní teror a moc inkoustu"
 film: "Kladivo na čarodějnice (1969)"
 year: 1969
 date: "2026-09-03"

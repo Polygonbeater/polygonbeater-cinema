@@ -1,6 +1,5 @@
----
-title: "Cure (1997): Nákaza prázdnotou a destrukce ega"
-film: "Cure / Kjua (1997)"
+---title: "Cure (1997): Nákaza prázdnotou a destrukce ega"
+film: "Cure (1997)"
 year: 1997
 date: "2026-09-03"
 description: "Analytická studie kultovního japonského psychologického hororu Kijošiho Kurosawy zkoumající anatomii odcizení, hypnotickou destrukci ega a nákazu prázdnotou."

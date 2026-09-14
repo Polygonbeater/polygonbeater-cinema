@@ -1,5 +1,4 @@
----
-title: "A Short Film About Killing (1988) – The Anatomy of Mechanical Death"
+---title: "A Short Film About Killing (1988) – The Anatomy of Mechanical Death"
 film: "A Short Film About Killing (1988)"
 year: 1988
 date: "2026-09-02"

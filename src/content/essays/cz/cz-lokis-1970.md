@@ -1,6 +1,5 @@
----
-title: "Lokis (1970): Střet osvícenského rozumu a pobaltského mýtu v etnografické gotice"
-film: "Lokis / Lokis: Rękopis profesora Wittembacha (1970)"
+---title: "Lokis (1970): Střet osvícenského rozumu a pobaltského mýtu v etnografické gotice"
+film: "Lokis (1970)"
 year: 1970
 date: "2026-09-03"
 description: "Analytická studie polského gotického hororu Janusze Majewského zkoumající adaptaci Prospera Mériméa, limity západního racionalismu, medvědí lykantropii a chthonické mýty Žemaitije."

@@ -1,6 +1,5 @@
----
-title: "Cloak and Dagger (1946): Věda jako rukojmí, fyziologie násilí a úsvit atomové paranoie"
-film: "Plášť a dýka / Cloak and Dagger (1946)"
+---title: "Cloak and Dagger (1946): Věda jako rukojmí, fyziologie násilí a úsvit atomové paranoie"
+film: "Cloak and Dagger (1946)"
 year: 1946
 date: "2026-09-03"
 description: "Analytická studie politického špionážního thrilleru Fritze Langa zkoumající atomovou paranoiu, dekonstrukci hrdiny-intelektuála a dopad cenzurních zásahů."

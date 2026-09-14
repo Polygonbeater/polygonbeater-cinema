@@ -1,5 +1,4 @@
----
-title: "Santa Sangre (1989): Ritual Art-Horror, Circus Corporeality, and Psychological Trauma"
+---title: "Santa Sangre (1989): Ritual Art-Horror, Circus Corporeality, and Psychological Trauma"
 film: "Santa Sangre (1989)"
 year: 1989
 date: "2026-09-03"

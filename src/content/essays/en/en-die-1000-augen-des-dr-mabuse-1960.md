@@ -1,5 +1,4 @@
----
-title: "Die 1000 Augen des Dr. Mabuse (1960): Surveillance, Technical Power, and Banality"
+---title: "Die 1000 Augen des Dr. Mabuse (1960): Surveillance, Technical Power, and Banality"
 film: "Die 1000 Augen des Dr. Mabuse (1960)"
 year: 1960
 date: "2026-09-03"

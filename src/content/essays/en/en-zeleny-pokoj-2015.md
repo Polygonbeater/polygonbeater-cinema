@@ -1,5 +1,4 @@
----
-title: "Green Room (2015): The Anatomy of a Defective Micro-Cult, the Neurobiology of Power, and the Weaponization of Subcultural Identity"
+---title: "Green Room (2015): The Anatomy of a Defective Micro-Cult, the Neurobiology of Power, and the Weaponization of Subcultural Identity"
 film: "Green Room (2015)"
 year: 2015
 date: "2026-09-02"

@@ -1,6 +1,5 @@
----
-title: "Creaking Joints in a Well-Oiled Machine: On Dancing Over Shards and the Freedom to Go Bad"
-film: "Sedmikrásky (1966)"
+---title: "Creaking Joints in a Well-Oiled Machine: On Dancing Over Shards and the Freedom to Go Bad"
+film: "Creaking Joints in a Well-Oiled Machine"
 year: 1966
 date: "2026-09-08"
 description: "An essay on Věra Chytilová's legendary Czechoslovak film. On the radical rebellion of the two Maries, the destruction of bourgeois morality, and absolute freedom of form."

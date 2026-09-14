@@ -1,5 +1,4 @@
----
-title: "The Shop on Main Street (1965): The Anatomy of Conformity"
+---title: "The Shop on Main Street (1965): The Anatomy of Conformity"
 film: "The Shop on Main Street (1965)"
 year: 1965
 date: "2026-09-07"

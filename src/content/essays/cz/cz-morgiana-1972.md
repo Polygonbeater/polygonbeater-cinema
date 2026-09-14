@@ -1,5 +1,4 @@
----
-title: "Morgiana (1972): Vražda jako umělecký objekt a opera narcismu"
+---title: "Morgiana (1972): Vražda jako umělecký objekt a opera narcismu"
 film: "Morgiana (1972)"
 year: 1972
 date: "2026-09-03"

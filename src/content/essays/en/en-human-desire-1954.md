@@ -1,5 +1,4 @@
----
-title: "Human Desire (1954): A Study in Mechanical Fatalism"
+---title: "Human Desire (1954): A Study in Mechanical Fatalism"
 film: "Human Desire (1954)"
 year: 1954
 date: "2026-09-03"

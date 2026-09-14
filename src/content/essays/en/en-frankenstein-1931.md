@@ -1,5 +1,4 @@
----
-title: "Frankenstein (1931) – Creation from Flesh and Scientific Hubris"
+---title: "Frankenstein (1931) – Creation from Flesh and Scientific Hubris"
 film: "Frankenstein (1931)"
 year: 1931
 date: "2026-09-02"

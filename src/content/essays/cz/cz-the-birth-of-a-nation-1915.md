@@ -1,6 +1,5 @@
----
-title: "Zrození národa (The Birth of a Nation, 1915): Zrod filmové gramatiky a ideologie bílé nadvlády"
-film: "Zrození národa / The Birth of a Nation (1915)"
+---title: "Zrození národa (The Birth of a Nation, 1915): Zrod filmové gramatiky a ideologie bílé nadvlády"
+film: "Zrození národa (The Birth of a Nation, 1915)"
 year: 1915
 date: "2026-09-03"
 description: "Hloubková analýza přelomového a hluboce kontroverzního velkofilmu D. W. Griffitha zkoumající zrod moderní filmové řeči, paralelní montáž, revizionismus amerického Jihu a ideologické škody Ku Klux Klanu."

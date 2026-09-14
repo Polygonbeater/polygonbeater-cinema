@@ -1,5 +1,4 @@
----
-title: "The Adventures of Prince Achmed (1926): Lotte Reiniger’s Silhouette Symphony"
+---title: "The Adventures of Prince Achmed (1926): Lotte Reiniger’s Silhouette Symphony"
 film: "The Adventures of Prince Achmed (1926)"
 year: 1926
 date: "2026-09-03"

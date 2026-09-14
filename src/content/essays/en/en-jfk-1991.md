@@ -1,5 +1,4 @@
----
-title: "JFK (1991) – A System of Montage-Generated Epistemic Authority"
+---title: "JFK (1991) – A System of Montage-Generated Epistemic Authority"
 film: "JFK (1991)"
 year: 1991
 date: "2026-09-02"

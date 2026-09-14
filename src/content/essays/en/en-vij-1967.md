@@ -1,5 +1,4 @@
----
-title: "Viy (1967) – Folkloric Imagination on the Margins of Soviet Materialism"
+---title: "Viy (1967) – Folkloric Imagination on the Margins of Soviet Materialism"
 film: "Viy (1967)"
 director: "Konstantin Yershov and"
 year: 1967

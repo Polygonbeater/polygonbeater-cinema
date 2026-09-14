@@ -1,6 +1,5 @@
----
-title: "Mučedníci (2008): Anatomie bolesti a metafyzika utrpení"
-film: "Mučedníci / Martyrs (2008)"
+---title: "Mučedníci (2008): Anatomie bolesti a metafyzika utrpení"
+film: "Mučedníci (2008)"
 director: "Pascal Laugier"
 year: 2008
 date: "2026-09-03"

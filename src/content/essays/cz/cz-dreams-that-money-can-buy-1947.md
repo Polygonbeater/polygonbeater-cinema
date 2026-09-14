@@ -1,6 +1,5 @@
----
-title: "Sny za peníze (Dreams That Money Can Buy, 1947): Manifest podvědomí a exilová avantgarda"
-film: "Sny za peníze / Dreams That Money Can Buy (1947)"
+---title: "Sny za peníze (Dreams That Money Can Buy, 1947): Manifest podvědomí a exilová avantgarda"
+film: "Sny za peníze (Dreams That Money Can Buy, 1947)"
 year: 1947
 date: "2026-09-03"
 description: "Analytická studie experimentálního surrealistického antologického filmu Hanse Richtera zkoumající exilovou spolupráci modernistů, komodifikaci snu a vizualizaci nevědomí."

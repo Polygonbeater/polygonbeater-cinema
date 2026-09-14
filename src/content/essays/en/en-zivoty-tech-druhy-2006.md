@@ -1,5 +1,4 @@
----
-title: "The Lives of Others (2006): The Phenomenology of Moral Conversion and the Neuroaesthetics of Resistance"
+---title: "The Lives of Others (2006): The Phenomenology of Moral Conversion and the Neuroaesthetics of Resistance"
 film: "The Lives of Others (2006)"
 year: 2006
 date: "2026-09-02"

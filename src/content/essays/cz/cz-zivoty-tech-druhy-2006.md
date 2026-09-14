@@ -1,6 +1,5 @@
----
-title: "Životy těch druhých (Das Leben der Anderen, 2006): Fenomenologie morální konverze a etika tiché sabotáže"
-film: "Životy těch druhých / Das Leben der Anderen (2006)"
+---title: "Životy těch druhých (Das Leben der Anderen, 2006): Fenomenologie morální konverze a etika tiché sabotáže"
+film: "Životy těch druhých (Das Leben der Anderen, 2006)"
 year: 2006
 date: "2026-09-03"
 description: "Analytická studie oscarového dramatu Floriana Henckela von Donnersmarcka zkoumající morální konverzi kapitána Stasi Gerda Wieslera, akustický voyeurismus půdního odposlechu, moc umění a havlovskou etiku tichého odporu."

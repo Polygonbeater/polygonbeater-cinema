@@ -1,5 +1,4 @@
----
-title: "The Snake Pit (1948): Institutional Terror, Psychoanalysis, and Gendered Power"
+---title: "The Snake Pit (1948): Institutional Terror, Psychoanalysis, and Gendered Power"
 film: "The Snake Pit (1948)"
 year: 1948
 date: "2026-09-03"

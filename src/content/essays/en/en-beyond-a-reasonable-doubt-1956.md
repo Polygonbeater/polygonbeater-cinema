@@ -1,5 +1,4 @@
----
-title: "Beyond a Reasonable Doubt (1956): Lang’s Final American Verdict"
+---title: "Beyond a Reasonable Doubt (1956): Lang’s Final American Verdict"
 film: "Beyond a Reasonable Doubt (1956)"
 year: 1956
 date: "2026-09-03"

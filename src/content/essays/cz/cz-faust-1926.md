@@ -1,5 +1,4 @@
----
-title: "Faust (1926): Filmový aparát, ztělesněné vidění a organizace morálního prostoru"
+---title: "Faust (1926): Filmový aparát, ztělesněné vidění a organizace morálního prostoru"
 film: "Faust (1926)"
 year: 1926
 date: "2026-09-03"

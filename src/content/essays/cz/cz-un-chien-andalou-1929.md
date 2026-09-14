@@ -1,6 +1,5 @@
----
-title: "Andaluský pes (Un Chien Andalou, 1929): Břitva namířená proti filmové logice"
-film: "Andaluský pes / Un Chien Andalou (1929)"
+---title: "Andaluský pes (Un Chien Andalou, 1929): Břitva namířená proti filmové logice"
+film: "Andaluský pes (Un Chien Andalou, 1929)"
 year: 1929
 date: "2026-09-03"
 description: "Analytická studie surrealistického manifestu Luise Buñuela a Salvadora Dalího zkoumající proříznuté oko, destrukci narativní kauzality, snové asociace a útok na měšťáckou morálku."

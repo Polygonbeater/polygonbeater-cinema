@@ -1,6 +1,5 @@
----
-title: "Nibelungové (Die Nibelungen, 1924): Mýtus, osud a geometrie řádu"
-film: "Nibelungové / Die Nibelungen (1924)"
+---title: "Nibelungové (Die Nibelungen, 1924): Mýtus, osud a geometrie řádu"
+film: "Nibelungové (Die Nibelungen, 1924)"
 director: "Fritz Lang"
 year: 1924
 date: "2026-09-03"

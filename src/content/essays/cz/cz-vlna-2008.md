@@ -1,6 +1,5 @@
----
-title: "Vlna (Die Welle, 2008): Kinematografické terárium a etologie totalitního hejna"
-film: "Vlna / Die Welle (2008)"
+---title: "Vlna (Die Welle, 2008): Kinematografické terárium a etologie totalitního hejna"
+film: "Vlna (Die Welle, 2008)"
 year: 2008
 date: "2026-09-03"
 description: "Etologická a sociálně-psychologická analýza německého dramatu Dennise Gansela zkoumající mechanismus experimentu Třetí vlna, neurobiologii stádního chování, oxytocinový tribalismus a zranitelnost moderního člověka vůči autokracii."

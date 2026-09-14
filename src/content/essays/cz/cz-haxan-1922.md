@@ -1,6 +1,5 @@
----
-title: "Čarodějnictví v průběhu věků (Häxan, 1922): Děsivá freska o pověrách a hysterii"
-film: "Čarodějnictví v průběhu věků / Häxan (1922)"
+---title: "Čarodějnictví v průběhu věků (Häxan, 1922): Děsivá freska o pověrách a hysterii"
+film: "Čarodějnictví v průběhu věků (Häxan, 1922)"
 year: 1922
 date: "2026-09-03"
 description: "Analytická studie přelomového švédsko-dánského hybridního eseje Benjamina Christensena zkoumající historii inkvizice, středověkou démonologii a most mezi čarodějnictvím a moderní psychiatrií."

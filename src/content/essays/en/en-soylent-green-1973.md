@@ -1,5 +1,4 @@
----
-title: "Soylent Green (1973): Climate Collapse and Corporate Cannibalism"
+---title: "Soylent Green (1973): Climate Collapse and Corporate Cannibalism"
 film: "Soylent Green (1973)"
 director: "Richard Fleischer and"
 year: 1973

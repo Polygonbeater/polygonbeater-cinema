@@ -1,5 +1,4 @@
----
-title: "A Clockwork Orange (1971): Violence, Behaviorism, and State Disciplining"
+---title: "A Clockwork Orange (1971): Violence, Behaviorism, and State Disciplining"
 film: "A Clockwork Orange (1971)"
 year: 1971
 date: "2026-09-03"

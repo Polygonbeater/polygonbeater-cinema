@@ -1,5 +1,4 @@
----
-title: "Confirm or Deny (1941): Epistemologie novinářské etiky a studiový střet"
+---title: "Confirm or Deny (1941): Epistemologie novinářské etiky a studiový střet"
 film: "Confirm or Deny (1941)"
 year: 1941
 date: "2026-09-03"

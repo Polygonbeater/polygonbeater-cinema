@@ -1,6 +1,5 @@
----
-title: "Hry andělů (Les Jeux des Anges, 1964): Elegie za industrializovaný holocaust"
-film: "Hry andělů / Les Jeux des Anges (1964)"
+---title: "Hry andělů (Les Jeux des Anges, 1964): Elegie za industrializovaný holocaust"
+film: "Hry andělů (Les Jeux des Anges, 1964)"
 year: 1964
 date: "2026-09-03"
 description: "Hloubková analýza surrealistického animovaného mistrovského díla Waleriana Borowczyka zkoumající mechaniku vyhlazování, konkrétní hudbu Bernarda Parmegianiho a trauma industrializovaného teroru."

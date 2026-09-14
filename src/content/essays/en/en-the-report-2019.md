@@ -1,5 +1,4 @@
----
-title: "The Report (2019): The Anatomy of Bureaucratic Disobedience and the Weaponization of Information"
+---title: "The Report (2019): The Anatomy of Bureaucratic Disobedience and the Weaponization of Information"
 film: "The Report (2019)"
 year: 2019
 date: "2026-09-03"

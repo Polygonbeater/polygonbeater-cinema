@@ -1,5 +1,4 @@
----
-title: "Repulsion (1965): Subjectivized Space, Sensory Overload, and Psychological Collapse"
+---title: "Repulsion (1965): Subjectivized Space, Sensory Overload, and Psychological Collapse"
 film: "Repulsion (1965)"
 year: 1965
 date: "2026-09-03"

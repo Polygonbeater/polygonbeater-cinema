@@ -1,6 +1,5 @@
----
-title: "Věci příští (Things to Come, 1936): H. G. Wells a technokratické dilema modernismu"
-film: "Věci příští / Things to Come (1936)"
+---title: "Věci příští (Things to Come, 1936): H. G. Wells a technokratické dilema modernismu"
+film: "Věci příští (Things to Come, 1936)"
 year: 1936
 date: "2026-09-03"
 description: "Hloubková analýza britského sci-fi velkofilmu Williama Camerona Menziese podle scénáře H. G. Wellse zkoumající kolaps společnosti ve světové válce, diktaturu Wings Over the World a technokratickou utopii."

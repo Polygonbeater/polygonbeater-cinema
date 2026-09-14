@@ -1,6 +1,5 @@
----
-title: "Závěť doktora Mabuseho (Das Testament des Dr. Mabuse, 1933): Teror, byrokracie a hlas bez těla"
-film: "Závěť doktora Mabuseho / Das Testament des Dr. Mabuse (1933)"
+---title: "Závěť doktora Mabuseho (Das Testament des Dr. Mabuse, 1933): Teror, byrokracie a hlas bez těla"
+film: "Závěť doktora Mabuseho (Das Testament des Dr. Mabuse, 1933)"
 director: "Fritz Lang"
 year: 1933
 date: "2026-09-03"

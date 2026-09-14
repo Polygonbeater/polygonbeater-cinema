@@ -1,6 +1,5 @@
----
-title: "Vertigo (1958): Anatomie posedlosti, nekrofilní fetišismus a mužský pohled"
-film: "Vertigo / Vertigo (1958)"
+---title: "Vertigo (1958): Anatomie posedlosti, nekrofilní fetišismus a mužský pohled"
+film: "Vertigo (1958)"
 year: 1958
 date: "2026-09-03"
 description: "Analytická studie mistrovského díla Alfreda Hitchcocka zkoumající psychologickou obsesi, dekonstrukci mužského pohledu Laury Mulveyové, revoluční efekt dolly zoom a motiv spirály."

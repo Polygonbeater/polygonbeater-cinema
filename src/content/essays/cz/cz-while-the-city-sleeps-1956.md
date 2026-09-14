@@ -1,6 +1,5 @@
----
-title: "Když město spí (While the City Sleeps, 1956): Mediální dravci, rtěnkový vrah a krysí závod"
-film: "Když město spí / While the City Sleeps (1956)"
+---title: "Když město spí (While the City Sleeps, 1956): Mediální dravci, rtěnkový vrah a krysí závod"
+film: "Když město spí (While the City Sleeps, 1956)"
 year: 1956
 date: "2026-09-03"
 description: "Analytická studie noiru Fritze Langa zkoumající paralelismus mezi voyeurismem sériového vraha a korporátní dravostí mediální redakce v širokoúhlém formátu Superscope."

@@ -1,5 +1,4 @@
----
-title: "The Battle of Algiers (1966): Anatomy of Revolution"
+---title: "The Battle of Algiers (1966): Anatomy of Revolution"
 film: "The Battle of Algiers (1966)"
 year: 1966
 date: "2026-09-03"

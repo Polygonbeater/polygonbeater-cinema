@@ -1,6 +1,5 @@
----
-title: "Šarlatová ulice (Scarlet Street, 1945): Dekonstrukce subjektu a sluchová trajektorie viny"
-film: "Šarlatová ulice / Scarlet Street (1945)"
+---title: "Šarlatová ulice (Scarlet Street, 1945): Dekonstrukce subjektu a sluchová trajektorie viny"
+film: "Šarlatová ulice (Scarlet Street, 1945)"
 year: 1945
 date: "2026-09-03"
 description: "Analytická studie noiru Fritze Langa zkoumající dekonstrukci hrdiny, komodifikaci umělecké identity, weberovskou byrokracii a Chionovu zvukovou teorii viny."

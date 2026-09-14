@@ -1,5 +1,4 @@
----
-title: "Intolerance (1916) – A Universal Manifesto Against the Abuse of Power and Dogma"
+---title: "Intolerance (1916) – A Universal Manifesto Against the Abuse of Power and Dogma"
 film: "Intolerance (1916)"
 year: 1916
 date: "2026-09-02"

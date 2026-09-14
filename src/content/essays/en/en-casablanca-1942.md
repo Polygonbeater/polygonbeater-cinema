@@ -1,5 +1,4 @@
----
-title: "Casablanca (1942): The Cinematic End of American Isolationism"
+---title: "Casablanca (1942): The Cinematic End of American Isolationism"
 film: "Casablanca (1942)"
 year: 1942
 date: "2026-09-03"

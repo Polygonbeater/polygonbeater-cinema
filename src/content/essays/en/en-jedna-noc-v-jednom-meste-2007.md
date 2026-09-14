@@ -1,5 +1,4 @@
----
-title: "One Night in One City (2007): The Poetry of Decay"
+---title: "One Night in One City (2007): The Poetry of Decay"
 film: "One Night in One City (2007)"
 year: 2007
 date: "2026-09-03"

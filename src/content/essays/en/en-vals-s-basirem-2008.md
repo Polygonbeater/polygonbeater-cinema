@@ -1,5 +1,4 @@
----
-title: "Waltz with Bashir (2008): The Animated Descent into Memory and War"
+---title: "Waltz with Bashir (2008): The Animated Descent into Memory and War"
 film: "Waltz with Bashir (2008)"
 year: 2008
 date: "2026-09-03"

@@ -1,5 +1,4 @@
----
-title: "Moontide (1942): The Year of Professional and Personal Fracture"
+---title: "Moontide (1942): The Year of Professional and Personal Fracture"
 film: "Moontide (1942)"
 year: 1942
 date: "2026-09-03"

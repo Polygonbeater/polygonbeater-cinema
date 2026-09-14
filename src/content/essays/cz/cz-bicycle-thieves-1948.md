@@ -1,6 +1,5 @@
----
-title: "Zloději kol (Ladri di biciclette, 1948): Křížová cesta v prachu ulice"
-film: "Zloději kol / Ladri di biciclette (1948)"
+---title: "Zloději kol (Ladri di biciclette, 1948): Křížová cesta v prachu ulice"
+film: "Zloději kol (Ladri di biciclette, 1948)"
 year: 1948
 date: "2026-09-03"
 description: "Analytická studie pilíře italského neorealismu zkoumající estetiku ulice, čistou horizontálu existence a cykličnost viny."

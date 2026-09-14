@@ -1,5 +1,4 @@
----
-title: "Grizzly Man (2005): The Myth of Friendship and the Indifference of the Predator"
+---title: "Grizzly Man (2005): The Myth of Friendship and the Indifference of the Predator"
 film: "Grizzly Man (2005)"
 year: 2005
 date: "2026-09-02"

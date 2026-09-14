@@ -1,5 +1,4 @@
----
-title: "Altered States (1980) – When Science Runs Into the Mind Itself"
+---title: "Altered States (1980) – When Science Runs Into the Mind Itself"
 film: "Altered States (1980)"
 year: 1980
 date: "2026-09-02"

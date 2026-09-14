@@ -1,5 +1,4 @@
----
-title: "Babes in Arms (1939): The Golden Age of the Hollywood Musical"
+---title: "Babes in Arms (1939): The Golden Age of the Hollywood Musical"
 film: "Babes in Arms (1939)"
 year: 1939
 date: "2026-09-03"

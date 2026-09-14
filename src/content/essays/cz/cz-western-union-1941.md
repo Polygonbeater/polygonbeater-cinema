@@ -1,6 +1,5 @@
----
-title: "Western Union (1941): Drát, který spojil národ a spoutal svobodu"
-film: "Western Union / Western Union (1941)"
+---title: "Western Union (1941): Drát, který spojil národ a spoutal svobodu"
+film: "Western Union (1941)"
 year: 1941
 date: "2026-09-03"
 description: "Analytická studie westernu Fritze Langa zkoumající technologii jako nástroj osudového determinismu, třípásový Technicolor, geometrii prostoru a civilizační zánik starého světa."

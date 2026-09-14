@@ -1,5 +1,4 @@
----
-title: "The Killing of a Sacred Deer (2017): Surgical Guilt and the Symmetry of Punishment"
+---title: "The Killing of a Sacred Deer (2017): Surgical Guilt and the Symmetry of Punishment"
 film: "The Killing of a Sacred Deer (2017)"
 year: 2017
 date: "2026-09-03"

@@ -1,6 +1,5 @@
----
-title: "O-Bi, O-Ba: Konec civilizace (1985): Architektura vykonstruované naděje"
-film: "O-Bi, O-Ba: Konec civilizace / O-bi, O-ba: Koniec cywilizacji (1985)"
+---title: "O-Bi, O-Ba: Konec civilizace (1985): Architektura vykonstruované naděje"
+film: "O-Bi, O-Ba: Konec civilizace (1985)"
 year: 1985
 date: "2026-09-03"
 description: "Analytická studie postapokalyptického sci-fi Piotra Szulkina zkoumající mýtus o záchranné Arše, rozklad podzemní Kopule, sociální entropii a byrokracii zmaru."

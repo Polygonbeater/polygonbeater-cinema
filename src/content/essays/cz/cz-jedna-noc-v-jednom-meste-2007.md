@@ -1,5 +1,4 @@
----
-title: "Jedna noc v jednom městě (2007): Poezie rozkladu a městská groteska"
+---title: "Jedna noc v jednom městě (2007): Poezie rozkladu a městská groteska"
 film: "Jedna noc v jednom městě (2007)"
 year: 2007
 date: "2026-09-03"

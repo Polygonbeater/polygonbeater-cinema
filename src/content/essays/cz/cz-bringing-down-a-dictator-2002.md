@@ -1,5 +1,4 @@
----
-title: "Bringing Down a Dictator (2002): Zrod revolučního brandingu a politické jiu-jitsu"
+---title: "Bringing Down a Dictator (2002): Zrod revolučního brandingu a politické jiu-jitsu"
 film: "Bringing Down a Dictator (2002)"
 year: 2002
 date: "2026-09-03"

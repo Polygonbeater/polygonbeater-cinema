@@ -1,5 +1,4 @@
----
-title: "The Confession (1970): The Autopsy of Propaganda"
+---title: "The Confession (1970): The Autopsy of Propaganda"
 film: "The Confession (1970)"
 year: 1970
 date: "2026-09-03"

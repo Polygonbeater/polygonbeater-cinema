@@ -1,5 +1,4 @@
----
-title: "Confirm or Deny (1941): Epistemology of Media Ethics and Studio Conflict"
+---title: "Confirm or Deny (1941): Epistemology of Media Ethics and Studio Conflict"
 film: "Confirm or Deny (1941)"
 year: 1941
 date: "2026-09-03"

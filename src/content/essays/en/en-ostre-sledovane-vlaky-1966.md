@@ -1,6 +1,5 @@
----
-title: "The Pearl at the Bottom of Station Dust: On Laughter, Tears, and Closely Watched Trains"
-film: "Closely Watched Trains (1966)"
+---title: "The Pearl at the Bottom of Station Dust: On Laughter, Tears, and Closely Watched Trains"
+film: "The Pearl at the Bottom of Station Dust"
 year: 1966
 date: "2026-09-08"
 description: "An essay on Jiří Menzel and Bohumil Hrabal's Oscar-winning masterpiece. Exploring eroticism as resistance, reluctant heroism, and finding humanity amidst wartime absurdity."

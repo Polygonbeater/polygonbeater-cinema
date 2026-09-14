@@ -1,6 +1,5 @@
----
-title: "Doznání (L'Aveu, 1970): Pitva stalinské mašinérie a vyrobená pravda"
-film: "Doznání / L'Aveu (The Confession, 1970)"
+---title: "Doznání (L'Aveu, 1970): Pitva stalinské mašinérie a vyrobená pravda"
+film: "Doznání (L'Aveu, 1970)"
 year: 1970
 date: "2026-09-03"
 description: "Hloubková analýza politického dramatu Costa-Gavrase podle memoárů Artura Londona o vykonstruovaném procesu s Rudolfem Slánským, anatomii vymývání mozků a byrokratické výrobě viny."

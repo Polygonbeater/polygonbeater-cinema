@@ -1,5 +1,4 @@
----
-title: "Watership Down (1978): The Pastoral Apocalypse of Innocence"
+---title: "Watership Down (1978): The Pastoral Apocalypse of Innocence"
 film: "Watership Down (1978)"
 year: 1978
 date: "2026-09-03"

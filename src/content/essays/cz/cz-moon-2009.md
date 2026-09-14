@@ -1,5 +1,4 @@
----
-title: "Moon (2009): Existenciální izolace a horor korporátní recyklace"
+---title: "Moon (2009): Existenciální izolace a horor korporátní recyklace"
 film: "Moon (2009)"
 year: 2009
 date: "2026-09-03"

@@ -1,5 +1,4 @@
----
-title: "The Holy Mountain (1973): Alchemy as Individuation and Initiatory Structure"
+---title: "The Holy Mountain (1973): Alchemy as Individuation and Initiatory Structure"
 film: "The Holy Mountain (1973)"
 year: 1973
 date: "2026-09-03"

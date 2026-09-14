@@ -1,5 +1,4 @@
----
-title: "Alphaville (1965): Technokracie, jazyk a administrace moci"
+---title: "Alphaville (1965): Technokracie, jazyk a administrace moci"
 film: "Alphaville (1965)"
 year: 1965
 date: "2026-09-03"

@@ -1,5 +1,4 @@
----
-title: "The Phantom of the Opera (1925) – The Grotesque Mask and the Architecture of Solitude"
+---title: "The Phantom of the Opera (1925) – The Grotesque Mask and the Architecture of Solitude"
 film: "The Phantom of the Opera (1925)"
 year: 1925
 date: "2026-09-02"

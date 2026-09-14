@@ -1,5 +1,4 @@
----
-title: "Metropolis (1927): Architektura moci, geometrie útlaku a lidský stroj"
+---title: "Metropolis (1927): Architektura moci, geometrie útlaku a lidský stroj"
 film: "Metropolis (1927)"
 director: "Fritz Lang"
 year: 1927

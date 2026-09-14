@@ -1,5 +1,4 @@
----
-title: "Western Union (1941): The Wire That Bound a Nation and Confined Freedom"
+---title: "Western Union (1941): The Wire That Bound a Nation and Confined Freedom"
 film: "Western Union (1941)"
 year: 1941
 date: "2026-09-03"

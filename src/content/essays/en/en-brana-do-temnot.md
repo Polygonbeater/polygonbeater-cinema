@@ -1,6 +1,5 @@
----
-title: "The Beyond (1981)"
-film: "The Beyond"
+---title: "The Beyond (1981)"
+film: "The Beyond (1981)"
 year: 1981
 date: "2026-01-01"
 image: "/images/essays/brana-do-temnot.webp"

@@ -1,6 +1,5 @@
----
-title: "Marijka nevěrnice (1934): Baladický realismus a avantgardní obraz Podkarpatské Rusi"
-film: "Marijka nevěrnice / Marijka the Unfaithful (1934)"
+---title: "Marijka nevěrnice (1934): Baladický realismus a avantgardní obraz Podkarpatské Rusi"
+film: "Marijka nevěrnice (1934)"
 year: 1934
 date: "2026-09-03"
 description: "Analytická studie vizionářského snímku Vladislava Vančury a Ivana Olbrachta zkoumající neherecké obsazení, avantgardní montáž, baladický mýtus a sociální realitu meziválečné Podkarpatské Rusi."

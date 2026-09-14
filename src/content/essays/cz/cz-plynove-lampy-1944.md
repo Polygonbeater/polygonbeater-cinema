@@ -1,6 +1,5 @@
----
-title: "Plynové lampy (Gaslight, 1944): Zrození psychologického teroru a architektura pochybnosti"
-film: "Plynové lampy / Gaslight (1944)"
+---title: "Plynové lampy (Gaslight, 1944): Zrození psychologického teroru a architektura pochybnosti"
+film: "Plynové lampy (Gaslight, 1944)"
 year: 1944
 date: "2026-09-03"
 description: "Analytická studie klasického psychologického thrilleru George Cukora zkoumající manipulaci příčetnosti, chiaroscuro kameru Josepha Ruttenberga a zrod konceptu gaslightingu."

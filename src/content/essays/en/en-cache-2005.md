@@ -1,5 +1,4 @@
----
-title: "Caché (2005): The Architecture of Guilt and the Terror of the Gaze"
+---title: "Caché (2005): The Architecture of Guilt and the Terror of the Gaze"
 film: "Caché (2005)"
 year: 2005
 date: "2026-09-03"

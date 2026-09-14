@@ -1,5 +1,4 @@
----
-title: "You and Me (1938): The Department Store as a Normalcy Machine and the Second-Chance Audit"
+---title: "You and Me (1938): The Department Store as a Normalcy Machine and the Second-Chance Audit"
 film: "You and Me (1938)"
 year: 1938
 date: "2026-09-03"

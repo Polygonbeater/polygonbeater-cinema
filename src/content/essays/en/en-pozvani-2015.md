@@ -1,5 +1,4 @@
----
-title: "The Invitation (2015): The Anatomy of Gaslighting and Social Resistance"
+---title: "The Invitation (2015): The Anatomy of Gaslighting and Social Resistance"
 film: "The Invitation (2015)"
 year: 2015
 date: "2026-09-02"

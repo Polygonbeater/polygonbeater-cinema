@@ -1,5 +1,4 @@
----
-title: "Die Nibelungen (1924): Myth, Fate, and the Geometry of Order"
+---title: "Die Nibelungen (1924): Myth, Fate, and the Geometry of Order"
 film: "Die Nibelungen (1924)"
 year: 1924
 date: "2026-09-03"

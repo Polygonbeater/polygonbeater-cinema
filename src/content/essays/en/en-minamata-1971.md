@@ -1,6 +1,5 @@
----
-title: "Minamata: The Victims and Their World (1971): Noriaki Tsuchimoto’s Ethical Legacy"
-film: "Minamata (1971)"
+---title: "Minamata: The Victims and Their World (1971): Noriaki Tsuchimoto’s Ethical Legacy"
+film: "Minamata: The Victims and Their World (1971)"
 year: 1971
 date: "2026-09-03"
 description: "An analytical essay on Noriaki Tsuchimoto's foundational documentary examining corporate poisoning, ethics, and grassroots environmental resistance."

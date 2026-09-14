@@ -1,5 +1,4 @@
----
-title: "Johnny Got His Gun (1971) – Consciousness as the Final Prison"
+---title: "Johnny Got His Gun (1971) – Consciousness as the Final Prison"
 film: "Johnny Got His Gun (1971)"
 year: 1971
 date: "2026-09-02"

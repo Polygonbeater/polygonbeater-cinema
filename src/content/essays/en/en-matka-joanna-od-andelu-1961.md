@@ -1,5 +1,4 @@
----
-title: "Mother Joan of the Angels (1961) – The Mechanism of Faith"
+---title: "Mother Joan of the Angels (1961) – The Mechanism of Faith"
 film: "Mother Joan of the Angels (1961)"
 year: 1961
 date: "2026-09-02"

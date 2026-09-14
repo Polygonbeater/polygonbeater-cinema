@@ -1,5 +1,4 @@
----
-title: "The Cremator (1969) – The Banality of Evil as an Aesthetic System"
+---title: "The Cremator (1969) – The Banality of Evil as an Aesthetic System"
 film: "The Cremator (1969)"
 year: 1969
 date: "2026-09-02"

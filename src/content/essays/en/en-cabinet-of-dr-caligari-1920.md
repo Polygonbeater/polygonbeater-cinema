@@ -1,5 +1,4 @@
----
-title: "The Cabinet of Dr. Caligari (1920): Expressionist Space, Authority, and the Subjectivization of Psychosis"
+---title: "The Cabinet of Dr. Caligari (1920): Expressionist Space, Authority, and the Subjectivization of Psychosis"
 film: "The Cabinet of Dr. Caligari (1920)"
 year: 1920
 date: "2026-09-03"

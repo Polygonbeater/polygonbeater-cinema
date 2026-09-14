@@ -1,5 +1,4 @@
----
-title: "Lost Highway (1997) – A Trap Without Escape"
+---title: "Lost Highway (1997) – A Trap Without Escape"
 film: "Lost Highway (1997)"
 year: 1997
 date: "2026-09-02"

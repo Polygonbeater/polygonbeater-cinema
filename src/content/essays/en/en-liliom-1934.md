@@ -1,5 +1,4 @@
----
-title: "Liliom (1934): Justice as Procedure and the Bureaucracy of Heaven"
+---title: "Liliom (1934): Justice as Procedure and the Bureaucracy of Heaven"
 film: "Liliom (1934)"
 year: 1934
 date: "2026-09-03"

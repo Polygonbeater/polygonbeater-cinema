@@ -1,6 +1,5 @@
----
-title: "U konce s dechem (À bout de souffle, 1960): Rychlost povrchu a smrt v běhu"
-film: "U konce s dechem / À bout de souffle (1960)"
+---title: "U konce s dechem (À bout de souffle, 1960): Rychlost povrchu a smrt v běhu"
+film: "U konce s dechem (À bout de souffle, 1960)"
 year: 1960
 date: "2026-09-03"
 description: "Analytická studie kultovního snímku francouzské nové vlny zkoumající skokový střih, čistou horizontálu stylu a dekonstrukci filmového času."

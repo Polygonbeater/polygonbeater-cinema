@@ -1,5 +1,4 @@
----
-title: "Angst (1983): The Subjectivity of Psychopathy and the Kinetics of Evil"
+---title: "Angst (1983): The Subjectivity of Psychopathy and the Kinetics of Evil"
 film: "Angst (1983)"
 director: "Gerald Kargl"
 year: 1983

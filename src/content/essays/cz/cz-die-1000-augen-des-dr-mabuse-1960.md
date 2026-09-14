@@ -1,6 +1,5 @@
----
-title: "Tisíc očí dr. Mabuseho (Die 1000 Augen des Dr. Mabuse, 1960): Dohled, technická moc a banálnost řízení"
-film: "Tisíc očí dr. Mabuseho / Die 1000 Augen des Dr. Mabuse (1960)"
+---title: "Tisíc očí dr. Mabuseho (Die 1000 Augen des Dr. Mabuse, 1960): Dohled, technická moc a banálnost řízení"
+film: "Tisíc očí dr. Mabuseho (Die 1000 Augen des Dr. Mabuse, 1960)"
 year: 1960
 date: "2026-09-03"
 description: "Analytická studie závěrečného filmu Fritze Langa, jež zkoumá Hotel Luxor, panoptismus, technickou infrastrukturu dohledu a moc bez subjektu."

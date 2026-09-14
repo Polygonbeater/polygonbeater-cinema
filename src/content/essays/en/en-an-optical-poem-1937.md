@@ -1,5 +1,4 @@
----
-title: "An Optical Poem (1937): Visualizing Freedom in Exile"
+---title: "An Optical Poem (1937): Visualizing Freedom in Exile"
 film: "An Optical Poem (1937)"
 year: 1937
 date: "2026-09-03"

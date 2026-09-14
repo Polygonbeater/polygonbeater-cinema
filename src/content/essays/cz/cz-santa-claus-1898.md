@@ -1,6 +1,5 @@
----
-title: "Santa Claus (1898): Zrození filmového kouzla a počátky paralelního střihu"
-film: "Santa Claus / Santa Claus (1898)"
+---title: "Santa Claus (1898): Zrození filmového kouzla a počátky paralelního střihu"
+film: "Santa Claus (1898)"
 year: 1898
 date: "2026-09-03"
 description: "Analytická studie průkopnického snímku George Alberta Smithe zkoumající první využití dvojité expozice, paralelního děje a ustavení vánoční ikonografie v rané kinematografii."

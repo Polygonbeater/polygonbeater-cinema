@@ -1,6 +1,5 @@
----
-title: "The Gilded Cage of Paranoia: Eros and Psychological Destruction in Lenzi's Orgasmo (1969)"
-film: "The Gilded Cage of Paranoia: Eros and Psychological Destruction in Lenzi's Orgasmo"
+---title: "The Gilded Cage of Paranoia: Eros and Psychological Destruction in Lenzi's Orgasmo (1969)"
+film: "The Gilded Cage of Paranoia: Eros and Psychological Destruction in Lenzi's Orgasmo (1969)"
 year: 1969
 date: "2026-01-01"
 description: "An essayistic analysis of Umberto Lenzi's Orgasmo (1969), exploring psychological manipulation, eros, and the architecture of isolation."

@@ -1,5 +1,4 @@
----
-title: "Liliom (1934): Spravedlnost jako procedura a nebeská byrokracie"
+---title: "Liliom (1934): Spravedlnost jako procedura a nebeská byrokracie"
 film: "Liliom (1934)"
 year: 1934
 date: "2026-09-03"

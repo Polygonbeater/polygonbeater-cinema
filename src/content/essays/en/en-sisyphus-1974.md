@@ -1,5 +1,4 @@
----
-title: "Sisyphus (1974): The Weight of Will in Minimalist Animation"
+---title: "Sisyphus (1974): The Weight of Will in Minimalist Animation"
 film: "Sisyphus (1974)"
 year: 1974
 date: "2026-09-03"

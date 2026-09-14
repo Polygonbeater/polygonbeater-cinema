@@ -1,5 +1,4 @@
----
-title: "Beyond a Reasonable Doubt (1956): Langovo mrazivé sbohem Hollywoodu"
+---title: "Beyond a Reasonable Doubt (1956): Langovo mrazivé sbohem Hollywoodu"
 film: "Beyond a Reasonable Doubt (1956)"
 year: 1956
 date: "2026-09-03"

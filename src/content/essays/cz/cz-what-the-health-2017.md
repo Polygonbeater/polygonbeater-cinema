@@ -1,6 +1,5 @@
----
-title: "What the Health (2017): Když se věda stane zbraní a manipulace kognitivní suverenity"
-film: "What the Health / What the Health (2017)"
+---title: "What the Health (2017): Když se věda stane zbraní a manipulace kognitivní suverenity"
+film: "What the Health (2017)"
 year: 2017
 date: "2026-09-03"
 description: "Kritická analytická studie dokumentu What the Health zkoumající manipulaci vědeckého diskurzu, neurochemii strachu, techniky cherry-pickingu a kognitivní suverenitu diváka."

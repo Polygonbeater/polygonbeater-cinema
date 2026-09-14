@@ -1,6 +1,5 @@
----
-title: "A Page of Madness (Kurutta Ippêji, 1926): Kinetická psychóza a avantgarda beze slov"
-film: "A Page of Madness / Kurutta Ippêji (1926)"
+---title: "A Page of Madness (Kurutta Ippêji, 1926): Kinetická psychóza a avantgarda beze slov"
+film: "A Page of Madness (Kurutta Ippêji, 1926)"
 year: 1926
 date: "2026-09-03"
 description: "Analytická studie radikálního němého experimentu Teinosukeho Kinugasy zkoumající optické deformace, absenci mezititulků a subjektivizaci šílenství."

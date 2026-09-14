@@ -1,5 +1,4 @@
----
-title: "Dogtooth (2009): Domestic Taming and the Linguistic Prison"
+---title: "Dogtooth (2009): Domestic Taming and the Linguistic Prison"
 film: "Dogtooth (2009)"
 year: 2009
 date: "2026-09-02"

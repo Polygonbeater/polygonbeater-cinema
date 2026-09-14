@@ -1,6 +1,5 @@
----
-title: "Zmizení (Spoorloos, 1988): Architektura absolutní logiky a klaustrofobie nevědění"
-film: "Zmizení / Spoorloos (The Vanishing, 1988)"
+---title: "Zmizení (Spoorloos, 1988): Architektura absolutní logiky a klaustrofobie nevědění"
+film: "Zmizení (Spoorloos, 1988)"
 year: 1988
 date: "2026-09-03"
 description: "Analytická studie nizozemského psychologického thrilleru George Sluizera zkoumající banalitu zla, sociologický experiment únosce, epistemologickou past a metaforu zlatého vejce."

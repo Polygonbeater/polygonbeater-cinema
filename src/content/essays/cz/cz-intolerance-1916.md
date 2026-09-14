@@ -1,6 +1,5 @@
----
-title: "Intolerance (1916): Univerzální manifest proti zneužívání moci a dogmatu"
-film: "Intolerance / Intolerance: Love's Struggle Throughout the Ages (1916)"
+---title: "Intolerance (1916): Univerzální manifest proti zneužívání moci a dogmatu"
+film: "Intolerance (1916)"
 year: 1916
 date: "2026-09-03"
 description: "Monumentální němý epos D. W. Griffitha paralelně propojuje čtyři historické epochy, aby demaskoval nadčasový mechanismus lidské krutosti, dogmatismu a institucionální arogance."

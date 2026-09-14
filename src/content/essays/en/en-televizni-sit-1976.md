@@ -1,5 +1,4 @@
----
-title: "Network (1976): The Phenomenology of the Commodification of Anger and the Illusion of Control"
+---title: "Network (1976): The Phenomenology of the Commodification of Anger and the Illusion of Control"
 film: "Network (1976)"
 year: 1976
 date: "2026-09-02"

@@ -1,5 +1,4 @@
----
-title: "The Lodger (1927) – The Genesis of Hitchcockian Suspense"
+---title: "The Lodger (1927) – The Genesis of Hitchcockian Suspense"
 film: "The Lodger (1927)"
 year: 1927
 date: "2026-09-02"

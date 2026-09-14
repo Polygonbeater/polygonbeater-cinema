@@ -1,5 +1,4 @@
----
-title: "The Devils (1971): The Politics of Hysteria and the False Passion"
+---title: "The Devils (1971): The Politics of Hysteria and the False Passion"
 film: "The Devils (1971)"
 year: 1971
 date: "2026-09-03"

@@ -1,6 +1,5 @@
----
-title: "Muž, který se směje (The Man Who Laughs, 1928): Anatomie věčného úsměvu a zrození tragického monstra"
-film: "Muž, který se směje / The Man Who Laughs (1928)"
+---title: "Muž, který se směje (The Man Who Laughs, 1928): Anatomie věčného úsměvu a zrození tragického monstra"
+film: "Muž, který se směje (The Man Who Laughs, 1928)"
 director: "Paul Leni"
 year: 1928
 date: "2026-09-03"

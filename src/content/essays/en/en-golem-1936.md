@@ -1,5 +1,4 @@
----
-title: "The Golem (1936) – Expressionist Tension, Kabbalistic Mysticism, and the Harbingers of European Tragedy"
+---title: "The Golem (1936) – Expressionist Tension, Kabbalistic Mysticism, and the Harbingers of European Tragedy"
 film: "The Golem (1936)"
 director: "Julien Duvivier and"
 year: 1936

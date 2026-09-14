@@ -1,5 +1,4 @@
----
-title: "Nikola Šuhaj (1947) – Balladic Myth-Making and Post-War Reflection on a Lost Space"
+---title: "Nikola Šuhaj (1947) – Balladic Myth-Making and Post-War Reflection on a Lost Space"
 film: "Nikola Šuhaj (1947)"
 director: "Miroslav Josef Kr"
 year: 1947

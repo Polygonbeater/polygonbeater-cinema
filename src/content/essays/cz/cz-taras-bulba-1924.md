@@ -1,6 +1,5 @@
----
-title: "Taras Bulba (1924): Exilová nostalgie a obraz ztraceného světa"
-film: "Taras Bulba / Taras Bulba (1924)"
+---title: "Taras Bulba (1924): Exilová nostalgie a obraz ztraceného světa"
+film: "Taras Bulba (1924)"
 director: "Vladimir Striževskij"
 year: 1924
 date: "2026-09-03"

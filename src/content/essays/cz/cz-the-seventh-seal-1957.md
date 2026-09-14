@@ -1,6 +1,5 @@
----
-title: "Sedmá pečeť (Det sjunde inseglet, 1957): Architektura pochybnosti a šachová partie s konečností"
-film: "Sedmá pečeť / Det sjunde inseglet (1957)"
+---title: "Sedmá pečeť (Det sjunde inseglet, 1957): Architektura pochybnosti a šachová partie s konečností"
+film: "Sedmá pečeť (Det sjunde inseglet, 1957)"
 year: 1957
 date: "2026-09-03"
 description: "Analytická studie Ingmara Bergmana zkoumající existenciální úzkost, expresionistický šerosvit Gunnara Fischera, šachovou partii se Smrtí a reakce na mlčení Boha."

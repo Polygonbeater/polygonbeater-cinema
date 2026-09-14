@@ -1,5 +1,4 @@
----
-title: "Ministry of Fear (1944): Paranoia as Cognitive Lucidity in Wartime Modernity"
+---title: "Ministry of Fear (1944): Paranoia as Cognitive Lucidity in Wartime Modernity"
 film: "Ministry of Fear (1944)"
 year: 1944
 date: "2026-09-03"

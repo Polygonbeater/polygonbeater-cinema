@@ -1,6 +1,5 @@
----
-title: "2001: Vesmírná odysea (1968): Evoluce vědomí"
-film: "2001: Vesmírná odysea / 2001: A Space Odyssey (1968)"
+---title: "2001: Vesmírná odysea (1968): Evoluce vědomí"
+film: "2001: Vesmírná odysea (1968)"
 year: 1968
 date: "2026-09-03"
 description: "Analytická studie vizuální symfonie Stanleyho Kubricka zkoumající technologický transcendentalismus, motiv monolitu a tragédii umělé inteligence HAL 9000."

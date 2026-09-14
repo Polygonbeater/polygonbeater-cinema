@@ -1,5 +1,4 @@
----
-title: "Fräulein Raffke (1923): Tanec na hranici propasti a hyperinflace"
+---title: "Fräulein Raffke (1923): Tanec na hranici propasti a hyperinflace"
 film: "Fräulein Raffke (1923)"
 year: 1923
 date: "2026-09-03"

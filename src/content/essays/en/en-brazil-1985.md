@@ -1,5 +1,4 @@
----
-title: "Brazil (1985): Bureaucratic Normality, Technical Infrastructure, and the Colonization of Dreams"
+---title: "Brazil (1985): Bureaucratic Normality, Technical Infrastructure, and the Colonization of Dreams"
 film: "Brazil (1985)"
 year: 1985
 date: "2026-09-03"

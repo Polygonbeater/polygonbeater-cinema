@@ -1,5 +1,4 @@
----
-title: "Speak No Evil (2022 & 2024): The Tyranny of Politeness and the Technical Architecture of (Dis)obedience"
+---title: "Speak No Evil (2022 & 2024): The Tyranny of Politeness and the Technical Architecture of (Dis)obedience"
 film: "Speak No Evil (2022 & 2024)"
 date: "2026-09-03"
 description: "A comparative analytical study of the Danish original and American remake exploring the open door syndrome, the acoustics of discomfort, and the cinematography of survival."

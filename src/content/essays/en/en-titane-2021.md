@@ -1,5 +1,4 @@
----
-title: "Titane (2021): The Fusion of Flesh and Metal and the Horror of Unconditional Love"
+---title: "Titane (2021): The Fusion of Flesh and Metal and the Horror of Unconditional Love"
 film: "Titane (2021)"
 year: 2021
 date: "2026-09-02"

@@ -1,5 +1,4 @@
----
-title: "Brazil (1985): Byrokratická normalita, technická infrastruktura a kolonizace snu"
+---title: "Brazil (1985): Byrokratická normalita, technická infrastruktura a kolonizace snu"
 film: "Brazil (1985)"
 director: "Terry Gilliam"
 year: 1985

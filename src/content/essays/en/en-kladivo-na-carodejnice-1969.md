@@ -1,5 +1,4 @@
----
-title: "Witchhammer (1969) – A Film of Ink"
+---title: "Witchhammer (1969) – A Film of Ink"
 film: "Witchhammer (1969)"
 year: 1969
 date: "2026-09-02"

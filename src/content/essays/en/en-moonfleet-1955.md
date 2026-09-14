@@ -1,5 +1,4 @@
----
-title: "Moonfleet (1955): A Deep Study in Gothic Fatalism"
+---title: "Moonfleet (1955): A Deep Study in Gothic Fatalism"
 film: "Moonfleet (1955)"
 year: 1955
 date: "2026-09-03"

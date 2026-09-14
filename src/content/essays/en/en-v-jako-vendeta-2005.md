@@ -1,5 +1,4 @@
----
-title: "V for Vendetta (2005): The Phenomenology of Semiotic Subversion and Asymmetric Information Warfare"
+---title: "V for Vendetta (2005): The Phenomenology of Semiotic Subversion and Asymmetric Information Warfare"
 film: "V for Vendetta (2005)"
 year: 2005
 date: "2026-09-02"

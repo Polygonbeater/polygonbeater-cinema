@@ -1,5 +1,4 @@
----
-title: "Invasion of the Body Snatchers (1956): An Anatomy of Paranoia"
+---title: "Invasion of the Body Snatchers (1956): An Anatomy of Paranoia"
 film: "Invasion of the Body Snatchers (1956)"
 year: 1956
 date: "2026-09-03"

@@ -1,6 +1,5 @@
----
-title: "Upír (Vampyr, 1932): Percepční rozpad, tekutý prostor a horizont psychologického hororu"
-film: "Upír / Vampyr (1932)"
+---title: "Upír (Vampyr, 1932): Percepční rozpad, tekutý prostor a horizont psychologického hororu"
+film: "Upír (Vampyr, 1932)"
 director: "Carl Theodor Dreyer"
 year: 1932
 date: "2026-09-03"

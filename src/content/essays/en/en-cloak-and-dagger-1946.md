@@ -1,5 +1,4 @@
----
-title: "Cloak and Dagger (1946): Science as Hostage, the Physiology of Violence, and the Dawn of Atomic Paranoia"
+---title: "Cloak and Dagger (1946): Science as Hostage, the Physiology of Violence, and the Dawn of Atomic Paranoia"
 film: "Cloak and Dagger (1946)"
 year: 1946
 date: "2026-09-03"

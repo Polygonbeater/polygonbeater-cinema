@@ -1,5 +1,4 @@
----
-title: "Eraserhead (1977): The Absolute Bottom of the Subconscious"
+---title: "Eraserhead (1977): The Absolute Bottom of the Subconscious"
 film: "Eraserhead (1977)"
 year: 1977
 date: "2026-09-03"

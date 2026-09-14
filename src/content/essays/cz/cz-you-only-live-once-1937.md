@@ -1,6 +1,5 @@
----
-title: "Žiješ jenom jednou (You Only Live Once, 1937): Když stigma nahrazuje důkaz a spravedlnost selhává"
-film: "Žiješ jenom jednou / You Only Live Once (1937)"
+---title: "Žiješ jenom jednou (You Only Live Once, 1937): Když stigma nahrazuje důkaz a spravedlnost selhává"
+film: "Žiješ jenom jednou (You Only Live Once, 1937)"
 year: 1937
 date: "2026-09-03"
 description: "Analytická studie tragického melodramatu Fritze Langa zkoumající sociální vyloučení, mechanismus společenského stigmatu, vizuální fatalismus Leona Shamroye a archetyp milenců na útěku."

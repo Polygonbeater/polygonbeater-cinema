@@ -1,5 +1,4 @@
----
-title: "On the Beach (1959): The Quiet Fade of Humanity"
+---title: "On the Beach (1959): The Quiet Fade of Humanity"
 film: "On the Beach (1959)"
 year: 1959
 date: "2026-09-03"

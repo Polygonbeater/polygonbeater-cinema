@@ -1,6 +1,5 @@
----
-title: "Lekce Faust (Faust, 1994): Taktilní správa moci a materiální rozklad subjektivity"
-film: "Lekce Faust / Faust (1994)"
+---title: "Lekce Faust (Faust, 1994): Taktilní správa moci a materiální rozklad subjektivity"
+film: "Lekce Faust (Faust, 1994)"
 year: 1994
 date: "2026-09-03"
 description: "Analytická studie surrealistického mistrovského díla Jana Švankmajera zkoumající taktilní správu moci, byrokratické procedury a loutkový determinismus."

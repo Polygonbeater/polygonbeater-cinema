@@ -1,5 +1,4 @@
----
-title: "Dr. Mabuse, der Spieler (1922): The Operating System of Power, Speculation, and Epistemic Collapse"
+---title: "Dr. Mabuse, der Spieler (1922): The Operating System of Power, Speculation, and Epistemic Collapse"
 film: "Dr. Mabuse, der Spieler (1922)"
 year: 1922
 date: "2026-09-03"

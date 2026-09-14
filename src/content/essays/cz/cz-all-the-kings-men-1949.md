@@ -1,6 +1,5 @@
----
-title: "Všichni královi muži (All the King's Men, 1949): Anatomie demagogie a koroze moci"
-film: "Všichni královi muži / All the King's Men (1949)"
+---title: "Všichni královi muži (All the King's Men, 1949): Anatomie demagogie a koroze moci"
+film: "Všichni královi muži (All the King's Men, 1949)"
 year: 1949
 date: "2026-09-03"
 description: "Analytická studie oscarového politického dramatu Roberta Rossena zkoumající zrod populismu, korozi morální integrity a proměnu lidového tribuna v autoritářského vládce."

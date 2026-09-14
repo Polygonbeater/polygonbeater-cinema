@@ -1,6 +1,5 @@
----
-title: "Ein Lichtspiel schwarz weiss grau (1930): Kinetická plastika a světelná mechanika Bauhausu"
-film: "Světelná hra černobílá šedá / Ein Lichtspiel schwarz weiss grau (1930)"
+---title: "Ein Lichtspiel schwarz weiss grau (1930): Kinetická plastika a světelná mechanika Bauhausu"
+film: "Ein Lichtspiel schwarz weiss grau (1930)"
 year: 1930
 date: "2026-09-03"
 description: "Analytická studie experimentálního filmu Lászlóa Moholy-Nagye zkoumající světelně-prostorový modulátor, estetiku Bauhausu a emancipaci filmového světla."

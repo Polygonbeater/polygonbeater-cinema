@@ -1,6 +1,5 @@
----
-title: "Farma zvířat (Animal Farm, 1954): Studenoválečná animovaná alegorie"
-film: "Farma zvířat / Animal Farm (1954)"
+---title: "Farma zvířat (Animal Farm, 1954): Studenoválečná animovaná alegorie"
+film: "Farma zvířat (Animal Farm, 1954)"
 year: 1954
 date: "2026-09-03"
 description: "Hloubková analýza prvního britského celovečerního animovaného filmu Johna Halase a Joy Batchelorové, adaptujícího Orwellovu slavnou satiru."

@@ -1,5 +1,4 @@
----
-title: "Birth/Rebirth (2023): Biologické vzkříšení a etická nula"
+---title: "Birth/Rebirth (2023): Biologické vzkříšení a etická nula"
 film: "Birth/Rebirth (2023)"
 year: 2023
 date: "2026-09-03"

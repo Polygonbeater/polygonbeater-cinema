@@ -1,5 +1,4 @@
----
-title: "Morgiana (1972) – Murder as an Art Object"
+---title: "Morgiana (1972) – Murder as an Art Object"
 film: "Morgiana (1972)"
 year: 1972
 date: "2026-09-02"

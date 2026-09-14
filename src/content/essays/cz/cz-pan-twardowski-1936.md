@@ -1,6 +1,5 @@
----
-title: "Pan Twardowski (1936): Magie, pýcha a sarmatský faustovský mýtus"
-film: "Pan Twardowski / Pan Twardowski (1936)"
+---title: "Pan Twardowski (1936): Magie, pýcha a sarmatský faustovský mýtus"
+film: "Pan Twardowski (1936)"
 year: 1936
 date: "2026-09-03"
 description: "Analytická studie polského historického velkofilmu Henryka Szara zkoumající sarmatský furiantismus, adaptaci faustovské legendy, trikovou seanci s Barbarou Radziwiłłównou a lidovou ironii kletby."

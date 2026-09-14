@@ -1,5 +1,4 @@
----
-title: "Gulliver's Travels (1939): The Absurdity of Conflict in Animation"
+---title: "Gulliver's Travels (1939): The Absurdity of Conflict in Animation"
 film: "Gulliver's Travels (1939)"
 year: 1939
 date: "2026-09-03"

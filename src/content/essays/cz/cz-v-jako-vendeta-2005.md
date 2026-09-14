@@ -1,6 +1,5 @@
----
-title: "V jako Vendeta (V for Vendetta, 2005): Fenomenologie sémiotické subverze a symbolická guerilla"
-film: "V jako Vendeta / V for Vendetta (2005)"
+---title: "V jako Vendeta (V for Vendetta, 2005): Fenomenologie sémiotické subverze a symbolická guerilla"
+film: "V jako Vendeta (V for Vendetta, 2005)"
 year: 2005
 date: "2026-09-03"
 description: "Analytická studie dystopického snímku Jamese McTeiguea a sester Wachowských zkoumající sémiotickou subverzi, prolomení spirály mlčení, Debordovu společnost spektáklu a masku Guye Fawkese jako neprůstřelný symbol."

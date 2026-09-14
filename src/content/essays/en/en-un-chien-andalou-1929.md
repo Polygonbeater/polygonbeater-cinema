@@ -1,5 +1,4 @@
----
-title: "Un Chien Andalou (1929) – A Razor Aimed at Rationality"
+---title: "Un Chien Andalou (1929) – A Razor Aimed at Rationality"
 film: "Un Chien Andalou (1929)"
 year: 1929
 date: "2026-09-02"

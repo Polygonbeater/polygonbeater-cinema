@@ -1,5 +1,4 @@
----
-title: "Salomè (1972): Carmelo Bene's Radical Anti-Cinema"
+---title: "Salomè (1972): Carmelo Bene's Radical Anti-Cinema"
 film: "Salomè (1972)"
 year: 1972
 date: "2026-09-03"

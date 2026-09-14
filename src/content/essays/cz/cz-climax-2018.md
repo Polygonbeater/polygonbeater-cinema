@@ -1,5 +1,4 @@
----
-title: "Climax (2018): Choreografie chaosu a rozpad sociální smlouvy"
+---title: "Climax (2018): Choreografie chaosu a rozpad sociální smlouvy"
 film: "Climax (2018)"
 year: 2018
 date: "2026-09-03"

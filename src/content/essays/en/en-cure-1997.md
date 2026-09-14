@@ -1,5 +1,4 @@
----
-title: "Cure (1997): The Contagion of Emptiness"
+---title: "Cure (1997): The Contagion of Emptiness"
 film: "Cure (1997)"
 year: 1997
 date: "2026-09-03"

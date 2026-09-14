@@ -1,5 +1,4 @@
----
-title: "The Menu (2022): The Destruction of a Cultic Hierarchy and the Cognitive Short-Circuit as the Ultimate Defense"
+---title: "The Menu (2022): The Destruction of a Cultic Hierarchy and the Cognitive Short-Circuit as the Ultimate Defense"
 film: "The Menu (2022)"
 year: 2022
 date: "2026-09-02"

@@ -1,5 +1,4 @@
----
-title: "Birth/Rebirth (2023): Biological Resurrection and Ethical Zero"
+---title: "Birth/Rebirth (2023): Biological Resurrection and Ethical Zero"
 film: "Birth/Rebirth (2023)"
 year: 2023
 date: "2026-09-03"

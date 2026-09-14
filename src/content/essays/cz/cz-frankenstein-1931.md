@@ -1,5 +1,4 @@
----
-title: "Frankenstein (1931): Zrození z masa a vědecká hybris"
+---title: "Frankenstein (1931): Zrození z masa a vědecká hybris"
 film: "Frankenstein (1931)"
 year: 1931
 date: "2026-09-03"

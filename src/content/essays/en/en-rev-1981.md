@@ -1,5 +1,4 @@
----
-title: "Roar (1981): The Pathology of Coexistence and Documentary Terror"
+---title: "Roar (1981): The Pathology of Coexistence and Documentary Terror"
 film: "Roar (1981)"
 year: 1981
 date: "2026-09-02"

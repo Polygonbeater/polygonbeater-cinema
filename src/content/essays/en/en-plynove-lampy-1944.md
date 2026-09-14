@@ -1,5 +1,4 @@
----
-title: "Gaslight (1944): The Birth of Psychological Terror and the Architecture of Doubt"
+---title: "Gaslight (1944): The Birth of Psychological Terror and the Architecture of Doubt"
 film: "Gaslight (1944)"
 year: 1944
 date: "2026-09-02"

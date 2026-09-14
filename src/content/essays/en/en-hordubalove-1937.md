@@ -1,5 +1,4 @@
----
-title: "Hordubalové (1937) – The Clash of Archaic Myth and Modern Czechoslovak Justice"
+---title: "Hordubalové (1937) – The Clash of Archaic Myth and Modern Czechoslovak Justice"
 film: "Hordubalové (1937)"
 director: "Martin Fri"
 year: 1937

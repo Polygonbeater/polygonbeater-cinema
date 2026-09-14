@@ -1,6 +1,5 @@
----
-title: "Zpětná proměna (Altered States, 1980): Hranice vědomí, senzorická deprivace a biologická regrese"
-film: "Zpětná proměna / Altered States (1980)"
+---title: "Zpětná proměna (Altered States, 1980): Hranice vědomí, senzorická deprivace a biologická regrese"
+film: "Zpětná proměna (Altered States, 1980)"
 year: 1980
 date: "2026-09-03"
 description: "Analytická studie vizionářského sci-fi hororu Kena Russella zkoumající senzorickou deprivaci, psychedelickou regresi k prapůvodnímu vědomí a střet vědeckého faustovství s tělesností."

@@ -1,6 +1,5 @@
----
-title: "Zničení (Annihilation, 2018): Biologická refrakce a estetika sebedestrukce"
-film: "Zničení / Annihilation (2018)"
+---title: "Zničení (Annihilation, 2018): Biologická refrakce a estetika sebedestrukce"
+film: "Zničení (Annihilation, 2018)"
 year: 2018
 date: "2026-09-03"
 description: "Analytická studie sci-fi hororu Alexe Garlanda zkoumající Záři jako biologický hranol, estetiku buněčného bujení a anihilaci lidského ega."

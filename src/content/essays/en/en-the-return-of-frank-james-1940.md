@@ -1,5 +1,4 @@
----
-title: "The Return of Frank James (1940): The Great Silence, Technicolor Debut, and Outlaw Justice"
+---title: "The Return of Frank James (1940): The Great Silence, Technicolor Debut, and Outlaw Justice"
 film: "The Return of Frank James (1940)"
 year: 1940
 date: "2026-09-03"

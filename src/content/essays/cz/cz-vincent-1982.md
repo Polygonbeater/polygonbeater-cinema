@@ -1,6 +1,5 @@
----
-title: "Vincent (1982): Pocta gotické posedlosti a zrod burtonovské estetiky"
-film: "Vincent / Vincent (1982)"
+---title: "Vincent (1982): Pocta gotické posedlosti a zrod burtonovské estetiky"
+film: "Vincent (1982)"
 year: 1982
 date: "2026-09-03"
 description: "Analytická studie prvního autorského snímku Tima Burtona zkoumající transfer výmarského expresionismu, verše v dikci Vincenta Price, gotickou poezii Edgara Allana Poea a stop-motion animaci."

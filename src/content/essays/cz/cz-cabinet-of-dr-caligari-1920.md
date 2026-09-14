@@ -1,6 +1,5 @@
----
-title: "Kabinet doktora Caligariho (Das Cabinet des Dr. Caligari, 1920): Expresionistický prostor, autorita a subjektivizace psychózy"
-film: "Kabinet doktora Caligariho / Das Cabinet des Dr. Caligari (1920)"
+---title: "Kabinet doktora Caligariho (Das Cabinet des Dr. Caligari, 1920): Expresionistický prostor, autorita a subjektivizace psychózy"
+film: "Kabinet doktora Caligariho (Das Cabinet des Dr. Caligari, 1920)"
 director: "Robert Wiene"
 year: 1920
 date: "2026-09-03"

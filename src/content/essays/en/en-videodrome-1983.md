@@ -1,5 +1,4 @@
----
-title: "Videodrome (1983): Ontological Decay and the New Flesh"
+---title: "Videodrome (1983): Ontological Decay and the New Flesh"
 film: "Videodrome (1983)"
 year: 1983
 date: "2026-09-03"

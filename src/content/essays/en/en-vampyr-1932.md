@@ -1,5 +1,4 @@
----
-title: "Vampyr (1932): Perceptual Collapse, Acoustic Uncertainty, and the Horizon of Psychological Horror"
+---title: "Vampyr (1932): Perceptual Collapse, Acoustic Uncertainty, and the Horizon of Psychological Horror"
 film: "Vampyr (1932)"
 year: 1932
 date: "2026-09-03"

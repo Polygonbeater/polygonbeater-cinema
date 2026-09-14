@@ -1,6 +1,5 @@
----
-title: "Ulička krokodýlů (Street of Crocodiles, 1986): Posmrtný život věcí a poezie rozkladu"
-film: "Ulička krokodýlů / Street of Crocodiles (1986)"
+---title: "Ulička krokodýlů (Street of Crocodiles, 1986): Posmrtný život věcí a poezie rozkladu"
+film: "Ulička krokodýlů (Street of Crocodiles, 1986)"
 director: "Stephen Quay, Timothy Quay"
 year: 1986
 date: "2026-09-03"

@@ -1,5 +1,4 @@
----
-title: "Judgment at Nuremberg (1961): A Filmic Tribunal of Conscience"
+---title: "Judgment at Nuremberg (1961): A Filmic Tribunal of Conscience"
 film: "Judgment at Nuremberg (1961)"
 year: 1961
 date: "2026-09-03"

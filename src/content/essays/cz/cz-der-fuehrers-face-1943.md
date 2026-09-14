@@ -1,5 +1,4 @@
----
-title: "Der Fuehrer's Face (1943): Animovaná psychologická válka a totalitní satira"
+---title: "Der Fuehrer's Face (1943): Animovaná psychologická válka a totalitní satira"
 film: "Der Fuehrer's Face (1943)"
 year: 1943
 date: "2026-09-03"

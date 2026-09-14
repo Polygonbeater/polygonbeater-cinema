@@ -1,5 +1,4 @@
----
-title: "A Force More Powerful (2000): A Century of Nonviolent Conflict"
+---title: "A Force More Powerful (2000): A Century of Nonviolent Conflict"
 film: "A Force More Powerful (2000)"
 year: 2000
 date: "2026-09-03"

@@ -1,6 +1,5 @@
----
-title: "Le Mépris (Contempt, 1963): The Dissolution of Meaning, Cinemascope, and the Economy of Alienation"
-film: "Le Mépris (1963)"
+---title: "Le Mépris (Contempt, 1963): The Dissolution of Meaning, Cinemascope, and the Economy of Alienation"
+film: "Le Mépris (Contempt, 1963)"
 year: 1963
 date: "2026-09-03"
 description: "Analytical study of Jean-Luc Godard's masterpiece, examining translation failures, the architecture of Casa Malaparte, widescreen framing, and Fritz Lang's ethical role."

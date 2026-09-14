@@ -1,5 +1,4 @@
----
-title: "Location Scouting in Palestine (1965): Pier Paolo Pasolini’s Search for the Sacred"
+---title: "Location Scouting in Palestine (1965): Pier Paolo Pasolini’s Search for the Sacred"
 film: "Location Scouting in Palestine (1965)"
 year: 1965
 date: "2026-09-03"

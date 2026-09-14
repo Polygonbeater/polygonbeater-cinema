@@ -1,6 +1,5 @@
----
-title: "Posedlost (Possession, 1981): Anatomie hysterie a materializace bolesti"
-film: "Posedlost / Possession (1981)"
+---title: "Posedlost (Possession, 1981): Anatomie hysterie a materializace bolesti"
+film: "Posedlost (Possession, 1981)"
 year: 1981
 date: "2026-09-03"
 description: "Analytická studie psychologického hororu Andrzeje Żuławského zkoumající destrukci manželství, tělesnost rozvodu a zrození monstra z emocionální prázdnoty."

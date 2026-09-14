@@ -1,6 +1,5 @@
----
-title: "Paříž, Texas (Paris, Texas, 1984): Krajina osamění a anatomie ztráty"
-film: "Paříž, Texas / Paris, Texas (1984)"
+---title: "Paříž, Texas (Paris, Texas, 1984): Krajina osamění a anatomie ztráty"
+film: "Paříž, Texas (Paris, Texas, 1984)"
 year: 1984
 date: "2026-09-03"
 description: "Analytická studie kultovní road movie Wima Wenderse zkoumající lidskou izolaci, poušť jako existenciální očistec, barevnou kameru Robbyho Müllera a zpověď za polopropustným zrcadlem."
