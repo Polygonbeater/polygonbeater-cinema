@@ -1,5 +1,5 @@
 ---title: "Krátký film o zabíjení (Krótki film o zabijaniu, 1988): Anatomie mechanické smrti"
-film: "Krátký film o zabíjení (Krótki film o zabijaniu, 1988)"
+film: "Krátký film o zabíjení (1988)"
 year: 1988
 date: "2026-09-03"
 description: "Analytická studie mistrovského díla Krzysztofa Kieślowského zkoumající etickou symetrii individuální vraždy a státem řízené popravy, toxickou vizuální asfyxii Sławomira Idziaka a fyzickou tíhu umírání."

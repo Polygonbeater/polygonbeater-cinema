@@ -1,5 +1,5 @@
 ---title: "Nevěsta Frankensteinova (Bride of Frankenstein, 1935): Tragická groteska a mýtus o osamělosti"
-film: "Nevěsta Frankensteinova (Bride of Frankenstein, 1935)"
+film: "Nevěsta Frankensteinova (1935)"
 year: 1935
 date: "2026-09-03"
 description: "Analytická studie mistrovského díla Jamese Whalea zkoumající prvek campu, humanizaci monstra, cynismus vědy a tragédii absolutní samoty."

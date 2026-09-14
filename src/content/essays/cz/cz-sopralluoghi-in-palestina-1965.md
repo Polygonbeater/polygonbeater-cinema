@@ -1,5 +1,5 @@
 ---title: "Rekognoskace v Palestině (Sopralluoghi in Palestina, 1965): Hledání posvátna Pierra Paola Pasoliniho"
-film: "Rekognoskace v Palestině (Sopralluoghi in Palestina, 1965)"
+film: "Rekognoskace v Palestině (1965)"
 year: 1965
 date: "2026-09-03"
 description: "Hloubková analýza Pasoliniho dokumentárního eseje zkoumající hledání biblických lokací, zklamání z moderní Palestiny a přesun posvátna do archaické jižní Itálie."

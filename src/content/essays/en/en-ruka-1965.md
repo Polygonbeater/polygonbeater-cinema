@@ -1,5 +1,5 @@
 ---title: "The Hand (Ruka, 1965): Jiří Trnka’s Final Testament and Allegory of Freedom"
-film: "The Hand (Ruka, 1965)"
+film: "The Hand (1965)"
 year: 1965
 date: "2026-09-03"
 description: "An analytical essay on Jiří Trnka's masterwork, serving as a chilling critique of totalitarian power and an immortal defense of artistic freedom."

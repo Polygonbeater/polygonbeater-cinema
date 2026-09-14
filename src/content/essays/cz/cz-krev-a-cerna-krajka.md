@@ -1,5 +1,5 @@
 ---title: "Krev a černá krajka (Sei donne per l'assassino, 1964): Chromatická anatomie smrti"
-film: "Krev a černá krajka (Sei donne per l'assassino, 1964)"
+film: "Krev a černá krajka (1964)"
 year: 1964
 date: "2026-09-03"
 description: "Esejistická studie přelomového mistrovského díla Maria Bavy zkoumající barevnou stylizaci, panoptikum světa vysoké módy, fetišizaci vraždy a zrod moderního slasheru."

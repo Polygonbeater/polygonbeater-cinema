@@ -1,5 +1,5 @@
 ---title: "Indický hrob (Das indische Grabmal, 1959): Geometrie pomsty a architektura smrti"
-film: "Indický hrob (Das indische Grabmal, 1959)"
+film: "Indický hrob (1959)"
 year: 1959
 date: "2026-09-03"
 description: "Analytická studie druhé části indického diptychu Fritze Langa zkoumající architekturu smrti, hloubku pole v podzemí malomocných, barevný fatalismus a kolaps geometrického řádu."

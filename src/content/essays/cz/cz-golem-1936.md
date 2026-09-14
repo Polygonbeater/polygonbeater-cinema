@@ -1,5 +1,5 @@
 ---title: "Golem (Le Golem, 1936): Expresionistická tenze, mystika a předobrazy evropské tragédie"
-film: "Golem (Le Golem, 1936)"
+film: "Golem (1936)"
 year: 1936
 date: "2026-09-03"
 description: "Francouzsko-československý snímek Juliena Duviviera natočený na Barrandově funguje jako sociopolitická alegorie, vizuální studie paranoie a varovný politický manifest."

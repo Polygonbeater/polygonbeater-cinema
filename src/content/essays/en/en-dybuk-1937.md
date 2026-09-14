@@ -1,5 +1,5 @@
 ---title: "Mystical Study: The Dybbuk (1937) and the Echoes of a Lost Hasidic World"
-film: "Mystical Study: The Dybbuk (1937)"
+film: "The Dybbuk (1937)"
 year: 1937
 date: "2026-09-02"
 description: "Michał Waszyński's Yiddish masterpiece serves as a vital visual monument to Eastern European Jewish culture, Kabbalah, and Hasidic folklore."

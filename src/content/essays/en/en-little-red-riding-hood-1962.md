@@ -1,5 +1,5 @@
 ---title: "Little Red Riding-Hood (Rotkäppchen, 1962): A Triumph of Visionary Craft Over State Dictate"
-film: "Little Red Riding-Hood (Rotkäppchen, 1962)"
+film: "Little Red Riding-Hood (1962)"
 year: 1962
 date: "2026-09-03"
 description: "An analytical essay on Götz Friedrich's East German DEFA fairy tale film, examining the tension between ideological constraints and dark Gothic aesthetics."

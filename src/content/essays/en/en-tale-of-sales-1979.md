@@ -1,5 +1,5 @@
 ---title: "Tale of Tales (Pohádka pohádek, 1979): The Greatest Animated Film Ever Made"
-film: "Tale of Tales (Pohádka pohádek, 1979)"
+film: "Tale of Tales (1979)"
 director: "the Russian master"
 year: 1979
 date: "2026-09-03"

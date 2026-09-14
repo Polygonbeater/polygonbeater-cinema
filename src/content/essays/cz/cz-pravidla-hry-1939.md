@@ -1,5 +1,5 @@
 ---title: "Pravidla hry (La Règle du jeu, 1939): Tanec na okraji propasti a geometrie přetvářky"
-film: "Pravidla hry (La Règle du jeu, 1939)"
+film: "Pravidla hry (1939)"
 year: 1939
 date: "2026-09-03"
 description: "Analytická studie mistrovského díla Jeana Renoira zkoumající demokratizaci prostoru skrze hloubku ostrosti, rituální lov, mravní rozklad evropské buržoazie v předvečer války a etiku relativismu."

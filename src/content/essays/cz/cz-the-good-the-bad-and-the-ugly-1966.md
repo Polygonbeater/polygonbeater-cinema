@@ -1,5 +1,5 @@
 ---title: "Hodný, zlý a ošklivý (Il buono, il brutto, il cattivo, 1966): Existenciální epos, absurdita války a rituální triello"
-film: "Hodný, zlý a ošklivý (Il buono, il brutto, il cattivo, 1966)"
+film: "Hodný, zlý a ošklivý (1966)"
 year: 1966
 date: "2026-09-03"
 description: "Hloubková analýza závěrečného dílu dolarové trilogie Sergia Leoneho zkoumající dekonstrukci westernového mýtu, absurditu občanské války, Morriconeho rituální partituru a triello na hřbitově Sad Hill."

@@ -1,5 +1,5 @@
 ---title: "Ještěrka s ženskou kůží (Una lucertola con la pelle di donna, 1971): Psychoanalýza a rozklad buržoazie"
-film: "Ještěrka s ženskou kůží (Una lucertola con la pelle di donna, 1971)"
+film: "Ještěrka s ženskou kůží (1971)"
 year: 1971
 date: "2026-09-03"
 description: "Analytická studie kultovního gialla Lucia Fulciho zkoumající psychedelickou dekonstrukci buržoazní morálky, instrumentalizaci psychoanalýzy a viscerální vpád tělesného děsu."

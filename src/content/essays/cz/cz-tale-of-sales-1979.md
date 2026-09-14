@@ -1,5 +1,5 @@
 ---title: "Pohádka pohádek (Skazka skazok, 1979): Paměť, válečné trauma a poetika ztraceného času"
-film: "Pohádka pohádek (Skazka skazok, 1979)"
+film: "Pohádka pohádek (1979)"
 year: 1979
 date: "2026-09-03"
 description: "Hloubková analýza hypnotické animované básně Jurije Norštejna zkoumající strukturu lidské paměti, vícevrstvou animaci na skle, postavu malého šedého vlka a trauma druhé světové války."

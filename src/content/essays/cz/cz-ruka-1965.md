@@ -1,5 +1,5 @@
 ---title: "Ruka (The Hand, 1965): Poslední testament Jiřího Trnky a alegorie svobody"
-film: "Ruka (The Hand, 1965)"
+film: "Ruka (1965)"
 year: 1965
 date: "2026-09-03"
 description: "Hloubková analýza závěrečného loutkového mistrovského díla Jiřího Trnky, které slouží jako mrazivá obžaloba totalitní moci a oslava nezávislosti umělce."

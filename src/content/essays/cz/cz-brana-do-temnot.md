@@ -1,5 +1,5 @@
 ---title: "Brána do temnot (L'aldilà, 1981): Architektura absolutního zmaru"
-film: "Brána do temnot (L'aldilà, 1981)"
+film: "Brána do temnot (1981)"
 year: 1981
 date: "2026-09-03"
 description: "Analytická studie kultovního lovecraftovského hororu Lucia Fulciho zkoumající likvidaci kauzality, destrukci zraku a snovou estetiku absolutního zmaru."

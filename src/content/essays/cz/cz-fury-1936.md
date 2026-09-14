@@ -1,5 +1,5 @@
 ---title: "Byl jsem lynčován (Fury, 1936): Rychlá emoce, výroba jistoty a dav jako systém"
-film: "Byl jsem lynčován (Fury, 1936)"
+film: "Byl jsem lynčován (1936)"
 year: 1936
 date: "2026-09-03"
 description: "Analytická studie prvního amerického filmu Fritze Langa zkoumající lynč jako sociální mechanismus, selhání justice a morální rozklad oběti."

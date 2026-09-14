@@ -1,5 +1,5 @@
 ---title: "Utrpení Panny orleánské (La Passion de Jeanne d'Arc, 1928): Tvář jako krajina a anatomie absolutna"
-film: "Utrpení Panny orleánské (La Passion de Jeanne d'Arc, 1928)"
+film: "Utrpení Panny orleánské (1928)"
 year: 1928
 date: "2026-09-03"
 description: "Analytická studie mistrovského díla Carla Theodora Dreyera zkoumající dekonstrukci prostoru, Rudolphovu kameru extrémních detailů, tvář Renée Falconettiové a transcendentální odpor."

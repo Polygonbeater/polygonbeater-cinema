@@ -1,5 +1,5 @@
 ---title: "Příšerný host (The Lodger, 1927): Zrození hitchcockovského napětí a vizuální úzkost"
-film: "Příšerný host (The Lodger, 1927)"
+film: "Příšerný host (1927)"
 year: 1927
 date: "2026-09-03"
 description: "Analytická studie zakladatelského díla Alfreda Hitchcocka zkoumající expresionistickou londýnskou mlhu, slavný trik se skleněnou podlahou, voyeurismus a archetyp falešně obviněného hrdiny."

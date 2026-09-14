@@ -1,5 +1,5 @@
 ---title: "Häxan (Witchcraft Through the Ages, 1922): A Disturbing Fresco of Superstition"
-film: "Häxan (Witchcraft Through the Ages, 1922)"
+film: "Häxan (1922)"
 year: 1922
 date: "2026-09-03"
 description: "An analytical essay on Benjamin Christensen's groundbreaking documentary-horror hybrid exploring the dark history of witchcraft and mass hysteria."

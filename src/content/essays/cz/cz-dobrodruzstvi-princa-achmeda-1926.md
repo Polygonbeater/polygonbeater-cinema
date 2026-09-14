@@ -1,5 +1,5 @@
 ---title: "Dobrodružství prince Achmeda (Die Abenteuer des Prinzen Achmed, 1926): Stínová symfonie Lotte Reinigerové"
-film: "Dobrodružství prince Achmeda (Die Abenteuer des Prinzen Achmed, 1926)"
+film: "Dobrodružství prince Achmeda (1926)"
 year: 1926
 date: "2026-09-03"
 description: "Hloubková analýza nejstaršího dochovaného celovečerního animovaného filmu na světě, vytvořeného pomocí detailních siluetových vystřihovánek Lotte Reinigerové."

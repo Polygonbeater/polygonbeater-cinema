@@ -1,5 +1,5 @@
 ---title: "Dívka, která věděla příliš mnoho (La ragazza che sapeva troppo, 1963): Městský zrak, Hitchcock a zrod gialla"
-film: "Dívka, která věděla příliš mnoho (La ragazza che sapeva troppo, 1963)"
+film: "Dívka, která věděla příliš mnoho (1963)"
 year: 1963
 date: "2026-09-03"
 description: "Analytická studie kriminálního thrilleru Maria Bavy zkoumající zrod žánru giallo, hitchcockovský voyeurismus, geometrii odcizeného Říma a nespolehlivost městského pohledu."

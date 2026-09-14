@@ -1,5 +1,5 @@
 ---title: "Manchurianský kandidát (The Manchurian Candidate, 1962): Definitivní thriller studené války a mechanika vymývání mozků"
-film: "Manchurianský kandidát (The Manchurian Candidate, 1962)"
+film: "Manchurianský kandidát (1962)"
 year: 1962
 date: "2026-09-03"
 description: "Hloubková analýza mistrovského politického thrilleru Johna Frankenheimera zkoumající paranoiu studené války, pavlovovské vymývání mozků, spící agenty a fašizující matriarchát Angely Lansburyové."

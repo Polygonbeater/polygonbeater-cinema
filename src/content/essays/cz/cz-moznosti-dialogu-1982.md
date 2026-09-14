@@ -1,5 +1,5 @@
 ---title: "Možnosti dialogu (Dimensions of Dialogue, 1982): Kanibalismus komunikace a alchymie hmoty"
-film: "Možnosti dialogu (Dimensions of Dialogue, 1982)"
+film: "Možnosti dialogu (1982)"
 year: 1982
 date: "2026-09-03"
 description: "Hloubková analýza slavného animovaného filmu Jana Švankmajera zkoumající selhání komunikace, totalitní uniformitu, hmatový surrealismus a alchymii hlíny."

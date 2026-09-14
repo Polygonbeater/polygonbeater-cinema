@@ -1,5 +1,5 @@
 ---title: "Srdce ze skla (Herz aus Glas, 1976): Somnambulní proroctví a rozpad řádu"
-film: "Srdce ze skla (Herz aus Glas, 1976)"
+film: "Srdce ze skla (1976)"
 year: 1976
 date: "2026-09-03"
 description: "Analytická studie vizionářského díla Wernera Herzoga zkoumající hypnózu jako estetický stav bytí, alchymii rubínového skla a apokalyptické proroctví německého romantismu."

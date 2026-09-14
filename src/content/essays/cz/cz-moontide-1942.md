@@ -1,5 +1,5 @@
 ---title: "Moontide (Přístav lásky, 1942): Rok profesního a osobního rozkolu"
-film: "Moontide (Přístav lásky, 1942)"
+film: "Přístav lásky (1942)"
 year: 1942
 date: "2026-09-03"
 description: "Analytická studie dramatu Moontide zkoumající náhlý odchod Fritze Langa po čtyřech dnech natáčení, toxický trojúhelník Gabin-Lang-Dietrich a vizuální rozpolcenost filmu."

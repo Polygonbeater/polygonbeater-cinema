@@ -1,5 +1,5 @@
 ---title: "Ďáblův dům (Le Manoir du Diable, 1896): Zrození filmového nadpřirozena"
-film: "Ďáblův dům (Le Manoir du Diable, 1896)"
+film: "Ďáblův dům (1896)"
 year: 1896
 date: "2026-09-03"
 description: "Analytická studie zakladatelského díla světového hororu a trikového filmu Georgese Mélièse zkoumající stop-trik, iluzionismus a zrod filmového nadpřirozena."

@@ -1,5 +1,5 @@
 ---title: "László Moholy-Nagy: Ein Lichtspiel schwarz weiss grau (1930)"
-film: "László Moholy-Nagy: Ein Lichtspiel schwarz weiss grau (1930)"
+film: "Ein Lichtspiel schwarz weiss grau (1930)"
 year: 1930
 date: "2026-09-03"
 description: "An analytical essay on László Moholy-Nagy's experimental film, examining its Bauhaus aesthetics, kinetic sculpture, and defiance of traditionalism."

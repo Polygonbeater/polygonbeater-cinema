@@ -1,5 +1,5 @@
 ---title: "Fantastic Planet (La Planète sauvage, 1973): Allegory, Surrealism, and Emancipation"
-film: "Fantastic Planet (La Planète sauvage, 1973)"
+film: "Fantastic Planet (1973)"
 year: 1973
 date: "2026-09-03"
 description: "An analytical essay on René Laloux and Roland Topor's animated sci-fi masterpiece, exploring power imbalances, colonialism, and surrealism."

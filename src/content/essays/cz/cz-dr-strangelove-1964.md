@@ -1,5 +1,5 @@
 ---title: "Dr. Divnoláska (Dr. Strangelove, 1964): Byrokratický absurdismus a návod k použití konce světa"
-film: "Dr. Divnoláska (Dr. Strangelove, 1964)"
+film: "Dr. Divnoláska (1964)"
 year: 1964
 date: "2026-09-03"
 description: "Analytická studie satirického mistrovského díla Stanleyho Kubricka zkoumající byrokratický absurdismus, paranoiu studené války a mechanizovanou apokalypsu."

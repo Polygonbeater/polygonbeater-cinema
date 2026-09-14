@@ -1,5 +1,5 @@
 ---title: "Fantom opery (The Phantom of the Opera, 1925): Groteskní maska a architektura samoty"
-film: "Fantom opery (The Phantom of the Opera, 1925)"
+film: "Fantom opery (1925)"
 director: "Rupert Julian"
 year: 1925
 date: "2026-09-03"

@@ -1,5 +1,5 @@
 ---title: "Špičák (Kynodontas / Dogtooth, 2009): Domácí krotitelství a lingvistické vězení"
-film: "Špičák (Kynodontas / Dogtooth, 2009)"
+film: "Špičák (2009)"
 year: 2009
 date: "2026-09-03"
 description: "Analytická studie průlomového snímku Yorgose Lanthimose Špičák zkoumající patologii totální rodinné kontroly, lingvistickou drezuru a dekonstrukci patriarchální moci."

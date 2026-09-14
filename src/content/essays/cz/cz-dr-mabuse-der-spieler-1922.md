@@ -1,5 +1,5 @@
 ---title: "Doktor Mabuse, hráč (Dr. Mabuse, der Spieler, 1922): Operační systém moci, spekulace a krize reality"
-film: "Doktor Mabuse, hráč (Dr. Mabuse, der Spieler, 1922)"
+film: "Doktor Mabuse, hráč (1922)"
 director: "Fritz Lang"
 year: 1922
 date: "2026-09-03"

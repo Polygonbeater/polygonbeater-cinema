@@ -1,5 +1,5 @@
 ---title: "Invaze zlodějů těl (Invasion of the Body Snatchers, 1956): Anatomie paranoie a eroze identity"
-film: "Invaze zlodějů těl (Invasion of the Body Snatchers, 1956)"
+film: "Invaze zlodějů těl (1956)"
 year: 1956
 date: "2026-09-03"
 description: "Hloubková analýza přelomového sci-fi hororu Dona Siegela zkoumající politickou paranoiu studené války, tichou konformitu a dehumanizující erozi lidské identity."

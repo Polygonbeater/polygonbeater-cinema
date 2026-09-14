@@ -1,5 +1,5 @@
 ---title: "Maska démona (La maschera del demonio, 1960): Krása, která odmítla zemřít"
-film: "Maska démona (La maschera del demonio, 1960)"
+film: "Maska démona (1960)"
 year: 1960
 date: "2026-09-03"
 description: "Analytická studie zakladatelského gotického hororu Maria Bavy zkoumající doppelgängera Barbary Steeleové, návrat potlačeného a fluidní hranici mezi krásou a hrůzou."
