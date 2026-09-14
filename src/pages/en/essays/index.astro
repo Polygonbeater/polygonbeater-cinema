@@ -14,6 +14,95 @@ function getFirstLetter(str: string): string {
   return str.trim().normalize('NFD').replace(/[\u0300-\u036f]/g, '').charAt(0).toUpperCase();
 }
 
+// Překladová tabulka žánrů CZ -> EN. Používá se na anglické verzi archivu,
+// protože ne každá esej má vlastní vyplněné anglické `genres` pole — u těch
+// se v kódu níž spadne zpátky na české `czEntry.data.genres`. Bez téhle
+// tabulky by se pak v anglickém filtru objevovala česká slova. Zároveň
+// sloučí duplicitní páry (Horor + Horror) do jednoho tagu.
+const genreTranslations: Record<string, string> = {
+  'Akční': 'Action',
+  'Animovaný': 'Animation',
+  'Animovaný dokument': 'Animated Documentary',
+  'Avantgarda': 'Avant-garde',
+  'Biografický': 'Biographical',
+  'Body horor': 'Body Horror',
+  'Cestopisný': 'Travelogue',
+  'Černá komedie': 'Black Comedy',
+  'Dobový': 'Period',
+  'Dobrodružný': 'Adventure',
+  'Dokumentární': 'Documentary',
+  'Duchovní drama': 'Spiritual Drama',
+  'Dystopie': 'Dystopia',
+  'Environmentální': 'Environmental',
+  'Erotický thriller': 'Erotic Thriller',
+  'Esej': 'Essay',
+  'Experimentální': 'Experimental',
+  'Expresionismus': 'Expressionism',
+  'Exotický': 'Exotic',
+  'Filozofický': 'Philosophical',
+  'Folklor': 'Folklore',
+  'Folk horor': 'Folk Horror',
+  'Gotické melodrama': 'Gothic Melodrama',
+  'Gotický': 'Gothic',
+  'Gotický horor': 'Gothic Horror',
+  'Historický': 'Historical',
+  'Horor': 'Horror',
+  'Hudební': 'Musical',
+  'Institucionální drama': 'Institutional Drama',
+  'Investigativní': 'Investigative',
+  'Japonský film': 'Japanese Film',
+  'Japonský horor': 'Japanese Horror',
+  'Klasický český film': 'Classic Czech Cinema',
+  'Klasický Hollywood': 'Classic Hollywood',
+  'Klasický horor': 'Classic Horror',
+  'Komedie': 'Comedy',
+  'Komedie mravů': 'Comedy of Manners',
+  'Krátkometrážní': 'Short Film',
+  'Krimi': 'Crime',
+  'Kultovní': 'Cult',
+  'Mediální drama': 'Media Drama',
+  'Metakino': 'Meta-cinema',
+  'Milenci na útěku': 'Lovers on the Run',
+  'Mysteriózní': 'Mystery',
+  'Mystický': 'Mystical',
+  'Mytologický': 'Mythological',
+  'Němý film': 'Silent Film',
+  'Neorealismus': 'Italian Neorealism',
+  'Nová vlna': 'French New Wave',
+  'Pohádka': 'Fairy Tale',
+  'Politická alegorie': 'Political Allegory',
+  'Politická satira': 'Political Satire',
+  'Politické drama': 'Political Drama',
+  'Politický': 'Political',
+  'Politický thriller': 'Political Thriller',
+  'Postapokalyptický': 'Post-apocalyptic',
+  'Procedurální': 'Procedural',
+  'Protiválečný': 'Anti-war',
+  'Přírodní': 'Nature',
+  'Přírodní thriller': 'Nature Thriller',
+  'Psychologické drama': 'Psychological Drama',
+  'Psychologický': 'Psychological',
+  'Psychologický horor': 'Psychological Horror',
+  'Psychologický thriller': 'Psychological Thriller',
+  'Romantický': 'Romance',
+  'Satira': 'Satire',
+  'Sociální': 'Social Drama',
+  'Sociální satira': 'Social Satire',
+  'Sociologický thriller': 'Sociological Thriller',
+  'Soudní drama': 'Courtroom Drama',
+  'Sportovní': 'Sports',
+  'Špionážní': 'Espionage',
+  'Technologický': 'Technological',
+  'Tragédie': 'Tragedy',
+  'Transgresivní': 'Transgressive',
+  'Utopie': 'Utopia',
+  'Válečný': 'War',
+};
+
+function translateGenre(genre: string): string {
+  return genreTranslations[genre] || genre;
+}
+
 const allEssays = await getCollection('essays');
 const uniqueSlugs = Array.from(new Set(allEssays.map(getCleanSlug)));
 
@@ -30,25 +119,27 @@ const essays = uniqueSlugs.map(slug => {
 
   const titleCs = czEntry?.data.title || enEntry?.data.title || slug;
   const titleEn = enEntry?.data.title || czEntry?.data.title || slug;
-  const director = czEntry?.data.director || enEntry?.data.director || czEntry?.data.director_name || '';
-  const poster = czEntry?.data.image || enEntry?.data.image || `/images/${slug}.webp`;
+  const director = enEntry?.data.director || czEntry?.data.director || enEntry?.data.director_name || czEntry?.data.director_name || '';
+  const poster = enEntry?.data.image || czEntry?.data.image || `/images/${slug}.webp`;
   const excerptCs = czEntry?.data.excerpt || czEntry?.data.description || '';
   const excerptEn = enEntry?.data.excerpt || enEntry?.data.description || '';
-  
-  const searchableContent = `${titleCs} ${titleEn} ${director} ${excerptCs} ${excerptEn}`.toLowerCase();
+
+  const rawGenres: string[] = (enEntry?.data.genres && enEntry.data.genres.length > 0) ? enEntry.data.genres : (czEntry?.data.genres || []);
+  const genres = Array.from(new Set(rawGenres.map(translateGenre)));
+
+  const searchableContent = `${titleEn} ${titleCs} ${director} ${genres.join(' ')} ${excerptEn} ${excerptCs}`.toLowerCase();
 
   return {
     slug,
     poster,
-    date: czEntry?.data.date || enEntry?.data.date || '',
-    year: czEntry?.data.year || enEntry?.data.year || null,
+    date: enEntry?.data.date || czEntry?.data.date || '',
+    year: enEntry?.data.year || czEntry?.data.year || null,
     director,
+    genres,
     title: { cs: titleCs, en: titleEn },
     excerpt: { cs: excerptCs || "Český popisek není k dispozici.", en: excerptEn || "English excerpt not available." },
     searchableContent,
-    href: `/essays/${slug}`,
-    firstLetterCs: getFirstLetter(titleCs),
-    firstLetterEn: getFirstLetter(titleEn),
+    href: `/en/essays/${slug}`,
   };
 });
 
@@ -56,41 +147,51 @@ const toTime = (d: string | Date | undefined) => (d ? new Date(d).getTime() : 0)
 essays.sort((a, b) => toTime(b.date) - toTime(a.date));
 
 const directors = Array.from(new Set(essays.map(e => e.director).filter(Boolean))).sort();
+const allGenres = Array.from(new Set(essays.flatMap(e => e.genres || []))).sort();
 const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 ---
 
-<Layout title="Archiv esejí — Polygon Beater Cinema">
+<Layout title="All Essays Archive — Polygon Beater Cinema">
   <section class="archive-header">
     <div class="wrap">
-      <a href="/" class="back-link">
-        ← <span lang="cs">Zpět na úvod</span><span lang="en">Back to home</span>
+      <a href="/en" class="back-link">
+        ← <span>Back to home</span>
       </a>
       <h1>
-        <span lang="cs">Archiv všech esejí</span>
-        <span lang="en">All Essays Archive</span>
+        <span>All Essays Archive</span>
       </h1>
-      <p class="lead" lang="cs">Kompletní přehled publikovaných filmových esejí a analýz s možností vyhledávání a filtrování.</p>
-      <p class="lead" lang="en">Complete collection of published film essays and analyses with search and filtering.</p>
+      <p class="lead">Complete collection of published film essays and analyses with search and filtering by genres and directors.</p>
     </div>
   </section>
 
   <section class="archive-controls wrap">
-    <!-- Vyhledávací lišta a filtr podle režiséra -->
+    <!-- Search bar and Filters row -->
     <div class="search-bar-row">
       <div class="search-input-group">
         <input 
           type="search" 
           id="searchInput" 
-          placeholder="Hledat v názvu, režisérovi, textu..." 
-          aria-label="Vyhledat v esejích"
+          placeholder="Search in title, director, genre, text..." 
+          aria-label="Search essays"
         />
         <span class="search-icon" aria-hidden="true">🔍</span>
       </div>
 
+      {allGenres.length > 0 && (
+        <div class="filter-select-group">
+          <select id="genreSelect" aria-label="Filter by genre">
+            <option value="" id="genreDefaultOpt">All genres</option>
+            {allGenres.map(genre => (
+              <option value={genre}>{genre}</option>
+            ))}
+          </select>
+        </div>
+      )}
+
       {directors.length > 0 && (
-        <div class="director-select-group">
-          <select id="directorSelect" aria-label="Filtr podle režiséra">
-            <option value="" id="directorDefaultOpt">Všichni režiséři</option>
+        <div class="filter-select-group">
+          <select id="directorSelect" aria-label="Filter by director">
+            <option value="" id="directorDefaultOpt">All directors</option>
             {directors.map(dir => (
               <option value={dir}>{dir}</option>
             ))}
@@ -99,16 +200,14 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
       )}
 
       <button id="resetFiltersBtn" class="reset-btn" type="button">
-        <span lang="cs">Resetovat filtry</span>
-        <span lang="en">Reset filters</span>
+        Reset filters
       </button>
     </div>
 
-    <!-- Abecední lišta (A–Z) -->
+    <!-- Alphabet Bar (A–Z) -->
     <div class="alphabet-bar" id="alphabetBar">
       <button class="alpha-btn active" data-letter="" aria-pressed="true">
-        <span lang="cs">VŠE</span>
-        <span lang="en">ALL</span>
+        ALL
       </button>
       {alphabet.map(letter => (
         <button class="alpha-btn" data-letter={letter} aria-pressed="false">{letter}</button>
@@ -116,12 +215,11 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
       <button class="alpha-btn" data-letter="NUM" aria-pressed="false">#</button>
     </div>
 
-    <!-- Počítadlo výsledků + loading indikátor -->
+    <!-- Results meta + loading indicator -->
     <div class="results-meta">
       <span id="resultsCount"></span>
       <span id="searchLoading" class="search-loading" hidden>
-        <span lang="cs">Načítám full-text…</span>
-        <span lang="en">Loading full-text…</span>
+        Loading full-text…
       </span>
     </div>
   </section>
@@ -134,21 +232,20 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
             <article 
               class="essay-card hidden"
               data-slug={essay.slug}
-              data-title-cs={essay.title.cs.toLowerCase()}
               data-title-en={essay.title.en.toLowerCase()}
               data-director={essay.director.toLowerCase()}
+              data-genres={essay.genres.join(',').toLowerCase()}
               data-searchable={essay.searchableContent}
-              data-first-letter={essay.firstLetterCs}
-              data-first-letter-en={essay.firstLetterEn}
+              data-first-letter={getFirstLetter(essay.title.en)}
             >
               <a 
                 href={essay.href} 
                 class="essay-poster"
-                aria-label={`Esej: ${essay.title.cs} / ${essay.title.en}`}
+                aria-label={`Essay: ${essay.title.en}`}
               >
                 <img
                   src={essay.poster}
-                  alt={`${essay.title.cs} / ${essay.title.en}`}
+                  alt={`${essay.title.en}`}
                   loading="lazy"
                   width="600"
                   height="900"
@@ -157,8 +254,7 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 
               <div class="essay-content">
                 <h3>
-                  <span lang="cs">{essay.title.cs}</span>
-                  <span lang="en">{essay.title.en}</span>
+                  <span>{essay.title.en}</span>
                 </h3>
 
                 {essay.director && (
@@ -169,13 +265,19 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
                   </p>
                 )}
 
-                <p class="essay-excerpt" lang="cs">{essay.excerpt.cs}</p>
-                <p class="essay-excerpt" lang="en">{essay.excerpt.en}</p>
+                {essay.genres.length > 0 && (
+                  <div class="essay-genres">
+                    {essay.genres.map(g => (
+                      <button class="genre-tag" type="button" data-genre={g}>{g}</button>
+                    ))}
+                  </div>
+                )}
+
+                <p class="essay-excerpt">{essay.excerpt.en}</p>
 
                 <div class="essay-action">
                   <a href={essay.href} class="essay-link">
-                    <span lang="cs">Číst celé →</span>
-                    <span lang="en">Read full →</span>
+                    Read full →
                   </a>
                 </div>
               </div>
@@ -185,18 +287,17 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
       </div>
 
       <div id="noResults" class="no-results hidden">
-        <p lang="cs">Zadaným kritériím neodpovídá žádná esej.</p>
-        <p lang="en">No essays match your search criteria.</p>
+        <p>No essays match your search criteria.</p>
       </div>
 
-      <!-- Ovládání stránkování -->
-      <nav class="pagination" id="paginationControls" aria-label="Stránkování / Pagination">
+      <!-- Pagination Controls -->
+      <nav class="pagination" id="paginationControls" aria-label="Pagination">
         <button id="prevPageBtn" class="page-nav-btn" type="button" disabled>
-          ← <span lang="cs">Předchozí</span><span lang="en">Previous</span>
+          ← Previous
         </button>
         <div id="pageNumbers" class="page-numbers"></div>
         <button id="nextPageBtn" class="page-nav-btn" type="button" disabled>
-          <span lang="cs">Další</span><span lang="en">Next</span> →
+          Next →
         </button>
       </nav>
     </div>
@@ -208,12 +309,13 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 
   document.addEventListener('DOMContentLoaded', () => {
     const searchInput = document.getElementById('searchInput') as HTMLInputElement | null;
+    const genreSelect = document.getElementById('genreSelect') as HTMLSelectElement | null;
     const directorSelect = document.getElementById('directorSelect') as HTMLSelectElement | null;
-    const directorDefaultOpt = document.getElementById('directorDefaultOpt');
     const resetBtn = document.getElementById('resetFiltersBtn');
     const alphabetBar = document.getElementById('alphabetBar');
     const alphaButtons = alphabetBar?.querySelectorAll('.alpha-btn') || [];
     const essayCards = Array.from(document.querySelectorAll('.essay-card')) as HTMLElement[];
+    const genreTags = Array.from(document.querySelectorAll('.genre-tag')) as HTMLButtonElement[];
     const resultsCount = document.getElementById('resultsCount');
     const noResults = document.getElementById('noResults');
     const paginationControls = document.getElementById('paginationControls');
@@ -232,12 +334,6 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
     let fuseLoading = false;
     let fuseReady = false;
     let fullTextSlugs: Set<string> | null = null;
-
-    function getLang(): 'cs' | 'en' {
-      const htmlLang = document.documentElement.getAttribute('lang')
-        || document.documentElement.getAttribute('data-lang') || 'cs';
-      return htmlLang.toLowerCase().includes('en') ? 'en' : 'cs';
-    }
 
     function setLoadingIndicator(visible: boolean) {
       if (!searchLoading) return;
@@ -266,11 +362,10 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 
         fuse = new (window as any).Fuse(data, {
           keys: [
-            { name: 'title_cs', weight: 0.25 },
-            { name: 'title_en', weight: 0.25 },
-            { name: 'director', weight: 0.15 },
-            { name: 'body_cs', weight: 0.175 },
-            { name: 'body_en', weight: 0.175 },
+            { name: 'title_en',  weight: 0.30 },
+            { name: 'director',  weight: 0.20 },
+            { name: 'genres',    weight: 0.20 },
+            { name: 'body_en',   weight: 0.30 },
           ],
           threshold: 0.35,
           minMatchCharLength: 3,
@@ -280,7 +375,7 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 
         fuseReady = true;
       } catch (err) {
-        console.warn('[Search] Nepodařilo se načíst full-text index:', err);
+        console.warn('[Search] Failed to load full-text index:', err);
         fuseReady = false;
       } finally {
         fuseLoading = false;
@@ -293,18 +388,6 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
       if (!fuseReady || !fuse || query.length < 3) return null;
       const results = fuse.search(query);
       return new Set(results.map((r: any) => r.item.slug as string));
-    }
-
-    function updateLocalizedTexts() {
-      const lang = getLang();
-      if (searchInput) {
-        searchInput.placeholder = lang === 'en'
-          ? 'Search in title, director, text...'
-          : 'Hledat v názvu, režisérovi, textu...';
-      }
-      if (directorDefaultOpt) {
-        directorDefaultOpt.textContent = lang === 'en' ? 'All directors' : 'Všichni režiséři';
-      }
     }
 
     let lastRenderedTotalPages = -1;
@@ -353,7 +436,6 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
     }
 
     function updateGridDisplay() {
-      const lang = getLang();
       const totalMatching = matchingCards.length;
       const totalPages = Math.ceil(totalMatching / ITEMS_PER_PAGE) || 1;
 
@@ -368,12 +450,10 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 
       if (resultsCount) {
         if (totalMatching === 0) {
-          resultsCount.textContent = lang === 'en' ? '0 essays found' : 'Nalezeno 0 esejí';
+          resultsCount.textContent = '0 essays found';
         } else {
           const source = fuseReady ? ' (full-text)' : '';
-          resultsCount.textContent = lang === 'en'
-            ? `Showing ${pageCards.length} of ${totalMatching} essays${source} (Page ${currentPage} of ${totalPages})`
-            : `Zobrazeno ${pageCards.length} z ${totalMatching} esejí${source} (Strana ${currentPage} z ${totalPages})`;
+          resultsCount.textContent = `Showing ${pageCards.length} of ${totalMatching} essays${source} (Page ${currentPage} of ${totalPages})`;
         }
       }
 
@@ -387,17 +467,16 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
     function filterEssays() {
       const query = (searchInput?.value || '').toLowerCase().trim();
       const selectedDirector = (directorSelect?.value || '').toLowerCase().trim();
-      const currentLang = getLang();
+      const selectedGenre = (genreSelect?.value || '').toLowerCase().trim();
 
       fullTextSlugs = runFullTextSearch(query);
 
       matchingCards = essayCards.filter(card => {
         const searchable = card.dataset.searchable || '';
         const director   = card.dataset.director   || '';
-        const slug       = card.dataset.slug       || '';
-        const firstLetter = (currentLang === 'en'
-          ? card.dataset.firstLetterEn
-          : card.dataset.firstLetter) || '';
+        const cardGenres = (card.dataset.genres    || '').split(',');
+        const slug       = card.dataset.slug        || '';
+        const firstLetter = card.dataset.firstLetter || '';
 
         let matchesQuery = true;
         if (query) {
@@ -409,6 +488,7 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
         }
 
         const matchesDirector = !selectedDirector || director === selectedDirector;
+        const matchesGenre = !selectedGenre || cardGenres.includes(selectedGenre);
 
         let matchesLetter = true;
         if (selectedLetter) {
@@ -417,7 +497,7 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
             : firstLetter === selectedLetter;
         }
 
-        return matchesQuery && matchesDirector && matchesLetter;
+        return matchesQuery && matchesDirector && matchesGenre && matchesLetter;
       });
 
       currentPage = 1;
@@ -428,8 +508,10 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
       const params = new URLSearchParams();
       const q   = searchInput?.value.trim() || '';
       const dir = directorSelect?.value || '';
+      const gen = genreSelect?.value || '';
       if (q)              params.set('q', q);
       if (dir)            params.set('director', dir);
+      if (gen)            params.set('genre', gen);
       if (selectedLetter) params.set('letter', selectedLetter);
       if (currentPage > 1) params.set('page', String(currentPage));
       const newUrl = params.toString()
@@ -442,11 +524,13 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
       const params = new URLSearchParams(location.search);
       const q      = params.get('q')        || '';
       const dir    = params.get('director') || '';
+      const gen    = params.get('genre')    || '';
       const letter = params.get('letter')   || '';
       const page   = parseInt(params.get('page') || '1', 10);
 
-      if (searchInput && q)   searchInput.value   = q;
+      if (searchInput && q)      searchInput.value    = q;
       if (directorSelect && dir) directorSelect.value = dir;
+      if (genreSelect && gen)    genreSelect.value    = gen;
       if (letter) {
         selectedLetter = letter;
         alphaButtons.forEach(b => {
@@ -477,6 +561,24 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
       syncUrl();
     });
 
+    genreSelect?.addEventListener('change', () => {
+      filterEssays();
+      syncUrl();
+    });
+
+    genreTags.forEach(tag => {
+      tag.addEventListener('click', (e) => {
+        e.preventDefault();
+        const targetGenre = tag.dataset.genre || '';
+        if (genreSelect) {
+          genreSelect.value = targetGenre;
+          filterEssays();
+          syncUrl();
+          scrollToGridTop();
+        }
+      });
+    });
+
     alphaButtons.forEach(btn => {
       btn.addEventListener('click', () => {
         alphaButtons.forEach(b => {
@@ -492,8 +594,9 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
     });
 
     resetBtn?.addEventListener('click', () => {
-      if (searchInput)   searchInput.value   = '';
+      if (searchInput)    searchInput.value    = '';
       if (directorSelect) directorSelect.value = '';
+      if (genreSelect)    genreSelect.value    = '';
       selectedLetter = '';
       alphaButtons.forEach(b => {
         b.classList.remove('active');
@@ -525,27 +628,12 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
       }
     });
 
-    const observer = new MutationObserver(() => {
-      updateLocalizedTexts();
-      updateGridDisplay();
-    });
-    observer.observe(document.documentElement, {
-      attributes: true,
-      attributeFilter: ['lang', 'data-lang', 'class'],
-    });
-
     restoreFromUrl();
-    updateLocalizedTexts();
     filterEssays();
   });
 </script>
 
 <style>
-  /* Bilingvní viditelnost textů */
-  :global(html[lang="cs"]) [lang="en"] { display: none !important; }
-  :global(html[lang="en"]) [lang="cs"] { display: none !important; }
-  :global(html:not([lang])) [lang="en"] { display: none !important; }
-
   .archive-header { padding: 4rem 0 2rem; border-bottom: 1px solid var(--border); }
   .back-link { display: inline-block; color: var(--text-muted); text-decoration: none; font-size: 0.9rem; margin-bottom: 1.5rem; transition: color 0.15s ease; }
   .back-link:hover { color: var(--accent); }
@@ -554,13 +642,13 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 
   .archive-controls { margin-top: 2.5rem; margin-bottom: 1rem; display: flex; flex-direction: column; gap: 1.5rem; }
   .search-bar-row { display: flex; gap: 1rem; flex-wrap: wrap; align-items: center; }
-  .search-input-group { position: relative; flex: 1 1 300px; }
+  .search-input-group { position: relative; flex: 1 1 260px; }
   .search-input-group input { width: 100%; padding: 0.75rem 2.5rem 0.75rem 1rem; background: var(--bg-elevated); border: 1px solid var(--border); border-radius: 4px; color: var(--text); font-size: 0.95rem; font-family: inherit; transition: border-color 0.2s ease; }
   .search-input-group input:focus { outline: none; border-color: var(--accent); }
   .search-icon { position: absolute; right: 0.8rem; top: 50%; transform: translateY(-50%); opacity: 0.5; pointer-events: none; }
 
-  .director-select-group select { padding: 0.75rem 1rem; background: var(--bg-elevated); border: 1px solid var(--border); border-radius: 4px; color: var(--text); font-size: 0.95rem; font-family: inherit; cursor: pointer; transition: border-color 0.2s ease; }
-  .director-select-group select:focus { outline: none; border-color: var(--accent); }
+  .filter-select-group select { padding: 0.75rem 1rem; background: var(--bg-elevated); border: 1px solid var(--border); border-radius: 4px; color: var(--text); font-size: 0.95rem; font-family: inherit; cursor: pointer; transition: border-color 0.2s ease; }
+  .filter-select-group select:focus { outline: none; border-color: var(--accent); }
 
   .reset-btn { padding: 0.75rem 1.2rem; background: transparent; border: 1px solid var(--border); color: var(--text-muted); border-radius: 4px; font-size: 0.85rem; cursor: pointer; transition: all 0.2s ease; font-family: inherit; }
   .reset-btn:hover { border-color: var(--accent); color: var(--accent); }
@@ -583,7 +671,13 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
   .essay-card:hover .essay-poster img { filter: grayscale(0) contrast(1.1); transform: scale(1.02); }
   .essay-content { display: flex; flex-direction: column; flex-grow: 1; }
   .essay-content h3 { font-family: var(--font-serif); font-weight: 400; font-size: 1.05rem; line-height: 1.3; margin: 0 0 0.3rem; }
-  .essay-director { font-size: 0.78rem; color: var(--accent); margin: 0 0 0.6rem; opacity: 0.9; }
+  .essay-director { font-size: 0.78rem; color: var(--accent); margin: 0 0 0.5rem; opacity: 0.9; }
+
+  /* Genre tags */
+  .essay-genres { display: flex; flex-wrap: wrap; gap: 0.35rem; margin: 0 0 0.75rem; }
+  .genre-tag { font-size: 0.72rem; padding: 0.15rem 0.45rem; border-radius: 3px; background: rgba(255, 255, 255, 0.05); color: var(--text-muted); border: 1px solid var(--border); cursor: pointer; transition: all 0.15s ease; font-family: inherit; }
+  .genre-tag:hover { color: var(--accent); border-color: var(--accent); background: rgba(255, 255, 255, 0.1); }
+
   .essay-excerpt { color: var(--text-muted); font-size: 0.82rem; line-height: 1.4; margin: 0 0 1rem; flex-grow: 1; }
   .essay-action { margin-top: auto; }
   .essay-link { text-decoration: none; font-size: 0.8rem; letter-spacing: 0.03em; color: var(--accent); border-bottom: 1px solid transparent; transition: border-color 0.15s ease; }
@@ -592,6 +686,7 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
   .no-results { text-align: center; padding: 4rem 1rem; color: var(--text-muted); font-size: 1.1rem; background: var(--bg-elevated); border: 1px solid var(--border); border-radius: 4px; margin-top: 2rem; }
   .no-results.hidden { display: none; }
 
+  /* Pagination */
   .pagination { display: flex; justify-content: center; align-items: center; gap: 0.5rem; margin-top: 3rem; flex-wrap: wrap; }
   .page-nav-btn { background: var(--bg-elevated); border: 1px solid var(--border); color: var(--text); padding: 0.6rem 1.2rem; font-size: 0.85rem; border-radius: 4px; cursor: pointer; transition: all 0.2s ease; font-family: inherit; }
   .page-nav-btn:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
@@ -608,6 +703,7 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
     .essay-card,
     .back-link,
     .alpha-btn,
+    .genre-tag,
     .reset-btn,
     .archive-nav-btn { transition: none; }
   }
