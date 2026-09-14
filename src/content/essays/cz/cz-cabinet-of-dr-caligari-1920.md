@@ -8,7 +8,7 @@ image: "/images/essays/cabinet-of-dr-caligari-1920.webp"
 lang: "cz"
 translationSlug: "cabinet-of-dr-caligari-1920"
 genres: ["Expresionismus", "Horor", "Němý film"]
-film: "Cabinet of dr caligari (1920)"
+film: "Kabinet doktora Caligariho"
 ---
 Snímek *Kabinet doktora Caligariho* (*Das Cabinet des Dr. Caligari*, 1920, stopáž 77 minut) v režii Roberta Wieneho představuje zakládající pilíř německého expresionismu a jeden z vůbec prvních pokusů o kompletní subjektivizaci filmového prostoru v dějinách kinematografie. Děs zde nevychází z vnějších monster, nýbrž z radikální deformace perspektivy, architektonických úhlů a lidské vnímavosti, čímž film přímo položil základy moderního psychologického hororu.
 

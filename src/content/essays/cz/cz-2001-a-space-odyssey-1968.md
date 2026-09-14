@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "2001-a-space-odyssey-1968"
 director: "Stanley Kubrick"
 genres: ["Sci-Fi", "Mysteriózní", "Filozofický"]
-film: "2001 a space odyssey (1968)"
+film: "2001: Vesmírná odysea"
 ---
 Tato studie dekonstruuje film Stanleyho Kubricka *2001: Vesmírná odysea* (1968, stopáž 149 minut) jako vizuální symfonii o lidském osudu. Snímek transformuje žánr science-fiction v nelineární filosofickou esej o vztahu mezi člověkem, nástrojem a neznámem. 
 

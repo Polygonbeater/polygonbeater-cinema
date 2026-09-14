@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "man-hunt-1941"
 director: "Fritz Lang"
 genres: ["Film noir", "Špionážní", "Thriller"]
-film: "Man hunt (1941)"
+film: "Man Hunt"
 ---
 Špionážní protinacistický thriller Fritze Langa *Hon na člověka* (*Man Hunt*, 1941, stopáž 102 minut), natočený v produkci studia 20th Century Fox podle slavného románu Geoffreyho Householda *Rogue Male* (1939), představuje zásadní milník v politické kinematografii počátku druhé světové války. Snímek byl uveden do kin v červnu 1941 – tedy půl roku před vstupem Spojených států do války, v době, kdy v Hollywoodu stále platila přísná pravidla neutrality. 
 

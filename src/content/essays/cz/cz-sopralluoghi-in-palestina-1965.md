@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "sopralluoghi-in-palestina-1965"
 director: "Pier Paolo Pasolini"
 genres: ["Dokumentární", "Esej", "Cestopisný"]
-film: "Sopralluoghi in palestina (1965)"
+film: "Location Scouting in Palestine"
 ---
 > *„Neznaboh hluboce pohnutý posvátnem, hledající vykoupení skrze akt filmařiny.“*
 

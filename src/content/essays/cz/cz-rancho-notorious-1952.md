@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "rancho-notorious-1952"
 director: "Fritz Lang"
 genres: ["Western", "Film noir", "Drama"]
-film: "Rancho notorious (1952)"
+film: "Rancho Notorious"
 ---
 Snímek *Rancho Notorious* (1952, stopáž 89 minut) představuje nejvíce stylizovaný western v americké kariéře Fritze Langa a zároveň jeho druhé hloubkové setkání s technologií třípásového Technicoloru. Pod nánosem žánrových propriet divokého západu (přestřelky, koně, saloony) Lang zkonstruoval čistokrevný film noir. 
 

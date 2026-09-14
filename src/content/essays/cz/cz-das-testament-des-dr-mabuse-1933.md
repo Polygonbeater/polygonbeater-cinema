@@ -8,7 +8,7 @@ image: "/images/essays/das-testament-des-dr-mabuse-1933.webp"
 lang: "cz"
 translationSlug: "das-testament-des-dr-mabuse-1933"
 genres: ["Krimi", "Thriller", "Horor"]
-film: "Das testament des dr mabuse (1933)"
+film: "Závěť doktora Mabuseho"
 ---
 Snímek *Závěť doktora Mabuseho* (*Das Testament des Dr. Mabuse*, 1933, stopáž 121 minut) v režii Fritze Langa a v produkci studia Nero-Film AG představuje jeden z nejdůležitějších milníků v dějinách politického a zvukového filmu. Snímek vznikal na přelomu let 1932 a 1933 v křečovité atmosféře agonie Výmarské republiky a nástupu nacistického režimu k moci. Po okamžitém zákazu ze strany Josepha Goebbelse vedl k Langovu definitivnímu odchodu do exilu. Namísto pouhého kriminálního melodramatu Lang vytvořil mrazivou anatomii moderního systémového teroru.
 

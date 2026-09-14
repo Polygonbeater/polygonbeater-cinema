@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "spoorloos-1988"
 director: "George Sluizer"
 genres: ["Psychologický thriller", "Mysteriózní"]
-film: "Spoorloos (1988)"
+film: "Ztracená"
 ---
 Nizozemsko-francouzský psychologický thriller George Sluizera *Zmizení* (*Spoorloos*, v anglické distribuci *The Vanishing*, 1988, stopáž 107 minut), natočený podle novely Tima Krabbého *Zlaté vejce* (*Het Gouden Ei*), představuje jedno z nejmrazivějších děl moderní kinematografie o povaze zla a posedlosti pravdou. Sluizer radikálně dekonstruuje žánr kriminálního thrilleru: divákovi nezatajuje identitu pachatele ani mechanismus zločinu. 
 

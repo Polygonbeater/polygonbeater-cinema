@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "ruka-1965"
 director: "Jiří Trnka"
 genres: ["Animovaný", "Politická alegorie", "Krátkometrážní"]
-film: "Ruka (1965)"
+film: "Ruka"
 ---
 > *„Když se umění stane poslušností, tvorba umírá.“*
 

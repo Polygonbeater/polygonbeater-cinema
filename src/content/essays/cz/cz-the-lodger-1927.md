@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "the-lodger-1927"
 director: "Alfred Hitchcock"
 genres: ["Němý film", "Thriller", "Krimi"]
-film: "The lodger (1927)"
+film: "The Lodger"
 ---
 Snímek Alfreda Hitchcocka *Příšerný host* (*The Lodger: A Story of the London Fog*, 1927, stopáž 90 minut), adaptující román Marie Belloc Lowndesové z roku 1913, představuje klíčový zakládající kámen moderního psychologického thrilleru a první skutečně „hitchcockovský“ film. Sám Hitchcock v slavných rozhovorech s Françoisem Truffautem označil tento snímek za své první autentické dílo, v němž poprvé nalezl svůj nezaměnitelný autorský styl. 
 

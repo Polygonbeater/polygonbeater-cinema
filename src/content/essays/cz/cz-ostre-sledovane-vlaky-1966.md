@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "ostre-sledovane-vlaky-1966"
 director: "Jiří Menzel"
 genres: ["Komedie", "Drama", "Válečný"]
-film: "Ostre sledovane vlaky (1966)"
+film: "Ostře sledované vlaky"
 ---
 Tragikomedie Jiřího Menzela *Ostře sledované vlaky* (*Closely Watched Trains*, 1966, stopáž 92 minut), oceněná v roce 1968 Cenou Akademie (Oscarem) za nejlepší cizojazyčný film, představuje jeden z vrcholů Československé nové vlny. Adaptace stejnojmenné novely Bohumila Hrabala odmítá schematický heroismus válečných velkofilmů. Menzel s Hrabalem nezkoumají dějiny skrze frontové linie a velké generály, nýbrž skrze optiku zdánlivě bezvýznamného zapadlého středočeského nádraží v Kostomlatech na sklonku druhé světové války. 
 

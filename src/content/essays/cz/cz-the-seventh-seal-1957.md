@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "the-seventh-seal-1957"
 director: "Ingmar Bergman"
 genres: ["Filozofický", "Historický", "Drama"]
-film: "The seventh seal (1957)"
+film: "Sedmá pečeť"
 ---
 Filmové podobenství Ingmara Bergmana *Sedmá pečeť* (*Det sjunde inseglet*, 1957, stopáž 96 minut), oceněné Zvláštní cenou poroty na festivalu v Cannes, představuje fundamentální pilíř moderní existenciální kinematografie. Bergman přenesl hlubokou společenskou úzkost padesátých let – konkrétně stálou hrozbu totální jaderné anihilace v počínající studené válce – do středověkých kulis Švédska 14. století, pustošeného morovou epidemií černé smrti. 
 

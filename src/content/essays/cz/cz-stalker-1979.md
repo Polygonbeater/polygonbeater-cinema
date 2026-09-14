@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "stalker-1979"
 director: "Andrej Tarkovskij"
 genres: ["Sci-Fi", "Filozofický", "Mysteriózní"]
-film: "Stalker (1979)"
+film: "Stalker"
 ---
 Filozofický snímek Andreje Tarkovského *Stalker* (1979, stopáž 162 minut), volně inspirovaný sci-fi novelou bratří Arkadije a Borise Strugackých *Piknik u cesty*, představuje jeden z vrcholů spirituální a kontemplativní kinematografie dvacátého století. Tarkovskij radikálně vyprázdnil konvenční žánrové rekvizity vědeckofantastického dobrodružství: Zóna neobsahuje mimozemská monstra, lasery ani akční střety. 
 

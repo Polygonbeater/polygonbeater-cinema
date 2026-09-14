@@ -8,7 +8,7 @@ image: "/images/essays/salome-1972.webp"
 lang: "cz"
 translationSlug: "salome-1972"
 genres: ["Historický", "Art", "Drama"]
-film: "Salome (1972)"
+film: "Salomè"
 ---
 > *„Nezajímalo mě vyprávět Wildea, ale ukázat nemožnost mučednictví v moderním světě, který už není barbarský, nýbrž výhradně hloupý.“*
 

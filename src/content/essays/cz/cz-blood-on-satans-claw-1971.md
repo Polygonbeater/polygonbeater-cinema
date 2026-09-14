@@ -8,7 +8,7 @@ image: "/images/essays/blood-on-satans-claw-1971.webp"
 lang: "cz"
 translationSlug: "blood-on-satans-claw-1971"
 genres: ["Folk horor", "Historický"]
-film: "Blood on satans claw (1971)"
+film: "Krev na Satanově drápu"
 ---
 Tato studie dekonstruuje stěžejní dílo britského folk-hororu *Krev na Satanově drápu* (*The Blood on Satan's Claw*, 1971, stopáž 93 minut) jako mrazivou sondu do zrodu pohanského kultu v Anglii 17. století. Snímek analyzuje postupný rozklad venkovské komunity poté, co je na poli vyorána znetvořená, chlupatá lebka neznámého původu. 
 

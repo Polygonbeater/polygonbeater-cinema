@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "pozvani-2015"
 director: "Karyn Kusama"
 genres: ["Psychologický thriller", "Mysteriózní"]
-film: "Pozvani (2015)"
+film: "The Invitation"
 ---
 Psychologický thriller režisérky Karyn Kusamy *Pozvání* (*The Invitation*, 2015, stopáž 100 minut) představuje precizně zkonstruovaný model fungování sofistikované sociální manipulace a kultovního nátlaku. Tvůrci film koncipovali jako subverzivní „horor mravů“ (*comedy of manners turned horror*), jehož ústředním tématem je nebezpečí přehnané společenské zdvořilosti (*the dangers of being polite*). 
 

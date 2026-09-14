@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "krysars-1986"
 director: "Jiří Barta"
 genres: ["Animovaný", "Gotický", "Horor"]
-film: "Krysars (1986)"
+film: "Krysař"
 ---
 > *„Když město přestalo naslouchat, flétna si vzpomněla, jak mluvit.“*
 

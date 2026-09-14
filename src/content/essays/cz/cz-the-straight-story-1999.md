@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "the-straight-story-1999"
 director: "David Lynch"
 genres: ["Biografický", "Road movie", "Drama"]
-film: "The straight story (1999)"
+film: "Příběh Alvina Straighta"
 ---
 Když David Lynch v roce 1999 představil snímek *Příběh Alvina Straighta* (*The Straight Story*, stopáž 112 minut), natočený pod hlavičkou studia Walt Disney Pictures s přístupností pro celou rodinu (rating G), způsobil v mezinárodní filmové obci šok. Autor pověstný surrealistickými nočními můrami, rozpadem lidské identity a perverzním podložím amerického maloměsta (*Modrý samet*, *Lost Highway*) natočil dílo formálně neobyčejně prosté, dojemné a hluboce humanistické[cite: 98, 128]. 
 

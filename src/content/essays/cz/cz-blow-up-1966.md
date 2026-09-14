@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "blow-up-1966"
 director: "Michelangelo Antonioni"
 genres: ["Mysteriózní", "Drama", "Art"]
-film: "Blow up (1966)"
+film: "Zvětšenina"
 ---
 Tato studie dekonstruuje první anglicky mluvený film Michelangela Antonioniho *Zvětšenina* (*Blow-Up*, 1966, stopáž 111 minut) jako radikální zkoumání limitů lidského vnímání a nespolehlivosti fotografického záznamu. Snímek, volně inspirovaný povídkou Júlia Cortázara, analyzuje vyprázdněnost „swingujícího Londýna“ skrze postavu fotografa Thomase, který věří, že skrze objektiv ovládá realitu.
 

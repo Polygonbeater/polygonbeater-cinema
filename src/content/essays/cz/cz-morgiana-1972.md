@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "morgiana-1972"
 director: "Juraj Herz"
 genres: ["Gotický horor", "Psychologický", "Mysteriózní"]
-film: "Morgiana (1972)"
+film: "Morgiana"
 ---
 Snímek *Morgiana* (1972, stopáž 98 minut) v režii Juraje Herza, adaptující román Alexandra Grina, představuje absolutní vrchol československé gotické kinematografie a jedno z nejoriginalnějších vizuálních děl evropského psychologického hororu 70. let. Herz opouští reálie politických alegorií a propadá se do hlubin zvrácené estetiky, v níž se sesterstvo, žárlivost a vražda mění v chladnou, dokonale choreografovanou operu narcismu.
 

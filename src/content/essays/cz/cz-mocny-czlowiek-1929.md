@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "mocny-czlowiek-1929"
 director: "Henryk Szaro"
 genres: ["Němý film", "Psychologický", "Drama"]
-film: "Mocny czlowiek (1929)"
+film: "Mocny człowiek"
 ---
 Psychologické drama *Mocný člověk* (*Mocny człowiek*, 1929, stopáž 82 minut) v režii Henryka Szara a podle scenáristické spolupráce s Jerzym Braunem představuje jeden z technicky nejvyspělejších a esteticky nejradikálnějších vrcholů polské němé kinematografie. Snímek, adaptující stejnojmenný naturalistický román Stanisława Przybyszewského z roku 1912, měl slavnostní premiéru 2. října 1929 ve Varšavě a vzápětí úspěšně zamířil do evropské distribuce. 
 

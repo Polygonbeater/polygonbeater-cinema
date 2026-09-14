@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "zivoty-tech-druhy-2006"
 director: "Florian Henckel von Donnersmarck"
 genres: ["Politické drama", "Historický", "Psychologický"]
-film: "Zivoty tech druhy (2006)"
+film: "Životy těch druhých"
 ---
 Celovečerní debut německého režiséra a scenáristy Floriana Henckela von Donnersmarcka *Životy těch druhých* (*Das Leben der Anderen*, 2006, stopáž 137 minut), oceněný Oscarem za nejlepší cizojazyčný film, představuje jedno z nejvýznamnějších děl moderní evropské kinematografie věnovaných reflexi totalitního režimu. Snímek, situovaný do Východního Berlína orwellovského roku 1984 – pouhých pět let před pádem Berlínské zdi –, odmítá zjednodušující melodramatické černobílé schéma. 
 

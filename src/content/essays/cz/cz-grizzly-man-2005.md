@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "grizzly-man-2005"
 director: "Werner Herzog"
 genres: ["Dokumentární", "Biografický", "Přírodní"]
-film: "Grizzly man (2005)"
+film: "Grizzly Man"
 ---
 Tato studie dekonstruuje dokumentární tragédii Wernera Herzoga *Grizzly Man* (2005, stopáž 103 minut) jako radikální zprávu o selhání lidské empatie vůči divočině. Snímek analyzuje život a smrt ekologického aktivisty Timothyho Treadwella, který věřil, že překročil hranici mezi lidským a zvířecím světem a stal se „ochráncem“ a „bratrem“ aljašských medvědů grizzly. 
 

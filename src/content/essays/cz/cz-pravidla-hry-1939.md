@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "pravidla-hry-1939"
 director: "Jean Renoir"
 genres: ["Satira", "Komedie mravů", "Drama"]
-film: "Pravidla hry (1939)"
+film: "Pravidla hry"
 ---
 V předvečer historické katastrofy, v létě roku 1939, kdy se Evropa nezadržitelně řítila do propasti druhé světové války, vytvořil Jean Renoir dílo, které nebylo pouhým zrcadlem francouzské společnosti, nýbrž jejím nemilosrdným rentgenem. Když byla *Pravidla hry* (*La Règle du jeu*, stopáž 110 minut) poprvé uvedena do pařížských kin, vyvolala v publiku hysterický odpor – diváci v sále zapalovali noviny, film byl podroben drastickým cenzurním škrtům a po vypuknutí války úředně zakázán jako „demoralizující“. 
 

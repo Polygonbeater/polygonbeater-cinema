@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "a-page-of-madness"
 director: "Teinosuke Kinugasa"
 genres: ["Horor", "Němý film", "Avantgarda", "Psychologický"]
-film: "A page of madness"
+film: "Kurutta ippêji"
 ---
 Píše se rok 1971. Stárnoucí režisér Teinosuke Kinugasa prohledává sklad na svém venkovském pozemku a v zaprášených krabicích po téměř padesáti letech objevuje filmový zázrak: dochovaný originální negativ vlastního filmu, který mezinárodní filmová věda dávno pokládala za ztracený. V kůlně po celá desetiletí odpočíval snímek *A Page of Madness* (*Kurutta Ippêji*, 1926) – jeden z nejodvážnějších formálních experimentů v dějinách světové kinematografie.
 

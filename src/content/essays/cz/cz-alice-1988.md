@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "alice-1988"
 director: "Jan Švankmajer"
 genres: ["Animovaný", "Surrealismus", "Horor"]
-film: "Alice (1988)"
+film: "Něco z Alenky"
 ---
 > *„Sen, který můžete cítit pod nehty.“*
 

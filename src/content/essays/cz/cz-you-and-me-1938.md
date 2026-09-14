@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "you-and-me-1938"
 director: "Fritz Lang"
 genres: ["Film noir", "Krimi", "Sociální satira"]
-film: "You and me (1938)"
+film: "You and Me"
 ---
 Kriminální melodrama Fritze Langa *Ty a já* (*You and Me*, 1938, stopáž 90 minut), natočené v produkci studia Paramount Pictures, představuje jeden z nejvíce fascinujících, neortodoxních a formálně nejodvážnějších experimentů v americké kariéře tohoto německého tvůrce. Snímek byl v době své premiéry komerčně nepochopen dobovým publikem, které očekávalo buď přímočarou gangsterku, nebo sentimentální romanci s hvězdnou Sylvií Sidneyovou a Georgem Raftem. 
 

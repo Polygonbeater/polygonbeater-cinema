@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "the-monroe-doctrine-1939"
 director: "A. Edward Sutherland"
 genres: ["Historický", "Propaganda", "Krátkometrážní"]
-film: "The monroe doctrine (1939)"
+film: "The Monroe Doctrine"
 ---
 Krátkometrážní historický snímek *Monroeova doktrína* (*The Monroe Doctrine*, 1939, stopáž 16 minut), natočený v produkci studia Warner Bros. v režii A. Edwarda Sutherlanda v technologii Technicolor, představuje klíčový ideologický artefakt americké kinematografie na samém prahu druhé světové války. Film nevznikl jako kritická historická analýza, nýbrž jako didaktická a silně patriotická obhajoba tradičního amerického izolacionismu v okamžiku, kdy v Evropě po invazi do Polska propukl nový vojenský požár. 
 

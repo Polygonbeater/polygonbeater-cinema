@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "moon-2009"
 director: "Duncan Jones"
 genres: ["Sci-Fi", "Mysteriózní", "Psychologický"]
-film: "Moon (2009)"
+film: "Moon"
 ---
 Tato studie dekonstruuje existenciální sci-fi thriller Duncana Jonese *Moon* (2009, stopáž 97 minut) jako mistrovské dílo psychologického hororu. Snímek analyzuje příběh astronauta Sama Bella, který osaměle dohlíží na těžbu hélia-3 na odvrácené straně Měsíce a jemuž právě končí tříletá směna. 
 

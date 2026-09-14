@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "labirynt-1962"
 director: "Jan Lenica"
 genres: ["Animovaný", "Experimentální", "Surrealismus"]
-film: "Labirynt (1962)"
+film: "Labirynt"
 ---
 > *„Člověk se probouzí do noční můry stvořené z řádu.“*
 

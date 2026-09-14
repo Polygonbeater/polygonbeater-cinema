@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "the-indian-tomb-1959"
 director: "Fritz Lang"
 genres: ["Dobrodružný", "Exotický", "Epos"]
-film: "The indian tomb (1959)"
+film: "Indický hrob"
 ---
 Snímek Fritze Langa *Indický hrob* (*Das indische Grabmal*, 1959, stopáž 102 minut) tvoří s předcházejícím *Tygrem z Ešnapuru* organický a nedělitelný celek – monumentální dobrodružný diptych, v němž se německý režisér vrátil k látce, kterou napsal se svou někdejší manželkou Theou von Harbou již v roce 1921. Pod pestrobarevným nánosem orientální exotiky, barevného procesu Eastmancolor a palácových intrik však Lang rozehrává přísnou autorskou vizi moci, determinismu a technokratické arogance[cite: 116, 126]. 
 

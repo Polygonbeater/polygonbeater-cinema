@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "the-passion-of-joan-of-arc-1928"
 director: "Carl Theodor Dreyer"
 genres: ["Němý film", "Historický", "Duchovní drama"]
-film: "The passion of joan of arc (1928)"
+film: "Utrpení Panny orleánské"
 ---
 Němý mistrovský snímek dánského režiséra Carla Theodora Dreyera *Utrpení Panny orleánské* (*La Passion de Jeanne d'Arc*, 1928, stopáž 82 minut) představuje jeden z absolutních vrcholů světové kinematografie a radikální epistemologický bod nula filmového média. Dreyer odmítl konvenční historickou výpravnost, bitevní scény i dekorativní patos dobových velkofilmů. 
 

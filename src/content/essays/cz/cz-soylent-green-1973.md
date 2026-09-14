@@ -8,7 +8,7 @@ image: "/images/essays/soylent-green-1973.webp"
 lang: "cz"
 translationSlug: "soylent-green-1973"
 genres: ["Sci-Fi", "Dystopie", "Detektivní"]
-film: "Soylent green (1973)"
+film: "Soylent Green"
 ---
 > *„Soylent Green je z lidí!“*
 

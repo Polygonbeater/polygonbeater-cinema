@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "vij-1967"
 director: "Konstantin Jeršov, Georgij Kropačov"
 genres: ["Folklor", "Horor", "Pohádka"]
-film: "Vij (1967)"
+film: "Vij"
 ---
 Filmová adaptace slavné stejnojmenné novely Nikolaje Vasiljeviče Gogola *Vij* (1967, stopáž 77 minut), kterou v produkci moskevských studií Mosfilm natočili začínající režiséři Konstantin Jeršov a Georgij Kropačov pod uměleckým a trikovým dohledem legendárního mistra filmové pohádky Alexandra Ptuška, představuje v dějinách kinematografie východního bloku zcela anomální a ojedinělý fenomén. Přestože film vznikl v samotném centru oficiálního sovětského filmového průmyslu na sklonku tání šedesátých let, otevřel nebývalý prostor pro iracionalitu, náboženskou démonologii, gotický děs a nespoutanou lidovou mytologii – tedy pro témata, která stála v přímém ideologickém rozporu se státem prosazovaným vědeckým materialismem a socialistickým realismem[cite: 96].
 

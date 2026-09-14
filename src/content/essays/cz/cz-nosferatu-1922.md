@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "nosferatu-1922"
 director: "F. W. Murnau"
 genres: ["Horor", "Němý film", "Expresionismus"]
-film: "Nosferatu (1922)"
+film: "Nosferatu, eine Symphonie des Grauens"
 ---
 > *„A když překročil most, obklopily ho přízraky.“*
 

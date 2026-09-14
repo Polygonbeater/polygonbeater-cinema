@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "vals-s-basirem-2008"
 director: "Ari Folman"
 genres: ["Animovaný dokument", "Válečný", "Psychologický"]
-film: "Vals s basirem (2008)"
+film: "Valčík s Bašírem"
 ---
 > *„Jak vzpomenout na něco, co je příliš bolestné na to, abychom tomu čelili?“*
 

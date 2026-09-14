@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "obchod-na-korze-1965"
 director: "Ján Kadár, Elmar Klos"
 genres: ["Drama", "Válečný", "Klasický český film"]
-film: "Obchod na korze (1965)"
+film: "Obchod na korze"
 ---
 Tragikomedie *Obchod na korze* (*The Shop on Main Street*, 1965, stopáž 125 minut) režisérské dvojice Jána Kadára a Elmara Klose představuje jeden z nejvýznamnějších vrcholů Československé nové vlny. Snímek, oceněný v roce 1966 Cenou Akademie (Oscarem) za nejlepší cizojazyčný film, odmítá zjednodušující černobílé schéma hrdinů a monster. Namísto toho provádí chirurgicky přesnou pitvu plíživé fašizace společnosti, morální koroze a tiché zbabělosti „obyčejného člověka“, jenž se pasivním přizpůsobením stává spolupachatelem tragédie.
 

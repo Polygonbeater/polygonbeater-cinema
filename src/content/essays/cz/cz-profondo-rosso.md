@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "profondo-rosso"
 director: "Dario Argento"
 genres: ["Giallo", "Horor", "Mysteriózní"]
-film: "Profondo rosso"
+film: "Tmavě červená"
 ---
 Snímek Daria Argenta *Tmavě červená* (*Profondo Rosso*, v mezinárodní distribuci *Deep Red*, 1975, stopáž 127 minut) představuje absolutní tvůrčí a stylový zenit subžánru giallo. Argento v něm překračuje hranice běžné kriminální hádanky a přetváří vyšetřování série brutálních vražd v mistrovskou lekci z epistemologické zrady diváckého zraku[cite: 132]. Kde konvenční detektivka hledá logické stopy s lupou v ruce, tam Argento zhasíná světla, zaplavuje plátno sytou karmínovou barvou, nasazuje agresivní syntezátory skupiny Goblin a nechává diváka zírat přímo do tváře pachatele, aniž by si uvědomil, co ve skutečnosti vidí[cite: 132].
 

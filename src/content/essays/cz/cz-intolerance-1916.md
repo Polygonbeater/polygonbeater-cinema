@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "intolerance-1916"
 director: "D. W. Griffith"
 genres: ["Němý film", "Historický", "Epos"]
-film: "Intolerance (1916)"
+film: "Intolerance"
 ---
 Monumentální němý epos D. W. Griffitha *Intolerance* (*Intolerance: Love's Struggle Throughout the Ages*, 1916, stopáž 197 minut) představuje jeden z nejradikálnějších autorských manifestů v dějinách kinematografie. Snímek nevznikl jako chladná akademická rekonstrukce, nýbrž jako vášnivá reakce tvůrce na cenzurní útoky a společenské kontroverze, kterým čelil po uvedení svého předešlého filmu *Zrození národa*. 
 

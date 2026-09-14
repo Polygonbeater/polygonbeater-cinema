@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "jesterka-s-zenskou-kuzi"
 director: "Lucio Fulci"
 genres: ["Giallo", "Psychologický", "Mysteriózní"]
-film: "Jesterka s zenskou kuzi"
+film: "Ještěr v kůži ženy"
 ---
 Lucio Fulci bývá v kánonu italského filmu často zjednodušovaně nálepkován jako tvůrce extrémního gore, avšak jeho mistrovské giallo *Ještěrka s ženskou kůží* (*Una lucertola con la pelle di donna*, 1971, stopáž 102 minut) odhaluje zcela jinou autorskou fazetu: suverénního architekta vizuálního deliria a nekompromisního společenského kritika. Snímek radikálně narušuje zavedenou šablonu kriminální detektivky a noří se do rozpadající se psychiky Carol Hammondové (Florinda Bolkanová), dcery prominentního politika a manželky jeho právního partnera. 
 

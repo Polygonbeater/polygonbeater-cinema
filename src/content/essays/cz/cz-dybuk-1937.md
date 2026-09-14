@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "dybuk-1937"
 director: "Michał Waszyński"
 genres: ["Horor", "Mysteriózní", "Folklor"]
-film: "Dybuk (1937)"
+film: "The Dybbuk"
 ---
 Když v roce 1937 polský režisér Michał Waszyński převedl na filmové plátno divadelní hru S. Anského *Dybuk* (*Der Dibuk*, 1937, stopáž 123 minut), nestvořil pouze filmovou adaptaci. Vytvořil uhrančivý vizuální památník východoevropské židovské kultury, mysticismu a chasidského folklóru. Snímek, natočený kompletně v jazyce jidiš s herci varšavského divadla Vilna Troupe, je dnes považován za nejvýznamnější etnografický i umělecký dokument světa tradičního štetlu – světa, který byl o několik let později vymazán šoa.
 

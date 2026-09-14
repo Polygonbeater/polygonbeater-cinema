@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "casablanca-1942"
 director: "Michael Curtiz"
 genres: ["Romantický", "Drama", "Válečný"]
-film: "Casablanca (1942)"
+film: "Casablanca"
 ---
 *Casablanca* (1942, stopáž 102 minut), natočená režisérem Michaelem Curtizem a uvedená do distribuce v těsné návaznosti na spojenecké vylodění v Severní Africe (operace Torch), představuje mnohem více než melodramatickou romanci. Snímek funguje jako přesvědčivá politická alegorie přechodu Spojených států od doktríny nezasahování k přímému vojenskému zapojení do druhé světové války.
 

@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "animal-farm-1954"
 director: "John Halas, Joy Batchelor"
 genres: ["Animovaný", "Dystopie", "Politický"]
-film: "Animal farm (1954)"
+film: "Farma zvířat"
 ---
 > *„Všechna zvířata jsou si rovná, ale některá jsou si rovnější než jiná.“*
 

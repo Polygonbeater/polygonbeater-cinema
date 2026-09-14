@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "the-holy-mountain-1973"
 director: "Alejandro Jodorowsky"
 genres: ["Surrealismus", "Mystický", "Avantgarda"]
-film: "The holy mountain (1973)"
+film: "The Holy Mountain"
 ---
 Surrealistické vizionářské dílo Alejandra Jodorowského *Svatá hora* (*The Holy Mountain*, ve španělském originále *La montaña sagrada*, 1973, stopáž 114 minut), realizované v mexické produkci za finanční podpory Johna Lennona a Yoko Ono, představuje naprosto ojedinělý mezník v dějinách avantgardní kinematografie. Cílem této studie není subjektivní či esotericky spekulativní interpretace jednotlivých provokativních výjevů; je jím rigorózní strukturální analýza filmu jako funkčního iniciačního textu a procesu individuace[cite: 125]. 
 

@@ -8,7 +8,7 @@ image: "/images/essays/speak-no-evil-2022-2024.webp"
 lang: "cz"
 translationSlug: "speak-no-evil-2022-2024"
 genres: ["Psychologický thriller", "Horor", "Satira"]
-film: "Speak no evil 2022 (2024)"
+film: "Speak No Evil"
 ---
 Tato studie dekonstruuje unikátní filmový fenomén dánsko-nizozemského originálu *Nepřivolávej nic zlého* (*Gæsterne / Speak No Evil*, 2022, stopáž 97 minut, režie Christian Tafdrup) a jeho amerického remaku (*Speak No Evil*, 2024, stopáž 110 minut, režie James Watkins) jako nekompromisní obžalobu moderní sociální konformity a patologické slušnosti. 
 

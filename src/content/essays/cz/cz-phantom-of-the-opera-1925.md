@@ -8,7 +8,7 @@ image: "/images/essays/phantom-of-the-opera-1925.webp"
 lang: "cz"
 translationSlug: "phantom-of-the-opera-1925"
 genres: ["Horor", "Němý film", "Gotický"]
-film: "Phantom of the opera (1925)"
+film: "Phantom of the Opera"
 ---
 Němý velkofilm Ruperta Juliana *Fantom opery* (*The Phantom of the Opera*, 1925, stopáž 93 minut) z produkce studia Universal představuje jeden ze základních pilířů klasického filmového hororu. Snímek nepřináší pouhou melodramatickou adaptaci románu Gastona Lerouxe; funguje jako fascinující vizuální studie estetiky tělesného utrpení, společenského vyloučení a prostorového odcizení. 
 

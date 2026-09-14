@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "babes-in-arms-1939"
 director: "Busby Berkeley"
 genres: ["Muzikál", "Komedie", "Klasický Hollywood"]
-film: "Babes in arms (1939)"
+film: "Zpívající mládí"
 ---
 > *„Vizionářská oslava mládí, talentu a nezdolného ducha rčení ‚show musí pokračovat‘.“*
 

@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "divoka-planeta-1973"
 director: "René Laloux"
 genres: ["Animovaný", "Sci-Fi", "Filozofický"]
-film: "Divoka planeta (1973)"
+film: "Divoká planeta"
 ---
 > *„Vesmírné mistrovské dílo kritizující nerovnováhu moci, inspirované traumaty 20. století a sovětskou okupací.“*
 

@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "minamata-1971"
 director: "Noriaki Cučimoto"
 genres: ["Dokumentární", "Environmentální"]
-film: "Minamata (1971)"
+film: "Minamata: The Victims and Their World"
 ---
 > *„Environmentální katastrofy jsou jen málokdy pouhými chemickými nehodami; jsou to politická a korporátní selhání.“*
 

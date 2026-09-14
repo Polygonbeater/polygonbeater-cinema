@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "allegro-non-troppo-1976"
 director: "Bruno Bozzetto"
 genres: ["Animovaný", "Komedie", "Hudební"]
-film: "Allegro non troppo (1976)"
+film: "Allegro non troppo"
 ---
 Celovečerní animovaný film italského režiséra a výtvarníka Bruna Bozzetta *Allegro non troppo* (1976, stopáž 85 minut) představuje jednu z nejvtipnějších, nejoriginálnějších a myšlenkově nejodvážnějších parodií v dějinách kinematografie. Bozzetto si vzal za terč monumentální klasiku Walta Disneyho *Fantasia* (1940), v níž se slavné skladby vážné hudby staly podkladem pro vizuální symfonie. 
 

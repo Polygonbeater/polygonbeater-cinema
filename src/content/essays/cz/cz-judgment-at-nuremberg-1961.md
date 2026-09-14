@@ -8,7 +8,7 @@ image: "/images/essays/judgment-at-nuremberg-1961.webp"
 lang: "cz"
 translationSlug: "judgment-at-nuremberg-1961"
 genres: ["Soudní drama", "Historický", "Válečný"]
-film: "Judgment at nuremberg (1961)"
+film: "Norimberský proces"
 ---
 > *„Zlo není prezentováno jako výsledek pouhého fanatismu, nýbrž jako produkt společenského souhlasu, právního alibismu a tiché poslušnosti elit.“*
 

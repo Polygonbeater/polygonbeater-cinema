@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "cache-2005"
 director: "Michael Haneke"
 genres: ["Psychologický", "Thriller", "Mysteriózní"]
-film: "Cache (2005)"
+film: "Utajený"
 ---
 Tato studie dekonstruuje psychologický thriller Michaela Hanekeho *Utajený* (*Caché*, 2005, stopáž 117 minut) jako neúprosnou analýzu potlačené viny a mediální manipulace. Snímek sleduje pařížskou intelektuální rodinu, jejíž život se začne hroutit poté, co na zápraží nachází anonymní videokazety se statickými záběry vlastního domu. 
 

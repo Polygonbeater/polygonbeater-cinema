@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "paris-texas-1984"
 director: "Wim Wenders"
 genres: ["Road movie", "Drama", "Psychologický"]
-film: "Paris texas (1984)"
+film: "Paříž, Texas"
 ---
 Melancholická existenciální road movie německého režiséra Wima Wenderse *Paříž, Texas* (*Paris, Texas*, 1984, stopáž 145 minut), oceněná Zlatou palmou na festivalu v Cannes, představuje jeden z vrcholů moderního autorského filmu. Snímek, natočený podle scénáře amerického dramatika Sama Sheparda za hudebního doprovodu kytaristy Ry Coodera, dekonstruuje americký mýtus o neomezené svobodě otevřené dálnice. 
 

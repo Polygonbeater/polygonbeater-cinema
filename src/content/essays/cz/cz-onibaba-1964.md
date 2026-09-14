@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "onibaba-1964"
 director: "Kaneto Šindó"
 genres: ["Horor", "Historický", "Japonský film"]
-film: "Onibaba (1964)"
+film: "Onibaba"
 ---
 Uvedení snímku *Onibaba* (1964, stopáž 103 minut) v režii Kaneta Šindóa představovalo zásadní zlom v poválečné japonské kinematografii. V éře, kdy se země navenek prezentovala moderním technologickým optimismem symbolizovaným tokijskými olympijskými hrami, se Šindó obrátil hluboko do občanských válek 14. století, aby vytvořil radikální materialistickou kontrahistorii. Režisér odmítá hrdinský patos klasického žánru jidaigeki a demystifikuje samurajskou kulturu: dějiny v jeho pojetí nepředstavují pokrok cti, nýbrž brutální biologický cyklus hladu, potu, sexuality, animálního násilí a smrti.
 

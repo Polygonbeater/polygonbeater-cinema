@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "menu-2022"
 director: "Mark Mylod"
 genres: ["Černá komedie", "Satira", "Thriller"]
-film: "Menu (2022)"
+film: "Menu"
 ---
 Černohumorný thriller Marka Myloda *Menu* (*The Menu*, 2022, stopáž 107 minut) představuje břitkou a nemilosrdnou dekonstrukci elitářského konzumu, kultu osobnosti a dobrovolné podřízenosti autoritě. Děj situovaný do izolované luxusní restaurace Hawthorn na soukromém ostrově, vedené charismatickým a psychotickým šéfkuchařem Julianem Slowikem (Ralph Fiennes), funguje jako přesná metafora toxického mikrosystému a sektoidní hierarchie. 
 

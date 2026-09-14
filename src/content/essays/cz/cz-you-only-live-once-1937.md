@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "you-only-live-once-1937"
 director: "Fritz Lang"
 genres: ["Film noir", "Milenci na útěku", "Tragédie"]
-film: "You only live once (1937)"
+film: "You Only Live Once"
 ---
 Druhý americký film německého režiséra Fritze Langa *Žiješ jenom jednou* (*You Only Live Once*, 1937, stopáž 86 minut), natočený v nezávislé produkci Waltera Wangera v distribuci United Artists, představuje jeden ze základních pilířů rodícího se filmu noir a zakladatelský text subžánru „milenců na útěku“ (*lovers on the run*). Lang přímo navázal na sociálně-kritický apel svého amerického debutu *Byl jsem lynčován* (*Fury*, 1936). 
 

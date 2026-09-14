@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "videodrome-1983"
 director: "David Cronenberg"
 genres: ["Body horor", "Sci-Fi", "Kultovní"]
-film: "Videodrome (1983)"
+film: "Videodrome"
 ---
 Vizionářský tělesný horor kanadského režiséra a scenáristy Davida Cronenberga *Videodrome* (1983, stopáž 87 minut) představuje jeden z nejzásadnějších filozofických a formálních mezníků světové science fiction. Cronenberg v něm překročil hranice běžného žánrového filmu o televizním vysílání a vytvořil radikální ontologickou studii o zániku biologické integrity člověka pod náporem elektronických masmédií. 
 

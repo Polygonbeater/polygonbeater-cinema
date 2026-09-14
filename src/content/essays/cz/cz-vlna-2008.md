@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "vlna-2008"
 director: "Dennis Gansel"
 genres: ["Psychologické drama", "Sociologický thriller"]
-film: "Vlna (2008)"
+film: "Náš vůdce"
 ---
 Německé společenské drama režiséra Dennise Gansela *Vlna* (*Die Welle*, 2008, stopáž 107 minut), volně adaptující skutečný sociální experiment *The Third Wave*, který v roce 2017 a 1967 na střední škole v kalifornském Palo Alto provedl učitel dějepisu Ron Jones, představuje mrazivou pitvu zranitelnosti moderní demokratické společnosti. Gansel přenesl děj do současného Německa a vytvořil uměle zkonstruované kinematografické „terárium“, v němž během pouhého týdne projektového vyučování na gymnáziu demonstruje bleskový rozklad liberálního vědomí studentů a zrod funkčního fašistického mikrostátu[cite: 99]. 
 

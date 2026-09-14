@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "all-the-kings-men-1949"
 director: "Robert Rossen"
 genres: ["Drama", "Film noir", "Politický"]
-film: "All the kings men (1949)"
+film: "Všichni královi muži"
 ---
 Politické drama Roberta Rossena *Všichni královi muži* (*All the King's Men*, 1949, stopáž 110 minut), oceněné třemi Oscary (včetně ceny za nejlepší film a nejlepší mužský herecký výkon), představuje jednu z nejpronikavějších analýz politického populismu v dějinách americké kinematografie. Snímek, adaptující Pulitzerovou cenou ověnčený román Roberta Penna Warrena z roku 1946 (inspirovaný vzestupem a pádem guvernéra Louisiany Hueyho Longa), zkoumá proces, jakým se původně upřímný, nezkorumpovaný venkovský právník bránící práva chudých promění v bezohledného demagoga a diktátora ovládajícího celý stát.
 
@@ -52,7 +52,7 @@ FILEEOF
 cat << 'EOF' > src/content/essays/cz/cz-man-hunt-1941.md
 ---
 title: "Hon na člověka (Man Hunt, 1941): Sportovní lov, protinacistický vzdor a geometrie pasti"
-film: "Hon na člověka / Man Hunt (1941)"
+film: "Všichni královi muži"
 year: 1941
 date: "2026-09-03"
 description: "Analytická studie špionážního noiru Fritze Langa zkoumající sportovní lov Hitlera, noirovou geometrii londýnského podzemí, podzemní noru v Dorsetu a antifašistický apel."

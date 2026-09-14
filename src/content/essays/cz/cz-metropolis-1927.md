@@ -8,7 +8,7 @@ image: "/images/essays/metropolis-1927.webp"
 lang: "cz"
 translationSlug: "metropolis-1927"
 genres: ["Sci-Fi", "Němý film", "Dystopie"]
-film: "Metropolis (1927)"
+film: "Metropolis"
 ---
 Sci-fi velkofilm *Metropolis* (1927, premiérová stopáž 153 minut) v režii Fritze Langa a podle scénáře Thei von Harbou představuje definitivní vizuální a myšlenkový manifest Výmarské republiky i základní kámen světové filmové science fiction. Snímek vznikal v gigantických ateliérech UFA v Babelsbergu v éře zdánlivé hospodářské stabilizace pozdních dvacátých let. 
 

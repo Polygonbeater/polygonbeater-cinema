@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "titane-2021"
 director: "Julia Ducournau"
 genres: ["Body horor", "Transgresivní", "Drama"]
-film: "Titane (2021)"
+film: "Titane"
 ---
 Transgresivní tělesný horor francouzské režisérky a scenáristky Julie Ducournauové *Titane* (2021, stopáž 108 minut), oceněný Zlatou palmou na festivalu v Cannes, představuje jeden z nejradikálnějších, nejprovokativnějších a myšlenkově nejodvážnějších filmů 21. století. Ducournauová navazuje na tradici tělesného hororu Davida Cronenberga (*Crash*, *Videodrome*) a koncept kyberfeminismu Donny Harawayové, avšak posouvá je do zcela nové, hluboce emocionální roviny. 
 

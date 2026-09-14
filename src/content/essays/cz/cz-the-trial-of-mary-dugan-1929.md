@@ -8,7 +8,7 @@ image: "/images/essays/the-trial-of-mary-dugan-1929.webp"
 lang: "cz"
 translationSlug: "the-trial-of-mary-dugan-1929"
 genres: ["Soudní drama", "Krimi"]
-film: "The trial of mary dugan (1929)"
+film: "The Trial of Mary Dugan"
 ---
 > *„Okamžik, kdy filmové plátno nalezlo svůj hlas – a použilo jej k přelíčení samotného společenského řádu a ženské morálky.“*
 

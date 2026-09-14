@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "watership-down-1978"
 director: "Martin Rosen"
 genres: ["Animovaný", "Mytologický", "Dobrodružný"]
-film: "Watership down (1978)"
+film: "Obyvatelé jednoho kopce"
 ---
 > *„Co když je samotné přežití ztrátou ráje?“*
 
