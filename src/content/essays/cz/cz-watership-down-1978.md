@@ -9,8 +9,8 @@ image: "/images/essays/watership-down-1978.webp"
 lang: "cz"
 translationSlug: "watership-down-1978"
 director: "Martin Rosen"
+genres: ["Animovaný", "Mytologický", "Dobrodružný"]
 ---
-
 > *„Co když je samotné přežití ztrátou ráje?“*
 
 Britský animovaný velkofilm režiséra a producenta Martina Rosena *Daleká cesta za domovem* (*Watership Down*, 1978, stopáž 101 minut), adaptující stejnojmenný román Richarda Adamse z roku 1972, představuje jeden z nejtemnějších, nejodvážnějších a emocionálně nejhlubších milníků světové animované kinematografie. Snímek kategoricky odmítá infantilní zjednodušení konvenční rodinné produkce: proměňuje zdánlivě idylický anglický venkov v mytickou krajinu neustálého existenčního zápasu, v níž králíci vystupují jako poslední svobodné bytosti na zemi, čelící jak brutálním zákonům přírody, tak industrializované lidské krutosti a totalitním systémům vlastního druhu.

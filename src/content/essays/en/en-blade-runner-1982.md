@@ -9,8 +9,8 @@ image: "/images/essays/blade-runner-1982.webp"
 lang: "en"
 translationSlug: "blade-runner-1982"
 director: "Ridley Scott"
+genres: ["Sci-Fi", "Cyberpunk", "Film Noir"]
 ---
-
 When Ridley Scott's *Blade Runner* arrived in theaters in 1982, it did not merely adapt Philip K. Dick's novel *Do Androids Dream of Electric Sheep?*. It introduced a new visual and conceptual canon. Scott envisioned the dystopian Los Angeles of 2019 not as a sterile future, but as a layered palimpsest—a world where hyper-modern corporate pyramids loom over decaying urban structures, and perpetual rain blurs the boundary between the organic and the synthetic.
 
 *Blade Runner* operates as a dark room for contemplating what precisely constitutes humanity in a world capable of industrially replicating humanity itself.

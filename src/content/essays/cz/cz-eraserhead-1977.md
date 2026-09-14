@@ -9,8 +9,8 @@ image: "/images/essays/eraserhead-1977.webp"
 lang: "cz"
 translationSlug: "eraserhead-1977"
 director: "David Lynch"
+genres: ["Body horor", "Surrealismus", "Kultovní"]
 ---
-
 Celovečerní debut Davida Lynche *Mazací hlava* (*Eraserhead*, 1977, stopáž 89 minut) představuje jednu z nejradikálnějších existenciálních vizí v dějinách nezávislé americké kinematografie. Snímek zcela rezignuje na tradiční narativní kauzalitu ve prospěch čisté psychoanalytické projekce podvědomí. Lynch analyzuje trauma tiskaře Henryho Spencera, který uvízl v dystopické průmyslové krajině a je donucen čelit nezvladatelným následkům nechtěného otcovství zmutovaného, nelidského plodu.
 
 Metodologicky se text zaměřuje na průkopnický zvukový design Alana Spleta, surrealistickou dekonstrukci biologických funkcí těla a motiv smrti jako transcendentního úniku z materiální reality. Film představuje mezní stádium tělesného a psychologického hororu, v němž se samotný akt plození a reprodukce mění v největší existenciální hrozbu.

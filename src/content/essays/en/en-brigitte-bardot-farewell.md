@@ -9,8 +9,8 @@ image: "/images/essays/brigitte-bardot-farewell.webp"
 lang: "en"
 translationSlug: "brigitte-bardot-farewell"
 director: "Roger Vadim"
+genres: ["Documentary", "Essay"]
 ---
-
 Today, the curtain falls on a woman who wasn't just a movie star—she was a cultural earthquake. Brigitte Bardot has passed away at 91, marking the true end of an era for world cinema.
 
 To understand her impact, we must go back to 1956 and the film that changed everything: *And God Created Woman* (*Et Dieu... créa la femme*).

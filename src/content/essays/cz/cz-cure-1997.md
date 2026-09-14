@@ -9,8 +9,8 @@ image: "/images/essays/cure-1997.webp"
 lang: "cz"
 translationSlug: "cure-1997"
 director: "Kiyoshi Kurosawa"
+genres: ["Psychologický", "Horor", "Thriller", "Krimi"]
 ---
-
 Tato studie dekonstruuje kultovní japonský psychologický horor *Cure* (*Kjua*, 1997, stopáž 111 minut) jako mrazivou meditaci o křehkosti lidské identity a potlačených pudech moderní společnosti. Snímek formálně využívá strukturu policejního procedurálu, aby sledoval detektiva Takabeho vyšetřujícího sérii bizarních hrdelních zločinů. 
 
 Všichni pachatelé se ke svým činům okamžitě doznávají, postrádají však jakýkoliv racionální motiv; spojuje je pouze krátké setkání se záhadným amnestikem Mamijou. Metodologicky se text zaměřuje na klinicky chladnou kameru Tokuša Kikumury, industriální zvukový design (nízkofrekvenční hučení ventilací, rytmus kapající vody) a zrušení hranice mezi společenským řádem a potlačenou propastí šílenství. Film ukazuje, že skutečný teror nepochází z vnějších monster, ale ze zjištění, že pod naší civilizační maskou leží absolutní prázdnota.

@@ -9,8 +9,8 @@ image: "/images/essays/prichozi-z-temnot-1921.webp"
 lang: "en"
 translationSlug: "prichozi-z-temnot-1921"
 director: "Jan S. Kolár"
+genres: ["Silent Film", "Horror", "Classic Czech Cinema"]
 ---
-
 The film Arrival from the Darkness (Příchozí z temnot), which premiered in the first half of 1921, stands as one of the most important and advanced early works of Czechoslovak silent cinema. Director Jan S. Kolár, who also co-wrote the screenplay, crafted an ambitious piece that stood out significantly from the standard domestic production of the time.¹ The creators' goal was to translate the mysterious themes of occultism, reincarnation, and human hubris into a modern visual language deeply influenced by the emerging German Expressionism.
 
 In its time, the film was highly praised for its visual effects, use of lighting, and international aspirations, with contemporary critics highlighting the technical skill of the authors and the compelling performances. Although the film did not survive in its complete original length, its key portions were preserved within archives. The footage subsequently underwent a professional digital reconstruction under the auspices of the National Film Archive, allowing for its full re-discovery and evaluation by modern film studies.²

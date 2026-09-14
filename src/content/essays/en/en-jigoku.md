@@ -9,8 +9,8 @@ image: "/images/essays/jigoku.webp"
 
 lang: "en"
 translationSlug: "jigoku"
+genres: ["Horror", "Surrealism", "Japonský film"]
 ---
-
 *Jigoku* (Hell) is not merely a story about guilt, but a film that abandons narrative causality halfway through its runtime and shifts into a mode of an autonomous system. While the first part follows a standard moral drama, upon entering Hell, reality transforms into a closed structure where space, color, and movement no longer serve the narrative, but its execution.
 
 *Jigoku* can be read as more than just a story about guilt. Nobuo Nakagawa transforms a drama into an expressive cinematic vision in which the image itself becomes an active vehicle of punishment. A disruption of the narrative structure occurs, and the environment ceases to be a mere backdrop, actively shaping the viewer's experience.

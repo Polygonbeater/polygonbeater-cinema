@@ -9,8 +9,8 @@ image: "/images/essays/beyond-a-reasonable-doubt-1956.webp"
 lang: "en"
 translationSlug: "beyond-a-reasonable-doubt-1956"
 director: "Fritz Lang"
+genres: ["Film Noir", "Courtroom Drama", "Crime"]
 ---
-
 Fritz Lang’s final American film (80 min) is a clinical, almost mathematical deconstruction of the legal system and human nature. It is a noir stripped of its romantic shadows, replacing them with a blinding, flat light that reveals a terrifying moral void.
 
 ### I. The Architecture of Deception

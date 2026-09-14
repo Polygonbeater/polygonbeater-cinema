@@ -9,8 +9,8 @@ image: "/images/essays/2001-a-space-odyssey-1968.webp"
 lang: "cz"
 translationSlug: "2001-a-space-odyssey-1968"
 director: "Stanley Kubrick"
+genres: ["Sci-Fi", "Mysteriózní", "Filozofický"]
 ---
-
 Tato studie dekonstruuje film Stanleyho Kubricka *2001: Vesmírná odysea* (1968, stopáž 149 minut) jako vizuální symfonii o lidském osudu. Snímek transformuje žánr science-fiction v nelineární filosofickou esej o vztahu mezi člověkem, nástrojem a neznámem. 
 
 Metodologicky se text zaměřuje na revoluční vizuální efekty Douglase Trumbulla, využití klasické hudby k vyjádření kosmického řádu a dekonstrukci postavy HAL 9000 jako zrcadla lidských emocí. Studie zkoumá motiv monolitu jako katalyzátoru evoluce – od prvního nástroje (zbraně) až po zrod Hvězdného dítěte (Star Child).

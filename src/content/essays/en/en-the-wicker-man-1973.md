@@ -9,8 +9,8 @@ image: "/images/essays/the-wicker-man-1973.webp"
 lang: "en"
 translationSlug: "the-wicker-man-1973"
 director: "Robin Hardy"
+genres: ["Folk Horror", "Mystery", "Cult"]
 ---
-
 This study deconstructs the foundational work of the folk horror subgenre, *The Wicker Man* (1973, running time 88 minutes), as a radical polemic against the concept of civilizational superiority and religious dogma. The film analyzes a puritanical police sergeant's search for a missing girl on the isolated island of Summerisle, where the inhabitants practice pre-Christian Celtic polytheism. 
 
 Methodologically, the text focuses on the phenomenon of "daylight horror," the diegetic use of Paul Giovanni's folk music, and the inevitable clash of two irreconcilable ideological verticals. The film demonstrates that the purest form of terror does not hide in the shadows, but arrives with a smile, a song on the lips, and in broad daylight.

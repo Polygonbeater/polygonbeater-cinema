@@ -9,8 +9,8 @@ image: "/images/essays/les-jeux-des-anges-1964.webp"
 lang: "cz"
 translationSlug: "les-jeux-des-anges-1964"
 director: "Walerian Borowczyk"
+genres: ["Animovaný", "Experimentální", "Surrealismus"]
 ---
-
 Krátkometrážní snímek *Hry andělů* (*Les Jeux des Anges*, 1964, stopáž 12 minut) polského malíře, grafika a filmového tvůrce Waleriana Borowczyka představuje jeden z nejdrtivějších a nejradikálnějších počinů v dějinách animované kinematografie. Film, realizovaný v pařížském exilu, zcela opouští konvenční narativní struktury a předkládá spalující abstraktní elegii za oběti nacistických vyhlazovacích táborů a totalitního teroru dvacátého století. 
 
 Borowczyk, poznamenaný bezprostřední zkušeností s válečnou zkázou v rodném Polsku, nestaví film na realistických archivních záběrech; přetváří historické trauma do znepokojivé mechanické noční můry z plechu, krve, organických tkání a monotónního industriálního hluku.

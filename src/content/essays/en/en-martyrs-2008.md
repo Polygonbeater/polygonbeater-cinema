@@ -9,8 +9,8 @@ image: "/images/essays/martyrs-2008.webp"
 
 lang: "en"
 translationSlug: "martyrs-2008"
+genres: ["Horror", "Transgressive", "Psychological"]
 ---
-
 This study deconstructs the cornerstone of "New French Extremity," *Martyrs* (2008, running time 99 minutes), as a radical philosophical treatise on the search for transcendence through systematic torture. The film follows the story of Lucie and Anna, two young women pursued by a mysterious society attempting to uncover the secret of the afterlife. 
 
 Methodologically, the text focuses on the transformation of the subject from a "victim" (who suffers without meaning) into a "martyr" (who glimpses "the other side" through suffering). The film illustrates the ultimate point of body horror: the moment when flesh becomes a mere obstacle for the spirit and when death is understood as a definitive epistemological tool.

@@ -9,8 +9,8 @@ image: "/images/essays/the-holy-mountain-1973.webp"
 lang: "en"
 translationSlug: "the-holy-mountain-1973"
 director: "Alejandro Jodorowsky"
+genres: ["Surrealism", "Mystical", "Avant-garde"]
 ---
-
 The aim of this study is not to offer a speculative interpretation of *The Holy Mountain* (1973), but to provide a methodologically controlled analysis of the film as an initiatory text. The film is approached as a cultural artifact whose meaning emerges from the overall organization of a transformative process presented to the viewer.
 
 ### I. Methodological Framework and Theoretical Anchors

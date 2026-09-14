@@ -9,8 +9,8 @@ image: "/images/essays/the-conformist-1970.webp"
 lang: "cz"
 translationSlug: "the-conformist-1970"
 director: "Bernardo Bertolucci"
+genres: ["Politické drama", "Psychologický", "Historický"]
 ---
-
 > *„Poslouchat je snazší než žít.“*
 
 Mistrovské dílo Bernarda Bertolucciho *Konformista* (*Il conformista*, 1970, stopáž 111 minut), natočené podle stejnojmenného románu Alberta Moravie, představuje jeden z absolutních vrcholů moderní evropské kinematografie a nejhlubší filmovou studii psychologických kořenů fašismu. Bertolucci odmítá nahlížet na totalitní režim jako na pouhý politický systém vnucený společnosti shora. 

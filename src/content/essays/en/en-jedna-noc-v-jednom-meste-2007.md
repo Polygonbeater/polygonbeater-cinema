@@ -9,8 +9,8 @@ image: "/images/essays/jedna-noc-v-jednom-meste-2007.webp"
 lang: "en"
 translationSlug: "jedna-noc-v-jednom-meste-2007"
 director: "Jan Balej"
+genres: ["Animation", "Black Comedy", "Surrealism"]
 ---
-
 > *“In this city, even silence has teeth.”*
 
 Jan Balej’s *One Night in One City* (2007) is not a film you watch — it’s a fever you drift through. Crafted in meticulous stop-motion over nearly a decade, this Czech masterpiece exists somewhere between urban folklore and psychological horror, between laughter and unease. It is a world built from sighs, shadows, and decaying wood — a place where language has died, and only the grotesque remains to tell our stories.

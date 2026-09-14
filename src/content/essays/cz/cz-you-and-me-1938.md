@@ -9,8 +9,8 @@ image: "/images/essays/you-and-me-1938.webp"
 lang: "cz"
 translationSlug: "you-and-me-1938"
 director: "Fritz Lang"
+genres: ["Film noir", "Krimi", "Sociální satira"]
 ---
-
 Kriminální melodrama Fritze Langa *Ty a já* (*You and Me*, 1938, stopáž 90 minut), natočené v produkci studia Paramount Pictures, představuje jeden z nejvíce fascinujících, neortodoxních a formálně nejodvážnějších experimentů v americké kariéře tohoto německého tvůrce. Snímek byl v době své premiéry komerčně nepochopen dobovým publikem, které očekávalo buď přímočarou gangsterku, nebo sentimentální romanci s hvězdnou Sylvií Sidneyovou a Georgem Raftem. 
 
 Lang však vytvořil břitkou, hořkou a formálně hybridní sociální satiru – film definovaný dobovým sloganem jako *„Crime, with songs“* –, v níž se kriminální zápletka organicky propojuje s brechtovským divadlem odcizení, hudebními čísly Kurta Weilla a ostrou diagnózou moderní kapitalistické společnosti, v níž se slibovaná „druhá šance“ mění v permanentní byrokratický audit a disciplinární past.

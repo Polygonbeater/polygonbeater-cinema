@@ -9,8 +9,8 @@ image: "/images/essays/v-jako-vendeta-2005.webp"
 lang: "en"
 translationSlug: "v-jako-vendeta-2005"
 director: "James McTeigue"
+genres: ["Dystopia", "Politický thriller", "Akční"]
 ---
-
 The present study deconstructs the dystopian film *V for Vendetta* not as an action thriller, but as an instructional model for information and symbolic guerrilla warfare against undemocratic and populist governments. The text strictly separates the original intent of the creators (a comic book polemic on anarchy versus fascism) from the applied analysis (the use of anonymity, hijacking the state narrative). The methodological framework integrates the concept of the „Spiral of Silence“ (E. Noelle-Neumann) and the theory of „The Spectacle“ (G. Debord). The final phase transforms the theoretical framework into applied practice, defining tactics such as culture jamming and weaponized derision, which disrupt the monopoly of power without the need for physical confrontation.
 
 ### I. Author's Intent: The Idea as an Indestructible Construct

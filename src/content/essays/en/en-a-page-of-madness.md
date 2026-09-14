@@ -9,8 +9,8 @@ lang: "en"
 translationSlug: "a-page-of-madness"
 director: "Teinosuke Kinugasa"
 year: 1926
+genres: ["Horror", "Silent Film", "Avant-garde", "Psychological"]
 ---
-
 The year is 1971. Aging director Teinosuke Kinugasa searches through an old storehouse on his property and, among dusty boxes, discovers a miracle nearly fifty years in the making: the surviving original film material of his own film, long mourned by the cinematic world as forever lost [^en1]. In a shed on his property, the film *A Page of Madness* (Kurutta Ippêji, 1926) had remained hidden for decades—one of the most radical experiments in the history of cinema.
 
 The story then returns to the mid-1920s, in the aftermath of the devastating Great Kantō earthquake. Kinugasa aligned himself with the Shinkankakuha (New Sensationist) literary movement. Together with future Nobel laureate Yasunari Kawabata, he created a work that fundamentally rejected the conventions of its time [^en2].

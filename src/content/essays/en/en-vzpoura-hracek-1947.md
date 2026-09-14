@@ -9,8 +9,8 @@ image: "/images/essays/vzpoura-hracek-1947.webp"
 
 lang: "en"
 translationSlug: "vzpoura-hracek-1947"
+genres: ["Animation", "Politická satira", "Short Film"]
 ---
-
 > *“When the seemingly powerless unite, they possess the power to bring down tyranny.”*
 
 The 1947 Czechoslovak short film *The Revolt of the Toys* (*Vzpoura hraček*), directed by pioneering animation artist Hermína Týrlová, is a masterful and early example of animation used for potent political commentary.

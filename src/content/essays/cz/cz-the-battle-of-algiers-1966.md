@@ -9,8 +9,8 @@ image: "/images/essays/the-battle-of-algiers-1966.webp"
 lang: "cz"
 translationSlug: "the-battle-of-algiers-1966"
 director: "Gillo Pontecorvo"
+genres: ["Historický", "Válečný", "Politický"]
 ---
-
 > *„Každý akt koloniální nadvlády plodí svou vlastní vzpouru a každá vzpoura riskuje, že se stane novou formou útlaku.“*
 
 Historický velkofilm italského režiséra Gilla Pontecorva *Bitva o Alžír* (*La battaglia di Algeri*, 1966, stopáž 121 minut), oceněný Zlatým lvem na festivalu v Benátkách a nominovaný na tři Oscary, představuje jeden z nejdůležitějších politických filmů v dějinách kinematografie. Snímek vznikl pouhé čtyři roky po skončení krvavé alžírské války za nezávislost (1954–1962) v italsko-alžírské koprodukci za přímé účasti vůdce osvobozeneckého hnutí Yacefa Saadiho (který byl producentem filmu a ztvárnil postavu Džafara). 

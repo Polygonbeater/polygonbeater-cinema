@@ -9,8 +9,8 @@ image: "/images/essays/brazil-1985.webp"
 
 lang: "cz"
 translationSlug: "brazil-1985"
+genres: ["Dystopie", "Sci-Fi", "Černá komedie"]
 ---
-
 Snímek *Brazil* (1985) v režii Terryho Gilliama představuje jednu z nejvíce vizuálně působivých a myšlenkově hlubokých dystopií moderní kinematografie. Hrůza zde nepramení z krve, monster či otevřené tyranie, nýbrž z chladné byrokratické normality – z fungování systému, který je technicky efektivní, administrativně detailní a lidsky zcela lhostejný.
 
 ### I. Byrokracie jako autonomní organismus a incident s mouchou

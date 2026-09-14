@@ -9,8 +9,8 @@ image: "/images/essays/dybuk-1937.webp"
 lang: "en"
 translationSlug: "dybuk-1937"
 director: "Michał Waszyński"
+genres: ["Horror", "Mystery", "Folklore"]
 ---
-
 When Polish director Michał Waszyński brought S. Ansky's renowned play *The Dybbuk* (*Der Dibuk*) to the silver screen in 1937, he did not merely create a film. He constructed a visual monument to Eastern European Jewish culture, mysticism, and Hasidic folklore. Shot entirely in Yiddish, the picture is today regarded as one of the most vital ethnographic and artistic documents of the shtetl—a world that would, only a few years later, vanish forever in the flames of the Second World War.
 
 This study examines the film as a fascinating relic where dark Kabbalah intertwines with daily rituals, and where death does not signify the end of love, but merely a transition into a different form of existence.

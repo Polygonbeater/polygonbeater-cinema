@@ -9,8 +9,8 @@ image: "/images/essays/moonfleet-1955.webp"
 lang: "cz"
 translationSlug: "moonfleet-1955"
 director: "Fritz Lang"
+genres: ["Dobrodružný", "Dobový", "Drama"]
 ---
-
 Snímek *Moonfleet* (1955, stopáž 87 minut) v produkci studia MGM představuje v americké kariéře Fritze Langa unikátní vybočení. Studio očekávalo barevný rodinný hit v duchu klasického *Ostrova pokladů*, avšak Lang se scenáristy Janem Lustigem a Margaret Fitts doručil temnou gotickou noční můru v barvách. 
 
 Předlohu J. Meade Falknera z roku 1898 režisér zbavil veškerého pirátského naivního patosu a nahradil ji studií o „ztraceném ráji“, v níž je malý chlapec John Mohun vržen do světa morálně zkorumpovaného, fyzicky zchátralého a ovládaného stíny minulosti.

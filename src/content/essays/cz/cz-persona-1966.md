@@ -9,8 +9,8 @@ image: "/images/essays/persona-1966.webp"
 lang: "cz"
 translationSlug: "persona-1966"
 director: "Ingmar Bergman"
+genres: ["Psychologický", "Drama", "Art"]
 ---
-
 Snímek Ingmara Bergmana *Persona* (1966, stopáž 83 minut) představuje jeden z nejradikálnějších epistemologických a formálních experimentů v dějinách moderní kinematografie. Bergman opouští tradiční narativní rámce a vytváří neúprosnou psychoanalytickou a filozofickou studii lability lidského já. Příběh sleduje vztah mezi divadelní herečkou Elisabet Voglerovou (Liv Ullmannová), která se uprostřed představení Elektry rozhodne náhle a absolutně umlknout, a její mladou ošetřovatelkou Almou (Bibi Anderssonová), jež je pověřena péčí o ni na izolovaném pobřeží ostrova Fårö. 
 
 Tato studie analyzuje film skrze dekonstrukci jungovské persony (společenské masky), optickou anatomii lidské tváře a metafilmovou sebereflexi, která odhaluje filmový pás jako rozbité zrcadlo lidské psychiky[cite: 135].

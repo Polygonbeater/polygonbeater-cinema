@@ -9,8 +9,8 @@ image: "/images/essays/gullivers-travels-1939.webp"
 lang: "en"
 translationSlug: "gullivers-travels-1939"
 director: "Dave Fleischer"
+genres: ["Animation", "Adventure", "Fantasy"]
 ---
-
 Released in December 1939, just months after the outbreak of World War II, Fleischer Studios’ *Gulliver's Travels* stands as a landmark of early American feature animation. It is not only a technical marvel that challenged Disney’s dominance but, more crucially, a pointed and influential cinematic allegory addressing the futility and absurdity of modern international conflict.
 
 ## Technical Innovation and Context

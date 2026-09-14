@@ -9,8 +9,8 @@ image: "/images/essays/wilczyca-1983.webp"
 lang: "en"
 translationSlug: "wilczyca-1983"
 director: "Marek Piestrak"
+genres: ["Gothic Horror", "Historical", "Folklore"]
 ---
-
 In the mud of the 1863 January Uprising, the Polish national myth did not achieve catharsis; it found only agony. While history textbooks tend to wrap national defeats in noble rhetoric of heroism and martyrdom, Marek Piestrak’s Wilczyca (The Wolfess) does the exact opposite: it tears the romantic bandage off history to expose the festering wound beneath. The film can thus be read as a testament that some historical traumas are so deep and so dark that realistic drama lacks the vocabulary to articulate them. They require the language of horror.
 
 ### The Return of the Repressed

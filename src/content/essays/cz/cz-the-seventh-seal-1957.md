@@ -9,8 +9,8 @@ image: "/images/essays/the-seventh-seal-1957.webp"
 lang: "cz"
 translationSlug: "the-seventh-seal-1957"
 director: "Ingmar Bergman"
+genres: ["Filozofický", "Historický", "Drama"]
 ---
-
 Filmové podobenství Ingmara Bergmana *Sedmá pečeť* (*Det sjunde inseglet*, 1957, stopáž 96 minut), oceněné Zvláštní cenou poroty na festivalu v Cannes, představuje fundamentální pilíř moderní existenciální kinematografie. Bergman přenesl hlubokou společenskou úzkost padesátých let – konkrétně stálou hrozbu totální jaderné anihilace v počínající studené válce – do středověkých kulis Švédska 14. století, pustošeného morovou epidemií černé smrti. 
 
 Vycházeje z vlastní divadelní jednoaktovky *Tremalbmålning* (Malba na dřevě), vytvořil nadčasovou alegorii o hledání smyslu lidského života, o mučivé touze po racionálním důkazu Boha a o etické hodnotě lidské solidarity tváří v tvář absolutnímu zániku.

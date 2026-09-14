@@ -9,8 +9,8 @@ image: "/images/essays/sopralluoghi-in-palestina-1965.webp"
 lang: "en"
 translationSlug: "sopralluoghi-in-palestina-1965"
 director: "Pier Paolo Pasolini"
+genres: ["Documentary", "Essay", "Travelogue"]
 ---
-
 > *“A non-believer profoundly moved by the sacred, seeking redemption through the act of filmmaking.”*
 
 Before filming *The Gospel According to St. Matthew* (1964), Pier Paolo Pasolini traveled through Israel and Palestine searching for authentic biblical landscapes. Documented in *Location Scouting in Palestine* (*Sopralluoghi in Palestina*, 1965), this journey evolves far beyond a routine technical scouting trip into an intense philosophical inquiry into modernity, faith, and representation.

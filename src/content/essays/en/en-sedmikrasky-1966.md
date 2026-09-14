@@ -8,8 +8,8 @@ image: "/images/essays/sedmikrasky-1966.webp"
 lang: "en"
 translationSlug: "sedmikrasky-1966"
 director: "Věra Chytilová"
+genres: ["French New Wave", "Experimental", "Comedy"]
 ---
-
 The world around us takes itself deadly seriously. State bureaucrats measure living space with rulers, moral authorities dictate proper posture at the table, and architects of human souls plan a neatly lined-up future. Everything is supposed to have its order, its compartment, and its utility. Yet what if the entire polished machine is rotten to the core? What if that admired order is merely a very expensive wrapping for emptiness?
 
 At that moment, nothing remains but to pick up scissors, chalk, a can opener, and a heavy dose of impudence—at least as a metaphor for one of the most radical rebellions Czech cinema has ever witnessed.

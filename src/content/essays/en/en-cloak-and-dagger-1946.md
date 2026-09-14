@@ -9,8 +9,8 @@ image: "/images/essays/cloak-and-dagger-1946.webp"
 lang: "en"
 translationSlug: "cloak-and-dagger-1946"
 director: "Fritz Lang"
+genres: ["Espionage", "Film Noir", "Thriller"]
 ---
-
 *Cloak and Dagger* (106 min) represents Fritz Lang's immediate cinematic reaction to the post-atomic world. While his earlier anti-fascist war films fought against a clearly defined ideology, here the primary enemy becomes technological secrecy itself and the ultimate threat of global annihilation. The film deconstructs the myth of the untouchable intellectual, thrusting a theoretical physicist into a world of animalistic violence where survival depends on adapting to raw physical brutality.
 
 ### Methodological Framework

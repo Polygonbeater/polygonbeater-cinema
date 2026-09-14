@@ -9,8 +9,8 @@ image: "/images/essays/fraulein-raffke-1923.webp"
 lang: "en"
 translationSlug: "fraulein-raffke-1923"
 director: "Richard Eichberg"
+genres: ["Silent Film", "Comedy", "Social Drama"]
 ---
-
 > "This morning, a dollar costs 10 billion marks. By this afternoon, it will likely be double." – Berlin Daily, 1923.
 
 A billion marks for a loaf of bread and a dance on the edge of the abyss. This is *Fräulein Raffke* (1923).

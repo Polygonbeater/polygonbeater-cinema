@@ -9,8 +9,8 @@ image: "/images/essays/animal-farm-1954.webp"
 lang: "cz"
 translationSlug: "animal-farm-1954"
 director: "John Halas, Joy Batchelor"
+genres: ["Animovaný", "Dystopie", "Politický"]
 ---
-
 > *„Všechna zvířata jsou si rovná, ale některá jsou si rovnější než jiná.“*
 
 První britský celovečerní animovaný film *Farma zvířat* (*Animal Farm*, 1954), který režírovalo tvůrčí duo John Halas a Joy Batchelorová, představuje odvážnou a dospělou kritiku totalitarismu. Adaptace břitké novely George Orwella sleduje, jak zvířata úspěšně svrhnou své lidské pány, načež se jejich původní emancipační utopie rychle propadá do prasečí tyranie pod vedením Napoleona.

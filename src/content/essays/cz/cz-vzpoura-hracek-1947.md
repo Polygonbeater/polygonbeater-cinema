@@ -9,8 +9,8 @@ image: "/images/essays/vzpoura-hracek-1947.webp"
 lang: "cz"
 translationSlug: "vzpoura-hracek-1947"
 director: "Hermína Týrlová"
+genres: ["Animovaný", "Politická satira", "Krátkometrážní"]
 ---
-
 > *„Když se zdánlivě bezmocní a křehcí spojí, dokážou srazit brutální tyranii na kolena.“*
 
 Krátkometrážní snímek *Vzpoura hraček* (*The Revolt of the Toys*, 1947, stopáž 14 minut) přední české animátorky, režisérky a scenáristky Hermíny Týrlové představuje jeden z nejdůležitějších zakladatelských mezníků české poválečné animované školy. Film, realizovaný v legendárních filmových ateliérech ve Zlíně (na Kudlově), vznikl v atmosféře čerstvého osvobození Československa od nacistické okupace[cite: 100]. 

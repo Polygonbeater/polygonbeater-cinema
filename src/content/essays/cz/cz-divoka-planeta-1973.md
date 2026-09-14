@@ -9,8 +9,8 @@ image: "/images/essays/divoka-planeta-1973.webp"
 lang: "cz"
 translationSlug: "divoka-planeta-1973"
 director: "René Laloux"
+genres: ["Animovaný", "Sci-Fi", "Filozofický"]
 ---
-
 > *„Vesmírné mistrovské dílo kritizující nerovnováhu moci, inspirované traumaty 20. století a sovětskou okupací.“*
 
 Koprodukční animovaný snímek *Divoká planeta* (*La Planète sauvage*, 1973, stopáž 72 minut), který režíroval René Laloux a výtvarně stvořil francouzský surrealista Roland Topor ve studiu Jiřího Trnky v Praze (Krátký film Praha), představuje zásadní mezník světové animace pro dospělé. Film získal Zvláštní cenu poroty na Mezinárodním filmovém festivalu v Cannes v roce 1973 a dodnes fascinuje svou mrazivou vizuální imaginací i naléhavým politickým podtextem.

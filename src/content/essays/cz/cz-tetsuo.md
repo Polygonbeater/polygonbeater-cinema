@@ -9,8 +9,8 @@ image: "/images/essays/tetsuo.webp"
 
 lang: "cz"
 translationSlug: "tetsuo"
+genres: ["Cyberpunk", "Body horor", "Kultovní"]
 ---
-
 Snímek Šinji Cukamota *Tetsuo* (*Tetsuo: The Iron Man*, 1989, stopáž 67 minut) představuje jeden z nejradikálnějších a nejagresivnějších seismografických záchvěvů moderní kinematografie. Film vznikl na samém vrcholu japonské ekonomické „bublinové“ prosperity pozdních osmdesátých let, v době, kdy se Tokio navenek prezentovalo jako sterilní, neonově naleštěná metropole technologického triumfu. 
 
 Cukamoto však v undergroundových garážových podmínkách stvořil dílo, jež působilo jako rezavý železný hřebík zaražený přímo do kapoty této technologické utopie. *Tetsuo* není pouhým tělesným hororem (*body horror*); je to vizuální a sonická exploze japonského industriálního kyberpunku, dekonstruující mýtus o čistotě pokroku a zkoumající násilné splynutí organického lidského masa s toxickým průmyslovým šrotem.

@@ -8,8 +8,8 @@ image: "/images/essays/divka-ktera-vedela-prilis-mnoho.webp"
 lang: "en"
 translationSlug: "divka-ktera-vedela-prilis-mnoho"
 director: "Mario Bava"
+genres: ["Giallo", "Mystery", "Thriller"]
 ---
-
 In the context of Italian cinema, Mario Bava is rightly celebrated as the visual poet of gothic horror, but his black-and-white crime thriller The Girl Who Knew Too Much (1963) represents a far more radical break. While formally rooted in the tradition of Italian pulp novels with yellow covers (gialli), the film performs a creative synthesis in real time, helping to establish a brand-new cinematic genre. Bava abandons gothic sets, transferring his keen eye for light, shadow, and space into the sun-drenched yet deeply alienated streets of modern Rome.
 
 The film follows a young American tourist, Nora Davis (Letícia Román), an avid reader of crime fiction, who upon arriving in Italy unwittingly witnesses a brutal murder on the Spanish Steps. When the police fail to find a body and circumstances cast doubt on her mental stability, an epistemological carousel of doubt begins. Here, Bava defines, in concentrated form, the basic syntax of the giallo: a clash of naive voyeurism, unreliable subjectivity, and the cold, elegant mechanics of death.

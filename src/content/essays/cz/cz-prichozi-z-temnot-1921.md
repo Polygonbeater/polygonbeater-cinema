@@ -9,8 +9,8 @@ image: "/images/essays/prichozi-z-temnot-1921.webp"
 lang: "cz"
 translationSlug: "prichozi-z-temnot-1921"
 director: "Jan S. Kolár"
+genres: ["Němý film", "Horor", "Klasický český film"]
 ---
-
 Snímek *Příchozí z temnot* (1921, dochovaná stopáž 62 minut), který měl premiéru v první polovině roku 1921, představuje jeden z nejvýznamnějších a formálně nejvyspělejších počinů rané československé kinematografie. Režisér a scenárista Jan S. Kolár vytvořil ambiciózní dílo, jež se radikálně vymykalo dobové tuzemské produkci spoléhající převážně na nenáročné frašky a sentimentální melodramata. 
 
 Kolár spolu se spoluautorem Karlem Lamačem přenesl témata okultismu, reinkarnace a faustovské pýchy do moderního vizuálního jazyka hluboce ovlivněného rodícím se německým expresionismem a historickými legendami rudolfinské Prahy. Dochované torzo filmu, zrestaurované a digitalizované Národním filmovým archivem, dnes představuje klíčový doklad žánrové odvahy středoevropského němého filmu[cite: 131].

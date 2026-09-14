@@ -9,8 +9,8 @@ image: "/images/essays/la-maschera-del-demonio.webp"
 lang: "en"
 translationSlug: "la-maschera-del-demonio"
 director: "Mario Bava"
+genres: ["Gothic Horror", "Klasický horor"]
 ---
-
 ## Introduction: Return Over Resurrection
 
 There are horror films that frighten through what they show, and horror films that frighten through what they refuse to bury. Mario Bava’s *La maschera del demonio* belongs to the latter category.

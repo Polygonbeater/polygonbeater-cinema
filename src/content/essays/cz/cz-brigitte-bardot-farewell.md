@@ -9,8 +9,8 @@ image: "/images/essays/brigitte-bardot-farewell.webp"
 lang: "cz"
 translationSlug: "brigitte-bardot-farewell"
 director: "Roger Vadim"
+genres: ["Dokumentární", "Esej"]
 ---
-
 Když v roce 1956 uvedl Roger Vadim do kin film *A Bůh stvořil ženu* (*Et Dieu… créa la femme*), nešlo pouze o premiéru nového melodramatu. Byl to seismický zlom v evropské vizuální kultuře. Brigitte Bardotová v roli Juliette neztělesňovala tradiční studiovou femme fatale ani submisivní naivku; přinesla živelnou, neomluvitelnou tělesnou svobodu, která rozbila poválečný měšťácký mravní kánon. 
 
 Tato studie zkoumá nejen zlomový film z roku 1956, ale i celkový odkaz ženy, jež v 91 letech uzavřela svou životní pouť a zanechala po sobě memento radikální integrity.

@@ -9,8 +9,8 @@ image: "/images/essays/what-the-health-2017.webp"
 lang: "en"
 translationSlug: "what-the-health-2017"
 director: "Kip Andersen, Keegan Kuhn"
+genres: ["Documentary", "Investigative"]
 ---
-
 This analysis is based on the principle of Cognitive Sovereignty—a state where the individual maintains full control over their mental processes, rejects external emotional pressure, and analyzes reality from a position of inner detachment.
 
 ### I. The Linguistic Trap: The Swedish Chemist Metaphor

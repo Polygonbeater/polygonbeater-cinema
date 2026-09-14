@@ -9,8 +9,8 @@ image: "/images/essays/vij-1967.webp"
 
 lang: "en"
 translationSlug: "vij-1967"
+genres: ["Folklore", "Horror", "Fairy Tale"]
 ---
-
 The film adaptation of Nikolai Gogol’s story Viy (1967), directed by Konstantin Yershov and Georgy Kropachyov, represents a unique phenomenon within Eastern Bloc cinema. Although produced in the center of the Soviet film industry (Mosfilm), it opens an unusually broad space for irrationality, folklore, and religious imagination—themes that stood on the margins of official Soviet cultural production. While Viy was not conceived as open political subversion, it utilized the genre of folkloric adaptation to introduce ancient layers of local myth into a strictly materialist environment.
 
 ### 1. The Return of the Repressed: The Wooden Church as Autonomous Space

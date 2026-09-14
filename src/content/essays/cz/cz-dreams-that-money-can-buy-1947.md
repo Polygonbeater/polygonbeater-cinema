@@ -9,8 +9,8 @@ image: "/images/essays/dreams-that-money-can-buy-1947.webp"
 lang: "cz"
 translationSlug: "dreams-that-money-can-buy-1947"
 director: "Hans Richter"
+genres: ["Avantgarda", "Surrealismus", "Experimentální"]
 ---
-
 Snímek *Sny za peníze* (*Dreams That Money Can Buy*, 1947, stopáž 85 minut), který v americkém exilu inicioval a režíroval německý dadaistický pionýr Hans Richter, představuje výjimečný pomník evropské meziválečné avantgardy. Richter shromáždil v New Yorku komunitu modernistických tvůrců prchajících před nacistickým pronásledováním a vytvořil kolektivní experimentální antologii, jež propojila filmovou naraci, stop-motion animaci, koláž a moderní hudbu v radikální výpověď o svobodě lidské představivosti.
 
 ### I. Rámcové vyprávění a komodifikace lidského nitra

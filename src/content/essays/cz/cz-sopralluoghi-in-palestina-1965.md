@@ -9,8 +9,8 @@ image: "/images/essays/sopralluoghi-in-palestina-1965.webp"
 lang: "cz"
 translationSlug: "sopralluoghi-in-palestina-1965"
 director: "Pier Paolo Pasolini"
+genres: ["Dokumentární", "Esej", "Cestopisný"]
 ---
-
 > *„Neznaboh hluboce pohnutý posvátnem, hledající vykoupení skrze akt filmařiny.“*
 
 Dokumentární filmový esej Pierra Paola Pasoliniho *Rekognoskace v Palestině* (*Sopralluoghi in Palestina per il vangelo secondo Matteo*, 1965, stopáž 55 minut) zachycuje cestu, kterou italský básník a režisér podnikl v létě roku 1963 po Izraeli, Západním břehu Jordánu a Jordánsku. Cílem výpravy, realizované za doprovodu katolického kněze a teologa Dona Andrea Carrara, bylo nalézt autentické lokace pro chystané mistrovské dílo *Evangelium podle Matouše* (1964). 

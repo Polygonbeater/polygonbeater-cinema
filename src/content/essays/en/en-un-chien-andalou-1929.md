@@ -9,8 +9,8 @@ image: "/images/essays/un-chien-andalou-1929.webp"
 lang: "en"
 translationSlug: "un-chien-andalou-1929"
 director: "Luis Buñuel"
+genres: ["Surrealism", "Silent Film", "Avant-garde"]
 ---
-
 From its very inception, cinema operated on a silent agreement: the screen is a window that safely and understandably organizes the world for us. In 1929, Luis Buñuel and Salvador Dalí took this contract and deliberately sliced it to pieces. Un Chien Andalou enters cinematic history not as a mere movie, but as a radical assault on how we are used to seeing.
 
 The opening sequence, in which a razor cold-bloodedly slices through a woman’s eyeball, is not just a cheap shock. It is a direct message to the audience: We have just blinded your old way of seeing. The image on the screen will no longer explain anything to you.

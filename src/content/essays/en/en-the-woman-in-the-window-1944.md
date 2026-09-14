@@ -9,8 +9,8 @@ image: "/images/essays/the-woman-in-the-window-1944.webp"
 lang: "en"
 translationSlug: "the-woman-in-the-window-1944"
 director: "Fritz Lang"
+genres: ["Film Noir", "Psychological Thriller", "Crime"]
 ---
-
 In 1944, Fritz Lang reveals a psychological war between a "decent man" and his subconscious. Professor Richard Wanley (Edward G. Robinson) is not a criminal; he is a victim of suppressed desire, trapped in the shadows of New York.
 
 ### I. Anatomy of Deception: Imagination of Destruction

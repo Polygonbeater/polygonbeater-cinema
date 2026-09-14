@@ -9,8 +9,8 @@ image: "/images/essays/the-woman-in-the-window-1944.webp"
 lang: "cz"
 translationSlug: "the-woman-in-the-window-1944"
 director: "Fritz Lang"
+genres: ["Film noir", "Psychologický thriller", "Krimi"]
 ---
-
 Snímek Fritze Langa *Žena za výlohou* (*The Woman in the Window*, 1944, stopáž 99 minut), vyrobený v produkci nezávislé společnosti International Pictures a distribuovaný studiem RKO, představuje jeden ze zakladatelských kamenů amerického filmu noir. Zatímco na evropských i tichomořských bojištích vrcholila druhá světová válka, Lang rozehrál intimní psychologické drama o křehkosti morální integrity počestného měšťana konfrontovaného s vlastním vytěsněným podvědomím. 
 
 Profesor kriminologie Richard Wanley (Edward G. Robinson) není kriminálníkem z povolání; je spořádaným rodinným typem, který se během jediné vteřiny ochabnutí sebekontroly propadne do neúprosné spirály vraždy, vydírání a paranoie. Film funguje jako chirurgicky přesná studie mechanismu lidského selhání, v níž se výkladní skříň luxusní galerie mění v propustnou membránu mezi bezpečným světem rozumu a temným labyrintem pudů.

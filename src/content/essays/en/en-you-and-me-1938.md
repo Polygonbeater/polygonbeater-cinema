@@ -9,8 +9,8 @@ image: "/images/essays/you-and-me-1938.webp"
 lang: "en"
 translationSlug: "you-and-me-1938"
 director: "Fritz Lang"
+genres: ["Film Noir", "Crime", "Social Satire"]
 ---
-
 *You and Me* (1938), produced at Paramount Pictures, stands as one of Fritz Lang’s most unorthodox and sharply critical American films. While less commercially prominent than his major noirs, it offers a chilling diagnosis of a society where a "second chance" is immediately converted into a permanent audit and systemic test.
 
 ### I. The Department Store as a Normalcy Machine

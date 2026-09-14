@@ -9,8 +9,8 @@ image: "/images/essays/jfk-1991.webp"
 lang: "en"
 translationSlug: "jfk-1991"
 director: "Oliver Stone"
+genres: ["Political", "Thriller", "Historical"]
 ---
-
 We typically view cinema as a medium for storytelling or artistic abstraction. However, in JFK (1991), director Oliver Stone revealed something formally much more radical: he weaponized film into an instrument of visual evidentiary procedure. He does not invite the viewer into an open dialogue. Instead, he immerses the audience in a meticulously constructed, strongly guiding interpretive framework that structurally favors his authorial version of the truth.
 
 The film shatters our traditional understanding of how the distribution of belief operates. We harbor the illusion that a perfect lie must entirely displace and silence the truth. JFK, however, demonstrates a much more sophisticated strategy that reorganizes the very epistemic hierarchy of images: persuasiveness does not rely on hiding facts, but on their informational saturation and seamless assimilation with fiction. If a creator is building a strong hypothesis, they do not hide evidence from the audience. On the contrary, they overwhelm them with it to the point where the capacity for sustained critical parsing is radically diminished.

@@ -9,8 +9,8 @@ image: "/images/essays/the-big-heat-1953.webp"
 lang: "cz"
 translationSlug: "the-big-heat-1953"
 director: "Fritz Lang"
+genres: ["Film noir", "Krimi", "Thriller"]
 ---
-
 Snímek Fritze Langa *Velký zátah* (*The Big Heat*, 1953, stopáž 89 minut), vyrobený ve studiu Columbia Pictures, představuje absolutní vrchol pozdního amerického filmu noir a neúprosnou reflexi poválečné institucionální krize. Vznikl v éře mccarthismu, kdy byla americká veřejnost poprvé konfrontována s televizními přenosy ze slyšení senátního výboru senátora Estese Kefauvera. 
 
 Tato slyšení šokovala národ odhalením, že organizovaný zločin nepředstavuje izolované gangy v baloňácích, nýbrž sofistikovaný, korporátně organizovaný syndikát prorůstající přímo do struktur policie, justice a politiky. Lang tento traumatický poznatek přetavil do mrazivé kriminální procedury, v níž se boj za spravedlnost mění v sebedestruktivní posedlost a v níž se posvátný americký domov stává otevřeným bojištěm.

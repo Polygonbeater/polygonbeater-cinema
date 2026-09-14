@@ -9,8 +9,8 @@ image: "/images/essays/wings-of-desire-1987.webp"
 lang: "en"
 translationSlug: "wings-of-desire-1987"
 director: "Wim Wenders"
+genres: ["Poetic Drama", "Philosophical", "Romance"]
 ---
-
 This study deconstructs Wim Wenders' poetic masterpiece *Wings of Desire* (Der Himmel über Berlin, 1987, running time 128 minutes) as the absolute visualization of the ontological intersection between spirit and matter. The film analyzes the existence of angels who wander as silent witnesses through divided Berlin, incapable of physical experience. 
 
 Methodologically, the text focuses on the duality of Henri Alekan's cinematography (black-and-white eternity vs. color mortality), Peter Handke's poetic text, and the spatial metaphor of the Berlin Wall. The film demonstrates a radical philosophical turn: the perfection of the vertical (immortality) is empty without the pain, weight, and love offered by the human horizontal.

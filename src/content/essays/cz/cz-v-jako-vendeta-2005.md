@@ -9,8 +9,8 @@ image: "/images/essays/v-jako-vendeta-2005.webp"
 lang: "cz"
 translationSlug: "v-jako-vendeta-2005"
 director: "James McTeigue"
+genres: ["Dystopie", "Politický thriller", "Akční"]
 ---
-
 Dystopický politický thriller *V jako Vendeta* (*V for Vendetta*, 2005, stopáž 132 minut) režiséra Jamese McTeiguea, natočený podle scénáře sester Wachowských na motivy kultovního komiksového románu Alana Moorea a Davida Lloyda, představuje jeden z nejvlivnějších kinematografických textů 21. století v oblasti politické filozofie a teorie asymetrického odporu. 
 
 Ačkoliv film posunul původní anarchisticko-fašistickou polemiku grafického románu z osmdesátých let do podoby břitké alegorie na post-jedenáctizářijový neokonzervatismus, bezpečnostní stát a mediální manipulaci, jeho teoretická hodnota zůstává univerzální[cite: 98]. Snímek nepředstavuje pouhou komiksovou podívanou; funguje jako precizní model sémiotické subverze, psychologické dekonstrukce totalitní moci a instruktážní ukázka toho, jak lze skrze symbolickou guerillu rozložit autoritářský režim, jenž disponuje absolutním monopolem na fyzické násilí a mediální narativ[cite: 98].

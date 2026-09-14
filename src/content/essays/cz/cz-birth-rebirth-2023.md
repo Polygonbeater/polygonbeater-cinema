@@ -9,8 +9,8 @@ image: "/images/essays/birth-rebirth-2023.webp"
 lang: "cz"
 translationSlug: "birth-rebirth-2023"
 director: "Laura Moss"
+genres: ["Horor", "Sci-Fi", "Psychologický"]
 ---
-
 Tato studie dekonstruuje prestižní nezávislý horor *Birth/Rebirth* (2023, stopáž 94 minut) jako radikální redefinici mýtu o vzkříšení. Snímek analyzuje střet dvou žen – patoložky Rose, která ve svém bytě vyvíjí sérum pro oživení mrtvé tkáně, a zdravotní sestry Celie, jejíž dcera náhle zemře a stane se subjektem Roseina experimentu. 
 
 Metodologicky se text zaměřuje na klinickou, aseptickou kameru, která zbavuje akt oživení veškeré mystiky, a na etické vakuum, v němž se mateřská láska mění v parazitický mechanismus. Film ukazuje vzkříšení nikoliv jako zázrak, ale jako neustálý, krvavý a morálně neudržitelný údržbový proces.

@@ -9,8 +9,8 @@ image: "/images/essays/johnny-got-his-gun-1971.webp"
 lang: "cz"
 translationSlug: "johnny-got-his-gun-1971"
 director: "Dalton Trumbo"
+genres: ["Protiválečný", "Drama", "Psychologický"]
 ---
-
 Existují protiválečné filmy, které zobrazují zákopy, krev a heroismus na bitevním poli. A pak existuje snímek Daltona Trumba *Johnny Got His Gun* (1971, stopáž 111 minut), který veškerou vnější válečnou vřavu odstraňuje a předkládá konečný účet. Trumbo, perzekvovaný spisovatel a přední osobnost zakázané Hollywoodské desítky, režíroval adaptaci vlastního stejnojmenného románu z roku 1939 jako nekompromisní anatomii člověka, kterého válka přežila natolik totálně, že mu nezbylo nic než čisté vědomí uvězněné v biologickém sarkofágu.
 
 Tato studie dekonstruuje film jako mezní situaci lidské existence, v níž se tělesná schránka mění v hermetické vězení a v níž institucionální medicína demonstruje svou chladnou moc zachovat biologický život bez ohledu na lidskou důstojnost.

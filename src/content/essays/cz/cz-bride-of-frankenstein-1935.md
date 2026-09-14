@@ -9,8 +9,8 @@ image: "/images/essays/bride-of-frankenstein-1935.webp"
 lang: "cz"
 translationSlug: "bride-of-frankenstein-1935"
 director: "James Whale"
+genres: ["Horor", "Sci-Fi", "Klasický Hollywood"]
 ---
-
 James Whale ve snímku *Nevěsta Frankensteinova* (*Bride of Frankenstein*, 1935, stopáž 75 minut) nejen překonal svůj původní přelomový film z roku 1931, ale vytvořil jedno z nejoriginálnějších děl klasického hollywoodského hororu. Film opouští přímočarou gotickou šablonu a vnáší do žánru prvky černé komedie, stylizované nadsázky (camp) a hluboké existenciální melancholie. Zatímco první díl byl dramatem stvoření, *Nevěsta* je studií zoufalé touhy po společenském ukotvení a lidské blízkosti.
 
 ### I. Humanizace monstra a touha po přijetí

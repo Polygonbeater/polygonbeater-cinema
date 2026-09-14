@@ -9,8 +9,8 @@ image: "/images/essays/le-manoir-du-diable-1896.webp"
 lang: "cz"
 translationSlug: "le-manoir-du-diable-1896"
 director: "Georges Méliès"
+genres: ["Němý film", "Horor", "Krátkometrážní"]
 ---
-
 > *„Často oslavován jako vůbec první horor na světě – Mélièsův Ďáblův dům filmové nadpřirozeno nejen předchází, ale přímo ho na plátně vynalézá.“*
 
 Snímek *Ďáblův dům* (*Le Manoir du Diable*, 1896, stopáž přes 3 minuty) francouzského kouzelníka, divadelníka a vizionáře Georgese Mélièse představuje absolutní mezník v dějinách kinematografie. V době, kdy se filmový aparát bratří Lumièrů soustředil na prostý dokumentární záznam reality (příjezd vlaku, dělníci opouštějící továrnu), pochopil Méliès kinematograf jako aparát iluze a imaginace. Během tří minut stvořil první ucelenou přehlídku filmového nadpřirozena: netopýr vletí do gotického sálu, promění se v Mefistofela, z kotle povstávají přízraky, kostlivci mizí v oblacích dýmu a kavalíři prchají před oživlým nábytkem.

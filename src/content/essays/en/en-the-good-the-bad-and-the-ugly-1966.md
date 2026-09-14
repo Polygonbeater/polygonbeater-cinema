@@ -9,8 +9,8 @@ image: "/images/essays/the-good-the-bad-and-the-ugly-1966.webp"
 lang: "en"
 translationSlug: "the-good-the-bad-and-the-ugly-1966"
 director: "Sergio Leone"
+genres: ["Western", "Adventure", "Cult"]
 ---
-
 > *“Every war is just another name for what remains of man when he loses meaning.”*
 
 The final installment of Sergio Leone's "Dollars Trilogy," *The Good, the Bad and the Ugly* (*Il buono, il brutto, il cattivo*, 1966), is the pinnacle of the European reinterpretation of the American Western. Leone transformed the exhausted frontier myth into an existential epic about humanity stripped of moral certainty.

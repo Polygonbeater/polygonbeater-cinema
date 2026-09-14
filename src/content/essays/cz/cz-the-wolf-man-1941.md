@@ -9,8 +9,8 @@ image: "/images/essays/the-wolf-man-1941.webp"
 lang: "cz"
 translationSlug: "the-wolf-man-1941"
 director: "George Waggner"
+genres: ["Klasický horor", "Gotický", "Mytologický"]
 ---
-
 Hororový snímek režiséra George Waggnera *Vlkodlak* (*The Wolf Man*, 1941, stopáž 70 minut) z produkce studia Universal Pictures představuje definitivní kánon vlkodlačího mýtu v moderní populární kultuře. Ačkoliv studio Universal již v roce 1935 uvedlo snímek *Vlkodlak v Londýně*, teprve verze z roku 1941 proměnila folklorní lykantropii v univerzální tragédii moderního člověka. 
 
 Zásadní zásluhu na tom měl scenárista Curt Siodmak – židovský spisovatel a filmař, který v roce 1933 uprchl z nacistického Německa a vnesl do hollywoodského béčkového filmu vytříbené tvarosloví výmarského expresionismu a hlubokou osobní zkušenost s iracionálním pronásledováním, fatalismem a stigmatizací nevinného člověka.

@@ -9,8 +9,8 @@ image: "/images/essays/the-wolf-man-1941.webp"
 lang: "en"
 translationSlug: "the-wolf-man-1941"
 director: "George Waggner"
+genres: ["Klasický horor", "Gothic", "Mytologický"]
 ---
-
 *The Wolf Man* (1941), produced by Universal Pictures, is one of the most significant films in the Universal Monsters canon. Its profound impact on the werewolf mythos and its deep-seated European aesthetic are largely attributable to its screenwriter, the German émigré Curt Siodmak.
 
 ## A Bridge to German Expressionism

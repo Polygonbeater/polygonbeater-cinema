@@ -9,8 +9,8 @@ image: "/images/essays/heart-of-glass-1976.webp"
 lang: "cz"
 translationSlug: "heart-of-glass-1976"
 director: "Werner Herzog"
+genres: ["Drama", "Mysteriózní", "Art"]
 ---
-
 Vizionářské dílo Wernera Herzoga *Srdce ze skla* (*Herz aus Glas*, 1976, stopáž 94 minut) představuje jeden z nejradikálnějších experimentů v dějinách kinematografie zkoumající rozpad lidského společenství a spirituální agónii. Příběh situovaný do izolované bavorské sklářské vesnice 18. století analyzuje propad komunity do iracionálního šílenství poté, co se smrtí mistra skláře nenávratně zanikne tajná alchymistická receptura na výrobu legendárního rubínového skla.
 
 Metodologicky se studie zaměřuje na Herzogovo unikátní uvedení téměř celého hereckého souboru do stavu hluboké hypnózy, výtvarné citace německého romantismu Caspara Davida Friedricha a postavu pastýře Hiase jako nositele prorocké vize zániku. Film demonstruje, že jakmile se zhroutí materiální a řemeslný pilíř civilizace, následuje nekontrolovatelný pád do metafyzické temnoty.

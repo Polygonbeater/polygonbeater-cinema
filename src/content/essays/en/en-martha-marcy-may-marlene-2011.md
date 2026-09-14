@@ -9,8 +9,8 @@ image: "/images/essays/martha-marcy-may-marlene-2011.webp"
 lang: "en"
 translationSlug: "martha-marcy-may-marlene-2011"
 director: "Sean Durkin"
+genres: ["Psychological", "Drama", "Thriller"]
 ---
-
 This study deconstructs the psychological drama *Martha Marcy May Marlene* (2011, running time 109 minutes) as a clinically precise anatomy of trauma and the loss of human identity. The film analyzes the state of a young woman (Elizabeth Olsen) who physically escapes a patriarchal cult into the apparent safety of her sister's luxury lake house, only to discover that her mind remains imprisoned. 
 
 Methodologically, the text focuses on the erasure of boundaries between past and present (continuous, invisible editing), the destruction of personal space, and language as a tool of control. The film illustrates the state of an absolute victim in whom the process of ego decomposition has been successfully completed, rendering reality and delusion entirely indistinguishable.

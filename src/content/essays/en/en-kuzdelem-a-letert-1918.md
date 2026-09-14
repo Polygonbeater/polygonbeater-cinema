@@ -9,8 +9,8 @@ image: "/images/essays/kuzdelem-a-letert-1918.webp"
 lang: "en"
 translationSlug: "kuzdelem-a-letert-1918"
 director: "Alfréd Deésy"
+genres: ["Silent Film", "Drama"]
 ---
-
 > *“A precious window into the formative stage of a legendary screen presence destined to define Count Dracula.”*
 
 Directed by Alfréd Deésy and adapted from Alphonse Daudet’s play *La lutte pour la vie*, the 1918 silent drama *Küzdelem a létért* (widely known as *Leopard*) stands as a significant milestone in early Hungarian cinema. The narrative follows Pál Orlay, an ambitious architect whose ruthless manipulation of women leads to tragic consequences.

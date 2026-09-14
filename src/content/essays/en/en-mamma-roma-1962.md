@@ -9,8 +9,8 @@ image: "/images/essays/mamma-roma-1962.webp"
 lang: "en"
 translationSlug: "mamma-roma-1962"
 director: "Pier Paolo Pasolini"
+genres: ["Italian Neorealism", "Drama"]
 ---
-
 > *„A powerful synthesis of neorealist grit and spiritual tragedy set against the desolate backdrop of Rome’s peripheries.“*
 
 Released in 1962, *Mamma Roma* stands as Pier Paolo Pasolini’s second feature film, bridging Italian neorealism and modern poetic realism. Anchored by Anna Magnani’s commanding, magnetic performance, Pasolini transforms a narrative of maternal aspiration into an uncompromising meditation on dignity, fatalism, and despair.

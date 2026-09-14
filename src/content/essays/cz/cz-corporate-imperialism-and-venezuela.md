@@ -9,8 +9,8 @@ image: "/images/essays/burn-1969.webp"
 lang: "cz"
 translationSlug: "corporate-imperialism-and-venezuela"
 director: "Gillo Pontecorvo"
+genres: ["Dokumentární", "Politický", "Esej"]
 ---
-
 Snímek *Ostrov v ohni* (*Queimada* / *Burn!*, 1969, stopáž 112 minut) režiséra Gilla Pontecorva představuje jednu z nejradikálnějších politických a ekonomických pitev moderního imperialismu ve světové kinematografii. Příběh britského provokatéra sira Williama Walkera (Marlon Brando), který je vyslán na fiktivní karibský ostrov, aby podnítil vzpouru otroků proti portugalské koruně ve prospěch britské cukerní společnosti, obnažuje podstatu neokolonialismu: formální svoboda je pouze efektivnějším nástrojem ekonomického vykořisťování.
 
 Tato studie analyzuje Pontecorvův film jako nadčasový modelový manuál moci, jenž propojuje historický kolonialismus s moderní korporatokracií a geopolitickými krizemi přelomu 20. a 21. století.

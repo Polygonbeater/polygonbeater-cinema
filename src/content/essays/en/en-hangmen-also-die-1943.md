@@ -9,8 +9,8 @@ image: "/images/essays/hangmen-also-die-1943.webp"
 lang: "en"
 translationSlug: "hangmen-also-die-1943"
 director: "Fritz Lang"
+genres: ["War", "Film Noir", "Thriller"]
 ---
-
 *Hangmen Also Die!* (1943) is not merely a war film—it is an intellectual and visual assault on totalitarian logic. Fritz Lang and Bertolt Brecht (collaborating with cinematographer James Wong Howe) treat the assassination of Reinhard Heydrich not as a historical reconstruction, but as a model of how totalitarian power operates through truth, power, and narrative. The film fuses German expressionism, Brechtian dialectics, and early American noir into a cohesive whole.
 
 ### I. Historical Context and Production

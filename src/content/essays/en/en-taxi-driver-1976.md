@@ -9,8 +9,8 @@ image: "/images/essays/taxi-driver-1976.webp"
 lang: "en"
 translationSlug: "taxi-driver-1976"
 director: "Martin Scorsese"
+genres: ["Neo-noir", "Psychological", "Crime"]
 ---
-
 This study deconstructs Martin Scorsese's *Taxi Driver* (1976, running time 114 min) as a seminal work of "New Hollywood," exploring the psychological collapse of a Vietnam veteran against the backdrop of a morally devastated New York City. The film analyzes the subjective perception of reality by protagonist Travis Bickle. 
 
 Methodologically, the text focuses on Michael Chapman's neo-noir cinematography, internal monologues inspired by existential literature, and the phenomenological impact of Bernard Herrmann's score. The film examines how isolation mutates into a messianic complex and how violence becomes the only possible form of communication with the surrounding world.

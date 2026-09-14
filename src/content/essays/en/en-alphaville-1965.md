@@ -9,8 +9,8 @@ image: "/images/essays/alphaville-1965.webp"
 lang: "en"
 translationSlug: "alphaville-1965"
 director: "Jean-Luc Godard"
+genres: ["Sci-Fi", "Film Noir", "French New Wave"]
 ---
-
 Jean-Luc Godard’s *Alphaville* (*Une étrange aventure de Lemmy Caution*, 1965) discards traditional sci-fi iconography. Eschewing futuristic studio sets and miniatures, Godard shot entirely within the contemporary, raw glass-and-concrete architecture of mid-1960s Paris, crafting a biting diagnosis of technocratic modernity.
 
 ### I. Administrative Rationality and the Voice of Alpha 60

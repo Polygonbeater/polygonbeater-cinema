@@ -9,8 +9,8 @@ image: "/images/essays/confirm-or-deny-1941.webp"
 lang: "en"
 translationSlug: "confirm-or-deny-1941"
 director: "Archie Mayo, Fritz Lang"
+genres: ["War", "Drama"]
 ---
-
 *Confirm or Deny* (1941), produced by 20th Century Fox, stands as a fascinating hybrid artifact of Classical Hollywood cinema. Initiated by Fritz Lang before being taken over by Archie Mayo after roughly one week of principal photography, the film encapsulates a direct clash between European auteur perfectionism and studio head Darryl F. Zanuck’s demand for fast-paced, punchy journalism drama.
 
 ### I. Production Context and Directoral Duality

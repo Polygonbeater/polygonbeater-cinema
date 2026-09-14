@@ -9,8 +9,8 @@ image: "/images/essays/freaks-1932.webp"
 
 lang: "en"
 translationSlug: "freaks-1932"
+genres: ["Horror", "Drama", "Cult"]
 ---
-
 > *“A daring, deeply empathetic masterpiece that shocked audiences by casting real sideshow performers and questioning who the true monsters are.”*
 
 Directed by Todd Browning fresh off the success of *Dracula*, *Freaks* (1932) stands as one of the most daring, subversive, and controversial films in cinematic history. Set within a traveling circus, the narrative follows Hans, a little person who inherits a fortune, sparking a treacherous plot by the beautiful trapeze artist Cleopatra and the strongman Hercules to marry and murder him for his wealth.

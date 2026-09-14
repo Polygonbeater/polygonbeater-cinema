@@ -9,8 +9,8 @@ image: "/images/essays/ruka-1965.webp"
 lang: "en"
 translationSlug: "ruka-1965"
 director: "Jiří Trnka"
+genres: ["Animation", "Political Allegory", "Short Film"]
 ---
-
 > *“When art becomes obedience, creation dies.”*
 
 How do you tell the story of tyranny without speaking its name? In *The Hand* (*Ruka*, 1965), Czech animation master Jiří Trnka built a silent revolution — one that cost him his artistic voice and, soon after, his life. This 18-minute puppet film is not just a political allegory; it’s a requiem for freedom itself.

@@ -9,8 +9,8 @@ image: "/images/essays/repulsion-1965.webp"
 lang: "en"
 translationSlug: "repulsion-1965"
 director: "Roman Polanski"
+genres: ["Psychological Horror", "Thriller"]
 ---
-
 Roman Polanski’s *Repulsion* (1965) stands as a cornerstone of psychological horror, where narrative minimalism yields to a rigorous formal investigation of subjective collapse. As film scholarship emphasizes (Durgnat 1967; Barr 1970; Wilson 2006), horror here is not an external plot event, but a gradual process rooted in prolonged stress and sensory overload.
 
 ### I. The Apartment as a Psychological Apparatus

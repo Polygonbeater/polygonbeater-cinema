@@ -9,8 +9,8 @@ image: "/images/essays/blood-on-satans-claw-1971.webp"
 
 lang: "en"
 translationSlug: "blood-on-satans-claw-1971"
+genres: ["Folk Horror", "Historical"]
 ---
-
 This study deconstructs the seminal British folk-horror work *The Blood on Satan's Claw* (1971, running time 93 minutes) as a chilling probe into the genesis of a pagan cult in 17th-century England. The film analyzes the gradual decay of a rural community after a deformed, hairy skull of unknown origin is unearthed in a field. 
 
 The discovery acts as a psychological and biological virus that infects the local youth, who, led by the charismatic Angel Blake, turn to ritualistic murders, the wearing of animal masks, and the worship of a being called Behemoth. Methodologically, the text focuses on the generational conflict, the symbolism of untamable nature (mud and fur), and the erosion of Christian authority. The film portrays rural tradition not as a folkloric idyll, but as a constant threat of regression into animalistic barbarism.

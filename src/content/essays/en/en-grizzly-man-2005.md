@@ -9,8 +9,8 @@ image: "/images/essays/grizzly-man-2005.webp"
 lang: "en"
 translationSlug: "grizzly-man-2005"
 director: "Werner Herzog"
+genres: ["Documentary", "Biographical", "Nature"]
 ---
-
 This study deconstructs Werner Herzog’s documentary tragedy *Grizzly Man* (2005, running time 103 minutes) as a radical report on the failure of human empathy toward the wild. The film analyzes the life of Timothy Treadwell, who believed he had become a „protector“ and „friend“ to Alaskan grizzly bears. Methodologically, the text focuses on Treadwell's pathological need to humanize predators (treating them like kittens), Herzog’s directorial commentary on the absolute indifference of nature, and the ethics of depicting death. The film represents the ultimate warning of what happens when man stops respecting the predator as an alien entity and begins projecting his own emotions onto it.
 
 ### I. The Illusion of Safety and the Horizontal of Anthropomorphism

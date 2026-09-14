@@ -9,8 +9,8 @@ image: "/images/essays/kuzdelem-a-letert-1918.webp"
 
 lang: "cz"
 translationSlug: "kuzdelem-a-letert-1918"
+genres: ["Němý film", "Drama"]
 ---
-
 > *„Vzácné okno do formativního období herecké legendy, která měla o dvě desetiletí později definovat ikonu hraběte Draculy.“*
 
 Němé drama *Küzdelem a létért* (v mezinárodní distribuci uváděné jako *Leopard* či *The Struggle for Life*, 1918) v režii předního maďarského průkopníka Alfréda Deésyho představuje klíčový milník rané kinematografie středoevropského prostoru. Snímek, vzniklý ve filmové společnosti Star-Film v Budapešti na samém sklonku rakousko-uherské monarchie a první světové války, je adaptací slavné divadelní hry Alphonse Daudeta *La Lutte pour la vie*. 

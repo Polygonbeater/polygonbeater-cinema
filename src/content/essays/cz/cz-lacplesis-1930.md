@@ -9,8 +9,8 @@ image: "/images/essays/lacplesis-1930.webp"
 
 lang: "cz"
 translationSlug: "lacplesis-1930"
+genres: ["Němý film", "Epos", "Historický"]
 ---
-
 Lotyšský němý velkofilm *Lāčplēsis* (*Trhač medvědů*, 1930, stopáž 100 minut) v režii Aleksandrse Rusteiķise představuje v kontextu meziválečného Pobaltí naprosto ojedinělý pokus o syntézu národního mytologického eposu a dramatických dějin dvacátého století. Snímek, realizovaný u příležitosti desátého výročí osvobození Rigy za přímé podpory lotyšského ministerstva obrany a armády, nevznikl jako běžná komerční podívaná. 
 
 Byl to programový a státem podporovaný pokus o formulaci lotyšské národní identity v éře, kdy se mladá republika snažila po staletích carské a německé nadvlády etablovat jako suverénní evropský stát.

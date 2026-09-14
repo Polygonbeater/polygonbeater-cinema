@@ -9,8 +9,8 @@ image: "/images/essays/santa-sangre-1989.webp"
 
 lang: "cz"
 translationSlug: "santa-sangre-1989"
+genres: ["Surrealismus", "Horor", "Psychologický"]
 ---
-
 Snímek *Svatá krev* (*Santa Sangre*, 1989, stopáž 123 minut) v režii chilsko-francouzského surrealistického vizionáře Alejandra Jodorowského představuje jeden z vrcholů světového art-hororu a magického realismu v kinematografii. Film, realizovaný v mexicko-italské koprodukci pod produkčním vedením Claudia Argenta (bratra Daria Argenta), radikálně proměňuje hranice hororového žánru. Horor zde nevystupuje jako pouhá pouťová atrakce plná lekaček; stává se hlubokým, symbolickým jazykem propojujícím rodinnou psychoanalýzu, cirkusovou tělesnost, náboženský synkretismus a rituální očistu z traumatického šílenství.
 
 Tato studie dekonstruuje film jako monumentální psychoanalytickou fresku o oidipovském traumatu, v níž se tělo hlavního hrdiny Fénixe stává doslovným nástrojem cizí vražedné vůle[cite: 135].

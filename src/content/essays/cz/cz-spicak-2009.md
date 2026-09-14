@@ -9,8 +9,8 @@ image: "/images/essays/spicak-2009.webp"
 lang: "cz"
 translationSlug: "spicak-2009"
 director: "Yorgos Lanthimos"
+genres: ["Psychologické drama", "Černá komedie"]
 ---
-
 Průlomové dílo řeckého režiséra Yorgose Lanthimose *Špičák* (*Kynodontas*, v mezinárodní distribuci *Dogtooth*, 2009, stopáž 94 minut), oceněné cenou Un Certain Regard na festivalu v Cannes a nominované na Oscara za nejlepší cizojazyčný film, představuje zakládající text tzv. řecké divné vlny (*Greek Weird Wave*). Snímek přináší radikální, klinicky chladnou a absurdní sondu do patologie absolutní institucionální a rodinné kontroly. 
 
 Lanthimos analyzuje mikrosvět tří dospělých sourozenců, kteří jsou svými autoritářskými rodiči drženi v celoživotní izolaci uvnitř luxusní předměstské vily s bazénem, systematicky klamáni o povaze vnějšího světa a podrobováni neúprosné lingvistické a tělesné drezuře. Film demonstruje, že nejdokonalejším vězením není prostor obehnaný ostnatým drátem, nýbrž klec vystavěná uvnitř lidského jazyka a vědomí.

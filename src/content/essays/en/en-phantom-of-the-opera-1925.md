@@ -9,8 +9,8 @@ image: "/images/essays/phantom-of-the-opera-1925.webp"
 lang: "en"
 translationSlug: "phantom-of-the-opera-1925"
 director: "Rupert Julian"
+genres: ["Horror", "Silent Film", "Gothic"]
 ---
-
 Rupert Julian’s The Phantom of the Opera (1925) stands as one of the canonical titles of silent horror cinema. It is not merely an adaptation of Gaston Leroux’s novel; it can also be read as a visual study in the aesthetics of suffering. Through the transformative performance of Lon Chaney, the film transcends standard genre exercises to become a deeply human tragedy about an outsider whose physical disfigurement becomes his defining characteristic.
 
 ### The Body as a Canvas of Horror

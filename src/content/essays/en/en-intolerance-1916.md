@@ -9,8 +9,8 @@ image: "/images/essays/intolerance-1916.webp"
 lang: "en"
 translationSlug: "intolerance-1916"
 director: "D. W. Griffith"
+genres: ["Silent Film", "Historical", "Epic"]
 ---
-
 D.W. Griffith's monumental silent epic *Intolerance* (1916), subtitled *Love's Struggle Throughout the Ages*, stands as one of the most powerful directorial manifestos in cinema history. The film was not conceived as a cold academic study, but as a visceral, angry reaction by a creator facing immense social pressure, hypocrisy, and censorship in early 20th-century America. Griffith systematically interweaves four historical eras—the fall of ancient Babylon, the crucifixion of Jesus Christ, the St. Bartholomew's Day Massacre in Renaissance France, and modern America—to diagnose the timeless mechanism of human cruelty and dogmatism.¹
 
 ### 1. One Face Across the Centuries

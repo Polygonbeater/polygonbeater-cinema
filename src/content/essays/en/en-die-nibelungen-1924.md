@@ -9,8 +9,8 @@ image: "/images/essays/die-nibelungen-1924.webp"
 lang: "en"
 translationSlug: "die-nibelungen-1924"
 director: "Fritz Lang"
+genres: ["Silent Film", "Fantasy", "Epic"]
 ---
-
 Fritz Lang’s monumental two-part epic *Die Nibelungen* (*Siegfried* and *Kriemhilds Rache*, 1924), scripted in collaboration with Thea von Harbou, stands as a supreme achievement of silent cinema. Rather than offering a nostalgic folk pageant, Lang transforms Germanic myth into a rigorous study of spatial geometry, determinism, and self-regulating value systems.
 
 ### I. Technical and Craft Innovations

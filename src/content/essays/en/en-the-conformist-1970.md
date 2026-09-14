@@ -9,8 +9,8 @@ image: "/images/essays/the-conformist-1970.webp"
 lang: "en"
 translationSlug: "the-conformist-1970"
 director: "Bernardo Bertolucci"
+genres: ["Politické drama", "Psychological", "Historical"]
 ---
-
 > *“To obey is easier than to live.”*
 
 Bertolucci’s *The Conformist* is not just a political thriller — it is a meditation on complicity, fear, and the mechanics of conformity. Inspired by Alberto Moravia’s novel, the film follows Marcello Clerici, a man desperate to fit in, who becomes an instrument of Fascist Italy’s machinery. Bertolucci exposes the terrifying quiet of a world where evil thrives not through ideology alone, but through the banal desire to belong.

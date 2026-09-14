@@ -9,8 +9,8 @@ image: "/images/essays/televizni-sit-1976.webp"
 lang: "en"
 translationSlug: "televizni-sit-1976"
 director: "Sidney Lumet"
+genres: ["Satire", "Media Drama", "Black Comedy"]
 ---
-
 The present study deconstructs the media satire *Network* as a reference model for understanding the mechanisms by which media, political, and algorithmic marketing systematically generate societal frustration. The text strictly separates the original intent of the creators from the applied psychological interpretation of the digital age. The methodological framework integrates the concepts of the „illusion of control“ (E. Langer), „locus of control“ (J. Rotter), and „uncertainty intolerance.“ The final phase transforms this theoretical framework into applied practice, defining a model of informed adaptation through mirrored tactics (systemic attack vs. cognitive defense) for the individual facing permanent political anxiety.
 
 ### I. Author's Intent: Television as the Creator of Reality and Frustration

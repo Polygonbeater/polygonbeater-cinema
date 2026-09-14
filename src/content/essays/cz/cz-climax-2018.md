@@ -9,8 +9,8 @@ image: "/images/essays/climax-2018.webp"
 lang: "cz"
 translationSlug: "climax-2018"
 director: "Gaspar Noé"
+genres: ["Horor", "Psychologický", "Hudební"]
 ---
-
 Tato studie dekonstruuje halucinační horor Gaspara Noého *Climax* (2018, stopáž 97 minut) jako čistě somatický zážitek a radikální filmové ztvárnění kolektivní psychózy. Snímek sleduje francouzský taneční soubor, který po úspěšné generální zkoušce v opuštěné lesní internátní škole vypije sangrii nevědomky pančovanou silnou dávkou LSD. Následuje nezadržitelný propad do animálního šílenství. 
 
 Metodologicky se text zaměřuje na využití choreografie jako primárního jazyka lidské komunikace, nepřerušované jízdy kamery Benoîta Debieho a vizualizaci morální inverze pomocí rotace obrazu. Film nepracuje s nadpřirozenými silami; děs pramení ze skutečnosti, že pod tenkou slupkou civilizovaného chování dříme nekontrolovatelný, sebedestruktivní chaos.

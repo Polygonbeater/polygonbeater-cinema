@@ -9,8 +9,8 @@ image: "/images/essays/you-only-live-once-1937.webp"
 lang: "en"
 translationSlug: "you-only-live-once-1937"
 director: "Fritz Lang"
+genres: ["Film Noir", "Lovers on the Run", "Tragedy"]
 ---
-
 *You Only Live Once* (1937) stands as Fritz Lang’s second American feature. Following the searing critique of mob mentality in *Fury* (1936), Lang shifts his focus from open crowd violence to the slow, relentless tightening of institutional pressure, public suspicion, and inescapable reputation.
 
 ### I. Stigma as a Mechanism and Convenient Shortcut

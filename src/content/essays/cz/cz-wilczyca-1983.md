@@ -9,8 +9,8 @@ image: "/images/essays/wilczyca-1983.webp"
 lang: "cz"
 translationSlug: "wilczyca-1983"
 director: "Marek Piestrak"
+genres: ["Gotický horor", "Historický", "Folklor"]
 ---
-
 V bažinách a mlhách polského lednového povstání roku 1863 se polský národní mýtus nedočkal hrdinské katarze, nýbrž krvavé a zahanbující agonie. Zatímco oficiální romantická historiografie balila národní porážky do vznešených metafor o křesťanském mučednictví Polska jako „Krista národů“, gotický horor Marka Piestraka *Vlčice* (*Wilczyca*, 1983, stopáž 98 minut), volně adaptující prózu Jerzyho Gembického, provádí pravý opak: strhává z historie romantický obvaz a odhaluje hnisající, nezhojenou ránu národního selhání. 
 
 Film dokazuje, že v dějinách střední a východní Evropy existují traumata tak hluboká, krutá a morálně rozkladná, že pro ně konvenční realistické historické drama nemá adekvátní slovník. K jejich vyjádření je zapotřebí somatický a symbolický aparát gotického hororu a folklorní démonologie[cite: 110].

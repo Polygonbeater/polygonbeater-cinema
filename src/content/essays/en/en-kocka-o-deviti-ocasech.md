@@ -9,8 +9,8 @@ image: "/images/essays/kocka-o-deviti-ocasech.webp"
 lang: "en"
 translationSlug: "kocka-o-deviti-ocasech"
 director: "Dario Argento"
+genres: ["Giallo", "Mystery", "Thriller"]
 ---
-
 Sight is a deception. The visual world, particularly within the confines of the Italian giallo, functions as a labyrinth of mirrors where truth is distorted by colors, angles, and shadows. When Dario Argento unveiled his second feature film, The Cat o' Nine Tails (Il gatto a nove code) in 1971, he chose to radically deconstruct this optical myth. In a cinematic genre defined by an obsession with the gaze, the photographic image, and observation, he places a man deprived of sight at the very epicenter of the narrative. Former journalist and crossword-puzzle writer Franco Arnò (Karl Malden) functions here as a blind investigator whose ability to uncover the truth is grounded in an entirely different regime of perception, allowing him to reconstruct reality outside the privilege of sight.
 
 This essayistic inquiry delves not only into the narrative structure of the murder mystery but into the profound philosophy of perception, the limits of knowledge, and the paranoia that Argento so brilliantly articulates.

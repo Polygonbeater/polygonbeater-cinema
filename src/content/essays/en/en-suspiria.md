@@ -9,8 +9,8 @@ image: "/images/essays/suspiria.webp"
 lang: "en"
 translationSlug: "suspiria"
 director: "Dario Argento"
+genres: ["Horror", "Giallo", "Mystery"]
 ---
-
 Most remakes lazily copy the original. The encounter between Dario Argento’s 1977 film and Luca Guadagnino’s 2018 reinterpretation is a rare exception. Both auteurs took the exact same premise—a young American at a German ballet academy run by witches—and forged two completely different worlds.
 
 When we place both versions side by side, a fascinating contrast emerges. We see how cinematic horror can mutate from pure visual terror into a chilling exploration of collective guilt.

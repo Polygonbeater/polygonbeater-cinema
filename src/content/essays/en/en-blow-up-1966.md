@@ -9,8 +9,8 @@ image: "/images/essays/blow-up-1966.webp"
 lang: "en"
 translationSlug: "blow-up-1966"
 director: "Michelangelo Antonioni"
+genres: ["Mystery", "Drama", "Art House"]
 ---
-
 This study deconstructs Michelangelo Antonioni's first English-language film, *Blow-Up* (1966, running time 111 minutes), as a radical exploration of the limits of human perception and the unreliability of the photographic record. Loosely inspired by a short story by Julio Cortázar, the film analyzes the emptiness of "Swinging London" through the character of Thomas, a photographer who believes he controls reality through his lens.
 
 Methodologically, the text focuses on Carlo Di Palma’s color dramaturgy, the narrative deconstruction of the detective genre, and the philosophical implications of the final scene with the mimes. The film demonstrates that the more we attempt to "approach" and magnify reality, the more it dissolves into an unreadable abstraction.

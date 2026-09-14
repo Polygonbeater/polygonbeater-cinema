@@ -9,8 +9,8 @@ image: "/images/essays/liliom-1934.webp"
 lang: "cz"
 translationSlug: "liliom-1934"
 director: "Fritz Lang"
+genres: ["Fantasy", "Drama", "Romantický"]
 ---
-
 Snímek *Liliom* (1934, stopáž 118 minut) představuje v rámci filmografie Fritze Langa fascinující a často opomíjený mezistupeň. Jde o jeho jediný celovečerní projekt realizovaný ve francouzském exilu (v produkci legendárního Ericha Pommera pro společnost Fox Europa) po útěku z nacistického Německa a před definitivním přesídlením do Hollywoodu. Namísto monumentálních velkoměstských vizí či temných kriminálních kronik adaptoval Lang proslulou divadelní hru maďarského dramatika Ference Molnára. 
 
 Lang však Molnárovu melodramatickou předlohu zbavil sentimentality a přetavil ji v kousavou tragikomedii, v níž se posmrtný život mění v chladný administrativní úřad a spravedlnost v nemilosrdnou byrokratickou proceduru[cite: 110].

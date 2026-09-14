@@ -9,8 +9,8 @@ image: "/images/essays/menu-2022.webp"
 lang: "en"
 translationSlug: "menu-2022"
 director: "Mark Mylod"
+genres: ["Black Comedy", "Satire", "Thriller"]
 ---
-
 The present study deconstructs the psychological thriller *The Menu* as the ultimate case study in the destruction of an elitist, cult-like hierarchy. The plot, set in an isolated luxury restaurant run by a cultic chef (Slowik), serves as a metaphor for any closed, manipulative micro-system. The study focuses on the character of Margot, who represents the ideal subject operating in „Zone Zero.“ Instead of futile physical resistance or panic (like the rest of the manipulated guests), Margot defeats the system by refusing to consume its „subcultural capital“ and utilizing a targeted cognitive short-circuit to destroy the manipulator's sacred aura.
 
 ### I. Author's Intent: The Cult of Consumerism and Victim Complicity

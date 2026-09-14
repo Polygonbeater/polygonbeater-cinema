@@ -9,8 +9,8 @@ image: "/images/essays/pan-twardowski-1936.webp"
 lang: "cz"
 translationSlug: "pan-twardowski-1936"
 director: "Henryk Szaro"
+genres: ["Fantasy", "Historický", "Folklor"]
 ---
-
 Když polský režisér Henryk Szaro v roce 1936 uvedl do kin monumentální historický epos *Pan Twardowski* (stopáž 104 minut), nešlo o běžné kostýmní drama. Projekt, natočený ve varšavských ateliérech Falanga za mimořádných produkčních nákladů, představoval demonstraci technické i výpravné suverenity meziválečného polského filmu. Szaro vzal prastarou národní legendu o krakovském alchymistovi a čaroději ze 16. století – literárně kodifikovanou Józefem Ignacym Kraszewským a Adamem Mickiewiczem – a přetavil ji ve velkolepou fresku, v níž se renesanční okultismus snoubí s polským sarmatským furiantstvím a barokním folklórem.
 
 Tato studie dekonstruuje film jako svébytnou slovanskou variantu faustovského mýtu, kde hrdina neusiluje o čisté vědecké poznání, nýbrž o absolutní prožití pozemské existence a přelstění samotného pekelného řádu.

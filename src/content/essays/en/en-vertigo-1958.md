@@ -9,8 +9,8 @@ image: "/images/essays/vertigo-1958.webp"
 lang: "en"
 translationSlug: "vertigo-1958"
 director: "Alfred Hitchcock"
+genres: ["Psychological Thriller", "Mystery", "Neo-noir"]
 ---
-
 This study deconstructs Alfred Hitchcock's masterpiece *Vertigo* (1958, running time 128 minutes) as a radical exploration of psychological obsession and manipulation. The film analyzes the destructive power of the "male gaze" through the character of detective Scottie Ferguson, who attempts to remold a living woman into the image of a dead ideal. 
 
 Methodologically, the text focuses on the visual motif of the spiral, the revolutionary use of the "dolly zoom" (vertigo effect) by cinematographer Robert Burks, and the hypnotic score by Bernard Herrmann. The film examines how love can mutate into a necrophilic fixation and how we create illusions that ultimately destroy us.

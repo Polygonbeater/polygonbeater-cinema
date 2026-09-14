@@ -9,8 +9,8 @@ image: "/images/essays/alphaville-1965.webp"
 lang: "cz"
 translationSlug: "alphaville-1965"
 director: "Jean-Luc Godard"
+genres: ["Sci-Fi", "Film noir", "Nová vlna"]
 ---
-
 Snímek *Alphaville* (*Une étrange aventure de Lemmy Caution*, 1965) v režii Jean-Luc Godarda opouští klasická žánrová klišé vědecké fantastiky. Namísto futuristických kulis a speciálních efektů natáčel Godard v reálných, moderních prostorách Paříže poloviny 60. let, aby vytvořil mrazivou analýzu technokratické společnosti.
 
 ### I. Administrativní racionalita a hlas Alpha 60

@@ -9,8 +9,8 @@ image: "/images/essays/le-mepris-1963.webp"
 lang: "en"
 translationSlug: "le-mepris-1963"
 director: "Jean-Luc Godard"
+genres: ["French New Wave", "Drama", "Meta-cinema"]
 ---
-
 Jean-Luc Godard’s *Le Mépris* (*Contempt*, 1963) marks a crucial juncture where the French New Wave turns its critical lens away from abstract formal play toward the structural realities of global film production and late-capitalist alienation. Adapting Alberto Moravia’s novel, Godard constructs a clinical anatomy of a relationship collapsing within an industrial framework.
 
 ### I. Cinemascope as an Instrument of Disintegration

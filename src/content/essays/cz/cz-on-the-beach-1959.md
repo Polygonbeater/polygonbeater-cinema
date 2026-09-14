@@ -9,8 +9,8 @@ image: "/images/essays/on-the-beach-1959.webp"
 lang: "cz"
 translationSlug: "on-the-beach-1959"
 director: "Stanley Kramer"
+genres: ["Sci-Fi", "Postapokalyptický", "Drama"]
 ---
-
 > *„Je stále ještě čas... bratře.“*
 
 Vizionářské protiválečné drama Stanleyho Kramera *Na břehu* (*On the Beach*, 1959, stopáž 134 minut), natočené podle stejnojmenného románu Nevila Shuteho, radikálně přepsalo pravidla filmové apokalypsy. Kramer odmítl konvenční katastrofické spektákly plné hroutících se mrakodrapů, mutantů a ohňů[cite: 129]. Konec světa zde nepřichází s ohlušujícím řevem, nýbrž v podobě tichého, neviditelného a naprosto nevyhnutelného vyhasínání lidstva pod náporem radioaktivního mraku, který po zničení severní polokoule pomalu klesá k australským břehům[cite: 129].

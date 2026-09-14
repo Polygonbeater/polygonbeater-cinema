@@ -9,8 +9,8 @@ image: "/images/essays/vals-s-basirem-2008.webp"
 lang: "cz"
 translationSlug: "vals-s-basirem-2008"
 director: "Ari Folman"
+genres: ["Animovaný dokument", "Válečný", "Psychologický"]
 ---
-
 > *„Jak vzpomenout na něco, co je příliš bolestné na to, abychom tomu čelili?“*
 
 Animovaný dokumentární film izraelského režiséra Ariho Folmana *Valčík s Bašírem* (*Vals Im Bashir*, 2008, stopáž 90 minut), oceněný Zlatým glóbem a nominovaný na Oscara za nejlepší cizojazyčný film, představuje naprosto přelomové dílo světové kinematografie. Folman vytvořil nový žánrový hybrid – animovaný dokument (*animated documentary*) –, v němž se osobní psychoanalytické pátrání prolíná s vyšetřováním jednoho z nejtemnějších momentů moderních dějin Blízkého východu: masakru v palestinských uprchlických táborech Sabra a Šatíla v Bejrútu v září roku 1982.

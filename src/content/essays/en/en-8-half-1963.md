@@ -9,8 +9,8 @@ image: "/images/essays/8-half-1963.webp"
 lang: "en"
 translationSlug: "8-half-1963"
 director: "Federico Fellini"
+genres: ["Drama", "Surrealism", "Meta-cinema"]
 ---
-
 This study deconstructs Federico Fellini's masterpiece *8½* (1963, running time 138 minutes) as the ultimate self-reflexive meta-film, exploring the creative and existential crisis of film director Guido Anselmi. The film analyzes the dissolution of traditional narrative structure and its replacement by a free-flowing stream of consciousness, where reality, dreams, memories, and fantasies merge into one indivisible whole. 
 
 Methodologically, the text focuses on Gianni Di Venanzo's dreamlike cinematography, Nino Rota's musical leitmotifs, and Freudian-Jungian symbolism (e.g., the anima archetype embodied by Claudia Cardinale). The film demonstrates that embracing one's own chaos is the only path to artistic and personal freedom.

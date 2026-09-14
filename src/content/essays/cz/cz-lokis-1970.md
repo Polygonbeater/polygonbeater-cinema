@@ -9,8 +9,8 @@ image: "/images/essays/lokis-1970.webp"
 lang: "cz"
 translationSlug: "lokis-1970"
 director: "Janusz Majewski"
+genres: ["Gotický horor", "Mysteriózní", "Historický"]
 ---
-
 Snímek Janusze Majewského *Lokis* (*Lokis: Rękopis profesora Wittembacha*, 1970, stopáž 100 minut), volně adaptující gotickou novelu francouzského romantika Prospera Mériméa z roku 1869, představuje jeden z vrcholů polské a východoevropské filmové gotiky. Děj situovaný do hlubokých panských hvozdů litevské Žemaitije (Samožitska) v druhé polovině 19. století rozvíjí klasický hororový motiv medvědí lykantropie. 
 
 V rovině filozofické a filmovědné analýzy však dílo funguje především jako precizní pitva limitů západního osvícenského rozumu při střetu s neprostupnou archaickou kulturou a chthonickou mytologií pohraničního prostoru.

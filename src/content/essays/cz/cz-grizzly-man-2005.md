@@ -9,8 +9,8 @@ image: "/images/essays/grizzly-man-2005.webp"
 lang: "cz"
 translationSlug: "grizzly-man-2005"
 director: "Werner Herzog"
+genres: ["Dokumentární", "Biografický", "Přírodní"]
 ---
-
 Tato studie dekonstruuje dokumentární tragédii Wernera Herzoga *Grizzly Man* (2005, stopáž 103 minut) jako radikální zprávu o selhání lidské empatie vůči divočině. Snímek analyzuje život a smrt ekologického aktivisty Timothyho Treadwella, který věřil, že překročil hranici mezi lidským a zvířecím světem a stal se „ochráncem“ a „bratrem“ aljašských medvědů grizzly. 
 
 Metodologicky se text zaměřuje na Treadwellovu patologickou potřebu polidšťovat divoké šelmy, Herzogův autorský komentář demaskující absolutní lhostejnost přírodního řádu a etiku reprezentace mezního násilí skrze odmítnutí zvukového záznamu tragédie. Film představuje mrazivé memento před důsledky naivní projekce lidských emocí do nelítostného biologického ekosystému.

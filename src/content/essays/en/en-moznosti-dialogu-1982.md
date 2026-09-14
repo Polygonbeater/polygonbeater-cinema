@@ -9,8 +9,8 @@ image: "/images/essays/moznosti-dialogu-1982.webp"
 lang: "en"
 translationSlug: "moznosti-dialogu-1982"
 director: "Jan Švankmajer"
+genres: ["Animation", "Surrealism", "Short Film"]
 ---
-
 > *“When speech fails, what devours us instead?”*
 
 Jan Švankmajer’s *Dimensions of Dialogue* (*Možnosti dialogu*, 1982) is not a film you watch — it’s one you survive. In twelve relentless minutes, Švankmajer dissects how human interaction mutates from creation to destruction, from understanding to consumption. It is the anatomy of communication in a decaying civilization, rendered through the alchemy of clay, food, and human anatomy.

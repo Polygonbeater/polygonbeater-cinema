@@ -9,8 +9,8 @@ image: "/images/essays/cabinet-of-dr-caligari-1920.webp"
 lang: "en"
 translationSlug: "cabinet-of-dr-caligari-1920"
 director: "Robert Wien"
+genres: ["Expressionism", "Horror", "Silent Film"]
 ---
-
 Robert Wiene’s *The Cabinet of Dr. Caligari* (1920) is universally recognized in film scholarship as the cornerstone of German Expressionist cinema and one of the earliest systematic attempts to subjectivize cinematic space. Horror in this landmark work does not stem from plot events, but from the radical deformation of space, causality, and perception, directly anticipating modern psychological horror.
 
 ### I. Anti-Realist Space as Psychological Projection

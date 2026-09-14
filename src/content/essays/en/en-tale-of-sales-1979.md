@@ -9,8 +9,8 @@ image: "/images/essays/tale-of-sales-1979.webp"
 
 lang: "en"
 translationSlug: "tale-of-sales-1979"
+genres: ["Animation", "Satire", "Short Film"]
 ---
-
 *Tale of Tales* (*Skazka skazok*), directed by the Russian master Yuriy Norshteyn in 1979, is not just a film, but a hypnotic visual poem. It is frequently voted by international critics as the Greatest Animated Film of All Time, a testament to its profound emotional depth and technical brilliance.
 
 ## Aesthetic: Memory and Melancholy

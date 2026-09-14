@@ -9,8 +9,8 @@ image: "/images/essays/spalovac-mrtvol-1969.webp"
 lang: "cz"
 translationSlug: "spalovac-mrtvol-1969"
 director: "Juraj Herz"
+genres: ["Psychologický horor", "Černá komedie", "Historický"]
 ---
-
 Snímek Juraje Herze *Spalovač mrtvol* (1969, stopáž 95 minut), natočený podle stejnojmenné novely Ladislava Fukse, představuje jeden z nejradikálnějších, formálně nejodvážnějších a myšlenkově nejničivějších vrcholů Československé nové vlny. Film nepřistupuje k nacistické okupaci jako k historickému dramatu s vnějším hrdinstvím či patosem. Namísto toho provádí mikroskopickou a mrazivou pitvu toho, jak se spořádaný, kultivovaný a zdánlivě mírumilovný měšťan plynule promění v masového vraha a výkonný orgán vyhlazovací mašinérie. 
 
 Herz ukazuje, že nacismus nezvítězil skrze surový fanatismus, nýbrž díky kompatibilitě s maloměšťáckou touhou po řádu, čistotě, harmonii a estetizaci reality.

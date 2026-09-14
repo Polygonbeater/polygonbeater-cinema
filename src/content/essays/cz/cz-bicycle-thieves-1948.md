@@ -9,8 +9,8 @@ image: "/images/essays/bicycle-thieves-1948.webp"
 lang: "cz"
 translationSlug: "bicycle-thieves-1948"
 director: "Vittorio De Sica"
+genres: ["Neorealismus", "Drama", "Sociální"]
 ---
-
 Tato studie dekonstruuje pilíř italského neorealismu *Zloději kol* (*Ladri di biciclette*, 1948, stopáž 89 minut) jako radikální sociální drama, které rezignuje na studiovou stylizaci ve prospěch syrové pravdy ulice. Snímek analyzuje tragédii dělníka Antonia, jemuž ukradené kolo – jediný prostředek k obživě – spouští řetězec zoufalství v poválečném Římě. 
 
 Metodologicky se text zaměřuje na práci s neherci, „mrtvé časy“ v narativu a morální ambivalenci viny. Film ukazuje, že v systému totálního nedostatku se horizontála přežití mění v drtivý mechanismus, který oběť nutí stát se viníkem.

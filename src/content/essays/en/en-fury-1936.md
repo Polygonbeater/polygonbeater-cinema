@@ -9,8 +9,8 @@ image: "/images/essays/fury-1936.webp"
 lang: "en"
 translationSlug: "fury-1936"
 director: "Fritz Lang"
+genres: ["Film Noir", "Drama", "Social Drama"]
 ---
-
 *Fury* (1936), produced by Joseph L. Mankiewicz at Metro-Goldwyn-Mayer, marks Fritz Lang’s stunning American debut. Drawing inspiration from real-world atrocities—specifically the 1933 San Jose lynching—Lang crafts a controlled study of how ordinary communities transform into destructive mobs.
 
 ### I. The Mob as a System and the Manufacture of Certainty

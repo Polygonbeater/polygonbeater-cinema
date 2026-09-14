@@ -9,8 +9,8 @@ image: "/images/essays/rotkappchen-1962.webp"
 lang: "cz"
 translationSlug: "little-red-riding-hood-1962"
 director: "Götz Friedrich"
+genres: ["Pohádka", "Krátkometrážní"]
 ---
-
 > *„Zkouška umělecké integrity: jak divadelní vizionář dokázal proměnit státem nařízenou dětskou bajku v goticky znepokojivou studii moci a poslušnosti.“*
 
 Východoněmecký pohádkový film *Červená Karkulka* (*Rotkäppchen*, 1962, stopáž 72 minut), realizovaný v produkci státních studií DEFA, představuje fascinující kapitolu v dějinách kinematografie východního bloku. Režisér Götz Friedrich – tehdy mladý asistent legendárního divadelníka Waltera Felsensteina v berlínské Komické opeře a budoucí světový operní intendant – byl komunistickým režimem pověřen natočením zdánlivě banálního dětského titulu. 

@@ -9,8 +9,8 @@ image: "/images/essays/moontide-1942.webp"
 lang: "en"
 translationSlug: "moontide-1942"
 director: "Archie Mayo, Fritz Lang"
+genres: ["Film Noir", "Drama", "Romance"]
 ---
-
 *Moontide* (1942) represents a unique turning point in Fritz Lang’s career—a project that forced him to resign after just four days of shooting and propelled him toward radical independence for his subsequent masterpiece, *Hangmen Also Die!*.
 
 ### I. The Breaking Point: The Dietrich–Gabin–Lang Triangle

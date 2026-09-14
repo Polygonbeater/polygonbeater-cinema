@@ -9,8 +9,8 @@ image: "/images/essays/liliom-1934.webp"
 lang: "en"
 translationSlug: "liliom-1934"
 director: "Fritz Lang"
+genres: ["Fantasy", "Drama", "Romance"]
 ---
-
 *Liliom* (1934) stands as a unique milestone in Fritz Lang’s filmography—his only feature film produced in France (under producer Erich Pommer for Fox Europa) before his permanent relocation to Hollywood. Rather than returning to urban dystopias or gritty crime thrillers, Lang adapts Ferenc Molnár’s celebrated play, imbuing it with his signature structural critique.
 
 ### I. Parisian Production and Dual Texture

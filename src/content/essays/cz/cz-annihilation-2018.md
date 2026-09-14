@@ -9,8 +9,8 @@ image: "/images/essays/annihilation-2018.webp"
 lang: "cz"
 translationSlug: "annihilation-2018"
 director: "Alex Garland"
+genres: ["Sci-Fi", "Horor", "Psychologický"]
 ---
-
 Tato studie dekonstruuje sci-fi horor Alexe Garlanda *Zničení* (*Annihilation*, 2018, stopáž 115 minut) jako vizuálně opulentní meditaci o sebedestrukci. Snímek sleduje expedici pěti vědkyň do „Oblasti X“ – karanténní zóny obklopující mimozemský meteorit, v níž neplatí známé fyzikální ani biologické zákony. 
 
 Metodologicky se text zaměřuje na koncept „Záře“ jako hranolu, který láme a mísí DNA všech živých organismů, na vizualizaci rakoviny jako aktu stvoření a na psychologický determinismus postav, které dobrovolně kráčejí vstříc vlastnímu zániku. Film ukazuje hrůzu z toho, že vesmír nás nechce zničit ze zlomyslnosti, ale jednoduše nás asimiluje a přetvoří k nepoznání.

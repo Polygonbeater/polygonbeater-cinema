@@ -9,8 +9,8 @@ image: "/images/essays/children-of-men-2006.webp"
 
 lang: "en"
 translationSlug: "children-of-men-2006"
+genres: ["Dystopia", "Sci-Fi", "Thriller"]
 ---
-
 This study deconstructs Alfonso Cuarón's masterpiece *Children of Men* (2006, running time 109 minutes) as a groundbreaking dystopia that redefines the sci-fi genre through a hyper-realistic visual form. The film analyzes the state of humanity in a situation of total infertility and subsequent social decay. 
 
 Methodologically, the text focuses on Emmanuel Lubezki's revolutionary cinematography (long, uninterrupted takes), the integration of religious iconography into a secular narrative, and the political allegory of the refugee crisis. The film demonstrates that in a collapsing world, hope is not a logical outcome but an act of pure will.

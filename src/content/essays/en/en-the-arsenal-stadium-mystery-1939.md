@@ -9,8 +9,8 @@ image: "/images/essays/the-arsenal-stadium-mystery-1939.webp"
 
 lang: "en"
 translationSlug: "the-arsenal-stadium-mystery-1939"
+genres: ["Detective", "Sportovní", "Crime"]
 ---
-
 > *“A visionary blend of sports action and detective mystery, filmed on the brink of World War II.”*
 
 Directed by Thorold Dickinson and adapted from Leonard Gribble’s novel, *The Arsenal Stadium Mystery* (1939) stands as a landmark in sports cinema, uniquely placing football at the core of its narrative puzzle.

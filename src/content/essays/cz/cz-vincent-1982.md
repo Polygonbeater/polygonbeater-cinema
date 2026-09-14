@@ -9,8 +9,8 @@ image: "/images/essays/vincent-1982.webp"
 lang: "cz"
 translationSlug: "vincent-1982"
 director: "Tim Burton"
+genres: ["Animovaný", "Gotický", "Krátkometrážní"]
 ---
-
 Šestiminutový černobílý loutkový film *Vincent* (1982) představuje fundamentální seismografický bod v kariéře amerického vizionáře Tima Burtona. Burton, tehdy mladý a hluboce frustrovaný animátor kreslící pro studio Walt Disney roztomilá zvířátka pro film *Liška a pes*, využil skromného studiového grantu k vytvoření radikálně osobního díla[cite: 97]. 
 
 Film nevznikl jako dětská hříčka; je to precizně zkonstruovaná, stylisticky suverénní pocta německému němému expresionismu, literárnímu odkazu Edgara Allana Poea a béčkovým gotickým hororům Rogera Cormana ze šedesátých let[cite: 97]. Právě v tomto mikropříběhu Burton poprvé v krystalické podobě definoval svůj celoživotní autorský archetyp: osamělého, nepochopeného tvůrčího podivína, jehož vnitřní imaginace je neskonale lákavější a skutečnější než sterilní konformita amerického předměstí[cite: 97].

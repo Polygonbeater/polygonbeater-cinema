@@ -9,8 +9,8 @@ image: "/images/essays/zivoty-tech-druhy-2006.webp"
 lang: "en"
 translationSlug: "zivoty-tech-druhy-2006"
 director: "Florian Henckel von Donnersmarck"
+genres: ["Politické drama", "Historical", "Psychological"]
 ---
-
 The present study provides an in-depth deconstruction of the transformation process of Stasi secret police agent Gerd Wiesler within an environment of total surveillance. To maintain analytical integrity, the text strictly separates the director's original intent (the celebration of art as a catalyst for humanity) from the applied psychological interpretation (the dissolution of professional blindness). The methodological framework relies on the concept of the „banality of evil“ and the explication of Václav Havel's greengrocer metaphor. In the final phase, this theoretical framework is transformed into applied practice, defining specific tactics of „silent sabotage“ and providing the individual with a cognitive shield for daily contact with manipulative structures.
 
 ### I. Author's Intent: Art as a Biological Key to Suppressed Humanity

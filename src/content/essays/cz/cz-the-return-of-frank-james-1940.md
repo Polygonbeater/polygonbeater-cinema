@@ -9,8 +9,8 @@ image: "/images/essays/the-return-of-frank-james-1940.webp"
 lang: "cz"
 translationSlug: "the-return-of-frank-james-1940"
 director: "Fritz Lang"
+genres: ["Western", "Dobrodružný", "Krimi"]
 ---
-
 Western *Návrat Franka Jamese* (*The Return of Frank James*, 1940, stopáž 92 minut) v produkci studia 20th Century Fox představuje v americké kariéře Fritze Langa klíčový historický i tvůrčí předěl. Po komerčním a kritickém propadu experimentálního sociálního dramatu *You and Me* (1938) se německý emigrant ocitl v nucené dvouleté tvůrčí odmlce, během níž byl hollywoodskými producenty považován za „nepraktického, autoritativního a rozpočtově nespolehlivého génia“. 
 
 Nabídka režírovat pokračování obrovského kasovního hitu Henryho Kinga *Jesse James* (1939) byla pro Langa existenční zkouškou. Musel dokázat, že dokáže disciplinovaně pracovat uvnitř velkého studiového systému, zvládnout americký národní žánr a podřídit se technickým nárokům tehdy rodícího se třípásového Technicoloru. Lang však komerční zakázku proměnil v osobitou studii morálního stoicismu a konfliktu mezi chladným psaným právem a přirozenou spravedlností[cite: 130].

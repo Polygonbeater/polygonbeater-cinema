@@ -9,8 +9,8 @@ image: "/images/essays/marketa-lazarova-1967.webp"
 lang: "en"
 translationSlug: "marketa-lazarova-1967"
 director: "František Vláčil"
+genres: ["Historical", "Epic", "Folkloric Ballad"]
 ---
-
 František Vláčil’s adaptation of Vladislav Vančura’s Marketa Lazarová (1967) ruthlessly strips the Middle Ages of their romantic veneer. Instead of gallant knights and linear historical progression, it presents a world gripped by frost, instinct, and a constant struggle for survival. The medieval world here is not reconstructed history, but a physical, brutal, and sensorially overwhelming experience.
 
 ### The Material World and Sensory Immersion

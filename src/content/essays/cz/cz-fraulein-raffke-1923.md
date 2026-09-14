@@ -9,8 +9,8 @@ image: "/images/essays/fraulein-raffke-1923.webp"
 lang: "cz"
 translationSlug: "fraulein-raffke-1923"
 director: "Richard Eichberg"
+genres: ["Němý film", "Komedie", "Sociální"]
 ---
-
 > *„Dnes ráno stojí dolar 10 miliard marek. Do dnešního odpoledne to bude pravděpodobně dvojnásobek.“* – Berlin Daily, 1923
 
 Miliarda marek za bochník chleba a divoký tanec na okraji společenské propasti – to je historická realita, z níž vyrostla satirická němá komedie režiséra Richarda Eichberga *Fräulein Raffke* (1923, stopáž 88 minut). V době, kdy se hospodářství Výmarské republiky hroutilo pod astronomickou hyperinflací, vzal Eichberg kameru do berlínských ulic i kabaretů, aby vytvořil kousavou grotesku o bezohledných zbohatlících parazitujících na bídě vlastního národa.

@@ -9,8 +9,8 @@ image: "/images/essays/ein-lichtspiel-1930.webp"
 lang: "en"
 translationSlug: "ein-lichtspiel-1930"
 director: "László Moholy-Nagy"
+genres: ["Experimental", "Avant-garde", "Silent Film"]
 ---
-
 *Ein Lichtspiel schwarz weiss grau* (A Light Play black white grey, 1930) is a pivotal work in the history of experimental cinema and a pure distillation of the Bauhaus philosophy. Created by László Moholy-Nagy while he was already a seminal figure in the German avant-garde, the film is an intellectual and artistic statement that directly contradicted the aesthetic and ideological demands of the rising Nazi movement.
 
 ## The Bauhaus Aesthetic in Motion

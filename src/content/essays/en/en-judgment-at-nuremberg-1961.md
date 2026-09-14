@@ -9,8 +9,8 @@ image: "/images/essays/judgment-at-nuremberg-1961.webp"
 lang: "en"
 translationSlug: "judgment-at-nuremberg-1961"
 director: "Stanley Kramer"
+genres: ["Courtroom Drama", "Historical", "War"]
 ---
-
 > *“Evil is presented not as the result of fanaticism, but as the result of societal consent and silence.”*
 
 Set in 1948, Stanley Kramer’s *Judgment at Nuremberg* (1961) depicts one of the subsequent Nuremberg trials—specifically prosecuting former German judges and prosecutors who upheld a system of legal lawlessness (*Gesetzliches Unrecht*) under the Nazi regime. American Judge Dan Haywood (Spencer Tracy) must determine whether these men bear personal moral guilt or were mere enforcers of state law.

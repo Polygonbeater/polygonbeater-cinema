@@ -9,8 +9,8 @@ image: "/images/essays/the-phantom-carriage-1921.webp"
 lang: "en"
 translationSlug: "the-phantom-carriage-1921"
 director: "Victor Sjöström"
+genres: ["Silent Film", "Gothic Horror", "Mystery"]
 ---
-
 While the world toasts to the future, Victor Sjöström’s silent masterpiece, *The Phantom Carriage* (*Körkarlen*), invites us into a winter’s night that has haunted audiences for over a century.
 
 Forget the fireworks and the champagne. This is a story about the stroke of midnight, the weight of regret, and a legend that chills to the bone.

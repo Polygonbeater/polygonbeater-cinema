@@ -9,8 +9,8 @@ image: "/images/essays/the-trial-of-mary-dugan-1929.webp"
 
 lang: "en"
 translationSlug: "the-trial-of-mary-dugan-1929"
+genres: ["Courtroom Drama", "Crime"]
 ---
-
 > *“The moment cinema found its voice — and used it to cross-examine morality itself.”*
 
 Directed by playwright Bayard Veiller from his own Broadway hit, *The Trial of Mary Dugan* (1929) stands as one of cinema’s earliest and most influential ventures into the courtroom drama of the sound era. Released by MGM as an early "talkie," the film transformed the screen into a theatre of rhetoric, testing whether audiences would embrace spoken dialogue over silent spectacle.

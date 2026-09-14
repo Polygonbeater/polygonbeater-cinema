@@ -9,8 +9,8 @@ image: "/images/essays/ein-lichtspiel-1930.webp"
 lang: "cz"
 translationSlug: "ein-lichtspiel-1930"
 director: "László Moholy-Nagy"
+genres: ["Experimentální", "Avantgarda", "Němý film"]
 ---
-
 Krátkometrážní experimentální snímek *Ein Lichtspiel schwarz weiss grau* (*Světelná hra černobílá šedá*, 1930, stopáž 6 minut) maďarského konstruktivisty a profesora výmarského Bauhausu Lászlóa Moholy-Nagye představuje jeden z vrcholných manifestů abstraktní kinematografie. Film vznikl na přelomu 20. a 30. let v době sílícího odporu konzervativních kruhů vůči modernistickému hnutí a funguje jako radikální zkoumání možností filmového média oproštěného od literárních, divadelních a narativních berliček.
 
 Moholy-Nagy v tomto díle demonstruje základní tezi své knihy *Malerei, Fotografie, Film* (1925): film není nástrojem pro záznam inscenované reality, nýbrž autonomním percepčním aparátem schopným tvořit ryze světelnou a kinetickou architekturu.

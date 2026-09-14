@@ -9,8 +9,8 @@ image: "/images/essays/allegro-non-troppo-1976.webp"
 lang: "en"
 translationSlug: "allegro-non-troppo-1976"
 director: "Bruno Bozzetto"
+genres: ["Animation", "Comedy", "Musical"]
 ---
-
 > *“When civilization dances to the wrong music.”*
 
 Part satire, part requiem, *Allegro Non Troppo* (1976) is Bruno Bozzetto’s anarchic answer to Disney’s *Fantasia* — a delirious blend of classical music, social commentary, and surreal animation. Where Disney celebrated the beauty of nature and art, Bozzetto mourns what we’ve done to both. The result is a tragicomic masterpiece: at once hilarious, bitter, and heartbreakingly human.

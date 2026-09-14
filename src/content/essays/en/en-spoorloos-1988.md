@@ -9,8 +9,8 @@ image: "/images/essays/spoorloos-1988.webp"
 lang: "en"
 translationSlug: "spoorloos-1988"
 director: "George Sluizer"
+genres: ["Psychological Thriller", "Mystery"]
 ---
-
 This study deconstructs the Dutch psychological thriller *Spoorloos* (*The Vanishing*, 1988, running time 107 minutes) as a chilling anatomy of cold manipulation and pathological obsession. The film analyzes the disappearance of a young woman (Saskia) at a busy highway rest stop and her partner's (Rex) subsequent, self-destructive years-long quest to discover the truth. 
 
 Methodologically, the text focuses on the radical demystification of the antagonist (Raymond Lemorne), who does not act in passion but constructs the crime as a precise sociological experiment. The film demonstrates that the most terrifying form of terror is not brutal violence, but the inevitable, methodical logic of an ordinary man who decides to test the limits of his own free will.

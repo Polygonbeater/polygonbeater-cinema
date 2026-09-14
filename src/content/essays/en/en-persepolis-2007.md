@@ -9,8 +9,8 @@ image: "/images/essays/persepolis-2007.webp"
 lang: "en"
 translationSlug: "persepolis-2007"
 director: "Marjane Satrapi, Vincent Paronnaud"
+genres: ["Animation", "Biographical", "Historical"]
 ---
-
 This study deconstructs the film *Persepolis* (2007) as a model of a permanent repressive mechanism. While ideologies change, the "Machine" of power remains constant, fueled by external violence and internal fear. 
 
 Methodologically, it combines formal film analysis (Bordwell), the theory of disciplinary power (Foucault), and the concept of exilic cinema (Naficy).

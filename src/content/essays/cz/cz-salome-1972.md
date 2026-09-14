@@ -9,8 +9,8 @@ image: "/images/essays/salome-1972.webp"
 
 lang: "cz"
 translationSlug: "salome-1972"
+genres: ["Historický", "Art", "Drama"]
 ---
-
 > *„Nezajímalo mě vyprávět Wildea, ale ukázat nemožnost mučednictví v moderním světě, který už není barbarský, nýbrž výhradně hloupý.“*
 
 Snímek *Salomè* (1972, stopáž 80 minut) v režii radikálního italského divadelníka, spisovatele a filmaře Carmela Beneho představuje jeden z nejextrémnějších počinů evropského filmového „protikina“ (*cinema contro il cinema*). Bene nevychází z dramatu Oscara Wildea z roku 1891 proto, aby jej pietně adaptoval; přistupuje k textu jako demoliční četa. Dekonstruuje samotný aparát filmové reprezentace, odmítá narativní kauzalitu, psychologii postav i tradiční filmový střih a nahrazuje je frenetickou erupcí vizuálního excesu, disonantního zvuku a karnevalového rouhání[cite: 133].

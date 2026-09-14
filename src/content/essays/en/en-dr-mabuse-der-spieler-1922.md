@@ -9,8 +9,8 @@ image: "/images/essays/dr-mabuse-der-spieler-1922.webp"
 lang: "en"
 translationSlug: "dr-mabuse-der-spieler-1922"
 director: "Fritz Lang"
+genres: ["Silent Film", "Crime", "Expressionism"]
 ---
-
 Fritz Lang’s monumental two-part silent masterpiece *Dr. Mabuse, der Spieler* (*Dr. Mabuse, the Gambler*, 1922), co-written with Thea von Harbou, stands as one of cinema's earliest and most sophisticated models of modern power. Produced amidst the hyperinflation, political turmoil, and institutional collapse of the Weimar Republic, the film diagnoses the pathologies of modern mass society.
 
 ### I. Mabuse as an Operating System and Technology of Control

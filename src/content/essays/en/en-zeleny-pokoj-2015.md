@@ -9,8 +9,8 @@ image: "/images/essays/zeleny-pokoj-2015.webp"
 lang: "en"
 translationSlug: "zeleny-pokoj-2015"
 director: "Jeremy Saulnier"
+genres: ["Thriller", "Survival", "Crime"]
 ---
-
 The present study deconstructs the independent thriller *Green Room* as a reference sociological and neurobiological model of a so-called defective community. The film is analyzed as a case study of a closed subculture where a local leader (Darcy Banker) exploits the ideological loyalty of fans for his own benefit. The study newly integrates a detailed mapping of the brain reactions of the involved actors: from the manipulator's hypoactive amygdala to the oxytocin trap of his followers. The final phase applies these insights into practice, providing the individual with cognitive tools to identify and safely exit toxic structures (the state of Zone Zero) before the assimilation of their identity occurs.
 
 ### I. Author's Intent: The Illusion of Rebellion as a Tool of Control

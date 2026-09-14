@@ -9,8 +9,8 @@ image: "/images/essays/a-clockwork-orange-1971.webp"
 lang: "en"
 translationSlug: "a-clockwork-orange-1971"
 director: "Stanley Kubrick"
+genres: ["Dystopia", "Sci-Fi", "Cult"]
 ---
-
 Stanley Kubrick’s *A Clockwork Orange* (1971) stands as a fierce critique of modern technocratic governance and its hollow liberal rhetoric. The film treats violence not as a mere personal pathology, but as an inherent component of human subjectivity that the state seeks to eradicate through technological manipulation rather than ethical education.
 
 ### I. Alex: The Aestheticization of Ultra-Violence

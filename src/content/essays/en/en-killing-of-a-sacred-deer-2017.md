@@ -9,8 +9,8 @@ image: "/images/essays/killing-of-a-sacred-deer-2017.webp"
 lang: "en"
 translationSlug: "killing-of-a-sacred-deer-2017"
 director: "Yorgos Lanthimos"
+genres: ["Psychological", "Mystery", "Horror"]
 ---
-
 This study deconstructs Yorgos Lanthimos’s psychological thriller *The Killing of a Sacred Deer* (2017, running time 121 minutes) as a modern adaptation of Euripides' tragedy *Iphigenia in Aulis*. The film analyzes the life of a top cardiovascular surgeon, Steven Murphy, whose family falls victim to an unexplainable, paralyzing illness after Martin—the son of Steven's former patient—enters their lives. 
 
 Methodologically, the text focuses on the highly stylized, monotone delivery of the characters (deadpan), wide-angle cinematography depicting sterile hospital interiors and homes as prison cells, and the concept of "just" reciprocity. The film represents the pinnacle of intellectual horror, where terror stems not from the unknown, but from the inexorable rules of a higher order demanding blood for blood.

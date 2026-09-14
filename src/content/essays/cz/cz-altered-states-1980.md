@@ -9,8 +9,8 @@ image: "/images/essays/altered-states-1980.webp"
 lang: "cz"
 translationSlug: "altered-states-1980"
 director: "Ken Russell"
+genres: ["Sci-Fi", "Body horor", "Psychologický"]
 ---
-
 Vizionářský sci-fi tělesný horor britského režiséra Kena Russella *Zpětná proměna* (*Altered States*, 1980, stopáž 102 minut), natočený podle stejnojmenného románu a scénáře Paddyho Chayefského, představuje fascinující epistemologický zlom v žánru vědeckofantastického filmu. Russell v něm opouští mechanické zkoumání vnějšího vesmíru a obrací objektiv kamery do hlubin lidského podvědomí a buněčné paměti. 
 
 Příběh bio-psychiatra Eddieho Jessupa (filmový debut Williama Hurta), jenž se skrze senzorickou deprivaci a halucinogenní látky pokouší nalézt prvotní stav existence před vznikem hmoty, funguje jako moderní faustovská tragédie o mezích vědeckého rozumu a zranitelnosti lidského masa.

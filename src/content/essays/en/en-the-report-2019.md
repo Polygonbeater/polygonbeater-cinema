@@ -9,8 +9,8 @@ image: "/images/essays/the-report-2019.webp"
 lang: "en"
 translationSlug: "the-report-2019"
 director: "Scott Z. Burns"
+genres: ["Politické drama", "Thriller", "Procedural"]
 ---
-
 The present study analyzes the procedural drama *The Report*, which reconstructs the actual investigation into the CIA's torture program (Enhanced Interrogation Techniques). The film is deconstructed here not as a historical document, but as an instructional model of legal civil disobedience and bureaucratic sabotage. Through the protagonist, Senate investigator Daniel Jones, it is demonstrated how the law, administrative processes, and absolute informational superiority can be utilized to paralyze a system possessing unlimited executive power. The study proves that the greatest threat to manipulative structures is not an armed rebel, but a pedantic official employing methods of malicious compliance.
 
 ### I. The Information Offensive as a Primary Weapon

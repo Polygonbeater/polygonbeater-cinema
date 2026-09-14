@@ -9,8 +9,8 @@ image: "/images/essays/the-passion-of-joan-of-arc-1928.webp"
 lang: "en"
 translationSlug: "the-passion-of-joan-of-arc-1928"
 director: "Carl Theodor Dreyer"
+genres: ["Silent Film", "Historical", "Spiritual Drama"]
 ---
-
 This study deconstructs the silent era masterpiece *The Passion of Joan of Arc* (1928, running time 82 minutes) as a radical exploration of the limits of the cinematic medium and human endurance. The film analyzes the trial of Joan of Arc not as a historical epic, but as an intimate, claustrophobic clash between earthly dogmatism and pure spiritual faith. 
 
 Methodologically, the text focuses on the revolutionary use of extreme close-ups (cinematographer Rudolph Maté), the conscious disorientation of spatial awareness, and the iconic, naturalistic performance of Renée Jeanne Falconetti. The film demonstrates that the most brutal conflict does not occur on a physical battlefield, but within the microcosm of the human face, where institutional power is utterly powerless against inner conviction.

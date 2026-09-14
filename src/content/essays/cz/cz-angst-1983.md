@@ -9,8 +9,8 @@ image: "/images/essays/angst-1983.webp"
 
 lang: "cz"
 translationSlug: "angst-1983"
+genres: ["Horor", "Psychologický", "Thriller"]
 ---
-
 Tato studie dekonstruuje rakouský kultovní thriller *Angst* (1983, stopáž 87 minut) jako jednu z nejradikálnějších existenciálních sond do mysli chladnokrevného vraha v dějinách kinematografie. Snímek, volně inspirovaný skutečným případem Wernera Knieseka, sleduje bezejmenného psychopata od okamžiku jeho propuštění z vězení až po okamžitý, pudový masakr rodiny v izolované vile. 
 
 Metodologicky se text zaměřuje na revoluční kameru Zbigniewa Rybczyńského (aparát přivázaný přímo k tělu herce), chladný vnitřní monolog jako formu absolutní izolace a pulzující elektronickou hudbu Klause Schulzeho. Film ukazuje zlo nikoliv jako geniální mistrovský plán, ale jako chaotický, patetický a nezastavitelný biologický reflex.

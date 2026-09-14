@@ -9,8 +9,8 @@ image: "/images/essays/birth-rebirth-2023.webp"
 lang: "en"
 translationSlug: "birth-rebirth-2023"
 director: "Laura Moss"
+genres: ["Horror", "Sci-Fi", "Psychological"]
 ---
-
 This study deconstructs the prestigious independent horror *Birth/Rebirth* (2023, running time 94 minutes) as a radical and highly serious redefinition of the resurrection myth. The film analyzes the clash between two women: Rose, a pathologist developing a serum to revive dead tissue in her apartment, and Celie, a nurse whose daughter suddenly dies and becomes the subject of Rose's experiment. 
 
 Methodologically, the text focuses on the clinical, aseptic cinematography that strips the act of revival of all mysticism, and on the ethical vacuum in which maternal love transforms into a parasitic mechanism. The film portrays resurrection not as a miracle, but as a continuous, bloody, and morally unsustainable maintenance process.

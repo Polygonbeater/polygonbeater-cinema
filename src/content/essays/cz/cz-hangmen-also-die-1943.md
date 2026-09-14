@@ -9,8 +9,8 @@ image: "/images/essays/hangmen-also-die-1943.webp"
 lang: "cz"
 translationSlug: "hangmen-also-die-1943"
 director: "Fritz Lang"
+genres: ["Válečný", "Film noir", "Thriller"]
 ---
-
 Snímek *I katé umírají!* (*Hangmen Also Die!*, 1943, stopáž 134 minut) nepředstavuje pouhou hollywoodskou válečnou agitku; je to přísný analytický rozbor fungování totalitní moci a epistemologie lži. Režisér Fritz Lang a dramatik Bertolt Brecht (společně s kameramanem Jamesem Wongem Howem) uchopili atentát na zastupujícího říšského protektora Reinharda Heydricha nikoliv jako faktografickou rekonstrukci, nýbrž jako modelovou studii mechanismů kolektivního odporu. Snímek organicky propojuje tradici německého expresionismu, brechtovskou dialektiku a rodící se poetiku amerického filmu noir.
 
 ### I. Produkční kontext: Emigrace a památka Lidic

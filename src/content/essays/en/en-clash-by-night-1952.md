@@ -9,8 +9,8 @@ image: "/images/essays/clash-by-night-1952.webp"
 lang: "en"
 translationSlug: "clash-by-night-1952"
 director: "Fritz Lang"
+genres: ["Film Noir", "Drama"]
 ---
-
 *Clash by Night* (105 min) is a profound exploration of the social and emotional malaise of post-war America. Lang utilizes the setting of the Monterey fishing port as a metaphor for being trapped in the nets of routine and unfulfilled ambitions. The film deconstructs the myth of the happy homecoming, replacing it with a vision of home as a prison. The drama is marked by the collision of Barbara Stanwyck’s cynicism and the burgeoning stardom of Marilyn Monroe.
 
 ### Methodological Framework

@@ -9,8 +9,8 @@ image: "/images/essays/animal-farm-1954.webp"
 
 lang: "en"
 translationSlug: "animal-farm-1954"
+genres: ["Animation", "Dystopia", "Political"]
 ---
-
 > *“All animals are equal, but some animals are more equal than others.”*
 
 The 1954 animated feature *Animal Farm*, directed by John Halas and Joy Batchelor, stands as Britain's first animated feature film and a bold, adult-oriented critique of totalitarianism. Adapting George Orwell's stinging novella, it depicts farm animals successfully overthrowing their human masters, only to descend swiftly into a pig-led tyranny under Napoleon.

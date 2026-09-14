@@ -9,8 +9,8 @@ image: "/images/essays/bride-of-frankenstein-1935.webp"
 lang: "en"
 translationSlug: "bride-of-frankenstein-1935"
 director: "James Whale"
+genres: ["Horror", "Sci-Fi", "Classic Hollywood"]
 ---
-
 With Bride of Frankenstein (1935), James Whale did not merely succeed in following up his 1931 Frankenstein; he crafted what is often regarded as one of the most ambitious sequels in genre history. The film departs from the purely horrific tone of its predecessor, infusing the narrative with elements of dark comedy, stylized excess (camp), and profound melancholy. While the first film was a story of creation, The Bride is a story of longing for belonging.
 
 ### The Humanization of the Monster

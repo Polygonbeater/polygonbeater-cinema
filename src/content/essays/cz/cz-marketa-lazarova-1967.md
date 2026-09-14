@@ -9,8 +9,8 @@ image: "/images/essays/marketa-lazarova-1967.webp"
 lang: "cz"
 translationSlug: "marketa-lazarova-1967"
 director: "František Vláčil"
+genres: ["Historický", "Epos", "Balada"]
 ---
-
 Vizionářský historický epos Františka Vláčila *Marketa Lazarová* (1967, stopáž 162 minut), natočený podle stejnojmenného románu Vladislava Vančury za scenáristické spolupráce Františka Pavlíčka, představuje vrcholný monument české i světové kinematografie šedesátých let. Vláčil nemilosrdně strhává ze středověku romantickou oponu devatenáctého století plnou naleštěných rytířských brnění, heraldických ctností a uhlazené chronologie. 
 
 Namísto konvenční historické ilustrace vytvořil drtivě fyzický, krutý a smyslově zahlcující prožitek světa v bodě zlomu: světa sevřeného mrazem, vlčími instinkty, pohanským animismem a permanentním bojem o holé biologické přežití. Snímek zachycuje bolestný historický porod moderního státu – proces, v němž je kmenová svoboda archaických lapků nemilosrdně lámána nastupujícím centralizovaným řádem křesťanské a královské moci.

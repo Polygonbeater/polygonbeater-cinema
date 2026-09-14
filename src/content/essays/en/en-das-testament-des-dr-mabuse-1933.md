@@ -9,8 +9,8 @@ image: "/images/essays/das-testament-des-dr-mabuse-1933.webp"
 lang: "en"
 translationSlug: "das-testament-des-dr-mabuse-1933"
 director: "Fritz Lang"
+genres: ["Crime", "Thriller", "Horror"]
 ---
-
 Fritz Lang’s *Das Testament des Dr. Mabuse* (*The Testament of Dr. Mabuse*, 1933) stands as a monumental milestone in film history, produced during the tense weeks of Hitler’s seizure of power. Banned immediately by the National Socialist censorship board, the film prompted Lang’s hasty flight into exile. Eschewing simple allegory, Lang constructs a rigorous clinical diagnosis of how institutional terror operates.
 
 ### I. Mabuse as Structure, Not Tyrant

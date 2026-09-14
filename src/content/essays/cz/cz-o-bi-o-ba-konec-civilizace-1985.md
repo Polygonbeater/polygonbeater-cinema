@@ -9,8 +9,8 @@ image: "/images/essays/o-bi-o-ba-konec-civilizace-1985.webp"
 lang: "cz"
 translationSlug: "o-bi-o-ba-konec-civilizace-1985"
 director: "Piotr Szulkin"
+genres: ["Sci-Fi", "Postapokalyptický", "Dystopie"]
 ---
-
 Snímek Piotra Szulkina *O-Bi, O-Ba: Konec civilizace* (*O-bi, O-ba: Koniec cywilizacji*, 1985, stopáž 88 minut), třetí část jeho volné sci-fi tetralogie, radikálně dekonstruuje tradiční schémata postapokalyptického žánru. Szulkin neinscenuje hrdinský boj o přežití v nukleární pustině; zaměřuje se na terminální stádium lidské společnosti uzavřené v rozpadajícím se podzemním betonovém bunkru (Kopuli) po globální jaderné katastrofě. 
 
 Film funguje jako mrazivá sociologická a politická parabola o moci, která v situaci materiálního i biologického kolapsu udržuje kontrolu nad obyvatelstvem prostřednictvím cynicky vykonstruovaného spasitelského mýtu.

@@ -9,8 +9,8 @@ image: "/images/essays/soylent-green-1973.webp"
 
 lang: "cz"
 translationSlug: "soylent-green-1973"
+genres: ["Sci-Fi", "Dystopie", "Detektivní"]
 ---
-
 > *„Soylent Green je z lidí!“*
 
 Vizionářský dystopický sci-fi snímek Richarda Fleischera *Soylent Green* (1973, stopáž 97 minut), volně adaptující sociálně-kritický román Harryho Harrisona *Místo, místo! Více místa!* (*Make Room! Make Room!*, 1966), představuje základní text subžánru ekologické dystopie a tzv. „špinavé sci-fi“. Film, uvedený do kin bezprostředně po publikování průlomové zprávy Římského klubu *Meze růstu* (1972), přetavil vědecká varování před přelidněním a vyčerpáním přírodních zdrojů do mrazivé alegorie o konečném stádiu dravého korporátního kapitalismu.

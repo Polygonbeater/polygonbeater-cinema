@@ -9,8 +9,8 @@ image: "/images/essays/santa-claus-1898.webp"
 lang: "en"
 translationSlug: "santa-claus-1898"
 director: "George Albert Smith"
+genres: ["Silent Film", "Fantasy", "Short Film"]
 ---
-
 Did you know that the world’s very first Christmas movie was a DIY family project? Long before Hollywood existed, British film pioneer George Albert Smith turned his home into a studio, casting his wife, Laura Bayley, as the nurse and his own children, Harold and Dorothy, as the sleeping toddlers.
 
 Released in 1898, this 76-second silent masterpiece didn't just capture a holiday tradition—it literally invented the way we tell stories on screen.

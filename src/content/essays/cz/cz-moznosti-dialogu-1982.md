@@ -9,8 +9,8 @@ image: "/images/essays/moznosti-dialogu-1982.webp"
 lang: "cz"
 translationSlug: "moznosti-dialogu-1982"
 director: "Jan Švankmajer"
+genres: ["Animovaný", "Surrealismus", "Krátkometrážní"]
 ---
-
 > *„Když řeč selže, co nás místo toho pohltí?“*
 
 Snímek *Možnosti dialogu* (*Dimensions of Dialogue*, 1982, stopáž 12 minut) českého surrealistického tvůrce Jana Švankmajera představuje mezinárodně nejvíce oceňovaný vrchol jeho krátkometrážní loutkové a plastelínové tvorby. Během dvanácti minut nemilosrdné materiálové destrukce Švankmajer provádí chirurgickou pitvu mezilidské komunikace, v níž se dialog proměňuje z tvůrčího porozumění v kanibalistický konzumu a totální zánik individuality. Jde o nemilosrdnou anatomii civilizačního kolapsu, vyjádřenou skrze alchymii hlíny, kuchyňského nářadí, biologického odpadu a lidské anatomie.

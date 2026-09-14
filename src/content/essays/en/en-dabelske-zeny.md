@@ -9,8 +9,8 @@ image: "/images/essays/dabelske-zeny.webp"
 lang: "en"
 translationSlug: "dabelske-zeny"
 director: "Henri-Georges Clouzot"
+genres: ["Thriller", "Mystery", "Horror"]
 ---
-
 Henri-Georges Clouzot’s 1955 masterpiece Diabolique (Les Diaboliques) stands as a foundational pillar of modern psychological horror. Unlike films featuring external monsters or supernatural forces, terror here emerges from within—born of human guilt, escalating paranoia, and a meticulously constructed web of deception. The film is a chilling study of how the belief in having committed a crime can transform into a psychological purgatory and a lethal trap for the human mind.
 
 ### 1. The Boarding-School Microcosm and the Birth of the Conspiracy

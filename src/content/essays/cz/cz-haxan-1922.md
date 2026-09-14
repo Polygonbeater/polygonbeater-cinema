@@ -9,8 +9,8 @@ image: "/images/essays/haxan-1922.webp"
 lang: "cz"
 translationSlug: "haxan-1922"
 director: "Benjamin Christensen"
+genres: ["Němý film", "Dokumentární", "Horor"]
 ---
-
 > *„Není to jen horor; je to znepokojivý dokumentárně-hororový hybrid, který se ponořuje do historických kořenů a hrůzných pověr.“*
 
 Snímek *Čarodějnictví v průběhu věků* (*Häxan*, 1922, stopáž 105 minut) dánského režiséra Benjamina Christensena představuje jeden z nejradikálnějších formálních i tematických experimentů v dějinách němého filmu. Tento nejdražší skandinávský němý snímek své doby nevznikl jako konvenční hrané drama, nýbrž jako unikátní vizuální esej kombinující vědeckou přednášku, historickou rekonstrukci, gotický horor a sociologický traktát. 

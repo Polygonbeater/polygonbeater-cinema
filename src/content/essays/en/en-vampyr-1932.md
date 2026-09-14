@@ -9,8 +9,8 @@ image: "/images/essays/vampyr-1932.webp"
 lang: "en"
 translationSlug: "vampyr-1932"
 director: "Carla Theodora Dreyera"
+genres: ["Psychological Horror", "Gothic", "Art House"]
 ---
-
 Carl Theodor Dreyer’s *Vampyr* (1932) marks the watershed moment when horror systematically detaches from conventional narrative logic, relocating entirely into unstable perception, blurred spatial coordinates, and fractured temporality. Eschewing a clear antagonist or causal plot, the film sustains a permanent state of ontological uncertainty, establishing a foundational blueprint for modern psychological horror.
 
 ### I. Fluid Space and Subverted Cinematic Perspective

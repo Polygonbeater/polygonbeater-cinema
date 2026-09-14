@@ -9,8 +9,8 @@ image: "/images/essays/house-by-the-river-1950.webp"
 lang: "en"
 translationSlug: "house-by-the-river-1950"
 director: "Fritz Lang"
+genres: ["Film Noir", "Psychological", "Gothic"]
 ---
-
 *House by the River* (88 min) marks Fritz Lang's return to European naturalism within American noir following a three-year creative hiatus. Moving away from previous psychoanalytic experiments, the film offers a raw study of crime, class arrogance, and subsequent moral erosion. Lang transforms Gothic tropes into a chilling noir that focuses radically on the perspective of a remorseless, sociopathic murderer.
 
 ### Methodological Framework

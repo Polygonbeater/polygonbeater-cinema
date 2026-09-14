@@ -9,8 +9,8 @@ image: "/images/essays/the-report-2019.webp"
 lang: "cz"
 translationSlug: "the-report-2019"
 director: "Scott Z. Burns"
+genres: ["Politické drama", "Thriller", "Procedurální"]
 ---
-
 Procedurální politické drama scenáristy a režiséra Scotta Z. Burnse *Zpráva* (*The Report*, 2019, stopáž 119 minut) rekonstruuje skutečné mnohaleté vyšetřování programu tzv. „zvláštních vyšetřovacích metod“ (*Enhanced Interrogation Techniques*) provozovaného Ústřední zpravodajskou službou (CIA) po útocích z 11. září 2001. Snímek však nepřistupuje k látce jako k tradičnímu politickému thrilleru se špionážními honičkami a dramatickými konfrontacemi. 
 
 Představuje precizní a neúprosnou studii institucionální rezistence a byrokratické sabotáže zevnitř demokratického systému. Prostřednictvím hlavního hrdiny, senátního vyšetřovatele Daniela J. Jonese (Adam Driver), film dokazuje, že nejúčinnější zbraní proti zneužívání exekutivní moci není ozbrojený radikalismus ani unáhlené mediální úniky, nýbrž pedantická analýza interních dat a strategie zlomyslné poslušnosti uplatněná uvnitř samotného administrativního aparátu.

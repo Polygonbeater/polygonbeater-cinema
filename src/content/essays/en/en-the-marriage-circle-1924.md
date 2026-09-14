@@ -9,8 +9,8 @@ image: "/images/essays/the-marriage-circle-1924.webp"
 
 lang: "en"
 translationSlug: "the-marriage-circle-1924"
+genres: ["Silent Film", "Comedy of Manners", "Romance"]
 ---
-
 > *“A sparkling comedy of manners that transformed subtle gestures and pregnant pauses into the legendary ‘Lubitsch Touch’.”*
 
 Directed by Ernst Lubitsch and produced by Warner Bros., *The Marriage Circle* (1924) stands as a crown jewel of the silent film era. Fresh from Europe, Lubitsch infused American romantic comedy with sophisticated wit, psychological irony, and visual elegance.

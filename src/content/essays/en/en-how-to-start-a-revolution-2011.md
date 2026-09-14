@@ -9,8 +9,8 @@ image: "/images/essays/how-to-start-a-revolution-2011.webp"
 
 lang: "en"
 translationSlug: "how-to-start-a-revolution-2011"
+genres: ["Documentary", "Political"]
 ---
-
 Directed by Ruaridh Arrow, this BAFTA-winning documentary profiles Dr. Gene Sharp, a scholar whose work shifted the world’s understanding of revolution. Sharp’s core insight is that a dictatorship is not a solid, immovable object, but a fragile structure held upright by the voluntary and withdrawable cooperation of the people.
 
 ### The Logic of the Pillars

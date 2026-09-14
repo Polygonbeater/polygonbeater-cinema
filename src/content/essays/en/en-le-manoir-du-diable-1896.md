@@ -9,8 +9,8 @@ image: "/images/essays/le-manoir-du-diable-1896.webp"
 lang: "en"
 translationSlug: "le-manoir-du-diable-1896"
 director: "Georges Méliès"
+genres: ["Silent Film", "Horror", "Short Film"]
 ---
-
 > *“Often hailed as the world’s first horror film, Méliès’ The House of the Devil doesn't just predate cinema; it invents the supernatural on screen!”*
 
 Georges Méliès’ *Le Manoir du Diable* (*The House of the Devil*, 1896) stands as a monumental milestone. Lasting just over three minutes, it is a breathtaking whirlwind of early cinematic magic: bats transforming into demons, skeletons appearing in bursts of smoke, and the Devil himself outsmarted and vanishing in a final puff of light.

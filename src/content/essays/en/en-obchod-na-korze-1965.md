@@ -9,8 +9,8 @@ image: "/images/essays/obchod-na-korze-1965.webp"
 lang: "en"
 translationSlug: "obchod-na-korze-1965"
 director: "Ján Kadár, Elmar Klos"
+genres: ["Drama", "War", "Classic Czech Cinema"]
 ---
-
 The tragicomedy *The Shop on Main Street* (1965), directed by Ján Kadár and Elmar Klos, stands as one of the most powerful achievements of the Czechoslovak New Wave. Awarded the Academy Award for Best Foreign Language Film at the 1966 ceremony as the first Czechoslovak motion picture to earn an Oscar, it shuns simplistic depictions of wartime horrors defined by black-and-white morality, choosing instead to dissect the slow, insidious mechanics of fascism through the lens of an ordinary "everyman."
 
 Set in a small Slovak town in 1942 during the fascist Slovak State era—a period marked by systemic Aryanization and deportations—the narrative follows Tono Brtko (played with extraordinary depth by Jozef Kroner), a quiet carpenter who simply wants to be left alone. Pressured by his greedy wife and his brother-in-law, a local official of the fascist Hlinka Guard, Tono reluctantly accepts the role of an Aryanizer—the officially designated administrator of a small haberdashery shop owned by Rozália Lautmannová (Ida Kamińska), an elderly, near-deaf Jewish widow. The initial comic misunderstanding, in which Mrs. Lautmannová fails to comprehend the concept of Aryanization and assumes Tono is merely her new assistant, gradually transforms into a harrowing existential nightmare.

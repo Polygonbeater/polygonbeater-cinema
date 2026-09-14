@@ -9,8 +9,8 @@ image: "/images/essays/an-optical-poem-1937.webp"
 lang: "en"
 translationSlug: "an-optical-poem-1937"
 director: "Oskar Fischinger"
+genres: ["Animation", "Experimental", "Musical"]
 ---
-
 *An Optical Poem*, created by the pioneer of abstract animation Oskar Fischinger and released by Metro-Goldwyn-Mayer (MGM) in 1937, represents a critical moment in the history of visual music. Completed shortly after Fischinger fled Nazi Germany and the purge of "Degenerate Art," this short film is not merely an artistic statement but a powerful demonstration of the freedom of abstract expression denied by the totalitarian regime.
 
 ## The Synthesis of Sight and Sound

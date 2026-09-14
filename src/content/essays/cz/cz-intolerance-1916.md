@@ -9,8 +9,8 @@ image: "/images/essays/intolerance-1916.webp"
 lang: "cz"
 translationSlug: "intolerance-1916"
 director: "D. W. Griffith"
+genres: ["Němý film", "Historický", "Epos"]
 ---
-
 Monumentální němý epos D. W. Griffitha *Intolerance* (*Intolerance: Love's Struggle Throughout the Ages*, 1916, stopáž 197 minut) představuje jeden z nejradikálnějších autorských manifestů v dějinách kinematografie. Snímek nevznikl jako chladná akademická rekonstrukce, nýbrž jako vášnivá reakce tvůrce na cenzurní útoky a společenské kontroverze, kterým čelil po uvedení svého předešlého filmu *Zrození národa*. 
 
 Griffith v bezprecedentním měřítku paralelně propojil čtyři vzdálené historické epochy – pád starověkého Babylonu (539 př. n. l.), ukřižování Ježíše Krista v Judsku, Bartolomějskou noc v renesanční Francii (1572) a sociální drama z moderní industriální Ameriky –, aby demaskoval univerzální mechanismus náboženského a ideologického dogmatismu ničícího lidskou lásku a svobodu.

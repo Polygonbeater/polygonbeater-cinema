@@ -9,8 +9,8 @@ image: "/images/essays/krev-a-cerna-krajka.webp"
 lang: "en"
 translationSlug: "krev-a-cerna-krajka"
 director: "Mario Bava"
+genres: ["Giallo", "Horror", "Crime"]
 ---
-
 When Mario Bava directed Blood and Black Lace (Sei donne per l'assassino) in 1964, he did not merely step away from his earlier Gothic black-and-white aesthetic; he executed a decisive shift that defined the shape of Italian giallo and helped establish a visual and structural template that would later inform the American slasher. Bava took the conventions of the traditional whodunit and completely subordinated them to the tyranny of form. In a film where the world of high fashion intertwines with cold-blooded destruction, a saturated chromatic palette and human blood become equivalent media.
 
 This essayistic inquiry approaches Blood and Black Lace not merely as a genre landmark, but as a fascinating study of the aestheticization of consumer desire, fetishism, and the transformation of murder into an art installation.

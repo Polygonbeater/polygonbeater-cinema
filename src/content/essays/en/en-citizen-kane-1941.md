@@ -9,8 +9,8 @@ image: "/images/essays/citizen-kane-1941.webp"
 lang: "en"
 translationSlug: "citizen-kane-1941"
 director: "Orson Welles"
+genres: ["Drama", "Mystery", "Classic Hollywood"]
 ---
-
 This study deconstructs Orson Welles's *Citizen Kane* (1941, running time 119 min) as a landmark work that introduced non-linear narrative structure to mainstream cinema. The film analyzes the life of press tycoon Charles Foster Kane through a series of subjective flashbacks from various characters attempting to decipher the meaning of his last word, "Rosebud." 
 
 Methodologically, the text focuses on Gregg Toland's revolutionary cinematography (deep focus, low angles), innovative use of sound, and the deconstruction of the American Dream, which in Welles's portrayal ends in emptiness and isolation amidst material abundance.

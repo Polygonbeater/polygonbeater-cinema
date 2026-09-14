@@ -9,8 +9,8 @@ image: "/images/essays/kabaret-1972.webp"
 lang: "en"
 translationSlug: "kabaret-1972"
 director: "Bob Fosse"
+genres: ["Musical", "Historical", "Drama"]
 ---
-
 The present study analyzes the Oscar-winning film *Cabaret* as the definitive model of conscious complicity within a closed community. The environment of the Berlin „Kit Kat Klub“ in the early 1930s serves as a case study of a toxic micro-system gradually taken over by an extremist ideology. The analysis focuses not on the architects of evil, but on the performers and artists (represented by the Master of Ceremonies and Sally Bowles). These actors represent the archetypes of „co-opted authority“ and „systemic enablers.“ The study deconstructs their psychological defense mechanisms (compartmentalization, cynical detachment), which allow them to perform and profit from a community whose toxicity and moral decay they are fully aware of.
 
 ### I. Author's Intent: Entertainment as the Camouflage of Totalitarianism

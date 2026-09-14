@@ -9,8 +9,8 @@ image: "/images/essays/matka-joanna-od-andelu-1961.webp"
 lang: "cz"
 translationSlug: "matka-joanna-od-andelu-1961"
 director: "Jerzy Kawalerowicz"
+genres: ["Historický", "Psychologický", "Drama"]
 ---
-
 Snímek polského režiséra Jerzyho Kawalerowicze *Matka Johana od Andělů* (*Matka Joanna od Aniołów*, 1961, stopáž 105 minut), oceněný Zvláštní cenou poroty na festivalu v Cannes, představuje jeden z absolutních vrcholů polské filmové školy a světové kinematografie šedesátých let. Film, adaptující stejnojmennou novelu Jarosława Iwaszkiewicze, vychází z historických událostí posedlosti jeptišek v klášteře ve francouzském Loudunu v 17. století, avšak přenáší děj na drsnou a opuštěnou polsko-běloruskou hranici v Smolensku. 
 
 Kawalerowicz zcela odmítá vulgární hororové senzace a namísto toho vytváří asketickou, hluboce filozofickou a vizuálně uhrančivou meditaci o hranicích lidské přirozenosti, dogmatismu, erotické touze a metafyzické vzpouře člověka proti rigidnímu institucionálnímu řádu.

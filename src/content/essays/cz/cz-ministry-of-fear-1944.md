@@ -9,8 +9,8 @@ image: "/images/essays/ministry-of-fear-1944.webp"
 lang: "cz"
 translationSlug: "ministry-of-fear-1944"
 director: "Fritz Lang"
+genres: ["Film noir", "Špionážní", "Mysteriózní"]
 ---
-
 Snímek *Ministry of Fear* (*Ministerstvo strachu*, 1944, stopáž 87 minut) z produkce studia Paramount v režii Fritze Langa představuje paradigmatický válečný noir, v němž paranoia nevystupuje jako psychická anomálie či patologie, nýbrž jako jediný epistemologicky adekvátní způsob vnímání reality. Lang transformuje konvence špionážního thrilleru v hlubokou alegorii moderní společnosti dohledu. 
 
 V podmínkách válečné materiální nouze, za využití přísné chiaroscuro kamery Henryho Sharpa a zhuštěného narativu konstruuje Lang geometrii všeobecného podezření, v níž se samotná viditelnost stává smrtící pastí[cite: 105].

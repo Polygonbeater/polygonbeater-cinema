@@ -9,8 +9,8 @@ image: "/images/essays/atroz-2015.webp"
 lang: "en"
 translationSlug: "atroz-2015"
 director: "Lex Ortega"
+genres: ["Horror", "Found Footage", "Transgressive"]
 ---
-
 Lex Ortega’s *Atroz* (2015) stands as one of the most radical and uncompromising works in contemporary Latin American horror. Eschewing stylized genre thrills or playful exploitation, the film delivers an unsparing exploration of violence, nihilism, and spectator voyeurism, deliberately confronting the boundaries of cinematic representation.
 
 ### I. Formal Strategies: Found Footage and Police Investigation

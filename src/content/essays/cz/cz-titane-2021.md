@@ -9,8 +9,8 @@ image: "/images/essays/titane-2021.webp"
 lang: "cz"
 translationSlug: "titane-2021"
 director: "Julia Ducournau"
+genres: ["Body horor", "Transgresivní", "Drama"]
 ---
-
 Transgresivní tělesný horor francouzské režisérky a scenáristky Julie Ducournauové *Titane* (2021, stopáž 108 minut), oceněný Zlatou palmou na festivalu v Cannes, představuje jeden z nejradikálnějších, nejprovokativnějších a myšlenkově nejodvážnějších filmů 21. století. Ducournauová navazuje na tradici tělesného hororu Davida Cronenberga (*Crash*, *Videodrome*) a koncept kyberfeminismu Donny Harawayové, avšak posouvá je do zcela nové, hluboce emocionální roviny. 
 
 Film sleduje Alexii (Agathe Rousselleová), sociopatickou tanečnici a sériovou vražedkyni s titanovou destičkou voperovanou v lebce po autonehodě v dětství, která po bizarním tělesném splynutí s automobilem otěhotní a na útěku před policií přijme identitu pohřešovaného chlapce stárnoucího velitele hasičů. *Titane* dekonstruuje biologické i genderové hranice lidství a nachází transcendentální katarzi v monstrózní, bezpodmínečné lásce překonávající limity masa i kovu.

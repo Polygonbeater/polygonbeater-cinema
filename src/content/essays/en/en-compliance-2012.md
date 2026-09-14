@@ -9,8 +9,8 @@ image: "/images/essays/compliance-2012.webp"
 lang: "en"
 translationSlug: "compliance-2012"
 director: "Craig Zobel"
+genres: ["Psychological", "Thriller", "Drama"]
 ---
-
 This study deconstructs Craig Zobel’s psychological thriller *Compliance* (2012, running time 90 minutes) as the ultimate cautionary memento against systemic submissiveness. The film, a slavishly faithful reconstruction of true events, follows a Friday shift at a fast-food restaurant. A man calling in, posing as a police officer, convinces the manager to lock a young female employee in the back room under the pretense of a theft investigation, gradually subjecting her to an extremely humiliating strip search. Methodologically, the text analyzes the pathology of „obedience to authority,“ the phenomenon of cognitive paralysis, and the diffusion of responsibility. The film is a radical manual for awakening: it proves that the most dangerous systemic tool is not a weapon, but our own social programming to respect anyone who sounds sufficiently assertive and official.
 
 ### I. The Horizontal of Fast Food and the Illusion of Hierarchy

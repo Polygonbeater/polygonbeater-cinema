@@ -9,8 +9,8 @@ image: "/images/essays/rashomon-1950.webp"
 lang: "cz"
 translationSlug: "rashomon-1950"
 director: "Akira Kurosawa"
+genres: ["Historický", "Mysteriózní", "Filozofický"]
 ---
-
 Snímek Akiry Kurosawy *Rašomon* (*Rashomon*, 1950, stopáž 88 minut), oceněný Zlatým lvem na festivalu v Benátkách a čestným Oscarem, představuje jeden z nejdůležitějších milníků v dějinách světové kinematografie. Film nejenže otevřel brány západního filmového světa pro poválečné japonské umění, ale zavedl do mezinárodního filozofického a právního diskurzu termín „Rašomon efekt“ (*Rashomon effect*). 
 
 Kurosawa, vycházející z povídek Rjúnosukeho Akutagawy (*Rašómon* a *V houštině*), radikálně odmítá iluzi objektivní filmové pravdy. Sleduje jediný násilný incident – přepadení samuraje a jeho ženy v cedrovém lese – skrze čtyři vzájemně si odporující výpovědi, v nichž se pravda ukazuje nikoliv jako pevná entita, nýbrž jako křehký konstrukt podřízený lidskému egu, ješitnosti a strachu[cite: 134].

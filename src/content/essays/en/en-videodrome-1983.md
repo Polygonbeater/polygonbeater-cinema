@@ -9,8 +9,8 @@ image: "/images/essays/videodrome-1983.webp"
 lang: "en"
 translationSlug: "videodrome-1983"
 director: "David Cronenberg"
+genres: ["Body Horror", "Sci-Fi", "Cult"]
 ---
-
 This study deconstructs David Cronenberg's visionary body horror *Videodrome* (1983, running time 87 minutes) as a radical exploration of the fusion between the human body and communication technology. The film analyzes the downfall of Max Renn, a cynical cable TV executive who, in search of extreme content, discovers a pirate broadcast filled with torture. It is revealed, however, that the signal contains a frequency that induces fatal brain tumors and hallucinations. 
 
 Methodologically, the text focuses on the concept of the "New Flesh," Rick Baker's brilliant practical effects that materialize technological hallucinations, and the Marshall McLuhan-esque thesis of the medium as an extension of the nervous system. The film demonstrates that once the screen ceases to be a mere mediator and becomes a direct interface of the mind, human biological reality is irreversibly rewritten.

@@ -9,8 +9,8 @@ image: "/images/essays/you-only-live-once-1937.webp"
 lang: "cz"
 translationSlug: "you-only-live-once-1937"
 director: "Fritz Lang"
+genres: ["Film noir", "Milenci na útěku", "Tragédie"]
 ---
-
 Druhý americký film německého režiséra Fritze Langa *Žiješ jenom jednou* (*You Only Live Once*, 1937, stopáž 86 minut), natočený v nezávislé produkci Waltera Wangera v distribuci United Artists, představuje jeden ze základních pilířů rodícího se filmu noir a zakladatelský text subžánru „milenců na útěku“ (*lovers on the run*). Lang přímo navázal na sociálně-kritický apel svého amerického debutu *Byl jsem lynčován* (*Fury*, 1936). 
 
 Zatímco ve *Fury* zkoumal hysterii nekontrolovatelného maloměstského davu zapalujícího věznici, v *Žiješ jenom jednou* provádí podstatně jemnější, mrazivější a systémovější pitvu: analyzuje tiché, mechanické a byrokraticky uhlazené utahování smyčky společenského stigmatu, předsudků a selhání justice, jež nevinného člověka systematicky dotlačí k nevyhnutelnému zločinu a zkáze.

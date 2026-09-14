@@ -9,8 +9,8 @@ image: "/images/essays/the-man-who-laughs-1928.webp"
 
 lang: "en"
 translationSlug: "the-man-who-laughs-1928"
+genres: ["Silent Film", "Gothic Melodrama", "Horror"]
 ---
-
 The year 1928 marks the twilight of the silent era. Just before synchronized sound irrevocably altered the cinematic landscape, visual storytelling achieved extraordinary formal sophistication. *The Man Who Laughs*, directed by Paul Leni, stands as a monument to this transitional phase. Imported from Germany to Universal Pictures, Leni infused a Victor Hugo adaptation with the striking visual lexicon of Weimar Expressionism. The result transcends historical melodrama; it is a radical exploration of the face as a prison and the genesis of the "sympathetic monster" archetype.
 
 At the film's core is Gwynplaine (Conrad Veidt), a man whose face was surgically mutilated in childhood—carved into a permanent, ghastly grin as punishment for his father's political transgressions. Within the context of silent cinema, where the human face serves as the ultimate, transparent canvas for emotional articulation, this disfigurement represents an ontological tragedy. Gwynplaine's visage is frozen in a singular, grotesque grimace. His exterior has been violently severed from his interiority.

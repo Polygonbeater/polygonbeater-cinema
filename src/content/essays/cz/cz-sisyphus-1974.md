@@ -9,8 +9,8 @@ image: "/images/essays/sisyphus-1974.webp"
 lang: "cz"
 translationSlug: "sisyphus-1974"
 director: "Marcell Jankovics"
+genres: ["Animovaný", "Filozofický", "Krátkometrážní"]
 ---
-
 > *„Váhou není kámen. Je jí lidská vůle.“*
 
 Krátkometrážní animovaný film *Sisyfos* (*Sisyphus*, 1974, stopáž 3 minuty) maďarského výtvarníka a režiséra Marcella Jankovicse, nominovaný na Oscara za nejlepší krátký animovaný film, představuje absolutní klenot světového animovaného minimalismu. Jankovics, kmenový tvůrce budapešťského studia Pannónia, dokázal na ploše pouhých tří set vteřin a bez jediného slova formulovat monumentální esej o podstatě lidské existence. 

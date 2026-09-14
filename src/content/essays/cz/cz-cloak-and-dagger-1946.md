@@ -9,8 +9,8 @@ image: "/images/essays/cloak-and-dagger-1946.webp"
 lang: "cz"
 translationSlug: "cloak-and-dagger-1946"
 director: "Fritz Lang"
+genres: ["Špionážní", "Film noir", "Thriller"]
 ---
-
 Snímek *Cloak and Dagger* (1946, stopáž 106 minut) představuje první bezprostřední reakci Fritze Langa na nově zrozený post-atomový svět. Zatímco jeho předchozí protifašistické tituly bojovaly proti konkrétní totalitní ideologii, zde se primárním nepřítelem stává samotné technologické tajemství a univerzální hrozba globální anihilace. Snímek dekonstruuje mýtus o nedotknutelném akademickém intelektuálovi a vrhá teoretického fyzika do arény animálního násilí, kde přežití závisí na schopnosti adaptovat se na syrovou fyzickou brutalitu.
 
 ### I. Produkční kontext: Vědec v poli a ztráta nevinnosti

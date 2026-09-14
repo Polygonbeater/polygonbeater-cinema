@@ -9,8 +9,8 @@ image: "/images/essays/the-birth-of-a-nation-1915.webp"
 lang: "cz"
 translationSlug: "the-birth-of-a-nation-1915"
 director: "D. W. Griffith"
+genres: ["Němý film", "Historický", "Epos"]
 ---
-
 Tříhodinový němý epos Davida Warka Griffitha *Zrození národa* (*The Birth of a Nation*, 1915, stopáž 193 minut), adaptující rasistický román Thomase Dixona *The Clansman* (1905), představuje nejvýznamnější a současně nejničivější paradox v dějinách světové kinematografie. Na jedné straně jde o monumentální technický a formální triumf, který kodifikoval základní syntax moderního filmového jazyka a povýšil kinematografii z pouťové atrakce na suverénní umělecké médium schopné celovečerní epické výpovědi. 
 
 Na straně druhé představuje dílo otevřeně rasistickou propagandu bílé nadvlády (*white supremacy*), která hrubě zfalsifikovala dějiny americké občanské války a rekonstrukce Jihu a přímo podnítila znovuzrození teroristické organizace Ku Klux Klan.

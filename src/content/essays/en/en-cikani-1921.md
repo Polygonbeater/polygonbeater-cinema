@@ -9,8 +9,8 @@ image: "/images/essays/cikani-1921.webp"
 
 lang: "en"
 translationSlug: "cikani-1921"
+genres: ["Silent Film", "Drama", "Classic Czech Cinema"]
 ---
-
 The silent film *Gypsies* (*Cikáni*, 1921), directed by Karel Anton and based on the famous novella by Karel Hynek Mácha, stands as one of the foundational pillars of Czechoslovak cinema. Anton's picture is a fascinating testament to how 19th and early 20th-century Central European Romanticism visualized the so-called "Gypsy myth." The film does not strive for documentary accuracy; rather, it uses the Romani ethnicity as a canvas onto which it projects anxiety, the yearning for freedom, and the inevitability of human destiny.
 
 ### 1. Premise and the Archetype of the Outcast

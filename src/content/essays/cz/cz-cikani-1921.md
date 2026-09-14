@@ -9,8 +9,8 @@ image: "/images/essays/cikani-1921.webp"
 lang: "cz"
 translationSlug: "cikani-1921"
 director: "Karel Anton"
+genres: ["Němý film", "Drama", "Klasický český film"]
 ---
-
 Němý film *Cikáni* (1921, stopáž 88 minut), který natočil režisér Karel Anton na motivy stejnojmenné novely Karla Hynka Máchy, představuje jeden ze základních pilířů rané československé kinematografie. Antonův snímek je dokladem toho, jak středoevropský romantismus 19. a počátku 20. století konstruoval mýtus o romském společenství. Film neusiluje o etnografickou věrnost; naopak využívá romské postavy jako projekční plátno pro existenciální úzkost, touhu po absolutní autonomii a tragický determinismus lidského osudu.
 
 ### I. Námět a archetyp vyvrhele mimo společenský řád

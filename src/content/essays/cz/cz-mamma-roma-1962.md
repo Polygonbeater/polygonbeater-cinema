@@ -9,8 +9,8 @@ image: "/images/essays/mamma-roma-1962.webp"
 lang: "cz"
 translationSlug: "mamma-roma-1962"
 director: "Pier Paolo Pasolini"
+genres: ["Neorealismus", "Drama"]
 ---
-
 > *„Vizionářská syntéza neorealismu a duchovní tragédie na pozadí chudinských římských periferií.“*
 
 Druhý celovečerní snímek básníka, esejisty a režiséra Pierra Paola Pasoliniho *Mamma Roma* (1962, stopáž 106 minut) představuje klíčový mezník v poválečné italské kinematografii. Pasolini v něm navazuje na svůj radikální debut *Accattone* (1961), opouští však pozici čistého dokumentátora lumpenproletariátu a vytváří hluboce tragickou sakrální parabolu o nemožnosti sociálního vzestupu, destruktivní síle maloměšťáckých iluzí a křehkosti mateřské oběti[cite: 100]. 

@@ -9,8 +9,8 @@ image: "/images/essays/die-1000-augen-des-dr-mabuse-1960.webp"
 lang: "en"
 translationSlug: "die-1000-augen-des-dr-mabuse-1960"
 director: "Fritz Lang"
+genres: ["Sci-Fi", "Thriller", "Crime"]
 ---
-
 Fritz Lang’s final cinematic work, *Die 1000 Augen des Dr. Mabuse* (*The 1,000 Eyes of Dr. Mabuse*, 1960), offers a chillingly modern diagnostic of institutional power. Returning to his iconic criminal mastermind after decades in Hollywood exile, Lang eschews nostalgia and expressionist flourishes in favor of a rigorous structural critique of the surveillance state.
 
 ### I. Power Without a Subject and the Luxor Hotel

@@ -9,8 +9,8 @@ image: "/images/essays/shock-corridor-1963.webp"
 lang: "en"
 translationSlug: "shock-corridor-1963"
 director: "Samuel Fuller"
+genres: ["Psychological", "Drama", "Mystery"]
 ---
-
 Samuel Fuller’s *Shock Corridor* (1963) stands as one of the most blistering cinematic critiques of Cold War America. The film refuses to depict the psychiatric hospital as a place of institutional failure; instead, it portrays the asylum as a model of the modern state—a hyper-rational apparatus that systematically translates political conflict into medical pathology.
 
 ### I. The Asylum as a Disciplinary State

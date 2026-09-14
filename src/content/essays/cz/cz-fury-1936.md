@@ -9,8 +9,8 @@ image: "/images/essays/fury-1936.webp"
 lang: "cz"
 translationSlug: "fury-1936"
 director: "Fritz Lang"
+genres: ["Film noir", "Drama", "Sociální"]
 ---
-
 Snímek *Byl jsem lynčován* (*Fury*, 1936, stopáž 92 minut) v produkci studia Metro-Goldwyn-Mayer představuje mimořádně suverénní a nekompromisní vstup Fritze Langa do americké kinematografie. Lang, čerstvě emigrující před nacismem, nepřistoupil k hollywoodské kriminální látce jako k běžné žánrové zábavě. Inspirován reálným případem lynčování v kalifornském San Jose z roku 1933 vytvořil mrazivou sociologickou a psychologickou studii toho, jak snadno se civilizované maloměsto promění v krvelačnou bestii.
 
 ### I. Dav jako stroj: Fáma a výroba jistoty

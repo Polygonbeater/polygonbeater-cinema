@@ -9,8 +9,8 @@ image: "/images/essays/krotki-film-o-zabijaniu-1988.webp"
 lang: "cz"
 translationSlug: "krotki-film-o-zabijaniu-1988"
 director: "Krzysztof Kieślowski"
+genres: ["Drama", "Krimi", "Filozofický"]
 ---
-
 Snímek Krzysztofa Kieślowského *Krátký film o zabíjení* (*Krótki film o zabijaniu*, 1988, stopáž 84 minut), rozšířená celovečerní verze pátého dílu televizního cyklu *Dekalog*, představuje jeden z nejdrtivějších etických traktátů v dějinách světové kinematografie. Kieślowski zbavuje akt usmrcení člověka jakéhokoliv žánrového nátěru, romantického heroizmu či hollywoodské katarze. Nejedná se o kriminální thriller ani o horor; je to chladná, metodická pitva obrovské fyzické námahy a institucionálního chladu, které jsou zapotřebí k definitivnímu vyhasnutí lidského života.
 
 Tato studie analyzuje film skrze etickou symetrii dvou vražd (soukromé a státem posvěcené), vizuální klaustrofobii toxických filtrů Sławomira Idziaka a demystifikaci trestu smrti.

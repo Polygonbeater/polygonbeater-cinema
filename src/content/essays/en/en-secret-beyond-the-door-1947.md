@@ -9,8 +9,8 @@ image: "/images/essays/secret-beyond-the-door-1947.webp"
 lang: "en"
 translationSlug: "secret-beyond-the-door-1947"
 director: "Fritz Lang"
+genres: ["Film Noir", "Psychological Thriller", "Gothic"]
 ---
-
 *Secret Beyond the Door* (99 min) marks Lang's radical pivot from geopolitical paranoia to the intimacy of psychological terror. The film serves as Lang's idiosyncratic response to the Hollywood trend of Freudian thrillers. It deconstructs the Gothic romance and the Bluebeard myth by transforming architecture into a literal map of a pathological mind, where spatial arrangement determines human behavior.
 
 ### Methodological Framework

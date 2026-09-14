@@ -9,8 +9,8 @@ image: "/images/essays/rotkappchen-1962.webp"
 lang: "en"
 translationSlug: "little-red-riding-hood-1962"
 director: "Götz Friedrich"
+genres: ["Fairy Tale", "Short Film"]
 ---
-
 *Rotkäppchen* (1962), produced by the East German DEFA studios, is a paramount work that exhibits incredible artistic dexterity in the face of ideological constraint. Directed by Götz Friedrich—a future titan of the international opera stage—the film is a crucial study demonstrating how theatrical visionaries executed their craft during an era of political dictate.
 
 ## Totalitarian Aesthetics and Subversive Tension

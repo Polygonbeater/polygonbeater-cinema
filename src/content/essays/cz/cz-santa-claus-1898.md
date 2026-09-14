@@ -9,8 +9,8 @@ image: "/images/essays/santa-claus-1898.webp"
 lang: "cz"
 translationSlug: "santa-claus-1898"
 director: "George Albert Smith"
+genres: ["Němý film", "Fantasy", "Krátkometrážní"]
 ---
-
 Vůbec první vánoční film v dějinách světové kinematografie, natočený britským filmařem Georgem Albertem Smithem pod názvem *Santa Claus* (1898, stopáž 76 sekund), nepředstavuje pouhou historickou kuriozitu ze sklonku viktoriánské éry. Tento necelou minutu a půl trvající němý snímek, vyrobený v improvizovaném ateliéru v zahradě v Hove u Brightonu s režisérovou vlastní rodinou (v rolích dětí vystoupily jeho vlastní děti Harold a Dorothy, chůvu ztvárnila jeho manželka Laura Bayleyová), je přelomovým mezníkem filmové syntaxe. 
 
 Smith, klíčová osobnost legendární Brightonské školy, v tomto mikropříběhu poprvé v dějinách kinematografie úspěšně použil dvojitou expozici k vytvoření kruhové viněty a položil základy paralelního vyprávění – techniky, jež navždy proměnila způsob, jakým film organizuje čas a prostor.

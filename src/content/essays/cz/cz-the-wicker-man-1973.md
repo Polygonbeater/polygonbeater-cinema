@@ -9,8 +9,8 @@ image: "/images/essays/the-wicker-man-1973.webp"
 lang: "cz"
 translationSlug: "the-wicker-man-1973"
 director: "Robin Hardy"
+genres: ["Folk horor", "Mysteriózní", "Kultovní"]
 ---
-
 Snímek Robina Hardyho *Rituál* (*The Wicker Man*, 1973, stopáž 88 minut), natočený podle scénáře Anthonyho Shaffera na motivy románu Davida Pinnera *Ritual*, představuje fundamentální základní kámen subžánru folk hororu a jeden z nejvýznamnějších britských filmů sedmdesátých let. Hardy a Shaffer radikálně odmítli gotické klišé nočních hradů, pavučin a netopýrů, jež v té době chrlila studia Hammer Film Productions. 
 
 Místo toho zasadili děj do oslnivého jarního slunce na izolovaném hebridském ostrově Summerisle a stvořili mrazivou anatomii střetu dvou nesmiřitelných dogmatických systémů: rigidního křesťanského autoritářství reprezentovaného puritánským policejním seržantem Howiem a archaického keltského polyteismu obnoveného ostrovní komunitou v čele s charismatickým Lordem Summerislem.

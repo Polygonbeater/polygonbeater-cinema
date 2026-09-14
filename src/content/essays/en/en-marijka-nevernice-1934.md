@@ -9,8 +9,8 @@ image: "/images/essays/marijka-nevernice-1934.webp"
 lang: "en"
 translationSlug: "marijka-nevernice-1934"
 director: "Vladislav Vančura"
+genres: ["Classic Czech Cinema", "Drama", "Folkloric Ballad"]
 ---
-
 The film *Marijka the Unfaithful* (1934) ranks among the most significant avant-garde experiments of 1930s Czechoslovak cinema. Created by the core of the era's creative elite—director Vladislav Vančura, screenwriter Ivan Olbracht, and composer Bohuslav Martinů—the film bypassed Prague studios to shoot directly on location in Carpathian Ruthenia. It is a cinematic ballad that merges avant-garde formal techniques with an almost ethnographic depiction of the harsh life in and around the village of Koločava.
 
 ### 1. The Clash of Natural Elements and Civilizational Order

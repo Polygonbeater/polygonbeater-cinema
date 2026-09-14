@@ -9,8 +9,8 @@ image: "/images/essays/scarlet-street-1945.webp"
 lang: "cz"
 translationSlug: "scarlet-street-1945"
 director: "Fritz Lang"
+genres: ["Film noir", "Krimi", "Drama"]
 ---
-
 Snímek Fritze Langa *Šarlatová ulice* (*Scarlet Street*, 1945, stopáž 102 minut) představuje jeden z nejradikálnějších a nejtemnějších vrcholů americké éry tohoto tvůrce. Ve srovnání s předchozím snímkem *Žena za výlohou* (*The Woman in the Window*, 1944), jenž divákovi nabídl úlevné vysvětlení skrze snovou logiku, *Šarlatová ulice* jakýkoliv narativní ventil nekompromisně uzavírá a nastoluje absolutní fatalistický determinismus. 
 
 Lang v adaptaci románu Georgese de La Fouchardière a divadelní hry Andrého Mouézy-Éona (kterou v roce 1931 poprvé zfilmoval Jean Renoir jako *La Chienne*) provádí neúprosnou dekonstrukci maskulinity, komodifikaci umění a skrze průkopnické využití zvuku analyzuje proces definitivního psychického rozpadu lidského subjektu.

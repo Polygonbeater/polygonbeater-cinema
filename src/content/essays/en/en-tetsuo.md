@@ -9,8 +9,8 @@ image: "/images/essays/tetsuo.webp"
 
 lang: "en"
 translationSlug: "tetsuo"
+genres: ["Cyberpunk", "Body Horror", "Cult"]
 ---
-
 The year was 1989. Japan was at the peak of its economic bubble; the world gleamed with neon light, and technological optimism felt almost tangible. In this intoxication, Shinya Tsukamoto filmed *Tetsuo*—a work that felt like a rusty nail driven into the polished chassis of the society of the time. While the mainstream dreamed of a clean future, Tsukamoto portrayed it as a rotting junkyard.
 
 Historically, *Tetsuo* is not merely a horror film. It is a tremor of the "lost decade" yet to come. The film was born from the bowels of the Tokyo underground scene, an environment where industrial aesthetics collided with punk. Tsukamoto did not work in studios; he worked in garages. The result is not just a film, but a visual annihilation that shocked the world in 1989 with its ferocity.

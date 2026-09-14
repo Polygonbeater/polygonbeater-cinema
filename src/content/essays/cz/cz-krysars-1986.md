@@ -9,8 +9,8 @@ image: "/images/essays/krysars-1986.webp"
 lang: "cz"
 translationSlug: "krysars-1986"
 director: "Jiří Barta"
+genres: ["Animovaný", "Gotický", "Horor"]
 ---
-
 > *„Když město přestalo naslouchat, flétna si vzpomněla, jak mluvit.“*
 
 Snímek Jiřího Barty *Krysař* (1986, stopáž 53 minut) představuje jednu z nejtemnějších a výtvarně nejpůsobivějších alegorií v dějinách světové animace – monumentální baladu vytesanou ze dřeva, ostrých stínů a tísnivého ticha. Barta radikálně přetváří klasickou saskou pověst o krysaři z Hameln (i její literární zpracování Viktorem Dykem) v mrazivé podobenství o etickém rozkladu, nenasytnosti a nevyhnutelném kolapsu civilizace, která vyměnila lidskost za mamon. Nejde o pouhý příběh deratizátora; je to nekompromisní zpráva o tom, co zbude ze společnosti, v níž se lidé sami stali krysami[cite: 101].

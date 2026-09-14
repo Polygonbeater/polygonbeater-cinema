@@ -9,8 +9,8 @@ image: "/images/essays/martha-marcy-may-marlene-2011.webp"
 lang: "cz"
 translationSlug: "martha-marcy-may-marlene-2011"
 director: "Sean Durkin"
+genres: ["Psychologický", "Drama", "Thriller"]
 ---
-
 Tato studie dekonstruuje psychologické drama *Martha Marcy May Marlene* (2011, stopáž 109 minut) jako klinicky přesnou anatomii traumatu a ztráty lidské identity. Snímek analyzuje stav mladé ženy (Elizabeth Olsen), která fyzicky uprchne z patriarchálního kultu do zdánlivého bezpečí luxusního sídla své sestry, ale zjišťuje, že její mysl zůstala uvězněna. 
 
 Metodologicky se text zaměřuje na zrušení hranic mezi minulostí a přítomností (kontinuální, neviditelný střih), destrukci osobního prostoru a jazyk jako nástroj kontroly. Film ukazuje stav absolutní oběti, u níž byl úspěšně dokončen proces rozkladu ega, takže samotná realita a blud se stávají zcela nerozlišitelnými.

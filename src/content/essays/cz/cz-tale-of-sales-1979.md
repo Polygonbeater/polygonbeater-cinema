@@ -9,8 +9,8 @@ image: "/images/essays/tale-of-sales-1979.webp"
 lang: "cz"
 translationSlug: "tale-of-sales-1979"
 director: "Jurij Norštejn"
+genres: ["Animovaný", "Satira", "Krátkometrážní"]
 ---
-
 Animovaný film ruského tvůrce Jurije Norštejna *Pohádka pohádek* (*Skazka skazok*, 1979, stopáž 29 minut), vytvořený ve studiu Sojuzmultfilm ve spolupráci se scenáristkou Ljudmilou Petruševskou a výtvarnicí Francescou Jarbusovou, představuje jeden z nejvyšších vrcholů světové kinematografie. Mezinárodními filmovými anketami kritiků (v Los Angeles 1984 i v Záhřebu 2002) byl opakovaně zvolen vůbec nejlepším animovaným filmem všech dob. 
 
 Norštejn zcela opustil sovětskou státem diktovanou doktrínu socialistického realismu i konvenční dětskou pohádkovou naraci. Vytvořil hluboce intimní, polyfonní a hypnotickou vizuální báseň, jež skrze strukturu lidské paměti ohledává nezahojené rány druhé světové války, melancholii dětství a plynutí času.

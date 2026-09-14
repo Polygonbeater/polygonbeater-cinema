@@ -9,8 +9,8 @@ image: "/images/essays/the-straight-story-1999.webp"
 lang: "en"
 translationSlug: "the-straight-story-1999"
 director: "David Lynch"
+genres: ["Biographical", "Road Movie", "Drama"]
 ---
-
 When you think of David Lynch, you think of nightmares, surreal corridors, and the dark underbelly of America. But in 1999, the master of the bizarre did the most "un-Lynchian" thing possible: he told the simplest, truest story ever captured on film.
 
 *The Straight Story* is not just a movie; it is a 5-mph meditation on human dignity and the horizon of old age.

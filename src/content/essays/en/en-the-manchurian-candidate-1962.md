@@ -9,8 +9,8 @@ image: "/images/essays/the-manchurian-candidate-1962.webp"
 lang: "en"
 translationSlug: "the-manchurian-candidate-1962"
 director: "John Frankenheimer"
+genres: ["Politický thriller", "Espionage", "Paranoid Thriller"]
 ---
-
 > *“Paranoia, in this case, is simply a heightened awareness of a deeper, hidden truth about power.”*
 
 Released during the zenith of the Cold War and the anti-Communist frenzy, John Frankenheimer’s *The Manchurian Candidate* (1962) is the ultimate paranoid political thriller. Based on Richard Condon's novel, it masterfully exploits deep-seated American fears of subversion and elevates the espionage genre into psychological horror.

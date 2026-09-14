@@ -9,8 +9,8 @@ image: "/images/essays/jedna-noc-v-jednom-meste-2007.webp"
 lang: "cz"
 translationSlug: "jedna-noc-v-jednom-meste-2007"
 director: "Jan Balej"
+genres: ["Animovaný", "Černá komedie", "Surrealismus"]
 ---
-
 > *„V tomhle městě má i ticho zuby.“*
 
 Celovečerní loutkový film Jana Baleje *Jedna noc v jednom městě* (2007, stopáž 75 minut), realizovaný v produkci studia Hafan Film, představuje jeden z nejpozoruhodnějších autorských počinů moderní české animace. Snímek, který vznikal náročnou technikou fázové stop-motion animace po dobu téměř deseti let, se pohybuje na pomezí černé městské grotesky, absurdní balady a existenciálního hororu. 

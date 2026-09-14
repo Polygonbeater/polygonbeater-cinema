@@ -9,8 +9,8 @@ image: "/images/essays/citizen-kane-1941.webp"
 lang: "cz"
 translationSlug: "citizen-kane-1941"
 director: "Orson Welles"
+genres: ["Drama", "Mysteriózní", "Klasický Hollywood"]
 ---
-
 Tato studie dekonstruuje opus magnum Orsona Wellese *Občan Kane* (*Citizen Kane*, 1941, stopáž 119 minut) jako přelomové dílo, které zavedlo nelineární narativní strukturu a radikální vizuální postupy do mainstreamové kinematografie. Snímek analyzuje život tiskového magnáta Charlese Fostera Kanea skrze sérii subjektivních retrospektiv pamětníků, kteří se snaží rozluštit význam jeho posledního slova „Rosebud“. 
 
 Metodologicky se text zaměřuje na revoluční kameru Gregga Tolanda (hluboká ostrost, podhledy rámující stropy dekorací), inovativní montáž a dekonstrukci amerického snu, který ve Wellesově podání končí v existenciální prázdnotě uprostřed kolosálního materiálního nadbytku.

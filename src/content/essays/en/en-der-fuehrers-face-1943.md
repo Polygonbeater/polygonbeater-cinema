@@ -9,8 +9,8 @@ image: "/images/essays/der-fuehrers-face-1943.webp"
 lang: "en"
 translationSlug: "der-fuehrers-face-1943"
 director: "Jack Kinney"
+genres: ["Animation", "Propaganda", "Comedy"]
 ---
-
 The 1943 short film *Der Fuehrer's Face*, produced by Walt Disney Productions, is an iconic and highly effective example of how animation was weaponized for morale and psychological warfare during World War II. The short won the Academy Award for Best Animated Short Film in 1943.
 
 ## Hollywood on the Warpath

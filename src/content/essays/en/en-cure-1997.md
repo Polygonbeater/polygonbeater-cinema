@@ -9,8 +9,8 @@ image: "/images/essays/cure-1997.webp"
 lang: "en"
 translationSlug: "cure-1997"
 director: "Kijoshi Kurosawa"
+genres: ["Psychological", "Horror", "Thriller", "Crime"]
 ---
-
 This study deconstructs the cult Japanese psychological horror film *Cure* (1997, running time 111 minutes) as a chilling meditation on the fragility of human identity and the suppressed instincts of modern society. The film formally utilizes the structure of a police procedural to follow Detective Takabe, who is investigating a series of bizarre murders. 
 
 All the perpetrators immediately confess to their crimes but lack any motive; their only connection is a random encounter with a mysterious amnesiac named Mamiya. Methodologically, the text focuses on Tokusho Kikumura's clinically cold camerawork, the use of industrial sound design (low-frequency humming, the rhythm of dripping water), and the erasure of the boundary between rational order and the suppressed vertical of madness. The film demonstrates that true terror does not stem from external evil or monsters, but from the terrifying realization that beneath our carefully constructed social mask, there is absolutely nothing.

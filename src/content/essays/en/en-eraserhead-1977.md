@@ -9,8 +9,8 @@ image: "/images/essays/eraserhead-1977.webp"
 lang: "en"
 translationSlug: "eraserhead-1977"
 director: "David Lynch"
+genres: ["Body Horror", "Surrealism", "Cult"]
 ---
-
 This study deconstructs David Lynch's feature debut *Eraserhead* (1977, running time 89 minutes) as the ultimate cinematic nightmare, resigning from traditional narrative in favor of pure psychoanalytic projection. The film analyzes the story of Henry Spencer, a printer trapped in a dystopian industrial city, forced to face the consequences of the unwanted fatherhood of a mutated, non-human fetus. 
 
 Methodologically, the text focuses on Alan Splet's oppressive sound design (the constant hiss of steam and hum of machinery as a sonic image of depression), the surreal destruction of biological processes, and the motif of suicide as transcendent liberation. The film represents the final stage of psychological horror: a place where the very act of living and creating new life becomes the greatest terror.

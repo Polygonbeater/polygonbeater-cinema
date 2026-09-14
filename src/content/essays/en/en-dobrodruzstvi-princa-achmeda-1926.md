@@ -9,8 +9,8 @@ image: "/images/essays/dobrodruzstvi-princa-achmeda-1926.webp"
 lang: "en"
 translationSlug: "dobrodruzstvi-princa-achmeda-1926"
 director: "Lotte Reiniger"
+genres: ["Animation", "Silent Film", "Fairy Tale"]
 ---
-
 > *“Long before digital animation, Lotte Reiniger crafted the world’s oldest surviving feature-length animated film — a mesmerizing silhouette fantasy that still feels otherworldly today.”*
 
 Lotte Reiniger’s *The Adventures of Prince Achmed* (1926) remains a supreme triumph of craftsmanship and visual poetry. Using thousands of intricate paper cutouts in stop-motion, Reiniger brought to life an epic from *One Thousand and One Nights* — filled with sorcery, flying horses, and shadowy demons.

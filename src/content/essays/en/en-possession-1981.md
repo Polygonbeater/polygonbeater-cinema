@@ -9,8 +9,8 @@ image: "/images/essays/possession-1981.webp"
 lang: "en"
 translationSlug: "possession-1981"
 director: "Andrzej Żuławski"
+genres: ["Body Horror", "Psychological", "Surrealism"]
 ---
-
 This study deconstructs Andrzej Żuławski's psychological horror *Possession* (1981, running time 124 minutes) as the most extreme cinematic portrayal of the breakdown of a marital relationship. The film analyzes the destruction of Mark and Anna's union, which escalates from verbal arguments to physical self-mutilation and the creation of a Lovecraftian monster. 
 
 Methodologically, the text focuses on Bruno Nuytten's kinetic, aggressive camerawork, the symbolism of divided Berlin during the Cold War, and the unprecedented, physically exhausting performance of Isabelle Adjani. The film demonstrates that when emotional pain exceeds the limits of human endurance, psychological disintegration inevitably materializes into flesh, blood, and madness.

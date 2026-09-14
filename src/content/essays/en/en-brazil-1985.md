@@ -9,8 +9,8 @@ image: "/images/essays/brazil-1985.webp"
 lang: "en"
 translationSlug: "brazil-1985"
 director: "Terry Gilliam"
+genres: ["Dystopia", "Sci-Fi", "Black Comedy"]
 ---
-
 Terry Gilliam’s *Brazil* (1985) stands as one of modern cinema’s most striking and intellectually rigorous dystopias. The film’s horror does not derive from monsters or overt tyranny, but from the chilling banality of bureaucratic normality—the daily operation of a system that is technically efficient, procedurally meticulous, and profoundly indifferent to human life.
 
 ### I. Bureaucracy as an Autonomous Organism and the Fly Incident

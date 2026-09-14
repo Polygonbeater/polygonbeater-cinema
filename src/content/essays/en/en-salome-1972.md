@@ -9,8 +9,8 @@ image: "/images/essays/salome-1972.webp"
 lang: "en"
 translationSlug: "salome-1972"
 director: "Carmelo Bene"
+genres: ["Historical", "Art House", "Drama"]
 ---
-
 > *“I didn't want to retell Wilde, but to question the impossibility of martyrdom in a modern world, which is no longer barbaric, but exclusively stupid.”*
 
 Carmelo Bene’s *Salomè* (1972) stands as a radical, iconoclastic zenith of the Italian "Anti-Cinema" movement. Eschewing conventional narrative structures, Bene delivers a destructive, highly stylized adaptation of Oscar Wilde’s play that violently subverts cinematic norms and audience expectations.

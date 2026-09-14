@@ -9,8 +9,8 @@ image: "/images/essays/yotsuya-kaidan.webp"
 lang: "en"
 translationSlug: "yotsuya-kaidan"
 director: "Nobuo Nakagawa"
+genres: ["Japanese Horror", "Kaidan", "Historical"]
 ---
-
 The story of Oiwa and her revenge is one of the most prominent threads in the Japanese kaidan tradition, with roots extending deep into the world of Kabuki. Yet, this is not merely a ghost story. In the Japanese cultural landscape, the narrative carries a strange density—as if it were not simply told, but continuously reactivated. As if each telling does not describe the past, but briefly opens it again.
 
 When Nobuo Nakagawa adapted this material in 1959, he did not enter into "historical source material." He entered a field that was already culturally overloaded. In the kaidan tradition, the story of Oiwa was often approached with caution—with a ritual restraint that was not a sign of fear, but of respect for the possibility that the narration itself might displace something. As if the word were not a neutral carrier, but an intervention<sup id="fnref1"><a href="#fn1">[1]</a></sup>.

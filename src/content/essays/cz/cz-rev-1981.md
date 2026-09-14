@@ -9,8 +9,8 @@ image: "/images/essays/rev-1981.webp"
 lang: "cz"
 translationSlug: "rev-1981"
 director: "Noel Marshall"
+genres: ["Přírodní thriller", "Dobrodružný"]
 ---
-
 Snímek Noela Marshalla *Řev* (*Roar*, 1981, stopáž 102 minut) představuje jeden z nejnebezpečnějších, nejbizarnějších a produkčně nejšílenějších experimentů v dějinách světové kinematografie. Film, natáčený s přestávkami celých jedenáct let na ranči v kalifornském Actonu, byl propagován jako rodinná dobrodružná komedie. Ve skutečnosti však funguje jako nezamýšlený a radikální dokumentární horor – dílo, v němž byla veškerá fikční distance mezi hercem a postavou, mezi krotitelem a dravcem, zcela vymazána.
 
 Marshall přivedl svou vlastní rodinu (manželku Tippi Hedrenovou, nevlastní dceru Melanii Griffithovou a své syny) do bezprostředního soužití se sto padesáti netrénovanými lvy, tygry, levharty a gepardy[cite: 131]. Výsledkem není idylické poselství o harmonii člověka s divočinou, nýbrž autentický somatický teror, zachycující lidskou aroganci tváří v tvář nekontrolovatelné síle přírody[cite: 131].

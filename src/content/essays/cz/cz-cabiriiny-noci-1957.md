@@ -9,8 +9,8 @@ image: "/images/essays/cabiriiny-noci-1957.webp"
 lang: "cz"
 translationSlug: "cabiriiny-noci-1957"
 director: "Federico Fellini"
+genres: ["Drama", "Neorealismus"]
 ---
-
 Federico Fellini nevytvořil v roce 1957 pouze filmový příběh o římské prostitutce. *Cabiriiny noci* (*Le notti di Cabiria*, 1957, stopáž 110 minut) lze číst jako precizní psychologickou pitvu lidské důvěry a mechanismů, jimiž je tato důvěra systematicky zneužívána. Pokud opustíme tradiční filmovědnou kategorizaci a pohlédneme na snímek optikou analýzy moci a manipulace, získáme nekompromisní text o tom, jak snadno jedinec odevzdává svou suverenitu výměnou za iluzi bezpečí.
 
 Tato studie rozkládá Felliniho dílo do tří analytických fází a syntetického závěru, které mapují proces od ztráty ostražitosti až po znovunalezení vnitřní pevnosti.

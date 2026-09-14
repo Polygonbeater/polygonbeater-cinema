@@ -9,8 +9,8 @@ image: "/images/essays/dr-strangelove-1964.webp"
 lang: "cz"
 translationSlug: "dr-strangelove-1964"
 director: "Stanley Kubrick"
+genres: ["Černá komedie", "Válečný", "Satira"]
 ---
-
 Snímek Stanleyho Kubricka *Dr. Divnoláska aneb Jak jsem se naučil nedělat si starosti a mít rád bombu* (*Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb*, 1964, stopáž 95 minut) představuje nepřekonanou černou satiru na jaderné zbrojení, vojenskou paranoiu a selhání byrokratických procedur v éře studené války. Kubrick dekonstruuje politický a vojenský aparát nikoliv jako racionální obranný štít, nýbrž jako smrtící grotesku, v níž je osud lidské civilizace vydán napospas potlačeným psychotickým pudům a slepé automatizaci.
 
 ### I. Psychopatologie jako spouštěč apokalypsy

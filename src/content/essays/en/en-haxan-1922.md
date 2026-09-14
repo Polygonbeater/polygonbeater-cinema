@@ -9,8 +9,8 @@ image: "/images/essays/haxan-1922.webp"
 lang: "en"
 translationSlug: "haxan-1922"
 director: "Benjamin Christensen"
+genres: ["Silent Film", "Documentary", "Horror"]
 ---
-
 > *“This isn't just a horror film; it's an unsettling documentary-horror hybrid that dives into the historical roots and gruesome superstitions.”*
 
 Benjamin Christensen’s *Häxan* (*Witchcraft Through the Ages*, 1922) is a towering, singular achievement in cinematic history. Based on the infamous *Malleus Maleficarum* (the 15th-century guide for inquisitors), *Häxan* uses lavish dramatic reenactments to bring medieval nightmares to life: graphic scenes of torture, nuns possessed by demons, flying witches, and the Devil presiding over a Satanic Sabbath.

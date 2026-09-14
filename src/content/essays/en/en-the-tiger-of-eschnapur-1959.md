@@ -9,8 +9,8 @@ image: "/images/essays/the-tiger-of-eschnapur-1959.webp"
 lang: "en"
 translationSlug: "the-tiger-of-eschnapur-1959"
 director: "Fritz Lang"
+genres: ["Adventure", "Exotic", "Epic"]
 ---
-
 *The Tiger of Eschnapur* (101 min) marks Fritz Lang’s triumphant return to German cinema. Reclaiming a script he co-wrote in 1921, Lang delivered a vibrant Eastmancolor epic that hides a biting critique of Western arrogance and the totalitarian nature of monumental architecture.
 
 ### I. The Architecture of Hubris and Surveillance

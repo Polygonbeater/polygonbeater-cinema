@@ -9,8 +9,8 @@ image: "/images/essays/the-arsenal-stadium-mystery-1939.webp"
 
 lang: "cz"
 translationSlug: "the-arsenal-stadium-mystery-1939"
+genres: ["Detektivní", "Sportovní", "Krimi"]
 ---
-
 > *„Vizionářský kriminální film, který povýšil nízkorozpočtový formát na stylový, autentický a historicky neocenitelný milník britské kinematografie.“*
 
 Britský kriminální snímek *Záhada na stadiónu Arsenalu* (*The Arsenal Stadium Mystery*, 1939, stopáž 84 minut) v režii Thorolda Dickinsona představuje jedno z prvních děl v dějinách světového filmu, které postavilo profesionální sportovní prostředí – konkrétně anglický prvoligový fotbal – do samotného epicentra kriminálního vyprávění. Snímek, adaptující populární detektivní román Leonarda Gribbla, vznikl v produkci studia G&S Films. 

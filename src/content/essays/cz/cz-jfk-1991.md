@@ -9,8 +9,8 @@ image: "/images/essays/jfk-1991.webp"
 lang: "cz"
 translationSlug: "jfk-1991"
 director: "Oliver Stone"
+genres: ["Politický", "Thriller", "Historický"]
 ---
-
 Snímek Olivera Stonea *JFK* (1991, stopáž 189 minut) představuje jeden z nejradikálnějších formálních experimentů v dějinách hollywoodské kinematografie. Stone nepřistupuje k atentátu na Johna F. Kennedyho z 22. listopadu 1963 jako k tradičnímu narativnímu vyšetřování, nýbrž proměňuje filmové médium v agresivní nástroj vizuálního dokazování. Režisér nevede s divákem otevřený dialog; uvádí jej do precizně zkonstruovaného interpretačního pole, které diváka zahlcuje podněty a strukturálně protěžuje autorskou verzi spiknutí.
 
 Tato studie dekonstruuje film skrze dva základní teoretické pilíře: fenomén informační saturace a techniku strukturální asimilace dokumentárního faktu s fikční fabulací.

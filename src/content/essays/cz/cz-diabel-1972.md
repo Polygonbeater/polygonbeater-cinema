@@ -9,8 +9,8 @@ image: "/images/essays/diabel-1972.webp"
 lang: "cz"
 translationSlug: "diabel-1972"
 director: "Andrzej Żuławski"
+genres: ["Historický", "Horor", "Surrealismus"]
 ---
-
 Andrzej Żuławski dokončil svůj radikální autorský snímek *Ďábel* (*Diabeł*, 1972, stopáž 119 minut) v atmosféře zostřeného dohledu komunistické cenzury po polských politických krizích let 1968 a 1970. Film byl komunistickými úřady okamžitě stažen a zamčen do trezoru; k divákům se dostal až v roce 1988. Tento osud nebyl náhodný – Żuławski nepřistupuje k minulosti jako k pietnímu historickému plátnu, nýbrž jako k hnisající ráně, v níž se rozklad státní suverenity stává přímou příčinou totálního rozpadu lidské integrity.
 
 ### I. Apokalypsa roku 1793 a kolaps společenského řádu

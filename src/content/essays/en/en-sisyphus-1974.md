@@ -9,8 +9,8 @@ image: "/images/essays/sisyphus-1974.webp"
 lang: "en"
 translationSlug: "sisyphus-1974"
 director: "Marcell Jankovics"
+genres: ["Animation", "Philosophical", "Short Film"]
 ---
-
 > *“The weight isn’t the stone. It’s the will.”*
 
 Marcell Jankovics’ *Sisyphus* (1974) is a film so minimal it borders on the mythical — and yet, in its brief three minutes, it captures the entire condition of human existence. No dialogue. No color. No escape. Just a man, a stone, and the sound of his breath. Where most animation seeks motion, Jankovics finds struggle itself as art.

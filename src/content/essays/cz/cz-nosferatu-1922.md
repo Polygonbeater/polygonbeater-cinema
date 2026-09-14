@@ -9,8 +9,8 @@ image: "/images/essays/nosferatu-1922.webp"
 lang: "cz"
 translationSlug: "nosferatu-1922"
 director: "F. W. Murnau"
+genres: ["Horor", "Němý film", "Expresionismus"]
 ---
-
 > *„A když překročil most, obklopily ho přízraky.“*
 
 Němý film Friedricha Wilhelma Murnaua *Nosferatu: Symfonie hrůzy* (*Nosferatu, eine Symphonie des Grauens*, 1922, stopáž 94 minut) představuje základní text světového filmového hororu a jeden z absolutních vrcholů německého expresionismu. Ačkoliv byl natočen jako neautorizovaná adaptace slavného románu Brama Stokera *Dracula*, Murnau a jeho scenárista Henrik Galeen vytvořili zcela autonomní mýtus. 

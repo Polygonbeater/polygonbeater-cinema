@@ -9,8 +9,8 @@ image: "/images/essays/the-46-seconds-that-changed-the-world-forever.webp"
 lang: "en"
 translationSlug: "the-46-seconds-that-changed-the-world-forever"
 director: "Auguste a Louis Lumièrové"
+genres: ["Documentary", "Silent Film", "Historical"]
 ---
-
 Imagine a world where images never moved. No TikTok. No Netflix. No YouTube.
 
 Then came December 28, 1895—and everything changed.

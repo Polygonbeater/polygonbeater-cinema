@@ -9,8 +9,8 @@ image: "/images/essays/rashomon-1950.webp"
 lang: "en"
 translationSlug: "rashomon-1950"
 director: "Akira Kurosawa"
+genres: ["Historical", "Mystery", "Philosophical"]
 ---
-
 This study deconstructs Akira Kurosawa’s film *Rashomon* (1950, running time 88 min) as a pivotal work of modern cinema that introduced non-linear storytelling based on subjectivity. The film won the Golden Lion at the Venice Film Festival in 1951 and introduced the term "Rashomon effect" into the English language and scientific discourse. 
 
 The film analyzes a single violent act (the murder of a samurai and the rape of his wife) through four mutually exclusive testimonies. Methodologically, the text relies on the analysis of Kazuo Miyagawa’s camera kinetics, the study of unreliable narrators, and the socio-psychological impact of the film on the perception of individual integrity in a fractured world.

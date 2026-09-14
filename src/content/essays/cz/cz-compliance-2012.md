@@ -9,8 +9,8 @@ image: "/images/essays/compliance-2012.webp"
 lang: "cz"
 translationSlug: "compliance-2012"
 director: "Craig Zobel"
+genres: ["Psychologický", "Thriller", "Drama"]
 ---
-
 Tato studie dekonstruuje psychologický thriller Craiga Zobela *Nařčení* (*Compliance*, 2012, stopáž 90 minut) jako mrazivé varovné memento před systémovou konformitou a slepou poslušností. Snímek, který je rekonstrukcí reálného případu ze státu Kentucky, sleduje běžnou páteční směnu ve fastfoodové restauraci. Do podniku zavolá neznámý muž vydávající se za policejního důstojníka a přesvědčí manažerku Sandru, že mladá pokladní okradla zákaznici. Pod rouškou formálního vyšetřování donutí personál dívku uvěznit v zázemí a podrobit ji sérii stupňujících se, extrémně ponižujících prohlídek. 
 
 Metodologicky se text zaměřuje na sociálně-psychologický fenomén obedience vůči autoritě, mechanismus difúze odpovědnosti a kognitivní paralýzu oběti. Film dokazuje, že nejnebezpečnějším mocenským nástrojem není fyzická zbraň, nýbrž společenské naprogramování bezvýhradně poslouchat kohokoliv, kdo vystupuje s dostatečně asertivní úřední autoritou.

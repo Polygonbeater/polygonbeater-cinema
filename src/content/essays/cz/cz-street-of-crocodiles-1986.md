@@ -9,8 +9,8 @@ image: "/images/essays/street-of-crocodiles-1986.webp"
 
 lang: "cz"
 translationSlug: "street-of-crocodiles-1986"
+genres: ["Animovaný", "Surrealismus", "Experimentální"]
 ---
-
 > *„Rozpadající se sen, kde stroje pamatují víc než lidé.“*
 
 Krátkometrážní animovaný snímek amerických dvojčat Stephena a Timothyho Quayových *Ulička krokodýlů* (*Street of Crocodiles*, 1986, stopáž 21 minut) představuje jeden z absolutních vrcholů světové loutkové animace a experimentálního filmu. Film, volně vycházející ze stejnojmenné povídky polsko-židovského spisovatele a výtvarníka Bruna Schulze zavražděného gestapem v drohobyčském ghettu, zcela opouští tradiční narativní struktury. 

@@ -9,8 +9,8 @@ image: "/images/essays/breathless-1960.webp"
 lang: "cz"
 translationSlug: "breathless-1960"
 director: "Jean-Luc Godard"
+genres: ["Nová vlna", "Krimi", "Drama"]
 ---
-
 Tato studie dekonstruuje manifest francouzské nové vlny *U konce s dechem* (*À bout de souffle*, 1960, stopáž 90 minut) jako radikální přetržení dosavadní filmové gramatiky. Snímek analyzuje příběh drobného zlodějíčka Michela Poiccarda, jehož existence je zredukována na neustálý pohyb vpřed. 
 
 Metodologicky se text zaměřuje na revoluční techniku „jump cut“ (skokový střih), natáčení v reálných ulicích Paříže a vědomou absenci psychologické hloubky postav. Film ukazuje svět, který je zbaven jakékoli duchovní či morální osy (vertikály) a který se řítí pouze po povrchové rovině asfaltu, módy a prchavého okamžiku (horizontále), dokud mu nedojde dech.

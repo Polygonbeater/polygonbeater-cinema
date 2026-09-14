@@ -9,8 +9,8 @@ image: "/images/essays/die-nibelungen-1924.webp"
 
 lang: "cz"
 translationSlug: "die-nibelungen-1924"
+genres: ["Němý film", "Fantasy", "Epos"]
 ---
-
 Dvoudílný velkofilm *Nibelungové* (*Die Nibelungen: Siegfried* a *Kriemhilds Rache*, 1924, celková stopáž 288 minut) v režii Fritze Langa a podle scénáře Thei von Harbou představuje absolutní vrchol němé monumentální kinematografie Výmarské republiky. Namísto romantické ilustrace národního eposu přetavil Lang středověkou mytologii v nemilosrdnou studii o geometrii moci, rituálním determinismu a sebezničujícím systému absolutních hodnot.
 
 ### I. Architektura UFA a Schüfftanův proces: Inženýrství monumentu

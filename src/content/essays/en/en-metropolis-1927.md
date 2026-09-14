@@ -9,8 +9,8 @@ image: "/images/essays/metropolis-1927.webp"
 lang: "en"
 translationSlug: "metropolis-1927"
 director: "Fritz Lang"
+genres: ["Sci-Fi", "Silent Film", "Dystopia"]
 ---
-
 Fritz Lang’s futuristic epic *Metropolis* (1927), scripted by Thea von Harbou, stands as the ultimate visual and ideological manifesto of the Weimar Republic. Born out of the "Golden Twenties," the film reflects both rapid industrial modernization and deep cultural anxieties surrounding Taylorism, Fordism, and the mechanization of human labor.
 
 ### I. Vertical Hierarchy and the Geometry of Oppression

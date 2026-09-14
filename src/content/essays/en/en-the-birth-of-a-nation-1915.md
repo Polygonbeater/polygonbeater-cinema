@@ -9,8 +9,8 @@ image: "/images/essays/the-birth-of-a-nation-1915.webp"
 lang: "en"
 translationSlug: "the-birth-of-a-nation-1915"
 director: "D. W. Griffith"
+genres: ["Silent Film", "Historical", "Epic"]
 ---
-
 D. W. Griffith’s 1915 epic, *The Birth of a Nation*, is arguably the single most important and controversial film in the history of cinema. It is a dual artifact: a technical masterpiece that pioneered the language of film, and a racist polemic whose ideological damage cannot be overstated.
 
 ## Technical Revolution and Epic Form

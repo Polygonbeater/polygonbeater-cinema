@@ -9,8 +9,8 @@ image: "/images/essays/angst-1983.webp"
 
 lang: "en"
 translationSlug: "angst-1983"
+genres: ["Horror", "Psychological", "Thriller"]
 ---
-
 This study deconstructs the Austrian cult thriller *Angst* (1983, running time 87 minutes) as one of the most radical existential probes into the mind of a cold-blooded killer in the history of cinema. Loosely based on the true case of Werner Kniesek, the film follows a nameless psychopath from the moment of his release from prison to a sudden, impulsive massacre of a family in an isolated villa. 
 
 Methodologically, the text focuses on Zbigniew Rybczyński's revolutionary camerawork (the apparatus strapped directly to the actor's body), the cold inner monologue as a form of absolute isolation, and Klaus Schulze's pulsating electronic score. The film portrays evil not as a brilliant master plan, but as a chaotic, pathetic, and unstoppable biological reflex.

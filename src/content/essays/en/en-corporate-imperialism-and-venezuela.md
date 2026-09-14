@@ -9,8 +9,8 @@ image: "/images/essays/burn-1969.webp"
 lang: "en"
 translationSlug: "corporate-imperialism-and-venezuela"
 director: "Gillo Pontecorvo"
+genres: ["Documentary", "Political", "Essay"]
 ---
-
 The fundamental problem facing American democracy is that the tools of extraction described decades ago have not disappeared; they have simply gone global and corporate.
 
 ## The Evolved Narrative: John Perkins & Corporatocracy

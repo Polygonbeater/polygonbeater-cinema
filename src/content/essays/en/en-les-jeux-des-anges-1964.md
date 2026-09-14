@@ -9,8 +9,8 @@ image: "/images/essays/les-jeux-des-anges-1964.webp"
 
 lang: "en"
 translationSlug: "les-jeux-des-anges-1964"
+genres: ["Animation", "Experimental", "Surrealism"]
 ---
-
 *Les Jeux des Anges* (1964), directed by the Polish émigré Walerian Borowczyk, is a searing, non-narrative masterpiece of animated terror. Created in France, the film is profoundly rooted in the psychological and physical scars of WWII and totalitarianism, serving as a chilling visual testimony to the industrialized horror of the 20th century.
 
 ## Style: Surrealism and Aesthetic Horror

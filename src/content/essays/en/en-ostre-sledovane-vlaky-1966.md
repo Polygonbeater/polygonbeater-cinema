@@ -8,8 +8,8 @@ image: "/images/essays/ostre-sledovane-vlaky-1966.webp"
 lang: "en"
 translationSlug: "ostre-sledovane-vlaky-1966"
 director: "Jiří Menzel"
+genres: ["Comedy", "Drama", "War"]
 ---
-
 Imagine a world where bombs fall, cities burn, and Europe suffocates under the heavy iron boot of history. Amidst this apocalyptic thunder, somewhere in central Bohemia, a telegraph quietly ticks away in the dusty station of Kostomlaty. Dispatcher Hubička courts the young telegraphist, the stationmaster feeds his beloved pigeons, and young apprentice Miloš Hrma feels as though his entire universe has collapsed. Not because of Hitler, but because he has failed as a man in the arms of a loving girl.
 
 Bohumil Hrabal would have adored such a perspective, for it holds the very essence of his worldview. An essay on Closely Watched Trains must not be a cold academic dissection; it must smell of oil, cheap cologne, and station dust. It must search for the pearl at the bottom.

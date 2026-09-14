@@ -9,8 +9,8 @@ image: "/images/essays/dr-strangelove-1964.webp"
 lang: "en"
 translationSlug: "dr-strangelove-1964"
 director: "Stanley Kubrick"
+genres: ["Black Comedy", "War", "Satire"]
 ---
-
 This study examines Stanley Kubrick’s satirical masterpiece *Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb* (1964) as the ultimate indictment of human absurdity, bureaucratic incompetence, and technocratic paranoia during the Cold War. The film demonstrates that humanity's downfall will not stem from a grand clash between good and evil, but rather from individual failures and unquestioning reliance on automated systems.
 
 ### I. Psychopathology as an Apocalyptic Trigger

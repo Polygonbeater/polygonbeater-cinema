@@ -9,8 +9,8 @@ image: "/images/essays/human-desire-1954.webp"
 lang: "en"
 translationSlug: "human-desire-1954"
 director: "Fritz Lang"
+genres: ["Film Noir", "Drama", "Crime"]
 ---
-
 *Human Desire* (91 min) is Lang’s cold, clinical take on Émile Zola’s naturalism. Moving away from the moral outrage of *The Big Heat*, Lang focuses here on the "beast within" the modern industrial worker. The film is a study of how human emotions—jealousy, lust, and greed—are amplified and eventually crushed by the mechanical indifference of the machine age.
 
 ### I. Broderick Crawford: The Primal Force

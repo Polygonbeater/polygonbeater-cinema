@@ -9,8 +9,8 @@ image: "/images/essays/brana-do-temnot.webp"
 lang: "cz"
 translationSlug: "brana-do-temnot"
 director: "Lucio Fulci"
+genres: ["Horor", "Mysteriózní", "Němý film"]
 ---
-
 Lucio Fulci ve svém mistrovském díle *Brána do temnot* (*E tu vivrai nel terrore! L'aldilà*, 1981, stopáž 87 minut) zcela odmítá konvence tradičního kriminálního či gotického vyprávění. Snímek představuje triumf ryzího lovecraftovského nihilismu, v němž je racionální kauzalita systematicky podřízena snové logice rozkladu. Fulci divákovi nepředkládá zápletku k analytickému luštění, ale horečnatou noční můru k prožití – dílo čistého somatického a metafyzického zmaru.
 
 Základní rámec je zdánlivě přímočarý: mladá Newyorčanka Liza (Catriona MacColl) zdědí zchátralý hotel Seven Doors v Louisianě, aniž by tušila, že pod jeho základy leží jedna ze sedmi bran do pekla. Tím však veškerá standardní narativní pravidla končí a začíná pád do prázdnoty.

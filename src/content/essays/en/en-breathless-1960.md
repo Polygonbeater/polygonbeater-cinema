@@ -9,8 +9,8 @@ image: "/images/essays/breathless-1960.webp"
 lang: "en"
 translationSlug: "breathless-1960"
 director: "Jean-Luc Godard"
+genres: ["French New Wave", "Crime", "Drama"]
 ---
-
 This study deconstructs the manifesto of the French New Wave, *Breathless* (À bout de souffle, 1960, running time 90 minutes), as a radical severing of traditional film grammar. The film analyzes the story of petty thief Michel Poiccard, whose existence is reduced to ceaseless forward momentum. 
 
 Methodologically, the text focuses on the revolutionary technique of the "jump cut," shooting in the real streets of Paris, and the conscious absence of psychological depth in the characters. The film presents a world stripped of any spiritual or moral axis (the vertical)—a world hurtling exclusively along the surface plane of asphalt, fashion, and the fleeting moment (the horizontal), until it runs out of breath.

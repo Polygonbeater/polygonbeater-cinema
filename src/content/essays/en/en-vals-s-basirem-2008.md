@@ -9,8 +9,8 @@ image: "/images/essays/vals-s-basirem-2008.webp"
 lang: "en"
 translationSlug: "vals-s-basirem-2008"
 director: "Ari Folman"
+genres: ["Animated Documentary", "War", "Psychological"]
 ---
-
 > *“How do you remember something too painful to face?”*
 
 Ari Folman’s *Waltz with Bashir* (2008) isn’t just a film — it’s an act of excavation. This Israeli animated documentary redefined what cinema can do, merging memory, guilt, and history into one haunting visual symphony.

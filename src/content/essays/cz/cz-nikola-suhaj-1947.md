@@ -9,8 +9,8 @@ image: "/images/essays/nikola-suhaj-1947.webp"
 lang: "cz"
 translationSlug: "nikola-suhaj-1947"
 director: "Miroslav Josef Krňanský"
+genres: ["Klasický český film", "Dobrodružný", "Balada"]
 ---
-
 Filmová adaptace slavného románu Ivana Olbrachta z roku 1947, realizovaná pod režijním vedením Miroslava Josefa Krňanského, představuje pozoruhodný přechodový moment v dějinách československé kinematografie. Zatímco meziválečné snímky (*Marijka nevěrnice*, *Hordubalové*) zachycovaly Podkarpatskou Rus jako integrální, sociálně rozporuplnou součást první Československé republiky, *Nikola Šuhaj* vznikal v poválečné atmosféře, kdy bylo toto území na základě československo-sovětské smlouvy z června 1945 definitivně postoupeno Sovětskému svazu. 
 
 Snímek tak funguje jako jeden z prvních poválečných filmových obrazů Podkarpatska, který již spíše než reálnou sociální topografii reflektuje mýtus o prostoru, jejž nenávratně pohltily geopolitické změny poválečné Evropy.

@@ -9,8 +9,8 @@ image: "/images/essays/plynove-lampy-1944.webp"
 lang: "cz"
 translationSlug: "plynove-lampy-1944"
 director: "George Cukor"
+genres: ["Psychologický thriller", "Gotický", "Klasický Hollywood"]
 ---
-
 Klasický psychologický thriller George Cukora *Plynové lampy* (*Gaslight*, 1944, stopáž 114 minut) představuje fundamentální dílo světové kinematografie, jež dalo vzniknout modernímu psychologickému a sociologickému pojmu „gaslighting“. Snímek, adaptující úspěšnou divadelní hru Patricka Hamiltona, sleduje Paulu Alquistovou, kterou její charismatický manžel Gregory Anton systematicky a chladnokrevně vmanipulovává do stavu zdánlivého šílenství, aby získal přístup k rodinným klenotům ukrytým na půdě jejího rodného domu. 
 
 Metodologicky se text zaměřuje na Cukorovo propojení psychologického nátlaku s oscarovou výpravou Cedrica Gibbonse a expresionistickou chiaroscuro kamerou Josepha Ruttenberga, jež proměňují viktoriánský interiér v klaustrofobní mučírnu lidské duše.

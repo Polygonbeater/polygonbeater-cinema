@@ -9,8 +9,8 @@ image: "/images/essays/krev-a-cerna-krajka.webp"
 lang: "cz"
 translationSlug: "krev-a-cerna-krajka"
 director: "Mario Bava"
+genres: ["Giallo", "Horor", "Krimi"]
 ---
-
 Když Mario Bava v roce 1964 uvedl do kin film *Krev a černá krajka* (*Sei donne per l'assassino*, stopáž 88 minut), neučinil pouhý krok stranou od své dřívější černobílé gotické tvorby; provedl radikální estetickou revoluci, která kodifikovala italské filmové giallo a vytvořila fundamentální vizuální i narativní předlohu pro pozdější americký slasher. Bava vzal kostru klasické detektivky a bezohledně ji podřídil tyranii čisté formy. Ve světě luxusního římského módního salonu, kde se vysoká krejčovina prolíná s chladnokrevnou likvidací nepohodlných svědků, se sytá malířská chromatika a lidská krev stávají rovnocennými výtvarnými médii.
 
 Tato studie nahlíží na Bavovo mistrovské dílo jako na fascinující reflexi fetišismu, voyeurismu konzumní společnosti a proměnu brutální vraždy v avantgardní vizuální instalaci.

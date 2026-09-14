@@ -8,8 +8,8 @@ image: "/images/essays/brana-do-temnot.webp"
 lang: "en"
 translationSlug: "brana-do-temnot"
 director: "František Vláčil"
+genres: ["Horror", "Mystery", "Silent Film"]
 ---
-
 ## Architecture of Absolute Ruin: Rot, Lovecraft, and the Death of Logic in Fulci’s The Beyond (1981)
 
 Forget about detectives in trench coats and logical explanations in the final scene. In his masterpiece The Beyond (L'aldilà, 1981), Lucio Fulci refuses to play by the rules of traditional horror. In fact, he refuses to play by any rules at all. The film is a triumph of pure, Lovecraftian nihilism where traditional causality is radically subordinated to dream logic. Fulci doesn't offer the viewer a story to decipher, but a fever dream to endure. And he executes it with such brutal, spellbinding visual poetry that it becomes a masterpiece of repulsion. The premise seems banal at first glance: a young New Yorker named Liza (Catriona MacColl) inherits a dilapidated hotel in Louisiana, unaware that it is built directly over one of the Seven Doors of Hell. But that is exactly where any normal plot ends, and the freefall into the abyss begins.

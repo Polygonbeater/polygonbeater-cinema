@@ -9,8 +9,8 @@ image: "/images/essays/blow-up-1966.webp"
 lang: "cz"
 translationSlug: "blow-up-1966"
 director: "Michelangelo Antonioni"
+genres: ["Mysteriózní", "Drama", "Art"]
 ---
-
 Tato studie dekonstruuje první anglicky mluvený film Michelangela Antonioniho *Zvětšenina* (*Blow-Up*, 1966, stopáž 111 minut) jako radikální zkoumání limitů lidského vnímání a nespolehlivosti fotografického záznamu. Snímek, volně inspirovaný povídkou Júlia Cortázara, analyzuje vyprázdněnost „swingujícího Londýna“ skrze postavu fotografa Thomase, který věří, že skrze objektiv ovládá realitu.
 
 Metodologicky se text zaměřuje na barevnou dramaturgii Carla Di Palmy, narativní dekonstrukci detektivního žánru a filozofický přesah závěrečné scény s mimi. Film ukazuje, že čím více se snažíme realitu „přiblížit“ a zvětšit, tím spíše se nám rozpadá v nečitelnou abstrakci.

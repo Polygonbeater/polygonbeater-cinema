@@ -9,8 +9,8 @@ image: "/images/essays/the-confession-1970.webp"
 lang: "en"
 translationSlug: "the-confession-1970"
 director: "Costa-Gavras"
+genres: ["Politický thriller", "Historical", "Drama"]
 ---
-
 *The Confession* is not propaganda — it is an autopsy of propaganda in practice. It reconstructs the Stalinist show trial of Rudolf Slánský and 13 co-defendants in Czechoslovakia (1952), exposing how totalitarian systems manufacture guilt through fear, isolation, sleep deprivation, and scripted confessions.
 
 ### The Machinery of False Truth

@@ -9,8 +9,8 @@ image: "/images/essays/televizni-sit-1976.webp"
 lang: "cz"
 translationSlug: "televizni-sit-1976"
 director: "Sidney Lumet"
+genres: ["Satira", "Mediální drama", "Černá komedie"]
 ---
-
 Přelomová mediální satira režiséra Sidneyho Lumeta a scenáristy Paddyho Chayefského *Televizní síť* (*Network*, 1976, stopáž 121 minut), oceněná čtyřmi Oscary, představuje jedno z nejproročtějších děl v dějinách americké kinematografie. Film, vytvořený v éře vrcholícího vlivu televizních korporací, nepředstavuje pouhou zveličenou frašku z televizního zákulisí. 
 
 Je to chirurgicky přesný teoretický model komodifikace lidského hněvu, dekonstrukce novinářské etiky a podřízení veškerých společenských hodnot diktátu sledovanosti a korporátního kapitálu. Lumet a Chayefsky geniálně předpověděli zrod moderních televizních a digitálních formátů – od reality show přes senzacechtivé zpravodajství až po algoritmickou monetizaci frustrace na moderních sociálních sítích.

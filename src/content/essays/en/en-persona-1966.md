@@ -9,8 +9,8 @@ image: "/images/essays/persona-1966.webp"
 lang: "en"
 translationSlug: "persona-1966"
 director: "Ingmar Bergman"
+genres: ["Psychological", "Drama", "Art House"]
 ---
-
 This study deconstructs Ingmar Bergman's radical work *Persona* (1966, running time 83 minutes) as the ultimate exploration of the instability of human identity. The film analyzes the relationship between silent actress Elisabet and her nurse Alma, whose personalities begin to dangerously blur in isolation. 
 
 Methodologically, the text focuses on Sven Nykvist’s experimental cinematography (extreme close-ups of faces), the breaking of the "fourth wall," and the reflection on the film medium itself as an unreliable mediator of reality. The film demonstrates that beneath the social mask (the persona), there is no solid self, but a deep and terrifying void.

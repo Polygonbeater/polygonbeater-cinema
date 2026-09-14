@@ -9,8 +9,8 @@ image: "/images/essays/kabaret-1972.webp"
 lang: "cz"
 translationSlug: "kabaret-1972"
 director: "Bob Fosse"
+genres: ["Muzikál", "Historický", "Drama"]
 ---
-
 Snímek Boba Fosseho *Kabaret* (*Cabaret*, 1972, stopáž 124 minut), volně vycházející z broadwayského muzikálu a próz Christophera Isherwooda, představuje jeden z nejpronikavějších rozborů společenského konformismu a mechanismů plíživé fašizace v dějinách filmu. Fosse radikálně rekonfiguroval tradiční hollywoodský muzikál: veškerá hudební a taneční čísla vyjmul z reality všedního dne a situoval je výhradně na jeviště dekadentního berlínského Kit Kat Klubu na počátku třicátých let.
 
 Tato studie dekonstruuje film jako model tzv. vědomé komplicity – chování umělců a společenských elit, kteří tváří v tvář nastupující totalitě volí cynický odstup, profesionální slepotu a psychologickou kompartmentalizaci výměnou za zachování vlastního zisku, slávy a iluze bezpečí.

@@ -9,8 +9,8 @@ image: "/images/essays/plynove-lampy-1944.webp"
 lang: "en"
 translationSlug: "plynove-lampy-1944"
 director: "George Cukor"
+genres: ["Psychological Thriller", "Gothic", "Classic Hollywood"]
 ---
-
 This study deconstructs George Cukor’s classic psychological thriller *Gaslight* (1944, running time 114 minutes) as the fundamental work that defined the modern concept of sanity manipulation. The film follows Paula, whose husband Gregory systematically and deliberately drives her insane to gain access to family jewels hidden in the attic. Methodologically, the text focuses on the brilliant fusion of psychological pressure and Oscar-winning visual execution—from the use of the cluttered domestic space as a claustrophobic trap, through the expressionist manipulation of fading light and sound, to the final catharsis where the victim uses the imposed illusion of madness as a weapon against her tormentor. The film is an absolute anatomy of how human identity can be destroyed using a camera and shadows, without a single drop of blood.
 
 ### I. The Architecture of Isolation and Visual Suffocation

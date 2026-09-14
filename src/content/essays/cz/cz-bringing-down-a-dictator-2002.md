@@ -9,8 +9,8 @@ image: "/images/essays/bringing-down-a-dictator-2002.webp"
 lang: "cz"
 translationSlug: "bringing-down-a-dictator-2002"
 director: "Steve York"
+genres: ["Dokumentární", "Politický"]
 ---
-
 Oceňovaný dokumentární film Steva Yorka *Bringing Down a Dictator* (2002, stopáž 56 minut), doprovázený komentářem Martina Sheena, zachycuje vzestup srbského hnutí Otpor! (Odpor!), které v říjnu roku 2000 rozhodujícím způsobem přispělo k pádu režimu Slobodana Miloševiće. Snímek představuje učebnicovou studii toho, jak může disciplinovaná a decentralizovaná skupina studentů přelstít policejní aparát pomocí asymetrické strategie, strategického humoru a moderního marketingu.
 
 ### I. Demontáž strachu pomocí humoru a politické jiu-jitsu

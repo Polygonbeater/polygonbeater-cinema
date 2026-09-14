@@ -9,8 +9,8 @@ image: "/images/essays/moonfleet-1955.webp"
 lang: "en"
 translationSlug: "moonfleet-1955"
 director: "Fritz Lang"
+genres: ["Adventure", "Period", "Drama"]
 ---
-
 *Moonfleet* (87 min) is Fritz Lang’s clinical deconstruction of the adventure genre. Developed with screenwriters Jan Lustig and Margaret Fitts, the film rejects swashbuckling tropes in favor of a haunting exploration of guilt and betrayal. Produced by MGM in Eastmancolor and CinemaScope, it is a film where the landscape itself feels sentient and judgmental.
 
 ### I. The Aesthetics of Entrapment (2.55:1)

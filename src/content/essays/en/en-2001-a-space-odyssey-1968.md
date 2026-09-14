@@ -9,8 +9,8 @@ image: "/images/essays/2001-a-space-odyssey-1968.webp"
 lang: "en"
 translationSlug: "2001-a-space-odyssey-1968"
 director: "Stanley Kubrick"
+genres: ["Sci-Fi", "Mystery", "Philosophical"]
 ---
-
 This study deconstructs Stanley Kubrick's *2001: A Space Odyssey* (1968, running time 149 minutes) as a visual symphony of human destiny. The film transforms the science-fiction genre into a non-linear philosophical essay on the relationship between man, tool, and the unknown. 
 
 Methodologically, the text focuses on Douglas Trumbull's revolutionary visual effects, the use of classical music to express cosmic order, and the deconstruction of HAL 9000 as a mirror of human emotions. The study examines the monolith as a catalyst for evolution—from the first tool (weapon) to the birth of the Star Child.

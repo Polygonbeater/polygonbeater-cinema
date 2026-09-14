@@ -9,8 +9,8 @@ image: "/images/essays/the-confession-1970.webp"
 lang: "cz"
 translationSlug: "the-confession-1970"
 director: "Costa-Gavras"
+genres: ["Politický thriller", "Historický", "Drama"]
 ---
-
 Politické drama řecko-francouzského režiséra Costa-Gavrase *Doznání* (*L'Aveu*, 1970, stopáž 139 minut), natočené podle autobiografické knihy Artura Londona za scenáristické spolupráce Jorgeho Semprúna, představuje jedno z nejvýznamnějších a nejničivějších děl světové politické kinematografie. Film není ideologickou propagandou; je to chladná, precizní a neúprosná anatomie totalitní propagandy v její každodenní represivní praxi. 
 
 Snímek rekonstruuje vykonstruovaný monstrproces s „vedením protistátního spikleneckého centra v čele s Rudolfem Slánským“ z listopadu 1952 v komunistickém Československu a podává detailní zprávu o tom, jak stalinistický aparát za pomoci sovětských poradců systematicky vyráběl falešnou vinu, rozbíjel lidskou identitu a nutil oddané komunisty recitovat předem nařízená doznání k zločinům, které nikdy nespáchali.

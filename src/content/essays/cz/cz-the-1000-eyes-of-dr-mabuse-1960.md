@@ -9,8 +9,8 @@ image: "/images/essays/the-1000-eyes-of-dr-mabuse-1960.webp"
 lang: "cz"
 translationSlug: "the-1000-eyes-of-dr-mabuse-1960"
 director: "Fritz Lang"
+genres: ["Sci-Fi", "Krimi", "Špionážní"]
 ---
-
 Snímek *Tisíc očí dr. Mabuseho* (*Die 1000 Augen des Dr. Mabuse*, 1960, stopáž 103 minut) představuje definitivní uměleckou i filozofickou závěť Fritze Langa. Po návratu z hollywoodského exilu a realizaci dvoudílného indického dobrodružného eposu se Lang v západoněmecké produkci Artura Braunera vrátil k postavě, která formovala jeho kariéru již od výmarského němého eposu z roku 1922. 
 
 Doktor Mabuse v roce 1960 však již není pouhým geniálním zločincem, falešným hráčem či hypnotizérem ovládajícím jednotlivce skrze magickou vůli. V Langově pozdní vizi se Mabuse proměnil v anonymní, všudypřítomný systém – v technokratický mechanismus dohledu a sběru dat. Lang jako jeden z prvních filmařů pochopil, že moc budoucích totalit nebude stát na hlomozu zbraní, nýbrž na neviditelné optické a zvukové kontrole, jež občany redukuje na pouhé datové body[cite: 116].

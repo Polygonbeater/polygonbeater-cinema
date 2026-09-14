@@ -9,8 +9,8 @@ image: "/images/essays/ikiru-1952.webp"
 lang: "en"
 translationSlug: "ikiru-1952"
 director: "Akira Kurosawa"
+genres: ["Drama", "Philosophical"]
 ---
-
 This study deconstructs Akira Kurosawa’s humanistic masterpiece *Ikiru* (*To Live*, 1952, running time 143 minutes) as a radical exploration of bureaucratic paralysis and the search for the meaning of human existence in the face of death. The film analyzes the transformation of Kanji Watanabe, an aging civil servant who, after receiving a stomach cancer diagnosis, awakens from a thirty-year coma of mechanical routine. 
 
 Methodologically, the text focuses on Kurosawa’s innovative non-linear narrative structure (the second half of the film is told retrospectively at a wake), the visualization of institutional alienation, and the iconic final scene on the swing. The film demonstrates that true power does not lie in controlling others, but in the ability to imprint a personal, meaningful mark upon an indifferent reality.

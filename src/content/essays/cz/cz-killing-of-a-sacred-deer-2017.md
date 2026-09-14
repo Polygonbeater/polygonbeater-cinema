@@ -9,8 +9,8 @@ image: "/images/essays/killing-of-a-sacred-deer-2017.webp"
 lang: "cz"
 translationSlug: "killing-of-a-sacred-deer-2017"
 director: "Yorgos Lanthimos"
+genres: ["Psychologický", "Mysteriózní", "Horor"]
 ---
-
 Tato studie dekonstruuje psychologický thriller Yorgose Lanthimose *Zabití posvátného jelena* (*The Killing of a Sacred Deer*, 2017, stopáž 121 minut) jako moderní radikální adaptaci Eurípidovy antické tragédie *Ifigenie v Aulidě*. Snímek analyzuje život špičkového kardiochirurga Stevena Murphyho, jehož rodina se stane obětí nevysvětlitelné paralyzující choroby poté, co do jejich soukromí pronikne dospívající Martin – syn pacienta, který zemřel na Stevenově operačním stole. 
 
 Metodologicky se text zaměřuje na vysoce stylizovaný, monotónní projev postav (*deadpan*), geometrickou širokoúhlou kameru snímající sterilní nemocnice a předměstské vily jako vězeňské cely a koncept neúprosné rituální reciprocity. Film představuje vrcholný bod intelektuálního hororu, v němž děs nevychází z nadpřirozených monster, nýbrž z neúprosných zákonitostí vyššího řádu, který vyžaduje absolutní vyrovnání viny.

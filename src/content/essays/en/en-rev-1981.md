@@ -9,8 +9,8 @@ image: "/images/essays/rev-1981.webp"
 lang: "en"
 translationSlug: "rev-1981"
 director: "Noel Marshall"
+genres: ["Nature Thriller", "Adventure"]
 ---
-
 This study deconstructs the unique cinematic experiment *Roar* (1981, running time 102 minutes) as a radical form of „found footage“ horror that predates the genre's popularity, with the critical difference that the threat was real. The film analyzes a family's attempt to live in a single house with over a hundred predatory cats. Methodologically, the text focuses on the blurring of lines between fiction and the documentation of actual assault, the psychology of director Noel Marshall (an obsession with controlling the uncontrollable), and the total erosion of safety within domestic space. The film represents the ultimate study of taming gone chaotic, where the human voice and authority mean nothing against tons of living muscle and fangs.
 
 ### I. The Aesthetic of Real Threat and the Horizontal of Blood

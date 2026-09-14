@@ -9,8 +9,8 @@ image: "/images/essays/the-snake-pit-1948.webp"
 lang: "en"
 translationSlug: "the-snake-pit-1948"
 director: "Anatole Litvaka"
+genres: ["Psychological Drama", "Institutional Drama"]
 ---
-
 Anatole Litvak’s *The Snake Pit* (1948) breaks away from conventional cinematic horror to deliver a harrowing drama of institutional terror. Adapted from Mary Jane Ward’s 1946 semi-autobiographical novel, the film captures the post-WWII shift in American psychiatry from punitive confinement toward psychoanalytic reform, powerfully influencing public perception and real-world mental health care standards.
 
 ### I. The Hospital as a Hierarchical Apparatus

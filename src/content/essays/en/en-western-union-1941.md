@@ -9,8 +9,8 @@ image: "/images/essays/western-union-1941.webp"
 lang: "en"
 translationSlug: "western-union-1941"
 director: "Fritz Lang"
+genres: ["Western", "Historical", "Technological"]
 ---
-
 *Western Union* (1941) stands as Fritz Lang’s fifth American film following his flight from Nazi Germany in 1933. Transplanting his dark, fatalistic vision into the classic Western genre, Lang utilizes the American nation-building myth—the 1860s telegraph linking of the continent based on Zane Grey's novel—to reflect on how technological infrastructure radically reshapes human existence.
 
 ### I. Historical Context: Style and Adaptation

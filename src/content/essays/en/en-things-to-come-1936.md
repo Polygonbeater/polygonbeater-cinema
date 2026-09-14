@@ -9,8 +9,8 @@ image: "/images/essays/things-to-come-1936.webp"
 lang: "en"
 translationSlug: "things-to-come-1936"
 director: "William Cameron Menzies"
+genres: ["Sci-Fi", "Dystopia", "Utopia"]
 ---
-
 The 1936 British science fiction epic, *Things to Come*, stands not merely as a pre-WWII warning but as a profound cinematic examination of social engineering, technological utopianism, and the political rise of the expert class. Adapted by H.G. Wells from his own work, this film critically explores the conditions under which a technocratic regime might emerge from the ashes of democracy and war.
 
 ## The Foreshadowing of Collapse (1936 Context)

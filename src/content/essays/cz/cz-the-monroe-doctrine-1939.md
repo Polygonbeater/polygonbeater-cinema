@@ -9,8 +9,8 @@ image: "/images/essays/the-monroe-doctrine-1939.webp"
 lang: "cz"
 translationSlug: "the-monroe-doctrine-1939"
 director: "A. Edward Sutherland"
+genres: ["Historický", "Propaganda", "Krátkometrážní"]
 ---
-
 Krátkometrážní historický snímek *Monroeova doktrína* (*The Monroe Doctrine*, 1939, stopáž 16 minut), natočený v produkci studia Warner Bros. v režii A. Edwarda Sutherlanda v technologii Technicolor, představuje klíčový ideologický artefakt americké kinematografie na samém prahu druhé světové války. Film nevznikl jako kritická historická analýza, nýbrž jako didaktická a silně patriotická obhajoba tradičního amerického izolacionismu v okamžiku, kdy v Evropě po invazi do Polska propukl nový vojenský požár. 
 
 Warner Bros. skrze rekonstrukci klíčových dějinných mezníků ubezpečovalo americkou veřejnost, že posvátnou povinností Spojených států je bránit západní polokouli před pronikáním nepřátelských evropských mocností (tehdy zosobněných nacistickým Německem a fašistickou Itálií) a vyhnout se přímému zapojení do evropských válek.

@@ -18,6 +18,7 @@ const essays = defineCollection({
     lang: z.string().optional(),
     slug: z.string().optional(),
     translationSlug: z.string().optional(),
+    genres: z.array(z.string()).default([]),
   }),
 });
 

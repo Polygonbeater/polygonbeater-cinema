@@ -9,8 +9,8 @@ image: "/images/essays/scarlet-street-1945.webp"
 lang: "en"
 translationSlug: "scarlet-street-1945"
 director: "Fritz Lang"
+genres: ["Film Noir", "Crime", "Drama"]
 ---
-
 *Scarlet Street* (102 min) represents a radical peak in Fritz Lang's American career. In contrast to *The Woman in the Window* (1944), which offers an escape through dream logic, *Scarlet Street* firmly closes this narrative escape valve and establishes absolute fatalism. This study explores the early post-war destabilization of gender and social roles while utilizing Michel Chion’s sound theory to analyze the psychic disintegration of the protagonist.
 
 ### Methodological Framework and Defining Film Noir

@@ -9,8 +9,8 @@ image: "/images/essays/krysars-1986.webp"
 lang: "en"
 translationSlug: "krysars-1986"
 director: "Jiří Barta"
+genres: ["Animation", "Gothic", "Horror"]
 ---
-
 > *“When the city stopped listening, only the flute remembered how to speak.”*
 
 Jiří Barta’s *Krysař* (*The Pied Piper*, 1986) is one of the most hauntingly crafted allegories in the history of animation — a tale carved from wood, shadow, and silence. Based on the legend of the Pied Piper of Hamelin, Barta transforms a moral fable into a nightmare of moral rot, a surreal meditation on greed, conformity, and the collapse of the human spirit. This isn’t a story of rats — it’s the story of what remains when humanity becomes them.

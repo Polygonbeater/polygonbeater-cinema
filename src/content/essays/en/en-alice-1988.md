@@ -9,8 +9,8 @@ image: "/images/essays/alice-1988.webp"
 lang: "en"
 translationSlug: "alice-1988"
 director: "Jan Švankmajer"
+genres: ["Animation", "Surrealism", "Horror"]
 ---
-
 > *“A dream you can feel under your fingernails.”*
 
 Jan Švankmajer’s *Alice* (*Něco z Alenky*, 1988) transforms Lewis Carroll’s classic into a nightmare of dust, wood, and fur — a surrealist excavation of the subconscious. Where Disney offered color and wonder, Švankmajer offers texture and decay. It’s not fantasy — it’s a tactile hallucination.

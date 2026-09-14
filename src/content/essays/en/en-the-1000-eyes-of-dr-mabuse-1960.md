@@ -9,8 +9,8 @@ image: "/images/essays/the-1000-eyes-of-dr-mabuse-1960.webp"
 lang: "en"
 translationSlug: "the-1000-eyes-of-dr-mabuse-1960"
 director: "Fritz Lang"
+genres: ["Sci-Fi", "Crime", "Espionage"]
 ---
-
 *The 1,000 Eyes of Dr. Mabuse* (103 min) serves as Fritz Lang’s final artistic testament. Returning to the antagonist that defined his early career, Lang explores a new, modern form of evil: systemic surveillance. 
 
 In 1960, Lang predicted that the power of the future would lie not with those who hold weapons, but with those who control screens and data.

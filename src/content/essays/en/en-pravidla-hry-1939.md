@@ -8,8 +8,8 @@ image: "/images/essays/pravidla-hry-1939.webp"
 lang: "en"
 translationSlug: "pravidla-hry-1939"
 director: "Jean Renoir"
+genres: ["Satire", "Comedy of Manners", "Drama"]
 ---
-
 On the eve of a historic catastrophe, as Europe hurtled uncontrollably toward the abyss of World War II, Jean Renoir created a work that was no mere mirror to society, but its relentless X-ray. When *The Rules of the Game* (*La Règle du Jeu*) premiered in 1939, the audience jeered, the film was subjected to swift editing cuts, and it was soon officially banned. It is hardly surprising. Renoir did not offer French high society a comforting comedy of manners, but a cold, elegant anatomy of moral decay in which a deadly emptiness lurks beneath the polished veneer of etiquette.
 
 ## Spatial Equality and Deep Focus

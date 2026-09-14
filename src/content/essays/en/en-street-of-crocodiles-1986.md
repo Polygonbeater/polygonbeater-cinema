@@ -9,8 +9,8 @@ image: "/images/essays/street-of-crocodiles-1986.webp"
 
 lang: "en"
 translationSlug: "street-of-crocodiles-1986"
+genres: ["Animation", "Surrealism", "Experimental"]
 ---
-
 > *“A decaying dream, where machines remember more than men.”*
 
 There are films that tell stories — and then there are films that dissect the soul. *Street of Crocodiles* (1986), directed by identical twins Stephen and Timothy Quay, is not a narrative in the usual sense. It’s a nightmare whispered through dust, an oneiric descent into a world where puppets, strings, and broken toys remember the collapse of meaning better than we do.

@@ -9,8 +9,8 @@ image: "/images/essays/diabel-1972.webp"
 lang: "en"
 translationSlug: "diabel-1972"
 director: "Andrzej Żuławski"
+genres: ["Historical", "Horror", "Surrealism"]
 ---
-
 Andrzej Żuławski completed The Devil (Diabeł) in 1972, at a time when Polish cultural policy was under the strict supervision of censorship. After its completion, the film was shelved by authorities and did not enter standard distribution until 1988, following the relaxation of censorship restrictions. This fate is not merely a historical footnote; it underscores the radical nature of the work. Żuławski does not treat history as archival material, but as an open, festering wound.
 
 ### Apocalypse in 1793

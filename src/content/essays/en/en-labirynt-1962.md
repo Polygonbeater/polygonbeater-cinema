@@ -9,8 +9,8 @@ image: "/images/essays/labirynt-1962.webp"
 lang: "en"
 translationSlug: "labirynt-1962"
 director: "Jan Lenica"
+genres: ["Animation", "Experimental", "Surrealism"]
 ---
-
 > *“A man wakes into a nightmare made of order.”*
 
 Jan Lenica’s *Labirynt* (1962) is one of the crown jewels of European surrealist animation — a wordless, haunting allegory of modern existence, political repression, and the quiet horror of civilization’s machinery. It is a Kafkaesque dream carved from paper and ink, where every cut-out and corridor speaks of control, routine, and the erosion of individuality.

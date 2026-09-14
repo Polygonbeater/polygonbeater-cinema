@@ -9,8 +9,8 @@ image: "/images/essays/dobrodruzstvi-princa-achmeda-1926.webp"
 lang: "cz"
 translationSlug: "dobrodruzstvi-princa-achmeda-1926"
 director: "Lotte Reiniger"
+genres: ["Animovaný", "Němý film", "Pohádka"]
 ---
-
 > *„Dlouho před digitální animací stvořila Lotte Reinigerová nejstarší dochovaný celovečerní animovaný film na světě – podmanivou siluetovou fantasy, která dodnes působí jako z jiného světa.“*
 
 Snímek *Dobrodružství prince Achmeda* (*Die Abenteuer des Prinzen Achmed*, 1926, stopáž 66 minut) německé avantgardní tvůrkyně Lotte Reinigerové představuje nejstarší dochovaný celovečerní animovaný film v dějinách kinematografie. Celé desetiletí před premiérou disneyovské *Sněhurky* dokázala Reinigerová se svým úzkým štábem v domácím ateliéru v Postupimi oživit svět orientálních mýtů z *Tisíce a jedné noci* výhradně pomocí černého lepenkového papíru, nůžek a důmyslného prosvětlovacího stolu.

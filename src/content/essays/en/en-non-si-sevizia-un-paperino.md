@@ -9,8 +9,8 @@ image: "/images/essays/non-si-sevizia-un-paperino.webp"
 
 lang: "en"
 translationSlug: "non-si-sevizia-un-paperino"
+genres: ["Giallo", "Mystery", "Horror"]
 ---
-
 Most horror films teach us to fear the monster as an intruder disrupting a familiar world. Lucio Fulci’s *Non si sevizia un paperino* (1972) offers a more unsettling idea: what if no monster exists? What if society itself is the true monster?
 
 The film fundamentally diverges from classic gialli. Fulci abandons urban decadence for the sun-scorched Italian South, creating horror where the threat is the mechanisms of an entire community. It anticipates some of the key structural principles of modern folk horror.

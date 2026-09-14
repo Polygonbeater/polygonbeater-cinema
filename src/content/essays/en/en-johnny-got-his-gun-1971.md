@@ -9,8 +9,8 @@ image: "/images/essays/johnny-got-his-gun-1971.webp"
 lang: "en"
 translationSlug: "johnny-got-his-gun-1971"
 director: "Dalton Trumbo"
+genres: ["Anti-war", "Drama", "Psychological"]
 ---
-
 There are anti-war films that depict trenches and mass graves. And then there is Johnny Got His Gun (1971), a film that strips away the battlefield to leave only the final cost. Dalton Trumbo does not adapt a story of war; he creates an anatomy of a man whom war has "survived" so thoroughly that nothing remains but pure consciousness.
 
 Joe Bonham, a WWI soldier, wakes into an existence that defies the very definition of life. Without limbs, sight, hearing, or speech, Joe is trapped within a biological vessel that has become his living sarcophagus. The source of absolute anguish here lies not in physical deformity, but in the existential situation itself: a consciousness condemned to absolute isolation without the possibility of contact.

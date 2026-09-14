@@ -9,8 +9,8 @@ image: "/images/essays/bringing-down-a-dictator-2002.webp"
 lang: "en"
 translationSlug: "bringing-down-a-dictator-2002"
 director: "Steve York"
+genres: ["Documentary", "Political"]
 ---
-
 Narrated by Martin Sheen, this award-winning documentary chronicles the meteoric rise of Otpor! (Resistance!), the Serbian student movement that toppled Slobodan Milošević in 2000. It is a masterclass in how a decentralized group of youth can outmaneuver a brutal state apparatus using disciplined strategy and sophisticated psychological marketing.
 
 ### Dismantling Fear with Strategic Humor

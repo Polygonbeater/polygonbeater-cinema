@@ -9,8 +9,8 @@ image: "/images/essays/lost-highway-1997.webp"
 lang: "en"
 translationSlug: "lost-highway-1997"
 director: "David Lynch"
+genres: ["Neo-noir", "Surrealism", "Psychological"]
 ---
-
 In Lost Highway, David Lynch treats the film not as an observation of the world, but as a closed system designed to consume the viewer. The film begins with the announcement of a death ("Dick Laurent is dead") and ends at that very same point. Within this seemingly closed narrative construction, there is no linear story—only an endless transformation of identity that strips the viewer of all orientation.
 
 Lynch performs a radical surgery: midway through the film, he radically disrupts the continuity of the protagonist's identity, while the world around them—superficially—remains the same. This ontological dislocation represents one of the most discussed cases of identity disruption in modern cinema. It is as if Fred Madison is looking at someone who is no longer himself, and everything that seemed logically ordered collapses into the shape of a Möbius strip. The audience finds itself in a space where identity is not a given, but merely a temporary, fragile mask.

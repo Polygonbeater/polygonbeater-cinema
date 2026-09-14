@@ -9,8 +9,8 @@ image: "/images/essays/blood-on-satans-claw-1971.webp"
 
 lang: "cz"
 translationSlug: "blood-on-satans-claw-1971"
+genres: ["Folk horor", "Historický"]
 ---
-
 Tato studie dekonstruuje stěžejní dílo britského folk-hororu *Krev na Satanově drápu* (*The Blood on Satan's Claw*, 1971, stopáž 93 minut) jako mrazivou sondu do zrodu pohanského kultu v Anglii 17. století. Snímek analyzuje postupný rozklad venkovské komunity poté, co je na poli vyorána znetvořená, chlupatá lebka neznámého původu. 
 
 Nález funguje jako psychologický a biologický virus, který nakazí místní mládež, jež se pod vedením charismatické Angel Blake začne uchylovat k rituálním vraždám, nošení zvířecích masek a uctívání bytosti zvané Behemot. Metodologicky se text zaměřuje na konflikt mezi generacemi, symboliku nezvládnutelné přírody (bahno a kožešiny) a erozi křesťanské autority. Film ukazuje venkovskou tradici nikoliv jako folklorní idylu, ale jako neustálou hrozbu propadu do zvířecího barbarství.

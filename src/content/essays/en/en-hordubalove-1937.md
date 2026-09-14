@@ -9,8 +9,8 @@ image: "/images/essays/hordubalove-1937.webp"
 
 lang: "en"
 translationSlug: "hordubalove-1937"
+genres: ["Drama", "Classic Czech Cinema"]
 ---
-
 Directed by Martin Frič, the film adaptation of the first installment of Karel Čapek's famous noetic trilogy stands as a pinnacle of interwar Czechoslovak cinema. *Hordubalové* (1937) is not merely a psychological crime drama involving a love triangle and murder; it operates as a brilliant sociological probe into the internal contradictions of the First Republic. The film visualizes the radical civilizational fracture between the mythical, insular world of a Carpathian village and the modern state apparatus represented by the judicial system and the region's administrative center.
 
 ### 1. State Rationality vs. Carpathian Fatalism

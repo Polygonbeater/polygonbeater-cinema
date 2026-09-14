@@ -9,8 +9,8 @@ image: "/images/essays/freaks-1932.webp"
 
 lang: "cz"
 translationSlug: "freaks-1932"
+genres: ["Horor", "Drama", "Kultovní"]
 ---
-
 > *„Film, který šokoval Hollywood svou radikální lidskostí a obsazením skutečných cirkusových umělců namísto monstrózních masek.“*
 
 Předkódové mistrovské dílo *Pozor na netvory!* (*Freaks*, 1932, stopáž 64 minut) v režii Toda Browninga představuje jeden z nejodvážnějších a nejradikálnějších humanistických manifestů v dějinách kinematografie. Snímek zasazený do prostředí kočovného evropského cirkusu sleduje liliputána Hanse, do něhož se účelově zahledí krásná artistka Kleopatra s cílem jej otrávit a získat jeho dědictví. Browning však klasické melodramatické schéma přetavil v nekompromisní etickou obžalobu společenského pokrytectví.

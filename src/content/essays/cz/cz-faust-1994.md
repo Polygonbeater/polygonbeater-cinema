@@ -9,8 +9,8 @@ image: "/images/essays/faust-1994.webp"
 lang: "cz"
 translationSlug: "faust-1994"
 director: "Jan Švankmajer"
+genres: ["Animovaný", "Surrealismus", "Drama"]
 ---
-
 Snímek *Lekce Faust* (*Faust*, 1994, stopáž 97 minut) Jana Švankmajera představuje jednu z nejradikálnějších materiálních a filozofických rekonfigurací faustovského mýtu v moderní kinematografii. Švankmajer syntetizuje texty Johanna Wolfganga von Goetha, Christophera Marlowa, lidové loutkářské hry matěje Kopeckého i motivy z Christiana Dietricha Grabbeho. Zásadně však odmítá tradiční metafyzický patos a nahrazuje jej mechanickým světem řízeným materiálními procedurami, byrokracií a nevyhnutelnou manipulací.
 
 Tato studie analyzuje film jako model taktilní správy moci, kde lidské vědomí nepředstavuje autonomní subjekt, nýbrž pouhou biologickou součástku chycenou v pasti absurdního společenského stroje.

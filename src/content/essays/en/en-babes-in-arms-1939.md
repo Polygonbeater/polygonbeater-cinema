@@ -9,8 +9,8 @@ image: "/images/essays/babes-in-arms-1939.webp"
 lang: "en"
 translationSlug: "babes-in-arms-1939"
 director: "Busby Berkeley"
+genres: ["Musical", "Comedy", "Classic Hollywood"]
 ---
-
 > *“A dazzling celebration of youth, talent, and the indomitable spirit that the show must go on.”*
 
 Released in 1939 at the peak of MGM’s musical golden age, *Babes in Arms* is the quintessential "backyard musical." Based loosely on Rodgers and Hart’s Broadway hit, the plot follows the children of aging vaudeville actors who band together to mount a spectacular revue to avoid being sent to a work farm while their parents are on tour.

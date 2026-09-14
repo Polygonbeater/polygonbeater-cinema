@@ -9,8 +9,8 @@ image: "/images/essays/rancho-notorious-1952.webp"
 lang: "en"
 translationSlug: "rancho-notorious-1952"
 director: "Fritz Lang"
+genres: ["Western", "Film Noir", "Drama"]
 ---
-
 *Rancho Notorious* (89 min) is Lang's most stylized western and his second deep exploration of Technicolor. Beneath the genre surface lies a noir heart, deconstructing the myth of the Old West. The film uses a "ballad structure" as a Greek chorus to explore themes of inescapable fate and moral corrosion driven by an obsessive quest for vengeance.
 
 ### Methodological Framework

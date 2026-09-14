@@ -9,8 +9,8 @@ image: "/images/essays/shock-corridor-1963.webp"
 
 lang: "cz"
 translationSlug: "shock-corridor-1963"
+genres: ["Psychologický", "Drama", "Mysteriózní"]
 ---
-
 Snímek Samuela Fullera *Chodba šoků* (*Shock Corridor*, 1963, stopáž 101 minut) představuje jednu z nejagresivnějších, myšlenkově nejodvážnějších a nekompromisních kritik společenské reality Spojených států v éře studené války. Fuller nepojednává o psychiatrické léčebně jako o pouhém nefunkčním ústavu či sociálním zařízení. V jeho pojetí se blázinec stává přesným mikrokosmem a funkčním modelem disciplinárního státu, jenž veškeré akutní politické, rasové a ideologické konflikty moderní Ameriky převádí do sterilního a neškodného jazyka medicínské diagnózy.
 
 Tato studie analyzuje film skrze foucaultovskou teorii moci, Goffmanův koncept totální instituce a dekonstrukci liberálního mýtu o nezávislé žurnalistice[cite: 99].

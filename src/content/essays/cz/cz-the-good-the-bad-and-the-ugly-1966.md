@@ -9,8 +9,8 @@ image: "/images/essays/the-good-the-bad-and-the-ugly-1966.webp"
 lang: "cz"
 translationSlug: "the-good-the-bad-and-the-ugly-1966"
 director: "Sergio Leone"
+genres: ["Western", "Dobrodružný", "Kultovní"]
 ---
-
 > *„Každá válka je jen jiné jméno pro to, co z člověka zbude, když ztratí smysl.“*
 
 Závěrečný a nejmonumentálnější díl tzv. dolarové trilogie italského režiséra Sergia Leoneho *Hodný, zlý a ošklivý* (*Il buono, il brutto, il cattivo*, 1966, stopáž 177 minut) představuje definitivní vrchol evropské reinterpretace amerického westernu. V době, kdy byl klasický hollywoodský mýtus o osidlování hranice a morálním řádu šerifů vyčerpán, přetavil Leone žánr do podoby monumentálního pikareskního eposu o lidstvu zbaveném transcendence a morální jistoty. 

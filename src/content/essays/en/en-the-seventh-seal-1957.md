@@ -9,8 +9,8 @@ image: "/images/essays/the-seventh-seal-1957.webp"
 lang: "en"
 translationSlug: "the-seventh-seal-1957"
 director: "Ingmar Bergman"
+genres: ["Philosophical", "Historical", "Drama"]
 ---
-
 This study analyzes Ingmar Bergman's *The Seventh Seal* (1957, running time 96 min) as a fundamental work of existential cinema. By transplanting the anxieties of the Cold War—specifically the threat of nuclear annihilation—into the setting of a 14th-century Europe devastated by the plague, Bergman created a timeless allegory about the search for meaning in the face of absolute finality. This allegory directly mirrors the 1950s fears of total destruction. 
 
 Methodologically, the text relies on the analysis of chiaroscuro and composition by cinematographer Gunnar Fischer, the existential philosophy of Søren Kierkegaard, and the iconography of medieval morality plays. The study deconstructs the chess match as both a narrative and philosophical tool for delaying the inevitable end and searching for one meaningful act within the silence of God.

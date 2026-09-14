@@ -9,8 +9,8 @@ image: "/images/essays/frankenstein-1931.webp"
 lang: "en"
 translationSlug: "frankenstein-1931"
 director: "James Whale"
+genres: ["Horror", "Sci-Fi", "Classic Hollywood"]
 ---
-
 James Whale’s Frankenstein (1931) significantly helped shape the iconography of the classic horror film. While rooted in Mary Shelley’s novel, the film adapts it into the visual language of the early sound era, where gothic atmosphere collides with an emerging fascination with scientific progress. Frankenstein is not merely a horror tale about the creation of a monster; it can be read as a tragic meditation on the creator's responsibility for his work.
 
 ### Visual Language as a Testimony to Deformation

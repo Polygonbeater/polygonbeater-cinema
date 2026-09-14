@@ -9,8 +9,8 @@ image: "/images/essays/dr-mabuse-der-spieler-1922.webp"
 
 lang: "cz"
 translationSlug: "dr-mabuse-der-spieler-1922"
+genres: ["Němý film", "Krimi", "Expresionismus"]
 ---
-
 Monumentální dvoudílný němý film *Doktor Mabuse, hráč* (*Dr. Mabuse, der Spieler*, 1922, celková stopáž 270 minut) v režii Fritze Langa a podle scénáře They von Harbou představuje jeden z vůbec prvních a nejpropracovanějších modelů moderní moci ve světové kinematografii. Snímek vznikl v křečovitém období Výmarské republiky poznamenaném válečným traumatem, hyperinflací, politickými atentáty a všeobecným kolapsem institucionální důvěry.
 
 ### I. Mabuse jako operační systém a technologie kontroly

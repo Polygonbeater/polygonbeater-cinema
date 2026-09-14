@@ -9,8 +9,8 @@ image: "/images/essays/titane-2021.webp"
 lang: "en"
 translationSlug: "titane-2021"
 director: "Julia Ducournau"
+genres: ["Body Horror", "Transgressive", "Drama"]
 ---
-
 This study deconstructs Julia Ducournau’s transgressive body horror *Titane* (2021, running time 108 minutes) as a radical exploration of post-humanism and the boundaries of human identity. The film follows Alexia, a serial killer with a titanium plate in her skull, who becomes pregnant after a sexual encounter with a car and assumes the identity of a long-lost son of an aging firefighter to escape the police. Methodologically, the text focuses on the fetishization of machines, the somatic terror of body modification, the deconstruction of toxic masculinity, and the concept of radical, unconditional empathy. The film illustrates the horror of one's own corporality while simultaneously finding profound, almost religious catharsis in the absolute acceptance of monstrosity.
 
 ### I. The Eroticism of Machines and the Industrial Horizontal

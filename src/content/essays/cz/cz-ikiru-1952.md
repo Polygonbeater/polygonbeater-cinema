@@ -9,8 +9,8 @@ image: "/images/essays/ikiru-1952.webp"
 lang: "cz"
 translationSlug: "ikiru-1952"
 director: "Akira Kurosawa"
+genres: ["Drama", "Filozofický"]
 ---
-
 Tato studie dekonstruuje humanistické mistrovské dílo Akiry Kurosawy *Žít* (*Ikiru*, 1952, stopáž 143 minut) jako radikální zkoumání byrokratické paralýzy a hledání smyslu lidské existence tváří v tvář smrti. Snímek analyzuje proměnu Kándžiho Watanabeho, stárnoucího úředníka, který po diagnóze rakoviny žaludku procitne z třicetiletého kómatu mechanické rutiny. 
 
 Metodologicky se text zaměřuje na Kurosawovu inovativní nelineární narativní strukturu (druhá polovina filmu je vyprávěna retrospektivně na karu), vizualizaci institucionálního odcizení a ikonickou závěrečnou scénu na houpačce. Film ukazuje, že skutečná moc nespočívá v ovládání druhých, ale ve schopnosti vtisknout lhostejné realitě osobní, smysluplnou stopu.

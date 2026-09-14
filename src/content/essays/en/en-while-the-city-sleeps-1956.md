@@ -9,8 +9,8 @@ image: "/images/essays/while-the-city-sleeps-1956.webp"
 lang: "en"
 translationSlug: "while-the-city-sleeps-1956"
 director: "Fritz Lang"
+genres: ["Film Noir", "Media Drama", "Crime"]
 ---
-
 *While the City Sleeps* (100 min) is Lang’s most cynical exploration of the Fourth Estate. Lang creates a chilling parallel between the voyeurism of the murderer and the professional voyeurism of the newsroom.
 
 ### I. Historical Context: The Birth of Sensationalism

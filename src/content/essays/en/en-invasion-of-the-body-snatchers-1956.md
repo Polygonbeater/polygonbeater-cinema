@@ -9,8 +9,8 @@ image: "/images/essays/invasion-of-the-body-snatchers-1956.webp"
 lang: "en"
 translationSlug: "invasion-of-the-body-snatchers-1956"
 director: "Don Siegel"
+genres: ["Sci-Fi", "Horror", "Paranoid Thriller"]
 ---
-
 > *“How do you know that the person you're talking to is still themselves, and not merely a narrative replica?”*
 
 Don Siegel’s 1956 masterpiece *Invasion of the Body Snatchers*, adapted from Jack Finney’s novel, stands as a seminal work of allegorical sci-fi horror. The threat arrives not through overt planetary destruction, but via quiet, creeping replication—ordinary humans replaced by emotionless pod replicas devoid of anxiety or moral friction.

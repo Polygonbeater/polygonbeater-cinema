@@ -9,8 +9,8 @@ image: "/images/essays/onibaba-1964.webp"
 lang: "en"
 translationSlug: "onibaba-1964"
 director: "Kaneto Šindó"
+genres: ["Horror", "Historical", "Japonský film"]
 ---
-
 The 1964 release of *Onibaba* marks a decisive rupture in postwar Japanese cinema. At a moment when Japan was publicly projecting an image of technological modernity—symbolically crystallized by the Tokyo Olympics—Kaneto Shindō turned backward to the fourteenth century to excavate what may be described as a materialist counter-history (Richie 2005; Desser 1988). Rejecting the heroic teleology of classical *jidaigeki*, Shindō dismantles feudal mythology to reveal history not as narrative progression but as a cyclical crisis of the body: hunger, sex, violence, and death endlessly reproduced (Standish 2000).
 
 *Onibaba* does not revise history; it negates it.

@@ -9,8 +9,8 @@ image: "/images/essays/repulsion-1965.webp"
 
 lang: "cz"
 translationSlug: "repulsion-1965"
+genres: ["Psychologický horor", "Thriller"]
 ---
-
 Snímek Romana Polanského *Hnus* (*Repulsion*, 1965, stopáž 105 minut), první díl jeho volné „apartmánové trilogie“ (doplněné později snímky *Rosemary má děťátko* a *Nájemník*), představuje jeden z klíčových pilířů moderního psychologického hororu. Polanski ve svém prvním britském filmu radikálně odmítá konvenční gotické rekvizity i vnější monstra. Namísto toho provádí nekompromisní formální analýzu postupného propadu lidského vědomí do schizofrenní psychózy a androfobie (patologického strachu z mužů a sexuality). 
 
 Děs nevychází z nadpřirozených sil, nýbrž z každodenní reality londýnského bytu, který se pod vlivem senzorického přetížení a traumatické izolace mění v autonomní psychologický aparát zkázy[cite: 135].

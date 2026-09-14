@@ -9,8 +9,8 @@ image: "/images/essays/paris-texas-1984.webp"
 lang: "en"
 translationSlug: "paris-texas-1984"
 director: "Wim Wenders"
+genres: ["Road Movie", "Drama", "Psychological"]
 ---
-
 This study deconstructs Wim Wenders' melancholic road movie *Paris, Texas* (1984, running time 145 minutes) as an existential exploration of human isolation, the disintegration of memory, and the effort to find forgiveness. The film analyzes the journey of Travis Henderson, a man who emerges from the desert stripped of language and his past, attempting to mend broken ties with his son and former wife. 
 
 Methodologically, the text focuses on the visual compositions of cinematographer Robby Müller (the aesthetics of neon and empty American highways), the musical landscape of Ry Cooder, and the masterful screenplay by Sam Shepard. The film demonstrates that internal trauma cannot be overcome by a physical escape through space, but only through a painful acceptance of one's own guilt.

@@ -9,8 +9,8 @@ image: "/images/essays/the-tiger-of-eschnapur-1959.webp"
 lang: "cz"
 translationSlug: "the-tiger-of-eschnapur-1959"
 director: "Fritz Lang"
+genres: ["Dobrodružný", "Exotický", "Epos"]
 ---
-
 Snímek *Tygr z Ešnapuru* (*Der Tiger von Eschnapur*, 1959, stopáž 101 minut) představuje triumfální a nostalgický návrat Fritze Langa do německých ateliérů CCC-Film po téměř čtvrtstoletí stráveném v americkém exilu. Sedmdesátiletý režisér se vrátil k látce, kterou napsal se svou někdejší manželkou Theou von Harbou již v roce 1921 pro producenta Joea Maye, jemuž tehdy musel režii nedobrovolně přenechat. 
 
 V roce 1959 však Lang nepřistoupil k orientálnímu námětu jako k pouhé naivní pohádce pro unavené západoněmecké publikum éry hospodářského zázraku. Přetavil látku v první část monumentálního dobrodružného diptychu, v němž pod povrchem barevného spektáklu podává břitkou kritiku západní technokratické arogance, kolonialismu a demonstruje neúprosnou moc osudového fatalismu[cite: 129].

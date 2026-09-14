@@ -9,8 +9,8 @@ image: "/images/essays/vampyr-1932.webp"
 
 lang: "cz"
 translationSlug: "vampyr-1932"
+genres: ["Psychologický horor", "Gotický", "Art"]
 ---
-
 Snímek dánského režiséra Carla Theodora Dreyera *Upír* (*Vampyr – Der Traum des Allan Gray*, 1932, stopáž 73 minut), volně inspirovaný novelami Sheridana Le Fanu ze sbírky *In a Glass Darkly* (zejména novelou *Carmilla*), představuje zásadní historický mezník světové kinematografie. Vznikl v nezávislé francouzsko-německé koprodukci za finanční podpory barona Nicolase de Gunzburga (který ve filmu pod pseudonymem Julian West ztvárnil hlavní roli studenta okultismu Allana Graye). 
 
 Dreyer v tomto díle radikálně osvobodil hororový žánr od konvenční narativní kauzality a popisného divadelního strašení. Namísto vnějšího nebezpečí proměnil filmové plátno v prostor tekuté percepční nestability, rozostřeného snového vidění a existenciální nejistoty, čímž položil základní kámen moderního psychologického a artového hororu.

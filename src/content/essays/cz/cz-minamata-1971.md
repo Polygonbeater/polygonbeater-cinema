@@ -9,8 +9,8 @@ image: "/images/essays/minamata-1971.webp"
 lang: "cz"
 translationSlug: "minamata-1971"
 director: "Noriaki Cučimoto"
+genres: ["Dokumentární", "Environmentální"]
 ---
-
 > *„Environmentální katastrofy jsou jen málokdy pouhými chemickými nehodami; jsou to politická a korporátní selhání.“*
 
 Přelomový dokumentární film *Minamata: Oběti a jejich svět* (*Minamata: Kanja-san to sono sekai*, 1971, stopáž 168 minut) v režii Noriakiho Cučimota představuje základní kámen světové environmentální kinematografie a politicky angažovaného dokumentu. Snímek zachycuje následky jedné z nejhorších průmyslových katastrof v dějinách – systematického vypouštění odpadní vody kontaminované vysoce toxickou metylrtutí chemickou korporací Chisso do zálivu Minamata v prefektuře Kumamoto. 

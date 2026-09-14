@@ -9,8 +9,8 @@ image: "/images/essays/santa-sangre-1989.webp"
 lang: "en"
 translationSlug: "santa-sangre-1989"
 director: "Alejandro Jodorowsky"
+genres: ["Surrealism", "Horror", "Psychological"]
 ---
-
 Alejandro Jodorowsky’s *Santa Sangre* (1989) stands as a landmark of world art-horror and surrealist cinema. Produced as a Mexican-Italian co-production and regularly featured in retrospectives at institutions such as the BFI and MoMA, the film radically shifts genre logic: horror ceases to be a mere theatrical effect and becomes a symbolic, interpretively open language intertwining ritual, psychoanalysis, and bold visual stylization.
 
 ### I. The Circus as a Liminal Space of Power and Identity

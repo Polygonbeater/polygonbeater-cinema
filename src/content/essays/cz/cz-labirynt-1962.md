@@ -9,8 +9,8 @@ image: "/images/essays/labirynt-1962.webp"
 lang: "cz"
 translationSlug: "labirynt-1962"
 director: "Jan Lenica"
+genres: ["Animovaný", "Experimentální", "Surrealismus"]
 ---
-
 > *„Člověk se probouzí do noční můry stvořené z řádu.“*
 
 Krátkometrážní animovaný snímek *Labyrint* (*Labirynt*, 1962, stopáž 14 minut) polského grafika, plakátového výtvarníka a filmaře Jana Lenicy představuje jeden z vrcholných klenotů světové surrealistické animace a polské školy plakátu. Beze slov, výhradně skrze kinetiku vystřihovaných koláží a hutnou zvukovou stopu, rozehrává Lenica mrazivou existenciální alegorii moderní existence, politického útlaku a odlidštěného civilizačního mechanismu. Jde o kafkovský sen vytesaný ze starých rytin, encyklopedických kreseb a tuše – prostor, v němž každá zeď, koridor a byrokratická procedura systematicky pracují na vymazání lidské individuality[cite: 103].

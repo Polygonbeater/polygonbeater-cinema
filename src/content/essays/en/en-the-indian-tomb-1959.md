@@ -9,8 +9,8 @@ image: "/images/essays/the-indian-tomb-1959.webp"
 lang: "en"
 translationSlug: "the-indian-tomb-1959"
 director: "Fritz Lang"
+genres: ["Adventure", "Exotic", "Epic"]
 ---
-
 *The Indian Tomb* (102 min) is the rigorous conclusion to Lang’s Indian Diptych. Lang brings his critique of power and technocracy to a boiling point. 
 
 The central theme is the sadistic irony of Maharajah Chandra: he forces the German architect Harald Berger (Paul Hubschmid) to design and build the world's most beautiful tomb—intended to entomb Seetha (Debra Paget) alive.

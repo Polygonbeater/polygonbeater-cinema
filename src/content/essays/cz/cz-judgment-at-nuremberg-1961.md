@@ -9,8 +9,8 @@ image: "/images/essays/judgment-at-nuremberg-1961.webp"
 
 lang: "cz"
 translationSlug: "judgment-at-nuremberg-1961"
+genres: ["Soudní drama", "Historický", "Válečný"]
 ---
-
 > *„Zlo není prezentováno jako výsledek pouhého fanatismu, nýbrž jako produkt společenského souhlasu, právního alibismu a tiché poslušnosti elit.“*
 
 Monumentální soudní drama Stanleyho Kramera *Norimberský proces* (*Judgment at Nuremberg*, 1961, stopáž 179 minut), natočené podle scénáře Abbyho Manna, představuje jednu z nejhlubších filmových reflexí institucionální viny a etiky justice v dějinách kinematografie. Děj zasazený do roku 1948 nesleduje proces s pohlaváry třetí říše typu Göringa, nýbrž tzv. soudcovský proces – přelíčení se čtyřmi bývalými německými soudci a prokurátory, kteří propůjčili autoritu zákona nacistickému rasovému a vyhlazovacímu aparátu.

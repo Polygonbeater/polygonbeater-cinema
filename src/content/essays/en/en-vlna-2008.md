@@ -9,8 +9,8 @@ image: "/images/essays/vlna-2008.webp"
 lang: "en"
 translationSlug: "vlna-2008"
 director: "Dennis Gansel"
+genres: ["Psychological Drama", "Sociological Thriller"]
 ---
-
 When watching Gansel's film *The Wave*, it is necessary to beware of a very seductive fallacy. The film is not real life. It is an artificially constructed terrarium in which the director, within a runtime of less than two hours, accelerates social processes that would take months, if not years, in the wild of human society. If a viewer mistakes this one hundred percent distillate of totalitarianism for the normal course of events, they can easily end up in that paranoid trap from which the saddest conspiracy theorists are recruited.
 
 Nevertheless, precisely because it is an artificial and accelerated model, the film provides a rare opportunity to observe the biological constitution of humans under a microscope, so to speak. It shows how incredibly thin the shell of cognitive sovereignty is in the species *Homo sapiens*.

@@ -9,8 +9,8 @@ image: "/images/essays/devils-1971.webp"
 lang: "en"
 translationSlug: "devils-1971"
 director: "Ken Russell"
+genres: ["Historical", "Horror", "Drama"]
 ---
-
 This study deconstructs Ken Russell's extremely controversial and historically censored historical drama *The Devils* (1971, running time 111 minutes) as a radical critique of the political weaponization of faith. Based on historical events in 17th-century Loudun, France, the film analyzes the destruction of a nonconformist priest, Urbain Grandier, who falls victim to fabricated witchcraft accusations orchestrated by sexually frustrated nuns and Cardinal Richelieu. 
 
 Methodologically, the text focuses on Derek Jarman's anachronistic set design (the city as a clinical hospital/abattoir), the psychosomatic nature of supposed possession, and the deconstruction of the Passion of Christ. The film presents a twisted Easter allegory where the true monster is not the devil, but the institutions of Church and State themselves.

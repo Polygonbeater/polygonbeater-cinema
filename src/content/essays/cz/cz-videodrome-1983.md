@@ -9,8 +9,8 @@ image: "/images/essays/videodrome-1983.webp"
 lang: "cz"
 translationSlug: "videodrome-1983"
 director: "David Cronenberg"
+genres: ["Body horor", "Sci-Fi", "Kultovní"]
 ---
-
 Vizionářský tělesný horor kanadského režiséra a scenáristy Davida Cronenberga *Videodrome* (1983, stopáž 87 minut) představuje jeden z nejzásadnějších filozofických a formálních mezníků světové science fiction. Cronenberg v něm překročil hranice běžného žánrového filmu o televizním vysílání a vytvořil radikální ontologickou studii o zániku biologické integrity člověka pod náporem elektronických masmédií. 
 
 Film analyzuje osud Maxe Renna (James Woods), cynického ředitele malé torontské kabelové stanice CIVIC-TV, jenž při pátrání po stále brutálnějším obsahu narazí na pirátský satelitní signál zobrazující mučení a vraždy. Cronenberg geniálně aplikoval teorie mediálního filozofa Marshalla McLuhana a dokázal, že televizní obrazovka již nepředstavuje pouhé zrcadlo světa, nýbrž agresivní biologický virus, jenž přímo přepisuje lidskou DNA a vytváří novou tělesnou realitu.

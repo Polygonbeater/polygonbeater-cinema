@@ -9,8 +9,8 @@ image: "/images/essays/alice-1988.webp"
 lang: "cz"
 translationSlug: "alice-1988"
 director: "Jan Švankmajer"
+genres: ["Animovaný", "Surrealismus", "Horor"]
 ---
-
 > *„Sen, který můžete cítit pod nehty.“*
 
 Snímek *Něco z Alenky* (*Alice*, 1988) Jana Švankmajera proměňuje klasickou předlohu Lewise Carrolla v noční můru plnou prachu, dřeva a srsti – v surrealistickou exkurzi do lidského podvědomí. Tam, kde Disney nabízel barvy a podívanou, Švankmajer přináší strukturu, hnilobu a hmatovou halucinaci.

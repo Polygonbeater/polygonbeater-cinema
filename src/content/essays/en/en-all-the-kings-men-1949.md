@@ -9,8 +9,8 @@ image: "/images/essays/all-the-kings-men-1949.webp"
 lang: "en"
 translationSlug: "all-the-kings-men-1949"
 director: "Robert Rossen"
+genres: ["Drama", "Film Noir", "Political"]
 ---
-
 *All the King’s Men* is a chilling masterpiece of political realism. It traces the transformation of Willie Stark (Broderick Crawford) from a naive, honest lawyer into a ruthless demagogue. It is a clinical study of how power does not just corrupt—it redefines reality.
 
 ### The Anatomy of the Demagogue

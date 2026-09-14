@@ -9,8 +9,8 @@ image: "/images/essays/atroz-2015.webp"
 
 lang: "cz"
 translationSlug: "atroz-2015"
+genres: ["Horor", "Found footage", "Transgresivní"]
 ---
-
 Snímek *Atroz* (2015) v režii Lexa Ortegy patří k nejradikálnějším a nejdiskutovanějším dílům současného latinskoamerického hororu. Namísto stylizované žánrové zábavy či popkulturní exploatace přináší film nekompromisní sondu do struktur násilí, nihilismu a diváckého voyeurismu, čímž vědomě testuje hranice únosnosti filmové reprezentace.
 
 ### I. Formální strategie: Found footage a policejní vyšetřování

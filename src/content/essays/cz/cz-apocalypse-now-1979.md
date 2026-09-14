@@ -9,8 +9,8 @@ image: "/images/essays/apocalypse-now-1979.webp"
 lang: "cz"
 translationSlug: "apocalypse-now-1979"
 director: "Francis Ford Coppola"
+genres: ["Válečný", "Drama", "Psychologický"]
 ---
-
 Tato studie dekonstruuje opus magnum Francise Forda Coppoly *Apokalypsa* (*Apocalypse Now*, 1979, stopáž 153 minut) jako vizuálně omamnou a filozoficky zdrcující adaptaci Conradova *Srdce temnoty*. Film transformuje vietnamský konflikt v surreálnou cestu proti proudu času a morálky. 
 
 Metodologicky se text zaměřuje na šerosvitnou kameru Vittoria Storara, revoluční zvukový design Waltera Murche a dekonstrukci postavy plukovníka Kurtze jako symbolu osvobozeného, leč destruktivního nihilismu. Snímek zkoumá hranici, kde se řád mění v chaos a kde se „hrůza“ stává jedinou objektivní pravdou.

@@ -9,8 +9,8 @@ image: "/images/essays/annihilation-2018.webp"
 lang: "en"
 translationSlug: "annihilation-2018"
 director: "Alex Garland"
+genres: ["Sci-Fi", "Horror", "Psychological"]
 ---
-
 This study deconstructs Alex Garland's sci-fi horror *Annihilation* (2018, running time 115 minutes) as a visually opulent meditation on self-destruction. The film follows an expedition of five female scientists into "Area X"—a quarantine zone surrounding an alien meteorite where known physical and biological laws no longer apply. 
 
 Methodologically, the text focuses on the concept of "The Shimmer" as a prism that refracts and blends the DNA of all living organisms, the visualization of cancer as an act of creation, and the psychological determinism of characters who voluntarily walk toward their own demise. The film illustrates the terror that the universe does not wish to destroy us out of malice, but simply assimilates and reshapes us beyond recognition.

@@ -9,8 +9,8 @@ image: "/images/essays/zeleny-pokoj-2015.webp"
 lang: "cz"
 translationSlug: "zeleny-pokoj-2015"
 director: "Jeremy Saulnier"
+genres: ["Thriller", "Survival", "Krimi"]
 ---
-
 Nezávislý thriller amerického režiséra a scenáristy Jeremyho Saulniera *Zelený pokoj* (*Green Room*, 2015, stopáž 95 minut) představuje jeden z nejintenzivnějších, nekompromisních a realisticky drásavých příspěvků k žánru moderního obléhacího filmu (*siege film*). Saulnier, navazující na tradici Carpenterova *Přepadení 13. okrsku* i Peckinpahových *Strašáků*, zasazuje děj do klaustrofobního zázemí zapadlého hudebního klubu uprostřed oregonských hvozdů pacifického Severozápadu. 
 
 Film nefunguje jako banální exploitation horor plný stylizovaného gore; představuje chirurgicky přesnou sociologickou a psychologickou studii uzavřené extremistické mikrosekty, demaskuje falešnou auru subkulturní rebelie a provádí radikální de-glamurizaci fyzického násilí, v němž se střet lidských těl stává neohrabaným, chaotickým a animálním bojem o holé přežití.

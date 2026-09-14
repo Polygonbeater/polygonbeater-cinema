@@ -9,8 +9,8 @@ image: "/images/essays/frankenstein-1931.webp"
 lang: "cz"
 translationSlug: "frankenstein-1931"
 director: "James Whale"
+genres: ["Horor", "Sci-Fi", "Klasický Hollywood"]
 ---
-
 James Whale ve snímku *Frankenstein* (1931, stopáž 70 minut) zásadním způsobem spoluutvářel ikonografii klasického filmového hororu dvacátého století. Snímek volně vychází z románu Mary Shelleyové, avšak přenáší jej do vizuálního jazyka rané zvukové éry, kde se gotický mysticismus střetává s moderní fascinací vědeckým pokrokem. Film nepředstavuje pouhou žánrovou moralitku o stvoření netvora; funguje jako existenciální a etická pitva odpovědnosti stvořitele za život vržený do nepřátelského světa.
 
 ### I. Vizuální jazyk šerosvitu a fyziognomie deformace

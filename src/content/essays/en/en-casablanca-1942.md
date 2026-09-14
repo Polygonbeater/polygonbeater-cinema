@@ -9,8 +9,8 @@ image: "/images/essays/casablanca-1942.webp"
 lang: "en"
 translationSlug: "casablanca-1942"
 director: "Michael Curtiz"
+genres: ["Romance", "Drama", "War"]
 ---
-
 Released in 1942, coinciding closely with the Allied invasion of North Africa (Operation Torch), *Casablanca* is far more than a wartime romance. It serves as a potent political allegory for the United States' transition from a doctrine of non-intervention to active engagement in World War II.
 
 ## Rick Blaine as National Allegory

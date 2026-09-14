@@ -9,8 +9,8 @@ image: "/images/essays/the-monroe-doctrine-1939.webp"
 lang: "en"
 translationSlug: "the-monroe-doctrine-1939"
 director: "A. Edward Sutherland"
+genres: ["Historical", "Propaganda", "Short Film"]
 ---
-
 The short film *The Monroe Doctrine* (1939), produced by Warner Bros., serves as a crucial historical artifact, reflecting the United States' deeply entrenched stance of isolationism on the eve of World War II. It is not a critique, but rather a didactic and patriotic defense of America's traditional foreign policy, promoting the idea that the US should focus solely on the Western Hemisphere while avoiding the "entangling alliances" of Europe.
 
 In 1939, as war broke out across the Atlantic, the film aimed to reassure the American public that the nation’s duty was to protect its own sphere of influence—all of the Americas—from hostile European powers (specifically Nazi Germany and Fascist Italy) who were attempting to gain a foothold through economic and political subversion. Critically, even in its inception in 1823, the Doctrine was inherently unilateral and paternalistic. It was not a pact with Latin American nations but a declaration about them, positioning the US as the region's self-appointed guardian and treating other sovereign nations as subjects of American security, rather than partners.

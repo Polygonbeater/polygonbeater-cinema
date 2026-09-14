@@ -9,8 +9,8 @@ image: "/images/essays/invasion-of-the-body-snatchers-1956.webp"
 lang: "cz"
 translationSlug: "invasion-of-the-body-snatchers-1956"
 director: "Don Siegel"
+genres: ["Sci-Fi", "Horor", "Paranoický thriller"]
 ---
-
 > *„Jak poznáte, že člověk, se kterým mluvíte, je stále ještě on sám, a ne pouhá replika bez duše?“*
 
 Přelomový sci-fi horor Dona Siegela *Invaze zlodějů těl* (*Invasion of the Body Snatchers*, 1956, stopáž 80 minut), natočený podle románu Jacka Finneyho, představuje jeden z nejvlivnějších alegorických textů americké kinematografie padesátých let. Hrozba v něm nepřichází s masivní destrukcí, atomovým hřibem ani monstry z vesmíru; odehrává se v podobě tichého, neviditelného nahrazování obyvatel idylického kalifornského maloměsta Santa Mira citově prázdnými klony z mimozemských lusků (*pod people*). 

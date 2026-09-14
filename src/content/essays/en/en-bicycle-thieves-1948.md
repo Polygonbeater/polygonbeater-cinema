@@ -9,8 +9,8 @@ image: "/images/essays/bicycle-thieves-1948.webp"
 lang: "en"
 translationSlug: "bicycle-thieves-1948"
 director: "Vittorio De Sica"
+genres: ["Italian Neorealism", "Drama", "Social Drama"]
 ---
-
 This study deconstructs the pillar of Italian Neorealism, *Bicycle Thieves* (Ladri di biciclette, 1948, running time 89 minutes), as a radical social drama that renounces studio stylization in favor of the raw truth of the street. The film analyzes the tragedy of a worker named Antonio, whose stolen bicycle—his only means of livelihood—triggers a chain of despair in post-war Rome. 
 
 Methodologically, the text focuses on the use of non-professional actors, "dead time" in the narrative, and the moral ambivalence of guilt. The film demonstrates that in a system of total scarcity, the horizontal of survival transforms into a crushing mechanism that forces the victim to become the perpetrator.

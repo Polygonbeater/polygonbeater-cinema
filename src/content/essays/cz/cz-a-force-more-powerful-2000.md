@@ -9,8 +9,8 @@ image: "/images/essays/a-force-more-powerful-2000.webp"
 lang: "cz"
 translationSlug: "a-force-more-powerful-2000"
 director: "Steve York"
+genres: ["Dokumentární", "Politický", "Historický"]
 ---
-
 Dokumentární cyklus *A Force More Powerful* představuje nenásilný odpor nejen jako morální volbu, nýbrž jako systematickou, historicky ověřenou strategii pro politické změny. Jeho ústřední teze, vycházející z myšlenek Hannah Arendtové a Genea Sharpa, spočívá v tom, že politická moc nezávisí pouze na nátlaku, ale na dobrovolné spolupráci ovládaných. Když lidé tuto spolupráci odvolají, mocenské struktury se zhroutí.
 
 ### I. Pilíře moci (Model Genea Sharpa)

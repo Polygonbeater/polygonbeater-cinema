@@ -9,8 +9,8 @@ image: "/images/essays/the-battle-of-algiers-1966.webp"
 lang: "en"
 translationSlug: "the-battle-of-algiers-1966"
 director: "Gillo Pontecorvo"
+genres: ["Historical", "War", "Political"]
 ---
-
 > *“Every act of domination creates its rebellion, and every rebellion risks becoming a new dominion.”*
 
 Released only four years after Algerian independence, Gillo Pontecorvo’s *The Battle of Algiers* (*La battaglia di Algeri*, 1966) reconstructs the Algerian revolution with shocking immediacy. Working alongside former FLN leader Yacef Saadi, Pontecorvo forged a film that transcends propaganda to become a sociological experiment — an anatomy of how violence is born from oppression.

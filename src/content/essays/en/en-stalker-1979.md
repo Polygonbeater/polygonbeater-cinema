@@ -9,8 +9,8 @@ image: "/images/essays/stalker-1979.webp"
 lang: "en"
 translationSlug: "stalker-1979"
 director: "Andrej Tarkovskij"
+genres: ["Sci-Fi", "Philosophical", "Mystery"]
 ---
-
 This study analyzes Andrei Tarkovsky's *Stalker* (1979) as a seminal work of spiritual cinema. Loosely based on the novel by the Strugatsky brothers, the film transforms the sci-fi genre into a metaphysical parable. 
 
 The journey of the central trio (Stalker, Writer, and Professor) into the heart of the mysterious "Zone" is deconstructed not as a trek through dangerous territory, but as a process of stripping away the human psyche. Methodologically, the text focuses on Tarkovsky's concept of "sculpting in time," the symbolism of water, and the transformation of industrial decay into a sacral space. The study examines the paradox of the "Room of Desires" as a mirror of the deepest human intentions.

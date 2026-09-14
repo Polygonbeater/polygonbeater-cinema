@@ -9,8 +9,8 @@ image: "/images/essays/minamata-1971.webp"
 lang: "en"
 translationSlug: "minamata-1971"
 director: "Noriaki Cučimoto"
+genres: ["Documentary", "Environmental"]
 ---
-
 > *“Environmental disasters are rarely just chemical accidents; they are often political failures.”*
 
 Pioneering Japanese documentarian and activist Noriaki Tsuchimoto’s *Minamata: The Victims and Their World* (1971) stands as a foundational document of engaged cinema and a crucial milestone in environmental justice. Tsuchimoto radically redefined documentary practice by prioritizing the subjects’ struggle over conventional cinematic polish.

@@ -9,8 +9,8 @@ image: "/images/essays/the-straight-story-1999.webp"
 lang: "cz"
 translationSlug: "the-straight-story-1999"
 director: "David Lynch"
+genres: ["Biografický", "Road movie", "Drama"]
 ---
-
 Když David Lynch v roce 1999 představil snímek *Příběh Alvina Straighta* (*The Straight Story*, stopáž 112 minut), natočený pod hlavičkou studia Walt Disney Pictures s přístupností pro celou rodinu (rating G), způsobil v mezinárodní filmové obci šok. Autor pověstný surrealistickými nočními můrami, rozpadem lidské identity a perverzním podložím amerického maloměsta (*Modrý samet*, *Lost Highway*) natočil dílo formálně neobyčejně prosté, dojemné a hluboce humanistické[cite: 98, 128]. 
 
 Přesto se nejedná o úkrok stranou či kapitulaci před hollywoodským sentimentem; *Příběh Alvina Straighta* představuje možná nejradikálnější film Lynchovy kariéry. Skrze skutečný příběh třiasedmdesátiletého veterána druhé světové války, který se vydal na šestitýdenní pouť napříč dvěma státy na staré zahradní sekačce, vytvořil Lynch meditativní road movie o lidské důstojnosti, pokoře a uzdravení starých vin na samém sklonku lidského života.

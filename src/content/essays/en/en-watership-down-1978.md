@@ -9,8 +9,8 @@ image: "/images/essays/watership-down-1978.webp"
 lang: "en"
 translationSlug: "watership-down-1978"
 director: "Martin Rosen"
+genres: ["Animation", "Mytologický", "Adventure"]
 ---
-
 > *“What if survival itself were the loss of paradise?”*
 
 Martin Rosen’s *Watership Down* (1978) isn’t a children’s story — it’s a fable written in blood. Adapted from Richard Adams’ 1972 novel, this British animated film transforms the English countryside into a mythic landscape where rabbits speak, fight, and die as if they were the last free creatures on earth. It is both a survival epic and an elegy for civilization.

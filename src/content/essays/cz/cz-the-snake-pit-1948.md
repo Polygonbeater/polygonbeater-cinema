@@ -9,8 +9,8 @@ image: "/images/essays/the-snake-pit-1948.webp"
 
 lang: "cz"
 translationSlug: "the-snake-pit-1948"
+genres: ["Psychologické drama", "Institucionální drama"]
 ---
-
 Snímek ukrajinsko-amerického režiséra Anatola Litvaka *Hadí jáma* (*The Snake Pit*, 1948, stopáž 108 minut) z produkce studia 20th Century Fox představuje zásadní historický a estetický přelom v zobrazení duševních chorob a psychiatrických léčeben v americké kinematografii. Film, natočený podle poloautobiografického románu Mary Jane Wardové z roku 1946, zcela opustil do té doby dominující hollywoodské stereotypy gotických šílenců, démonického běsnění a laciného melodramatu. 
 
 Litvak vytvořil mrazivou, polo-dokumentární anatomii institucionálního teroru, v níž zachytil dramatický střet starého represivního azylového systému s moderními psychoanalytickými reformami poválečné éry. Snímek vyvolal masivní celospolečenskou debatu, jež vedla k reformám psychiatrické péče a legislativním změnám v řadě států USA.

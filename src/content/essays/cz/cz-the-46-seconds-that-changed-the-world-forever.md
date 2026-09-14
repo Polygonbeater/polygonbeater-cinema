@@ -9,8 +9,8 @@ image: "/images/essays/the-46-seconds-that-changed-the-world-forever.webp"
 lang: "cz"
 translationSlug: "the-46-seconds-that-changed-the-world-forever"
 director: "Auguste Lumière, Louis Lumière"
+genres: ["Dokumentární", "Němý film", "Historický"]
 ---
-
 Historický okamžik 28. prosince roku 1895, kdy v pařížském suterénu Indického salónu v Grand Café na Boulevard des Capucines proběhlo první veřejné placené promítání kinematografu bratří Augusta a Louise Lumièrů, představuje definitivní zlom v dějinách moderní lidské vizuality. Třiatřicet diváků, kteří zaplatili po jednom franku, tehdy spatřilo krátký film *Dělníci odcházející z továrny Lumière v Lyonu* (*La Sortie de l'usine Lumière à Lyon*, 1895, stopáž 46 sekund). 
 
 Tento necelou minutu trvající záznam pohybu nezachytil pouze všední konec pracovní směny; přetvořil samotné vnímání času a prostoru, ustavil instituci kina jako kolektivního sociálního rituálu a položil ontologický základ filmového obrazu.

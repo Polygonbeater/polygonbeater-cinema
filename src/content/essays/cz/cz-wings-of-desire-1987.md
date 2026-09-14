@@ -9,8 +9,8 @@ image: "/images/essays/wings-of-desire-1987.webp"
 lang: "cz"
 translationSlug: "wings-of-desire-1987"
 director: "Wim Wenders"
+genres: ["Poetické drama", "Filozofický", "Romantický"]
 ---
-
 Poetické mistrovské dílo německého režiséra Wima Wenderse *Nebe nad Berlínem* (*Der Himmel über Berlin*, 1987, stopáž 128 minut), oceněné Cenou za nejlepší režii na festivalu v Cannes, představuje jeden z vrcholů moderního filozofického a spirituálního filmu. Snímek, natočený podle scénáře vzniklého v úzké spolupráci s rakouským dramatikem a básníkem Peterem Handkem, dekonstruuje tradiční teologické představy o andělech. 
 
 Wenders nezkoumá nebeskou transcendenci jako cíl lidského směřování. Provádí radikální ontologický obrat: ukazuje, že dokonalost nesmrtelného ducha je bezdotyková, chladná a vyprázdněná a že skutečná hodnota existence spočívá v přijetí lidské smrtelnosti, fyzické bolesti, váhy vlastního těla a pomíjivosti pozemské lásky.

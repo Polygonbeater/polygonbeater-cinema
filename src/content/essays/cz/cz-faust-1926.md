@@ -9,8 +9,8 @@ image: "/images/essays/faust-1926.webp"
 lang: "cz"
 translationSlug: "faust-1926"
 director: "F. W. Murnau"
+genres: ["Němý film", "Expresionismus", "Fantasy"]
 ---
-
 Snímek *Faust* (1926, stopáž 106 minut) F. W. Murnaua zaujímá v rámci pozdní výmarské kinematografie zcela jedinečné postavení. Tradiční výklady skrze expresionistickou stylizaci či pouhou adaptaci Goetha přehlížejí radikální jádro filmu: Murnau zde buduje ucelený systém organizace diváckého vnímání. Namísto pouhé dramatické ilustrace metafyzického zápasu konstruuje *Faust* filmový svět, v němž divák zakouší morálku, moc a transcendenci přímo skrze somatickou zkušenost zraku.
 
 Tato studie dokládá, že *Faust* funguje jako percepční stroj – aparát, který v materiální rovině anticipuje syntézu klasické teorie aparátu a fenomenologie ztělesněného diváctví. Význam zde nevzniká z kauzálního řetězce dialogů, nýbrž z precizní regulace světla, kompozice, vertikály a tělesné orientace v prostoru.

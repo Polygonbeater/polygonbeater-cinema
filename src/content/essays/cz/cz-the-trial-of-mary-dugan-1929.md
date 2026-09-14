@@ -9,8 +9,8 @@ image: "/images/essays/the-trial-of-mary-dugan-1929.webp"
 
 lang: "cz"
 translationSlug: "the-trial-of-mary-dugan-1929"
+genres: ["Soudní drama", "Krimi"]
 ---
-
 > *„Okamžik, kdy filmové plátno nalezlo svůj hlas – a použilo jej k přelíčení samotného společenského řádu a ženské morálky.“*
 
 Průkopnické soudní drama režiséra a dramatika Bayarda Veillera *Případ Mary Duganové* (*The Trial of Mary Dugan*, 1929, stopáž 113 minut) představuje jeden z nejdůležitějších milníků v rané fázi zvukové kinematografie studia Metro-Goldwyn-Mayer. Snímek, adaptující Veillerovu vlastní mimořádně úspěšnou broadwayskou divadelní hru z roku 1927, byl natočen v kritickém přechodovém období, kdy se Hollywood vyrovnával s příchodem synchronního zvuku systému Western Electric. 

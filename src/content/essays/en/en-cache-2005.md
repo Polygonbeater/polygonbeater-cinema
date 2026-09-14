@@ -9,8 +9,8 @@ image: "/images/essays/cache-2005.webp"
 lang: "en"
 translationSlug: "cache-2005"
 director: "Michael Haneke"
+genres: ["Psychological", "Thriller", "Mystery"]
 ---
-
 This study deconstructs Michael Haneke's psychological thriller *Caché* (2005, running time 117 minutes) as a relentless analysis of repressed guilt and media manipulation. The film follows a Parisian intellectual family whose life begins to crumble after they find anonymous videotapes containing static shots of their own home on their doorstep. 
 
 Methodologically, the text focuses on the erasure of the distinction between the objective film camera and the diegetic video recording, the absence of a visible antagonist, and post-colonial trauma (the 1961 Paris massacre of Algerians) as an undercurrent of personal history. The film demonstrates that physical violence is not required for the complete destruction of reality; a silent, relentless mechanism of observation is enough to force a person to confront their own conscience.

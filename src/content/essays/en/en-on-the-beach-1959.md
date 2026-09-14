@@ -9,8 +9,8 @@ image: "/images/essays/on-the-beach-1959.webp"
 lang: "en"
 translationSlug: "on-the-beach-1959"
 director: "Stanley Kramer"
+genres: ["Sci-Fi", "Post-apocalyptic", "Drama"]
 ---
-
 > *“There is still time... brother.”*
 
 Radical in its anti-spectacle approach, Stanley Kramer’s *On the Beach* (1959) depicts the end of the world not through explosive action, but as a quiet, fatal fade. Based on Nevil Shute’s novel, the film captures the psychological toll of a man-made apocalypse as radioactive fallout inexorably creeps toward Melbourne, Australia, following a global nuclear war in the Northern Hemisphere.

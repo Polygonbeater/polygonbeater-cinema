@@ -9,8 +9,8 @@ image: "/images/essays/the-manchurian-candidate-1962.webp"
 lang: "cz"
 translationSlug: "the-manchurian-candidate-1962"
 director: "John Frankenheimer"
+genres: ["Politický thriller", "Špionážní", "Paranoický thriller"]
 ---
-
 > *„Paranoia v tomto případě není ničím jiným než zvýšenou bdělostí a racionálním povědomím o hluboké, skryté mechanice moci.“*
 
 Politický thriller Johna Frankenheimera *Manchurianský kandidát* (*The Manchurian Candidate*, 1962, stopáž 126 minut), natočený podle stejnojmenného románu Richarda Condona z roku 1959, představuje absolutní vrchol amerického paranoického filmu studené války. Snímek, uvedený do kin v říjnu 1962 přímo na pozadí eskalující karibské krize, zachytil kolektivní hysterii z komunistické infiltrace i hrozby jaderného armagedonu. 

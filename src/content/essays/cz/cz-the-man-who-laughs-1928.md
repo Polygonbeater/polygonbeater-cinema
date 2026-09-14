@@ -9,8 +9,8 @@ image: "/images/essays/the-man-who-laughs-1928.webp"
 
 lang: "cz"
 translationSlug: "the-man-who-laughs-1928"
+genres: ["Němý film", "Gotické melodrama", "Horor"]
 ---
-
 Rok 1928 představuje soumrak a absolutní vrchol němé éry světové kinematografie. Těsně předtím, než filmové plátno ovládl synchronní zvuk, dosáhlo vizuální vyprávění mimořádné formální vyspělosti a plasticity. Snímek německého režiséra a výtvarníka Paula Leniho *Muž, který se směje* (*The Man Who Laughs*, stopáž 110 minut), natočený v produkci studia Universal podle stejnojmenného románu Victora Huga z roku 1869, je monumentálním pomníkem této přechodové fáze. 
 
 Leni přenesl do hollywoodských ateliérů výsostné tvarosloví německého filmového expresionismu a vytvořil radikální studii o tváři jako celoživotním vězení, v níž se melodramatická tragédie prolíná s gotickým hororem a rodí se moderní archetyp „sympatického monstra“.

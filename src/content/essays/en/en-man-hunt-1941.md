@@ -9,8 +9,8 @@ image: "/images/essays/man-hunt-1941.webp"
 lang: "en"
 translationSlug: "man-hunt-1941"
 director: "Fritz Lang"
+genres: ["Film Noir", "Espionage", "Thriller"]
 ---
-
 *Man Hunt* (1941) marks a vital turning point in Fritz Lang’s career—a return to dark German expressionism following his early American Westerns, and his boldest, most direct anti-Nazi manifesto at a time when Hollywood was strictly enforcing political neutrality.
 
 ### I. The Duel with Censors and Studios

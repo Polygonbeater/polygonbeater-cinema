@@ -9,8 +9,8 @@ image: "/images/essays/the-blue-gardenia-1953.webp"
 lang: "en"
 translationSlug: "the-blue-gardenia-1953"
 director: "Fritz Lang"
+genres: ["Film Noir", "Crime", "Mystery"]
 ---
-
 *The Blue Gardenia* (88 min) serves as Lang’s sharp critique of post-war middle-class morality and the predatory nature of the fourth estate. By subverting the traditional "everyman in a trap" motif, Lang focuses on gendered vulnerability within the modern metropolis. The film deconstructs romantic myths, replacing them with paranoia where telecommunications and tabloid sensationalism manufacture guilt—turning a subjective blackout into a public character execution.
 
 ### I. Production Context: The 20-Day Miracle

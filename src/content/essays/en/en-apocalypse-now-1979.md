@@ -9,8 +9,8 @@ image: "/images/essays/apocalypse-now-1979.webp"
 lang: "en"
 translationSlug: "apocalypse-now-1979"
 director: "Francis Ford Coppola"
+genres: ["War", "Drama", "Psychological"]
 ---
-
 This study deconstructs Francis Ford Coppola’s magnum opus *Apocalypse Now* (1979, running time 153 minutes) as a visually intoxicating and philosophically devastating adaptation of Conrad’s *Heart of Darkness*. The film transforms the Vietnam conflict into a surreal journey against the current of time and morality. 
 
 Methodologically, the text focuses on Vittorio Storaro's chiaroscuro cinematography, Walter Murch's revolutionary sound design, and the deconstruction of Colonel Kurtz as a symbol of liberated yet destructive nihilism. The film explores the boundary where order turns to chaos and where "the horror" becomes the only objective truth.

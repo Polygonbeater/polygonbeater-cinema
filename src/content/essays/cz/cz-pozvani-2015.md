@@ -9,8 +9,8 @@ image: "/images/essays/pozvani-2015.webp"
 lang: "cz"
 translationSlug: "pozvani-2015"
 director: "Karyn Kusama"
+genres: ["Psychologický thriller", "Mysteriózní"]
 ---
-
 Psychologický thriller režisérky Karyn Kusamy *Pozvání* (*The Invitation*, 2015, stopáž 100 minut) představuje precizně zkonstruovaný model fungování sofistikované sociální manipulace a kultovního nátlaku. Tvůrci film koncipovali jako subverzivní „horor mravů“ (*comedy of manners turned horror*), jehož ústředním tématem je nebezpečí přehnané společenské zdvořilosti (*the dangers of being polite*). 
 
 Příběh sleduje Willa (Logan Marshall-Green), který po dvou letech od tragické smrti syna a rozpadu manželství přijímá pozvání na večeři od své bývalé ženy Eden a jejího nového manžela Davida do jejich odlehlé vily v Hollywood Hills. Will jako jediný vycítí skryté nebezpečí pod maskou pohostinnosti, zatímco ostatní hosté jej nutí potlačit vlastní instinkty ve jménu konformity a slušnosti[cite: 134].

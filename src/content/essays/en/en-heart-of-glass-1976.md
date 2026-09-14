@@ -9,8 +9,8 @@ image: "/images/essays/heart-of-glass-1976.webp"
 lang: "en"
 translationSlug: "heart-of-glass-1976"
 director: "Werner Herzog"
+genres: ["Drama", "Mystery", "Art House"]
 ---
-
 This study deconstructs Werner Herzog’s visionary work *Heart of Glass* (*Herz aus Glas*, 1976, running time 94 minutes) as a radical exploration of social collapse and spiritual decay. Set in an 18th-century Bavarian glassblowing village, the film follows the disintegration of a community after the loss of the recipe for precious "Ruby Glass." 
 
 Methodologically, the text focuses on Herzog’s unique use of hypnosis on nearly the entire cast, the visual inspiration from German Romanticism (Caspar David Friedrich), and the figure of the seer Hias as a mediator between reality and myth. The film demonstrates that when the technical foundation of the world breaks, a plunge into an irrational abyss follows.

@@ -9,8 +9,8 @@ image: "/images/essays/things-to-come-1936.webp"
 lang: "cz"
 translationSlug: "things-to-come-1936"
 director: "William Cameron Menzies"
+genres: ["Sci-Fi", "Dystopie", "Utopie"]
 ---
-
 Britský vědeckofantastický velkofilm *Věci příští* (*Things to Come*, 1936, stopáž 100 minut), vyrobený v produkci Alexandra Kordy pro London Film Productions v režii Williama Camerona Menziese, představuje monumentální mezník světové filmové science fiction. Film nevznikl jako pouhé komerční dobrodružství; byl koncipován jako přímý ideologický a vizionářský manifest slavného spisovatele H. G. Wellse, jenž osobně napsal scénář na motivy své knihy *The Shape of Things to Come* (1933). 
 
 Wells v tomto díle podal nekompromisní varování před blížící se druhou světovou válkou a zároveň zformuloval své kontroverzní technokratické dilema: přesvědčení, že z trosek nacionalismu a nekompetentních demokracií může lidstvo zachránit pouze osvícenská diktatura vědců, inženýrů a letců.

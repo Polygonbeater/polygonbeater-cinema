@@ -9,8 +9,8 @@ image: "/images/essays/kladivo-na-carodejnice-1969.webp"
 lang: "en"
 translationSlug: "kladivo-na-carodejnice-1969"
 director: "Otakar Vávra"
+genres: ["Historical", "Drama", "Political Allegory"]
 ---
-
 Witchhammer (1969, dir. Otakar Vávra) is not a film about fire. It is a film about ink. The flames come only at the end. The real violence occurs much earlier, the precise moment a pen touches paper. Vávra’s film does not present history as a cabinet of medieval horrors, but as a chillingly quiet administrative process. It reveals a terrifying reality: a person does not die when they are condemned. They die the moment they are rewritten.
 
 ### The Accountant of Reality

@@ -9,8 +9,8 @@ image: "/images/essays/cache-2005.webp"
 lang: "cz"
 translationSlug: "cache-2005"
 director: "Michael Haneke"
+genres: ["Psychologický", "Thriller", "Mysteriózní"]
 ---
-
 Tato studie dekonstruuje psychologický thriller Michaela Hanekeho *Utajený* (*Caché*, 2005, stopáž 117 minut) jako neúprosnou analýzu potlačené viny a mediální manipulace. Snímek sleduje pařížskou intelektuální rodinu, jejíž život se začne hroutit poté, co na zápraží nachází anonymní videokazety se statickými záběry vlastního domu. 
 
 Metodologicky se text zaměřuje na zrušení distinkce mezi objektivní filmovou kamerou a diegetickým videozáznamem, na absenci viditelného antagonisty a na postkoloniální trauma (pařížský masakr Alžířanů z roku 1961) jako spodní proud osobní historie. Film ukazuje, že k naprosté destrukci reality není potřeba fyzické násilí; stačí tichý mechanismus pozorování, který člověka donutí konfrontovat se s vlastním svědomím.

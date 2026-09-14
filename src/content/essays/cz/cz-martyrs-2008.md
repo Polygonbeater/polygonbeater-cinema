@@ -9,8 +9,8 @@ image: "/images/essays/martyrs-2008.webp"
 
 lang: "cz"
 translationSlug: "martyrs-2008"
+genres: ["Horor", "Transgresivní", "Psychologický"]
 ---
-
 Tato studie dekonstruuje stěžejní dílo „nového francouzského extremismu“, film *Martyrs* (2008, stopáž 99 minut), jako radikální filozofický traktát o hledání transcendence skrze systematické mučení. Snímek analyzuje příběh Lucie a Anny, dvou mladých žen pronásledovaných tajemným společenstvím, které se snaží odhalit tajemství posmrtného života. 
 
 Metodologicky se text zaměřuje na transformaci subjektu z „oběti“ (která trpí bez smyslu) v „mučedníka“ (který skrze utrpení nahlíží „na druhou stranu“). Film ukazuje nejzazší bod tělesného hororu: moment, kdy se maso stává pouhou překážkou pro ducha a kdy je smrt chápána jako definitivní epistemologický nástroj.

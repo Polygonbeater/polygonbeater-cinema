@@ -9,8 +9,8 @@ image: "/images/essays/morgiana-1972.webp"
 lang: "en"
 translationSlug: "morgiana-1972"
 director: "Juraj Herz"
+genres: ["Gothic Horror", "Psychological", "Mystery"]
 ---
-
 There are films that look back at the spectator as intensely as the spectator looks at them. Juraj Herz’s Morgiana (1972) is not merely a story of two sisters, played by Iva Janžurová; it is a visual opera of narcissism, unfolding in an interior of mirrors that reflect only emptiness. While other auteurs perceive evil as an external contagion or a political system, Herz presents evil here as an aesthetic choice born from human smallness.
 
 ### The Sister as an Alien Object

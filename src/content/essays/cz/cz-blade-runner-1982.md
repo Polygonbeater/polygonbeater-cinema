@@ -9,8 +9,8 @@ image: "/images/essays/blade-runner-1982.webp"
 lang: "cz"
 translationSlug: "blade-runner-1982"
 director: "Ridley Scott"
+genres: ["Sci-Fi", "Cyberpunk", "Film noir"]
 ---
-
 Když v roce 1982 vstoupil *Blade Runner* Ridleyho Scotta do kin, nepřinesl jen adaptaci románu Philipa K. Dicka *Sní androidi o elektrických ovcích?*. Přinesl nový vizuální a myšlenkový kánon. Scott stvořil dystopické Los Angeles roku 2019 nikoliv jako sterilní vizi budoucnosti, ale jako vrstvené palimpsestové město – svět, kde se hypermoderní korporátní pyramidy pnou nad chátrajícími industriálními strukturami a kde neustálý déšť smývá hranice mezi organickým a syntetickým.
 
 *Blade Runner* funguje jako temná komora pro uvažování o tom, co přesně definuje lidství ve světě, který dokáže lidskou bytost průmyslově vyrobit a replikovat.

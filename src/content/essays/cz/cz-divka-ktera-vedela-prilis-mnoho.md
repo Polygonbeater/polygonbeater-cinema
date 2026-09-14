@@ -9,8 +9,8 @@ image: "/images/essays/divka-ktera-vedela-prilis-mnoho.webp"
 lang: "cz"
 translationSlug: "divka-ktera-vedela-prilis-mnoho"
 director: "Mario Bava"
+genres: ["Giallo", "Mysteriózní", "Thriller"]
 ---
-
 Mario Bava bývá právem oslavován jako vizuální básník gotického hororu, avšak jeho černobílé kriminální drama *Dívka, která věděla příliš mnoho* (*La ragazza che sapeva troppo*, 1963, stopáž 86 minut) představuje mnohem radikálnější mezník. Snímek formálně navazuje na tradici italských laciných detektivních sešitů se žlutou obálkou (*gialli*), avšak Bava zde provádí tvůrčí syntézu, která ustavila nový svébytný filmový žánr. Režisér opouští mlžné krypty a hrady, aby svůj cit pro světlo, stín a prostor přenesl do oslnivých, avšak hluboce odcizených ulic moderního poválečného Říma.
 
 Příběh sleduje mladou americkou turistku Noru Davisovou (Letícia Román), vášnivou čtenářku detektivek, která po nočním příjezdu spatří na Španělských schodech brutální vraždu mladé ženy. Když však policie žádné tělo nenalezne a lékaři zpochybňují její duševní stav, roztáčí se epistemologický kolotoč pochybností. Bava v tomto snímku definoval základní syntaxi filmového gialla: prolnutí voyeurismu, nespolehlivého subjektivního vnímání a chladné, vizuálně fascinující choreografie smrti.

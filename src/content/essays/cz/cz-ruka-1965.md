@@ -9,8 +9,8 @@ image: "/images/essays/ruka-1965.webp"
 lang: "cz"
 translationSlug: "ruka-1965"
 director: "Jiří Trnka"
+genres: ["Animovaný", "Politická alegorie", "Krátkometrážní"]
 ---
-
 > *„Když se umění stane poslušností, tvorba umírá.“*
 
 Jak vyprávět o podstatě totalitní tyranie, aniž by tvůrce vyslovil jediné politické heslo? V osmnáctiminutovém loutkovém filmu *Ruka* (*The Hand*, 1965) vytvořil světový mistr české animace Jiří Trnka tichou revoluci – dílo neobyčejné etické síly, které jej stálo možnost další svobodné tvorby a po jeho předčasné smrti v roce 1969 putovalo na dvě desetiletí do komunistického trezoru[cite: 132]. Snímek nepředstavuje pouhou politickou alegorii dobového Československa; je to univerzální filozofické rekviem za nezávislost umělce a lidskou svobodu v konfrontaci s všemocným státním aparátem[cite: 132].

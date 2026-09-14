@@ -9,8 +9,8 @@ image: "/images/essays/die-1000-augen-des-dr-mabuse-1960.webp"
 lang: "cz"
 translationSlug: "die-1000-augen-des-dr-mabuse-1960"
 director: "Fritz Lang"
+genres: ["Sci-Fi", "Thriller", "Krimi"]
 ---
-
 Snímek *Tisíc očí dr. Mabuseho* (*Die 1000 Augen des Dr. Mabuse*, 1960, stopáž 103 minut) představuje závěrečný režijní počin Fritze Langa a zároveň jeho nekompromisní analytickou diagnózu moderní moci. Po desetiletích strávených v americkém exilu se Lang v Západním Německu vrátil k postavě, kterou definoval ve 20. letech, avšak bez jakékoliv nostalgie či expresionistického manýrismu.
 
 ### I. Moc bez subjektu a Hotel Luxor jako model společnosti

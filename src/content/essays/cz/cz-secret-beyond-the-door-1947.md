@@ -9,8 +9,8 @@ image: "/images/essays/secret-beyond-the-door-1947.webp"
 lang: "cz"
 translationSlug: "secret-beyond-the-door-1947"
 director: "Fritz Lang"
+genres: ["Film noir", "Psychologický thriller", "Gotický"]
 ---
-
 Snímek *Tajemství za dveřmi* (*Secret Beyond the Door*, 1947, stopáž 99 minut) představuje v tvorbě Fritze Langa radikální přechod od geopolitické špionáže a společenského útlaku k intimnímu teroru lidského podvědomí. Film vznikl jako osobitá a subverzivní autorská reakce na tehdejší vlnu hollywoodských freudiánských thrillerů (např. Hitchcockovo *Rozdvojené lano*). 
 
 Lang dekonstruuje žánr ženské gotické romance a prastarý folklorní mýtus o Modrovousovi tím, že transformuje architekturu rodinného sídla v doslovnou topografickou mapu duševní patologie, v níž geometrické uspořádání prostoru determinuje lidské jednání a nutkavou touhu vraždit.

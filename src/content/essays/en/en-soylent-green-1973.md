@@ -9,8 +9,8 @@ image: "/images/essays/soylent-green-1973.webp"
 
 lang: "en"
 translationSlug: "soylent-green-1973"
+genres: ["Sci-Fi", "Dystopia", "Detective"]
 ---
-
 > *“Soylent Green is people!”*
 
 Directed by Richard Fleischer and loosely adapted from Harry Harrison’s *Make Room! Make Room!* (1966), *Soylent Green* (1973) stands as a seminal work of dystopian cinema. Released shortly after the Club of Rome’s 1972 *Limits to Growth* report, the film translated contemporary scientific anxieties into a powerful socioeconomic allegory defining the "dirty sci-fi" aesthetic.

@@ -9,8 +9,8 @@ image: "/images/essays/babes-in-arms-1939.webp"
 lang: "cz"
 translationSlug: "babes-in-arms-1939"
 director: "Busby Berkeley"
+genres: ["Muzikál", "Komedie", "Klasický Hollywood"]
 ---
-
 > *„Vizionářská oslava mládí, talentu a nezdolného ducha rčení ‚show musí pokračovat‘.“*
 
 Legendární hollywoodský muzikál *Zpívající mládí* (*Babes in Arms*, 1939) v produkci studia MGM a režii Busbyho Berkeleyho představuje ukázkový archetyp subžánru „backyard musical“. Příběh sleduje skupinu dospívajících potomků stárnoucích vaudevillových umělců, které se po odjezdu rodičů za prací vzepřou úřadům i hrozbě polepšovny a rozhodnou se na vlastní pěst uspořádat velkolepou revue, aby dokázaly svou existenční soběstačnost.

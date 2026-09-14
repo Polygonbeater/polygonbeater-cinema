@@ -9,8 +9,8 @@ image: "/images/essays/the-return-of-frank-james-1940.webp"
 lang: "en"
 translationSlug: "the-return-of-frank-james-1940"
 director: "Fritz Lang"
+genres: ["Western", "Adventure", "Crime"]
 ---
-
 *The Return of Frank James* (1940) marks a vital turning point in Fritz Lang’s career. Following a two-year hiatus after the failure of *You and Me* (1938), Lang accepted this studio assignment as a probationary test to prove his ability to navigate the Hollywood studio system and manage large-scale productions.
 
 ### I. The "Great Silence" and Political Isolation (1938–1940)

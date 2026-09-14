@@ -9,8 +9,8 @@ image: "/images/essays/moon-2009.webp"
 lang: "en"
 translationSlug: "moon-2009"
 director: "Duncan Jones"
+genres: ["Sci-Fi", "Mystery", "Psychological"]
 ---
-
 This study deconstructs Duncan Jones's existential sci-fi thriller *Moon* (2009, running time 97 minutes) as a masterpiece of psychological horror. The film analyzes the story of astronaut Sam Bell, who solitarily oversees the mining of helium-3 on the far side of the Moon and is nearing the end of his three-year shift. 
 
 Methodologically, the text focuses on the claustrophobic design of the lunar base, the loss of identity through the revelation of his own cloning, and the concept of absolute corporate indifference. The film illustrates the most terrifying aspect of space exploration: we are not met by an alien monster, but by the horror that, to the system back on Earth, we are merely replaceable biological components with falsified memories.

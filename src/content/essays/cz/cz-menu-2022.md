@@ -9,8 +9,8 @@ image: "/images/essays/menu-2022.webp"
 lang: "cz"
 translationSlug: "menu-2022"
 director: "Mark Mylod"
+genres: ["Černá komedie", "Satira", "Thriller"]
 ---
-
 Černohumorný thriller Marka Myloda *Menu* (*The Menu*, 2022, stopáž 107 minut) představuje břitkou a nemilosrdnou dekonstrukci elitářského konzumu, kultu osobnosti a dobrovolné podřízenosti autoritě. Děj situovaný do izolované luxusní restaurace Hawthorn na soukromém ostrově, vedené charismatickým a psychotickým šéfkuchařem Julianem Slowikem (Ralph Fiennes), funguje jako přesná metafora toxického mikrosystému a sektoidní hierarchie. 
 
 Tato studie analyzuje film nikoliv jako pouhou satiru na svět vysoké gastronomie (*haute cuisine*), nýbrž jako případovou studii kognitivní sebeobrany. Zaměřuje se na postavu Margot (Anya Taylor-Joy), která jako jediná dokáže manipulativní aparát rozbít tím, že odmítne konzumovat jeho elitářský kánon a pomocí cíleného kognitivního zkratu zbaví gurua jeho posvátné nedotknutelnosti.

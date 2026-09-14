@@ -9,8 +9,8 @@ image: "/images/essays/yotsuya-kaidan.webp"
 lang: "cz"
 translationSlug: "yotsuya-kaidan"
 director: "Nobuo Nakagawa"
+genres: ["Japonský horor", "Kaidan", "Historický"]
 ---
-
 Příběh o zrazené manželce Oiwa a její pomstě ze záhrobí představuje nejvýznamnější a kulturně nejvíce zatíženou linii japonské strašidelné tradice *kaidan*, jejíž kořeny sahají k slavné divadelní hře kabuki Curuji Nambokua IV. z roku 1825 (*Tókaidó Jocuja kaidan*). V japonském kulturním povědomí nemá tato látka status pouhé folklorní báchorky; je vnímána jako posvátný, afektivně nebezpečný text vyžadující rituální zdrženlivost – herci a filmové štáby před natáčením tradičně navštěvují Oiwain hrob v tokijské čtvrti Sugamo, aby předešli nehodám a kletbám. 
 
 Když režisér Nobuo Nakagawa natočil v roce 1959 v produkci studia Shintoho svou definitivní filmovou adaptaci (stopáž 76 minut), nevstupoval do neutrálního historického materiálu. Vytvořil dílo, v němž se divadelní konvence kabuki organicky propojily s moderní filmovou řečí, expresionistickou prací se světlem a tělesným hororem, čímž položil základy moderního japonského hororu (*J-Horror*).

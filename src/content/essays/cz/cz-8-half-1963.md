@@ -9,8 +9,8 @@ image: "/images/essays/8-half-1963.webp"
 lang: "cz"
 translationSlug: "8-half-1963"
 director: "Federico Fellini"
+genres: ["Drama", "Surrealismus", "Metakino"]
 ---
-
 Tato studie dekonstruuje mistrovské dílo Federica Felliniho *8½* (1963, stopáž 138 minut) jako ultimátní sebereflexivní metafilm, který zkoumá tvůrčí a existenciální krizi filmového režiséra Guida Anselmiho. Snímek analyzuje rozpad tradiční narativní struktury a její nahrazení volným proudem vědomí, kde se realita, sny, vzpomínky a fantazie prolínají v jeden nedělitelný celek. 
 
 Metodologicky se text zaměřuje na snovou kameru Gianniho Di Venanza, hudební leitmotivy Nino Roty a freudovsko-jungiánskou symboliku (např. archetyp animy ztělesněný Claudií Cardinale). Film ukazuje, že přijetí vlastního chaosu je jedinou cestou k umělecké a osobní svobodě.

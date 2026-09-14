@@ -9,8 +9,8 @@ image: "/images/essays/pan-twardowski-1936.webp"
 lang: "en"
 translationSlug: "pan-twardowski-1936"
 director: "Henryk Szaro"
+genres: ["Fantasy", "Historical", "Folklore"]
 ---
-
 When Polish director Henryk Szaro decided to adapt the legend of Master Twardowski in 1936, he was not aiming for a modest, intimate experiment. His goal was to showcase the power and grandeur of Polish cinema. *Pan Twardowski* was one of the most expensive and ambitious projects of its time. Szaro took the ancient tale of the Polish Faust and forged it into a mesmerizing historical epic, blending Renaissance splendor with folk tales of devils and sorcery.
 
 ### 1. The Slavic Faust Doesn't Just Want Wisdom; He Wants to Live

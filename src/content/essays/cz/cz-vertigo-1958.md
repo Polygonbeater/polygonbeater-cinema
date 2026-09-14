@@ -9,8 +9,8 @@ image: "/images/essays/vertigo-1958.webp"
 lang: "cz"
 translationSlug: "vertigo-1958"
 director: "Alfred Hitchcock"
+genres: ["Psychologický thriller", "Mysteriózní", "Neo-noir"]
 ---
-
 Psychologický thriller Alfreda Hitchcocka *Vertigo* (1958, stopáž 128 minut), natočený podle románu francouzské autorské dvojice Boileau-Narcejac *D'entre les morts* (Mezi mrtvými), představuje nejhlubší, nejtemnější a nejvíce sebereflexivní dílo v historii kinematografie. Snímek, který v prestižní anketě britského časopisu *Sight & Sound* sesadil z pozice nejlepšího filmu všech dob Wellesova *Občana Kanea*, překračuje mantinely detektivního vyšetřování. 
 
 Hitchcock v něm provádí nemilosrdnou dekonstrukci mužské erotické obsese, romantické iluze a nekrofilní touhy po oživení mrtvého ideálu. Film odhaluje, že pod nablýskanou slupkou hollywoodské romance se ukrývá tyranský pokus podřídit živou lidskou bytost fetišistickému obrazu vlastního podvědomí.

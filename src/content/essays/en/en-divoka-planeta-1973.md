@@ -9,8 +9,8 @@ image: "/images/essays/divoka-planeta-1973.webp"
 lang: "en"
 translationSlug: "divoka-planeta-1973"
 director: "René Laloux"
+genres: ["Animation", "Sci-Fi", "Philosophical"]
 ---
-
 > *“A timeless science fiction masterpiece critiquing power, inspired by historical trauma and surrealist vision.”*
 
 René Laloux’s *Fantastic Planet* (*La Planète sauvage*, 1973), featuring the grotesque, dreamlike visuals of French-Polish surrealist artist Roland Topor and produced in part at Jiří Trnka Studios in Prague, stands as a landmark of adult animation. Winner of the Special Prize at the 1973 Cannes Film Festival, it remains a towering work of socio-political science fiction.

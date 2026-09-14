@@ -9,8 +9,8 @@ image: "/images/essays/altered-states-1980.webp"
 lang: "en"
 translationSlug: "altered-states-1980"
 director: "Ken Russell"
+genres: ["Sci-Fi", "Body Horror", "Psychological"]
 ---
-
 Ken Russell’s *Altered States* (1980) looks, at first glance, like a sci-fi story about experiments with consciousness. But it is not really about drugs, hallucinations, or lab madness. It is about something far more uncomfortable: what happens when science tries to understand the mind so deeply that the very structure holding it together begins to dissolve.
 
 ### 1. The Scientist Searching for the Absolute Beginning

@@ -9,8 +9,8 @@ image: "/images/essays/faust-1994.webp"
 lang: "en"
 translationSlug: "faust-1994"
 director: "Jan Švankmajer"
+genres: ["Animation", "Surrealism", "Drama"]
 ---
-
 Jan Švankmajer’s *Faust* (1994) constitutes one of the most rigorous material rearticulations of the Faustian myth in modern cinema. Drawing on Goethe, Marlowe, and Czech folk puppet theatre, the film abandons both narrative continuity and optical illusion in favor of a procedural system governed by material operations [6][9].
 
 ### I. Material Procedures and Cinematic Control
