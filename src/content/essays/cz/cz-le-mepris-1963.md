@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "le-mepris-1963"
 director: "Jean-Luc Godard"
 genres: ["Nová vlna", "Drama", "Metakino"]
-film: "Pohrdání (1963)"
+film: "Le mepris (1963)"
 ---
 Snímek *Pohrdání* (*Le Mépris*, 1963, stopáž 103 minut) v režii Jeana-Luca Godarda představuje klíčový moment, kdy francouzská nová vlna opouští nízkorozpočtovou partyzánskou tvorbu v ulicích a obrací svou pozornost k nemilosrdné analýze filmového průmyslu, komodifikace umění a rozpadu partnerského vztahu. V adaptaci stejnojmenného románu Alberta Moravie se mísí vznešený svět klasické antické mytologie (Homérova *Odyssea*) s přízemní vulgaritou amerického velkokapitálu a studiové mašinérie.
 

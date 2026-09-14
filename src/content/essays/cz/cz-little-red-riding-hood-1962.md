@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "little-red-riding-hood-1962"
 director: "Götz Friedrich"
 genres: ["Pohádka", "Krátkometrážní"]
-film: "Červená Karkulka (1962)"
+film: "Little red riding hood (1962)"
 ---
 > *„Zkouška umělecké integrity: jak divadelní vizionář dokázal proměnit státem nařízenou dětskou bajku v goticky znepokojivou studii moci a poslušnosti.“*
 

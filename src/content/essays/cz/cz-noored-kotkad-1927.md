@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "noored-kotkad-1927"
 director: "Theodor Luts"
 genres: ["Němý film", "Válečný", "Historický"]
-film: "Mladí orli (1927)"
+film: "Noored kotkad (1927)"
 ---
 Němý velkofilm *Mladí orli* (*Noored kotkad*, 1927, stopáž 86 minut) režiséra a kameramana Theodora Lutse představuje absolutní základní kámen estonské národní kinematografie a jeden z nejvýznamnějších meziválečných filmových dokumentů celého Pobaltí. Film, natočený u příležitosti blížícího se desátého výročí vyhlášení samostatnosti Estonska, rekonstruuje dramatické události estonské osvobozenecké války (*Vabadussõda*, 1918–1920). 
 

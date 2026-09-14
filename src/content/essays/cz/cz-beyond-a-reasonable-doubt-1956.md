@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "beyond-a-reasonable-doubt-1956"
 director: "Fritz Lang"
 genres: ["Film noir", "Soudní drama", "Krimi"]
-film: "Beyond a Reasonable Doubt (1956)"
+film: "Beyond a reasonable doubt (1956)"
 ---
 Poslední americký snímek Fritze Langa *Beyond a Reasonable Doubt* (1956, stopáž 80 minut) představuje víc než jen kriminální thriller. Je to laboratorní experiment provedený přímo na divákovi. Lang zde definitivně opouští jakýkoliv idealismus, který si přivezl do USA v roce 1936, a nahrazuje ho ledovým skepticismem.
 

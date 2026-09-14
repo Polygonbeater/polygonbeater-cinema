@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "kocka-o-deviti-ocasech"
 director: "Dario Argento"
 genres: ["Giallo", "Mysteriózní", "Thriller"]
-film: "Kočka o devíti ocasech (1971)"
+film: "Kocka o deviti ocasech"
 ---
 Vizuální svět italského gialla tradičně funguje jako labyrint zrcadel, v němž je objektivní pravda pokřivena barvami, deformovanou optikou a stíny. Když Dario Argento v roce 1971 uvedl svůj druhý celovečerní snímek *Kočka o devíti ocasech* (*Il gatto a nove code*, stopáž 112 minut), rozhodl se tento optický mýtus radikálně zpochybnit. Do centra vyšetřování série brutálních vražd spojených s genetickým výzkumným institutem nestaví bystrého pozorovatele, nýbrž muže, který byl zraku zbaven. Bývalý novinář Franco Arnò (Karl Malden) operuje v režimu alternativní smyslové rekonstrukce reality, čímž film otevírá hlubokou epistemologickou debatu o nespolehlivosti samotného vidění.
 

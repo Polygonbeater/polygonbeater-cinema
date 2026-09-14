@@ -8,7 +8,7 @@ image: "/images/essays/street-of-crocodiles-1986.webp"
 lang: "cz"
 translationSlug: "street-of-crocodiles-1986"
 genres: ["Animovaný", "Surrealismus", "Experimentální"]
-film: "Ulička krokodýlů (1986)"
+film: "Street of crocodiles (1986)"
 ---
 > *„Rozpadající se sen, kde stroje pamatují víc než lidé.“*
 

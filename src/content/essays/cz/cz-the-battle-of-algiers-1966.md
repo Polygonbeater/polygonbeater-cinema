@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "the-battle-of-algiers-1966"
 director: "Gillo Pontecorvo"
 genres: ["Historický", "Válečný", "Politický"]
-film: "Bitva o Alžír (1966)"
+film: "The battle of algiers (1966)"
 ---
 > *„Každý akt koloniální nadvlády plodí svou vlastní vzpouru a každá vzpoura riskuje, že se stane novou formou útlaku.“*
 

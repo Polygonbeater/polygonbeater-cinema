@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "moontide-1942"
 director: "Archie Mayo, Fritz Lang"
 genres: ["Film noir", "Drama", "Romantický"]
-film: "Přístav lásky (1942)"
+film: "Moontide (1942)"
 ---
 Snímek *Moontide* (*Přístav lásky*, 1942, stopáž 94 minut) v produkci studia 20th Century Fox představuje v kariéře Fritze Langa unikátní a bouřlivou kapitolku – projekt, který jej po pouhých čtyřech dnech natáčení přinutil k rezignaci a nasměroval k radikální nezávislosti při vzniku jeho následujícího mistrovského díla *I katé umírají!*.
 

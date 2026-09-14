@@ -8,7 +8,7 @@ image: "/images/essays/the-arsenal-stadium-mystery-1939.webp"
 lang: "cz"
 translationSlug: "the-arsenal-stadium-mystery-1939"
 genres: ["Detektivní", "Sportovní", "Krimi"]
-film: "Záhada na stadiónu Arsenalu (1939)"
+film: "The arsenal stadium mystery (1939)"
 ---
 > *„Vizionářský kriminální film, který povýšil nízkorozpočtový formát na stylový, autentický a historicky neocenitelný milník britské kinematografie.“*
 

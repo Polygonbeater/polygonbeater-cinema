@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "suspiria"
 director: "Dario Argento, Luca Guadagnino"
 genres: ["Horor", "Giallo", "Mysteriózní"]
-film: "Suspiria (1977)"
+film: "Suspiria"
 ---
 Většina filmových remaků představuje pouhou komerční reprodukci prověřeného originálu. Umělecká konfrontace původní *Suspirie* Daria Argenta (1977, stopáž 98 minut) a její radikální reinterpretace v režii Lucy Guadagnina (2018, stopáž 152 minut) však tvoří jeden z nejvíce fascinujících dialogů v dějinách kinematografie. 
 

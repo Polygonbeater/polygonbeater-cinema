@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "lost-highway-1997"
 director: "David Lynch"
 genres: ["Neo-noir", "Surrealismus", "Psychologický"]
-film: "Lost Highway (1997)"
+film: "Lost highway (1997)"
 ---
 Snímek Davida Lynche *Lost Highway* (1997, stopáž 134 minut) představuje jeden z nejvýznamnějších mezníků moderní kinematografie zkoumající rozpad lidské identity, psychoanalytické trauma a limity filmové reprezentace. Lynch nepřistupuje k filmu jako k lineárnímu vyprávění s řešitelnou kriminální zápletkou; konstruuje jej jako hermeticky uzavřený psychotický okruh, jehož jediným cílem je vtáhnout diváka do noční můry viny a popření. 
 

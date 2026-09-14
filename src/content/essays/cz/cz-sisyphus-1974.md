@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "sisyphus-1974"
 director: "Marcell Jankovics"
 genres: ["Animovaný", "Filozofický", "Krátkometrážní"]
-film: "Sisyfos (1974)"
+film: "Sisyphus (1974)"
 ---
 > *„Váhou není kámen. Je jí lidská vůle.“*
 

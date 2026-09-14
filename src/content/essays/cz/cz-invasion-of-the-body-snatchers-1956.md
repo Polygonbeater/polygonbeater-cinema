@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "invasion-of-the-body-snatchers-1956"
 director: "Don Siegel"
 genres: ["Sci-Fi", "Horor", "Paranoický thriller"]
-film: "Invaze zlodějů těl (1956)"
+film: "Invasion of the body snatchers (1956)"
 ---
 > *„Jak poznáte, že člověk, se kterým mluvíte, je stále ještě on sám, a ne pouhá replika bez duše?“*
 

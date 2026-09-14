@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "sedmikrasky-1966"
 director: "Věra Chytilová"
 genres: ["Nová vlna", "Experimentální", "Komedie"]
-film: "Sedmikrásky (1966)"
+film: "Sedmikrasky (1966)"
 ---
 Snímek Věry Chytilové *Sedmikrásky* (*Daisies*, 1966, stopáž 74 minut), realizovaný ve scenáristické a výtvarné spolupráci s Ester Krumbachovou a za kameramanského mistrovství Jaroslava Kučery, představuje nejradikálnější formální i myšlenkový manifest Československé nové vlny. Film odmítá lineární dramaturgii, psychologický realismus i tradiční morální kánon dobové kinematografie. 
 

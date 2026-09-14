@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "le-manoir-du-diable-1896"
 director: "Georges Méliès"
 genres: ["Němý film", "Horor", "Krátkometrážní"]
-film: "Ďáblův dům (1896)"
+film: "Le manoir du diable (1896)"
 ---
 > *„Často oslavován jako vůbec první horor na světě – Mélièsův Ďáblův dům filmové nadpřirozeno nejen předchází, ale přímo ho na plátně vynalézá.“*
 

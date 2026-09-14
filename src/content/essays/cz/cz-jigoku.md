@@ -8,7 +8,7 @@ image: "/images/essays/jigoku.webp"
 lang: "cz"
 translationSlug: "jigoku"
 genres: ["Horor", "Surrealismus", "Japonský film"]
-film: "Peklo (1960)"
+film: "Jigoku"
 ---
 Snímek *Peklo* (*Jigoku*, 1960, stopáž 101 minut) režiséra Nobua Nakagawy, vyrobený ve studiu Shintoho na samém sklonku jeho existence, představuje naprosto ojedinělý mezník světového filmového hororu. Nakagawa nekoncipuje peklo jako pouhou metaforu či závěrečnou kulisu morálního ponaučení. V přesné polovině stopáže film brutálně láme dosavadní narativní kontinuitu a transformuje se v autonomní, mechanický systém, v němž prostor, barevná chromatika a kinetika přestávají sloužit psychologii postav a stávají se přímým aparátem exekuce.
 

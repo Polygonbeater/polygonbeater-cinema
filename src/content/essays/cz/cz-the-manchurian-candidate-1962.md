@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "the-manchurian-candidate-1962"
 director: "John Frankenheimer"
 genres: ["Politický thriller", "Špionážní", "Paranoický thriller"]
-film: "Manchurianský kandidát (1962)"
+film: "The manchurian candidate (1962)"
 ---
 > *„Paranoia v tomto případě není ničím jiným než zvýšenou bdělostí a racionálním povědomím o hluboké, skryté mechanice moci.“*
 

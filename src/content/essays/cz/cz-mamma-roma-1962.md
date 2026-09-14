@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "mamma-roma-1962"
 director: "Pier Paolo Pasolini"
 genres: ["Neorealismus", "Drama"]
-film: "Mamma Roma (1962)"
+film: "Mamma roma (1962)"
 ---
 > *„Vizionářská syntéza neorealismu a duchovní tragédie na pozadí chudinských římských periferií.“*
 

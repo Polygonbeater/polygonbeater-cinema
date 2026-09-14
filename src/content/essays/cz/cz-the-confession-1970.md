@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "the-confession-1970"
 director: "Costa-Gavras"
 genres: ["Politický thriller", "Historický", "Drama"]
-film: "Doznání (1970)"
+film: "The confession (1970)"
 ---
 Politické drama řecko-francouzského režiséra Costa-Gavrase *Doznání* (*L'Aveu*, 1970, stopáž 139 minut), natočené podle autobiografické knihy Artura Londona za scenáristické spolupráce Jorgeho Semprúna, představuje jedno z nejvýznamnějších a nejničivějších děl světové politické kinematografie. Film není ideologickou propagandou; je to chladná, precizní a neúprosná anatomie totalitní propagandy v její každodenní represivní praxi. 
 

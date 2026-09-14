@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "taxi-driver-1976"
 director: "Martin Scorsese"
 genres: ["Neo-noir", "Psychologický", "Krimi"]
-film: "Taxikář (1976)"
+film: "Taxi driver (1976)"
 ---
 Snímek Martina Scorseseho *Taxikář* (*Taxi Driver*, 1976, stopáž 114 minut), oceněný Zlatou palmou na festivalu v Cannes, představuje jeden ze základních pilířů éry Nového Hollywoodu a definitivní vrchol moderního neo-noiru. Film, natočený podle scénáře Paula Schradera za hudebního doprovodu v labutí písni Bernarda Herrmanna, nepředstavuje pouhou kriminální kroniku rozkladu New Yorku sedmdesátých let. 
 

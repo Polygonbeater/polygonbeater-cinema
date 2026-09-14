@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "watership-down-1978"
 director: "Martin Rosen"
 genres: ["Animovaný", "Mytologický", "Dobrodružný"]
-film: "Daleká cesta za domovem (1978)"
+film: "Watership down (1978)"
 ---
 > *„Co když je samotné přežití ztrátou ráje?“*
 

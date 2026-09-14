@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "moznosti-dialogu-1982"
 director: "Jan Švankmajer"
 genres: ["Animovaný", "Surrealismus", "Krátkometrážní"]
-film: "Možnosti dialogu (1982)"
+film: "Moznosti dialogu (1982)"
 ---
 > *„Když řeč selže, co nás místo toho pohltí?“*
 

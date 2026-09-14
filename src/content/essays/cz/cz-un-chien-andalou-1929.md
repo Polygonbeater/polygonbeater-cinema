@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "un-chien-andalou-1929"
 director: "Luis Buñuel"
 genres: ["Surrealismus", "Němý film", "Avantgarda"]
-film: "Andaluský pes (1929)"
+film: "Un chien andalou (1929)"
 ---
 Od samotného zrodu kinematografie platila tichá konvence: filmové plátno je oknem, které divákovi předkládá přehledný, logicky uspořádaný a kauzálně provázaný svět. V roce 1929 však španělský filmař Luis Buñuel a malíř Salvador Dalí tuto dohodu vzali a břitvou ji rozřezali na kusy. Šestnáctiminutový němý snímek *Andaluský pes* (*Un Chien Andalou*) nevstoupil do dějin kinematografie jako běžný avantgardní experiment, nýbrž jako oficiální manifest filmového surrealismu a radikální útok na zavedené způsoby lidského vnímání.
 

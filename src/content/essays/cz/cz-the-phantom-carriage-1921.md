@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "the-phantom-carriage-1921"
 director: "Victor Sjöström"
 genres: ["Němý film", "Gotický horor", "Mysteriózní"]
-film: "Vozka smrti (1921)"
+film: "The phantom carriage (1921)"
 ---
 Němý snímek švédského režiséra a herce Viktora Sjöströma *Vozka smrti* (*Körkarlen*, v mezinárodní distribuci *The Phantom Carriage*, 1921, stopáž 106 minut), natočený podle stejnojmenného románu nositelky Nobelovy ceny Selmy Lagerlöfové, představuje jeden ze základních pilířů světové kinematografie a absolutní vrchol tzv. zlatého věku švédského němého filmu. 
 

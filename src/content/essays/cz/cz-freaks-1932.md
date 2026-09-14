@@ -8,7 +8,7 @@ image: "/images/essays/freaks-1932.webp"
 lang: "cz"
 translationSlug: "freaks-1932"
 genres: ["Horor", "Drama", "Kultovní"]
-film: "Pozor na netvory! (1932)"
+film: "Freaks (1932)"
 ---
 > *„Film, který šokoval Hollywood svou radikální lidskostí a obsazením skutečných cirkusových umělců namísto monstrózních masek.“*
 

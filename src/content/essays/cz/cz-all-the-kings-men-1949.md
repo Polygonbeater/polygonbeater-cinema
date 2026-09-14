@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "all-the-kings-men-1949"
 director: "Robert Rossen"
 genres: ["Drama", "Film noir", "Politický"]
-film: "Všichni královi muži (1949)"
+film: "All the kings men (1949)"
 ---
 Politické drama Roberta Rossena *Všichni královi muži* (*All the King's Men*, 1949, stopáž 110 minut), oceněné třemi Oscary (včetně ceny za nejlepší film a nejlepší mužský herecký výkon), představuje jednu z nejpronikavějších analýz politického populismu v dějinách americké kinematografie. Snímek, adaptující Pulitzerovou cenou ověnčený román Roberta Penna Warrena z roku 1946 (inspirovaný vzestupem a pádem guvernéra Louisiany Hueyho Longa), zkoumá proces, jakým se původně upřímný, nezkorumpovaný venkovský právník bránící práva chudých promění v bezohledného demagoga a diktátora ovládajícího celý stát.
 

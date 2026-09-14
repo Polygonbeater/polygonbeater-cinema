@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "jedna-noc-v-jednom-meste-2007"
 director: "Jan Balej"
 genres: ["Animovaný", "Černá komedie", "Surrealismus"]
-film: "Jedna noc v jednom městě (2007)"
+film: "Jedna noc v jednom meste (2007)"
 ---
 > *„V tomhle městě má i ticho zuby.“*
 

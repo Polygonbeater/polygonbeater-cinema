@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "haxan-1922"
 director: "Benjamin Christensen"
 genres: ["Němý film", "Dokumentární", "Horor"]
-film: "Čarodějnictví v průběhu věků (1922)"
+film: "Haxan (1922)"
 ---
 > *„Není to jen horor; je to znepokojivý dokumentárně-hororový hybrid, který se ponořuje do historických kořenů a hrůzných pověr.“*
 

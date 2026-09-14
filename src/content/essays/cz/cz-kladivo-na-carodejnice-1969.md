@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "kladivo-na-carodejnice-1969"
 director: "Otakar Vávra"
 genres: ["Historický", "Drama", "Politická alegorie"]
-film: "Kladivo na čarodějnice (1969)"
+film: "Kladivo na carodejnice (1969)"
 ---
 Snímek Otakara Vávry *Kladivo na čarodějnice* (1969, stopáž 103 minut), natočený podle stejnojmenného románu Václava Kaplického a dobových soudních protokolů za scenáristické spolupráce Ester Krumbachové, představuje jeden z nejdrtivějších rozborů totalitního mechanismu v dějinách československé kinematografie. Vávra nepojednává o historii jako o bizarním panoptiku středověkých pověr. Ohně hranic přicházejí až na samotném konci; skutečné násilí se odehrává v tichu kanceláří, v momentě, kdy se husí brk poprvé dotkne čistého papíru.
 

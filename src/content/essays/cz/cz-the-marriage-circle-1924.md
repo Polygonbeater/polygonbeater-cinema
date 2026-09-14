@@ -8,7 +8,7 @@ image: "/images/essays/the-marriage-circle-1924.webp"
 lang: "cz"
 translationSlug: "the-marriage-circle-1924"
 genres: ["Němý film", "Komedie mravů", "Romantický"]
-film: "Manželský kruh (1924)"
+film: "The marriage circle (1924)"
 ---
 Němá komedie mravů Ernsta Lubitsche *Manželský kruh* (*The Marriage Circle*, 1924, stopáž 85 minut), natočená podle divadelní hry Lothara Schmidta *Nur ein Traum*, představuje jeden z klíčových přelomových mezníků v historii americké kinematografie dvacátých let. Šlo o teprve druhý americký projekt, který německý režisér realizoval po svém příchodu z Berlína do Hollywoodu na pozvání Mary Pickfordové, a o jeho první velký film pro tehdy rodící se studio Warner Bros. 
 

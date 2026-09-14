@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "apocalypse-now-1979"
 director: "Francis Ford Coppola"
 genres: ["Válečný", "Drama", "Psychologický"]
-film: "Apokalypsa (1979)"
+film: "Apocalypse now (1979)"
 ---
 Tato studie dekonstruuje opus magnum Francise Forda Coppoly *Apokalypsa* (*Apocalypse Now*, 1979, stopáž 153 minut) jako vizuálně omamnou a filozoficky zdrcující adaptaci Conradova *Srdce temnoty*. Film transformuje vietnamský konflikt v surreálnou cestu proti proudu času a morálky. 
 

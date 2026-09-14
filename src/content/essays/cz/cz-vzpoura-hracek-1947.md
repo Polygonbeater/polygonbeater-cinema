@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "vzpoura-hracek-1947"
 director: "Hermína Týrlová"
 genres: ["Animovaný", "Politická satira", "Krátkometrážní"]
-film: "Vzpoura hraček (1947)"
+film: "Vzpoura hracek (1947)"
 ---
 > *„Když se zdánlivě bezmocní a křehcí spojí, dokážou srazit brutální tyranii na kolena.“*
 

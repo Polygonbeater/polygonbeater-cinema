@@ -8,7 +8,7 @@ image: "/images/essays/children-of-men-2006.webp"
 lang: "cz"
 translationSlug: "children-of-men-2006"
 genres: ["Dystopie", "Sci-Fi", "Thriller"]
-film: "Potomci lidí (2006)"
+film: "Children of men (2006)"
 ---
 Snímek Alfonsa Cuaróna *Potomci lidí* (*Children of Men*, 2006, stopáž 109 minut), volně adaptující román P. D. Jamesové, představuje jeden z nejvýznamnějších mezníků moderního dystopického filmu. Cuarón opouští konvenční sci-fi estetiku a zasazuje vyprávění do hyperrealistických kulis Velké Británie roku 2027 – světa postiženého osmnáctiletou globální neplodností lidstva, která vedla k rozpadu mezinárodního řádu, vzestupu xenofobního policejního státu a totální ztrátě víry v budoucnost.
 

@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "devils-1971"
 director: "Ken Russell"
 genres: ["Historický", "Horor", "Drama"]
-film: "Ďáblové (1971)"
+film: "Devils (1971)"
 ---
 Tato studie dekonstruuje radikální a historicky cenzurované historické drama Kena Russella *Ďáblové* (*The Devils*, 1971, stopáž 111 minut) jako nekompromisní kritiku politické instrumentalizace náboženské víry. Snímek, vycházející ze skutečných událostí ve francouzském Loudunu 17. století a literární předlohy Aldouse Huxleyho, analyzuje likvidaci nekonformního kněze Urbana Grandiera. Ten se stane obětí vykonstruovaného procesu z čarodějnictví vyvolaného sexuální frustrací jeptišek a mocenským pragmatismem kardinála Richelieua. 
 

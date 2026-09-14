@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "the-good-the-bad-and-the-ugly-1966"
 director: "Sergio Leone"
 genres: ["Western", "Dobrodružný", "Kultovní"]
-film: "Hodný, zlý a ošklivý (1966)"
+film: "The good the bad and the ugly (1966)"
 ---
 > *„Každá válka je jen jiné jméno pro to, co z člověka zbude, když ztratí smysl.“*
 

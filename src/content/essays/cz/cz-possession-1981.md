@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "possession-1981"
 director: "Andrzej Żuławski"
 genres: ["Body horor", "Psychologický", "Surrealismus"]
-film: "Posedlost (1981)"
+film: "Possession (1981)"
 ---
 Snímek Andrzeje Żuławského *Posedlost* (*Possession*, 1981, stopáž 124 minut) představuje nejradikálnější a nejextrémnější ztvárnění manželského rozpadu v dějinách světové kinematografie. Żuławski, sám hluboce poznamenán osobním traumatem vlastního rozvodu i nuceným politickým odchodem z komunistického Polska, vytvořil dílo, které odmítá psychologický realismus konverzačních dramat. Namísto toho transformuje rozpad vztahu muže a ženy v tělesnou, viscerální noční můru, v níž se nezvladatelná emocionální bolest přímo materializuje do podoby krve, fyzického sebemrzačení a chobotnicovitého monstra.
 

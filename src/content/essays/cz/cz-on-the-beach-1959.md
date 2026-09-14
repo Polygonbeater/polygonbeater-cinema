@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "on-the-beach-1959"
 director: "Stanley Kramer"
 genres: ["Sci-Fi", "Postapokalyptický", "Drama"]
-film: "Na břehu (1959)"
+film: "On the beach (1959)"
 ---
 > *„Je stále ještě čas... bratře.“*
 

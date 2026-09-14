@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "citizen-kane-1941"
 director: "Orson Welles"
 genres: ["Drama", "Mysteriózní", "Klasický Hollywood"]
-film: "Občan Kane (1941)"
+film: "Citizen kane (1941)"
 ---
 Tato studie dekonstruuje opus magnum Orsona Wellese *Občan Kane* (*Citizen Kane*, 1941, stopáž 119 minut) jako přelomové dílo, které zavedlo nelineární narativní strukturu a radikální vizuální postupy do mainstreamové kinematografie. Snímek analyzuje život tiskového magnáta Charlese Fostera Kanea skrze sérii subjektivních retrospektiv pamětníků, kteří se snaží rozluštit význam jeho posledního slova „Rosebud“. 
 

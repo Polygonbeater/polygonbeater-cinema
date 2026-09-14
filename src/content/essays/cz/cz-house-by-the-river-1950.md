@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "house-by-the-river-1950"
 director: "Fritz Lang"
 genres: ["Film noir", "Psychologický", "Gotický"]
-film: "House by the River (1950)"
+film: "House by the river (1950)"
 ---
 Snímek *House by the River* (*Dům u řeky*, 1950, stopáž 88 minut) představuje návrat Fritze Langa k syrovému evropskému naturalismu v amerických kulisách po tříleté tvůrčí pauze. Lang opouští psychoanalytické experimenty a předkládá chladnou studii třídní arogance, patologického sobectví a neodvratného rozkladu lidského svědomí. Viktoriánskou gotiku transformuje do klaustrofobního noiru, který důsledně odmítá moralizující odstup a nahlíží zločin přímo z perspektivy bezohledného predátora.
 

@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "dobrodruzstvi-princa-achmeda-1926"
 director: "Lotte Reiniger"
 genres: ["Animovaný", "Němý film", "Pohádka"]
-film: "Dobrodružství prince Achmeda (1926)"
+film: "Dobrodruzstvi princa achmeda (1926)"
 ---
 > *„Dlouho před digitální animací stvořila Lotte Reinigerová nejstarší dochovaný celovečerní animovaný film na světě – podmanivou siluetovou fantasy, která dodnes působí jako z jiného světa.“*
 

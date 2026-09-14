@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "altered-states-1980"
 director: "Ken Russell"
 genres: ["Sci-Fi", "Body horor", "Psychologický"]
-film: "Zpětná proměna (1980)"
+film: "Altered states (1980)"
 ---
 Vizionářský sci-fi tělesný horor britského režiséra Kena Russella *Zpětná proměna* (*Altered States*, 1980, stopáž 102 minut), natočený podle stejnojmenného románu a scénáře Paddyho Chayefského, představuje fascinující epistemologický zlom v žánru vědeckofantastického filmu. Russell v něm opouští mechanické zkoumání vnějšího vesmíru a obrací objektiv kamery do hlubin lidského podvědomí a buněčné paměti. 
 

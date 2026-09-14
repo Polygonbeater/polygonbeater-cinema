@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "brana-do-temnot"
 director: "Lucio Fulci"
 genres: ["Horor", "Mysteriózní", "Němý film"]
-film: "Brána do temnot (1981)"
+film: "Brana do temnot"
 ---
 Lucio Fulci ve svém mistrovském díle *Brána do temnot* (*E tu vivrai nel terrore! L'aldilà*, 1981, stopáž 87 minut) zcela odmítá konvence tradičního kriminálního či gotického vyprávění. Snímek představuje triumf ryzího lovecraftovského nihilismu, v němž je racionální kauzalita systematicky podřízena snové logice rozkladu. Fulci divákovi nepředkládá zápletku k analytickému luštění, ale horečnatou noční můru k prožití – dílo čistého somatického a metafyzického zmaru.
 

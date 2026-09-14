@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "breathless-1960"
 director: "Jean-Luc Godard"
 genres: ["Nová vlna", "Krimi", "Drama"]
-film: "U konce s dechem (1960)"
+film: "Breathless (1960)"
 ---
 Tato studie dekonstruuje manifest francouzské nové vlny *U konce s dechem* (*À bout de souffle*, 1960, stopáž 90 minut) jako radikální přetržení dosavadní filmové gramatiky. Snímek analyzuje příběh drobného zlodějíčka Michela Poiccarda, jehož existence je zredukována na neustálý pohyb vpřed. 
 

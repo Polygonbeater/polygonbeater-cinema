@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "fraulein-raffke-1923"
 director: "Richard Eichberg"
 genres: ["Němý film", "Komedie", "Sociální"]
-film: "Fräulein Raffke (1923)"
+film: "Fraulein raffke (1923)"
 ---
 > *„Dnes ráno stojí dolar 10 miliard marek. Do dnešního odpoledne to bude pravděpodobně dvojnásobek.“* – Berlin Daily, 1923
 

@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "rashomon-1950"
 director: "Akira Kurosawa"
 genres: ["Historický", "Mysteriózní", "Filozofický"]
-film: "Rašomon (1950)"
+film: "Rashomon (1950)"
 ---
 Snímek Akiry Kurosawy *Rašomon* (*Rashomon*, 1950, stopáž 88 minut), oceněný Zlatým lvem na festivalu v Benátkách a čestným Oscarem, představuje jeden z nejdůležitějších milníků v dějinách světové kinematografie. Film nejenže otevřel brány západního filmového světa pro poválečné japonské umění, ale zavedl do mezinárodního filozofického a právního diskurzu termín „Rašomon efekt“ (*Rashomon effect*). 
 

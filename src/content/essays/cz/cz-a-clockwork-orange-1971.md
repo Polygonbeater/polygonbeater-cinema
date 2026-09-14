@@ -8,7 +8,7 @@ image: "/images/essays/a-clockwork-orange-1971.webp"
 lang: "cz"
 translationSlug: "a-clockwork-orange-1971"
 genres: ["Dystopie", "Sci-Fi", "Kultovní"]
-film: "Mechanický pomeranč (1971)"
+film: "A clockwork orange (1971)"
 ---
 Snímek *A Clockwork Orange* (*Mechanický pomeranč*, 1971) v režii Stanleyho Kubricka představuje nekompromisní kritiku moderní technokratické společnosti a její liberální rétoriky. Film nezkoumá násilí jako individuální patologii, nýbrž jako strukturální součást subjektivity, kterou stát eliminuje technologickým zásahem do vůle namísto etické kultivace.
 

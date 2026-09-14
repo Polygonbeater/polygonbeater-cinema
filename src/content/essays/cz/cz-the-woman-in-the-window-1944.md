@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "the-woman-in-the-window-1944"
 director: "Fritz Lang"
 genres: ["Film noir", "Psychologický thriller", "Krimi"]
-film: "Žena za výlohou (1944)"
+film: "The woman in the window (1944)"
 ---
 Snímek Fritze Langa *Žena za výlohou* (*The Woman in the Window*, 1944, stopáž 99 minut), vyrobený v produkci nezávislé společnosti International Pictures a distribuovaný studiem RKO, představuje jeden ze zakladatelských kamenů amerického filmu noir. Zatímco na evropských i tichomořských bojištích vrcholila druhá světová válka, Lang rozehrál intimní psychologické drama o křehkosti morální integrity počestného měšťana konfrontovaného s vlastním vytěsněným podvědomím. 
 

@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "what-the-health-2017"
 director: "Kip Andersen, Keegan Kuhn"
 genres: ["Dokumentární", "Investigativní"]
-film: "What the Health (2017)"
+film: "What the health (2017)"
 ---
 Dokumentární film Kipa Andersena a Keegana Kuhna *What the Health* (2017, stopáž 97 minut) představuje instruktážní model novodobého dezinformačního narativu a sofistikovaného útoku na kognitivní suverenitu diváka. Film, distribuovaný globálně prostřednictvím streamovací platformy Netflix, vystupuje pod maskou angažované investigativní žurnalistiky hájící veganské stravování. 
 

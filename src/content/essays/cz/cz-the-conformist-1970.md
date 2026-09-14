@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "the-conformist-1970"
 director: "Bernardo Bertolucci"
 genres: ["Politické drama", "Psychologický", "Historický"]
-film: "Konformista (1970)"
+film: "The conformist (1970)"
 ---
 > *„Poslouchat je snazší než žít.“*
 

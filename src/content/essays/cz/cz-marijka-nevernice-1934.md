@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "marijka-nevernice-1934"
 director: "Vladislav Vančura"
 genres: ["Klasický český film", "Drama", "Balada"]
-film: "Marijka nevěrnice (1934)"
+film: "Marijka nevernice (1934)"
 ---
 Snímek spisovatele a režiséra Vladislava Vančury *Marijka nevěrnice* (1934, stopáž 72 minut), realizovaný podle původního scénáře Ivana Olbrachta a Karla Nového s hudbou Bohuslava Martinů, představuje naprosto výjimečný klenot československé meziválečné kinematografie. Film nevznikl v bezpečí pražských ateliérů na Barrandově; štáb se vydal přímo do odlehlých hvozdů Podkarpatské Rusi, do vesnice Koločava a na divokou řeku Tereblu, aby zde zachytil život v jeho nejryzejší, archaické a sociálně drsné podobě. 
 

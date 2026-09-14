@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "orgasmo"
 director: "Umberto Lenzi"
 genres: ["Giallo", "Erotický thriller", "Psychologický"]
-film: "Orgasmo (1969)"
+film: "Orgasmo"
 ---
 Zatímco klasické italské giallo obvykle podřizuje svou výstavbu hledání maskovaného vraha s břitvou a choreografii krvavých mordů, Umberto Lenzi ve svém přelomovém díle *Orgasmo* (1969, stopáž 90 minut) tuto žánrovou šablonu radikálně proměňuje. Ve spolupráci s americkou hvězdou Carroll Bakerovou – pro niž se film stal odrazovým můstkem k postavení ikony italského erotického thrilleru – přesunul těžiště děsu od vnějšího nebezpečí k rafinované psychologické manipulaci. 
 

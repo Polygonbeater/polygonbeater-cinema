@@ -8,7 +8,7 @@ lang: "cz"
 translationSlug: "rev-1981"
 director: "Noel Marshall"
 genres: ["Přírodní thriller", "Dobrodružný"]
-film: "Řev (1981)"
+film: "Rev (1981)"
 ---
 Snímek Noela Marshalla *Řev* (*Roar*, 1981, stopáž 102 minut) představuje jeden z nejnebezpečnějších, nejbizarnějších a produkčně nejšílenějších experimentů v dějinách světové kinematografie. Film, natáčený s přestávkami celých jedenáct let na ranči v kalifornském Actonu, byl propagován jako rodinná dobrodružná komedie. Ve skutečnosti však funguje jako nezamýšlený a radikální dokumentární horor – dílo, v němž byla veškerá fikční distance mezi hercem a postavou, mezi krotitelem a dravcem, zcela vymazána.
 
