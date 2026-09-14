@@ -27,9 +27,10 @@ const GENRE_MAP: Record<string, string> = {
   "Environmentální": "Environmental", "Dobový": "Period", "Esej": "Essay"
 };
 
-
 import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
+import fs from 'node:fs';
+import path from 'node:path';
 
 export async function getStaticPaths() {
   const allEssays = await getCollection('essays');
@@ -101,6 +102,16 @@ const enRendered = enEntry ? await render(enEntry) : null;
 
 const CzContent = czRendered?.Content;
 const EnContent = enRendered?.Content;
+
+// Automatická detekce existence audio souborů na disku
+const audioCsPath = path.resolve(`./public/audio/${slug}-cs.mp3`);
+const audioEnPath = path.resolve(`./public/audio/${slug}-en.mp3`);
+
+const hasCsAudio = fs.existsSync(audioCsPath);
+const hasEnAudio = fs.existsSync(audioEnPath);
+
+const audioCsUrl = `/audio/${slug}-cs.mp3`;
+const audioEnUrl = `/audio/${slug}-en.mp3`;
 
 function parseFilmMeta(entry: any, defaultTitle: string, lang: 'cz' | 'en') {
   const title = entry?.data?.title || defaultTitle || "";
@@ -229,6 +240,16 @@ const enAlternateUrl = `${siteUrl}/en/essays/${slug}`;
             )}
             <div class="meta-chip"><span class="meta-label">Čtení</span><span class="meta-val">~{metaCs.readingTime} min</span></div>
           </div>
+
+          {hasCsAudio && (
+            <div class="audio-banner">
+              <span class="audio-icon">🎧</span>
+              <div class="audio-info">
+                <span class="audio-title">Poslechnout audio verzi</span>
+                <audio controls preload="none" src={audioCsUrl}></audio>
+              </div>
+            </div>
+          )}
         </div>
 
         <!-- Anglická hlavička -->
@@ -249,6 +270,16 @@ const enAlternateUrl = `${siteUrl}/en/essays/${slug}`;
             )}
             <div class="meta-chip"><span class="meta-label">Read</span><span class="meta-val">~{metaEn.readingTime} min</span></div>
           </div>
+
+          {hasEnAudio && (
+            <div class="audio-banner">
+              <span class="audio-icon">🎧</span>
+              <div class="audio-info">
+                <span class="audio-title">Listen to audio version</span>
+                <audio controls preload="none" src={audioEnUrl}></audio>
+              </div>
+            </div>
+          )}
         </div>
 
         <!-- Indikátor dostupnosti překladu -->
@@ -399,6 +430,50 @@ const enAlternateUrl = `${siteUrl}/en/essays/${slug}`;
   .meta-chip { display: flex; align-items: center; gap: 0.35rem; font-size: 0.85rem; }
   .meta-label { color: var(--text-muted); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.04em; }
   .meta-val { color: var(--accent); font-weight: 500; }
+
+  /* Audio banner styling - Polished & Centered */
+  .audio-banner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    padding: 0.8rem 1.2rem;
+    border-radius: 8px;
+    margin-top: 1.5rem;
+    max-width: 520px;
+    margin-left: auto;
+    margin-right: auto;
+    transition: border-color 0.2s ease;
+  }
+  .audio-banner:hover {
+    border-color: rgba(201, 162, 75, 0.4);
+  }
+  .audio-icon { 
+    font-size: 1.3rem; 
+    flex-shrink: 0; 
+    color: var(--accent); 
+  }
+  .audio-info { 
+    width: 100%; 
+    min-width: 0; 
+    text-align: left; 
+  }
+  .audio-title { 
+    display: block; 
+    font-size: 0.72rem; 
+    text-transform: uppercase; 
+    color: var(--text-muted); 
+    margin-bottom: 0.3rem; 
+    letter-spacing: 0.06em; 
+    font-weight: 600;
+  }
+  .audio-banner audio { 
+    width: 100%; 
+    height: 32px; 
+    display: block; 
+  }
 
   .translation-notice {
     text-align: center;
