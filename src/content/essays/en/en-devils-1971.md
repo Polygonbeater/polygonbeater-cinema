@@ -1,5 +1,4 @@
 ---title: "The Devils (1971): The Politics of Hysteria and the False Passion"
-film: "The Devils (1971)"
 year: 1971
 date: "2026-09-03"
 description: "An analytical study of Ken Russell's historical drama exploring the political weaponization of faith, Jarman's anachronistic architecture, and the deconstruction of the Passion of Christ."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "devils-1971"
 director: "Ken Russell"
 genres: ["Historical", "Horror", "Drama"]
+film: "The Devils (1971)"
 ---
 This study deconstructs Ken Russell's extremely controversial and historically censored historical drama *The Devils* (1971, running time 111 minutes) as a radical critique of the political weaponization of faith. Based on historical events in 17th-century Loudun, France, the film analyzes the destruction of a nonconformist priest, Urbain Grandier, who falls victim to fabricated witchcraft accusations orchestrated by sexually frustrated nuns and Cardinal Richelieu. 
 

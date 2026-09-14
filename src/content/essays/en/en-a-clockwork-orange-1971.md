@@ -1,5 +1,4 @@
 ---title: "A Clockwork Orange (1971): Violence, Behaviorism, and State Disciplining"
-film: "A Clockwork Orange (1971)"
 year: 1971
 date: "2026-09-03"
 description: "Analytical study of Stanley Kubrick's masterpiece, examining the Ludovico technique, the aestheticization of ultra-violence, wide-angle optics, and the crisis of free will."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "a-clockwork-orange-1971"
 director: "Stanley Kubrick"
 genres: ["Dystopia", "Sci-Fi", "Cult"]
+film: "A Clockwork Orange (1971)"
 ---
 Stanley Kubrick’s *A Clockwork Orange* (1971) stands as a fierce critique of modern technocratic governance and its hollow liberal rhetoric. The film treats violence not as a mere personal pathology, but as an inherent component of human subjectivity that the state seeks to eradicate through technological manipulation rather than ethical education.
 

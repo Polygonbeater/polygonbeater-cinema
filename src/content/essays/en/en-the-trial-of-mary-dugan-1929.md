@@ -1,5 +1,4 @@
 ---title: "The Trial of Mary Dugan (1929): The Birth of the Courtroom Drama"
-film: "The Trial of Mary Dugan (1929)"
 director: "playwright Bayard Veiller"
 year: 1929
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/the-trial-of-mary-dugan-1929.webp"
 lang: "en"
 translationSlug: "the-trial-of-mary-dugan-1929"
 genres: ["Courtroom Drama", "Crime"]
+film: "The Trial of Mary Dugan (1929)"
 ---
 > *“The moment cinema found its voice — and used it to cross-examine morality itself.”*
 

@@ -1,5 +1,4 @@
 ---title: "Zabití posvátného jelena (The Killing of a Sacred Deer, 2017): Chirurgická vina a symetrie trestu"
-film: "Zabití posvátného jelena (The Killing of a Sacred Deer, 2017)"
 year: 2017
 date: "2026-09-03"
 description: "Analytická studie psychologického thrilleru Yorgose Lanthimose zkoumající klinický determinismus, deadpan herectví, jazyk jako masku a mechaniku rituální reciprocity."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "killing-of-a-sacred-deer-2017"
 director: "Yorgos Lanthimos"
 genres: ["Psychologický", "Mysteriózní", "Horor"]
+film: "Zabití posvátného jelena (2017)"
 ---
 Tato studie dekonstruuje psychologický thriller Yorgose Lanthimose *Zabití posvátného jelena* (*The Killing of a Sacred Deer*, 2017, stopáž 121 minut) jako moderní radikální adaptaci Eurípidovy antické tragédie *Ifigenie v Aulidě*. Snímek analyzuje život špičkového kardiochirurga Stevena Murphyho, jehož rodina se stane obětí nevysvětlitelné paralyzující choroby poté, co do jejich soukromí pronikne dospívající Martin – syn pacienta, který zemřel na Stevenově operačním stole. 
 

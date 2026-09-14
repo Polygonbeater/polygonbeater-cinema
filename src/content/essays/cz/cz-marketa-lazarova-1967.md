@@ -1,5 +1,4 @@
 ---title: "Marketa Lazarová (1967): Tíha bláta, kmenový animismus a zrod řádu z krve"
-film: "Marketa Lazarová (1967)"
 year: 1967
 date: "2026-09-03"
 description: "Analytická studie vizionářského historického eposu Františka Vláčila zkoumající drtivou materialitu středověku, kameru Bedřicha Baťky, polyfonní partituru Zdeňka Lišky a střet kmenového pohanství s křesťanskou mocí."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "marketa-lazarova-1967"
 director: "František Vláčil"
 genres: ["Historický", "Epos", "Balada"]
+film: "Marketa Lazarová (1967)"
 ---
 Vizionářský historický epos Františka Vláčila *Marketa Lazarová* (1967, stopáž 162 minut), natočený podle stejnojmenného románu Vladislava Vančury za scenáristické spolupráce Františka Pavlíčka, představuje vrcholný monument české i světové kinematografie šedesátých let. Vláčil nemilosrdně strhává ze středověku romantickou oponu devatenáctého století plnou naleštěných rytířských brnění, heraldických ctností a uhlazené chronologie. 
 

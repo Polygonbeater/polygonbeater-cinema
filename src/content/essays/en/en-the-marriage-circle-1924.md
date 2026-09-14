@@ -1,5 +1,4 @@
 ---title: "The Marriage Circle (1924): Ernst Lubitsch's Silent Masterpiece"
-film: "The Marriage Circle (1924)"
 director: "Ernst Lubitsch and"
 year: 1924
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/the-marriage-circle-1924.webp"
 lang: "en"
 translationSlug: "the-marriage-circle-1924"
 genres: ["Silent Film", "Comedy of Manners", "Romance"]
+film: "The Marriage Circle (1924)"
 ---
 > *“A sparkling comedy of manners that transformed subtle gestures and pregnant pauses into the legendary ‘Lubitsch Touch’.”*
 

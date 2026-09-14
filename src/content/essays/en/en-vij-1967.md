@@ -1,5 +1,4 @@
 ---title: "Viy (1967) – Folkloric Imagination on the Margins of Soviet Materialism"
-film: "Viy (1967)"
 director: "Konstantin Yershov and"
 year: 1967
 date: "2026-09-02"
@@ -9,6 +8,7 @@ image: "/images/essays/vij-1967.webp"
 lang: "en"
 translationSlug: "vij-1967"
 genres: ["Folklore", "Horror", "Fairy Tale"]
+film: "Viy (1967)"
 ---
 The film adaptation of Nikolai Gogol’s story Viy (1967), directed by Konstantin Yershov and Georgy Kropachyov, represents a unique phenomenon within Eastern Bloc cinema. Although produced in the center of the Soviet film industry (Mosfilm), it opens an unusually broad space for irrationality, folklore, and religious imagination—themes that stood on the margins of official Soviet cultural production. While Viy was not conceived as open political subversion, it utilized the genre of folkloric adaptation to introduce ancient layers of local myth into a strictly materialist environment.
 

@@ -1,5 +1,4 @@
 ---title: "Divoká planeta (La Planète sauvage, 1973): Alegorie moci, surrealismus a emancipace"
-film: "Divoká planeta (1973)"
 year: 1973
 date: "2026-09-03"
 description: "Hloubková analýza slavného animovaného sci-fi snímku René Lalouxe a Rolanda Topora, kombinujícího politickou alegorii a psychedelickou vizuální poezii."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "divoka-planeta-1973"
 director: "René Laloux"
 genres: ["Animovaný", "Sci-Fi", "Filozofický"]
+film: "Divoká planeta (1973)"
 ---
 > *„Vesmírné mistrovské dílo kritizující nerovnováhu moci, inspirované traumaty 20. století a sovětskou okupací.“*
 

@@ -1,5 +1,4 @@
 ---title: "Grizzly Man (2005): Mýtus o přátelství a lhostejnost dravce"
-film: "Grizzly Man (2005)"
 year: 2005
 date: "2026-09-03"
 description: "Analytická studie dokumentární tragédie Wernera Herzoga zkoumající selhání lidské empatie vůči divočině, nebezpečnou antropomorfizaci a etiku neslyšeného záznamu smrti."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "grizzly-man-2005"
 director: "Werner Herzog"
 genres: ["Dokumentární", "Biografický", "Přírodní"]
+film: "Grizzly Man (2005)"
 ---
 Tato studie dekonstruuje dokumentární tragédii Wernera Herzoga *Grizzly Man* (2005, stopáž 103 minut) jako radikální zprávu o selhání lidské empatie vůči divočině. Snímek analyzuje život a smrt ekologického aktivisty Timothyho Treadwella, který věřil, že překročil hranici mezi lidským a zvířecím světem a stal se „ochráncem“ a „bratrem“ aljašských medvědů grizzly. 
 

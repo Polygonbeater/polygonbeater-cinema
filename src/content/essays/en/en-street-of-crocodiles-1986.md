@@ -1,5 +1,4 @@
 ---title: "Street of Crocodiles (1986): A Decaying Dream and the Afterlife of Objects"
-film: "Street of Crocodiles (1986)"
 director: "identical twins Stephen"
 year: 1986
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/street-of-crocodiles-1986.webp"
 lang: "en"
 translationSlug: "street-of-crocodiles-1986"
 genres: ["Animation", "Surrealism", "Experimental"]
+film: "Street of Crocodiles (1986)"
 ---
 > *“A decaying dream, where machines remember more than men.”*
 

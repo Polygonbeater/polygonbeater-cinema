@@ -1,5 +1,4 @@
 ---title: "Rašomon (Rashomon, 1950): Rozpad objektivní pravdy a epistemologický relativismus"
-film: "Rašomon (1950)"
 year: 1950
 date: "2026-09-03"
 description: "Analytická studie přelomového mistrovského díla Akiry Kurosawy zkoumající epistemologický relativismus, nespolehlivé vypravěče, revoluční kameru Kazua Mijagawy a etické vykoupení skrze nalezené dítě."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "rashomon-1950"
 director: "Akira Kurosawa"
 genres: ["Historický", "Mysteriózní", "Filozofický"]
+film: "Rašomon (1950)"
 ---
 Snímek Akiry Kurosawy *Rašomon* (*Rashomon*, 1950, stopáž 88 minut), oceněný Zlatým lvem na festivalu v Benátkách a čestným Oscarem, představuje jeden z nejdůležitějších milníků v dějinách světové kinematografie. Film nejenže otevřel brány západního filmového světa pro poválečné japonské umění, ale zavedl do mezinárodního filozofického a právního diskurzu termín „Rašomon efekt“ (*Rashomon effect*). 
 

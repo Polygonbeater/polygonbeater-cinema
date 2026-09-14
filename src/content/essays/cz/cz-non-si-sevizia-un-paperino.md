@@ -1,5 +1,4 @@
 ---title: "Netrapte kachňátko (Non si sevizia un paperino, 1972): Anatomie systémového zla a venkovský folk-horor"
-film: "Netrapte kachňátko (1972)"
 director: "Lucio Fulci"
 year: 1972
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/non-si-sevizia-un-paperino.webp"
 lang: "cz"
 translationSlug: "non-si-sevizia-un-paperino"
 genres: ["Giallo", "Mysteriózní", "Horor"]
+film: "Netrapte kachňátko (1972)"
 ---
 Většina konvenčních filmových hororů učí diváka bát se vnějšího monstra – cizorodého vetřelce, který narušuje bezpečný svět fungující podle zavedených morálních pravidel. Mistrovské dílo Lucia Fulciho *Netrapte kachňátko* (*Non si sevizia un paperino*, v mezinárodní distribuci známé jako *Don't Torture a Duckling*, 1972, stopáž 102 minut) však přináší podstatně mrazivější a radikálnější zjištění: co když žádné vnější monstrum neexistuje? Co když je skutečným monstrem samotná komunita, její instituce a způsoby, jimiž udržuje svůj řád?
 

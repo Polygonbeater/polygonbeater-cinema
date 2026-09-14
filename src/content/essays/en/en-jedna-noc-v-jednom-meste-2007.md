@@ -1,5 +1,4 @@
 ---title: "One Night in One City (2007): The Poetry of Decay"
-film: "One Night in One City (2007)"
 year: 2007
 date: "2026-09-03"
 description: "An analytical essay on Jan Balej's stop-motion masterwork, exploring urban folklore, grotesque compassion, and the decay of modern loneliness."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "jedna-noc-v-jednom-meste-2007"
 director: "Jan Balej"
 genres: ["Animation", "Black Comedy", "Surrealism"]
+film: "One Night in One City (2007)"
 ---
 > *“In this city, even silence has teeth.”*
 

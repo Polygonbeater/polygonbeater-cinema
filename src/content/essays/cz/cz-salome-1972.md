@@ -1,5 +1,4 @@
 ---title: "Salomè (1972): Radikální ikonoklastie Carmela Beneho a estetika protikina"
-film: "Salomè (1972)"
 director: "Carmelo Bene"
 year: 1972
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/salome-1972.webp"
 lang: "cz"
 translationSlug: "salome-1972"
 genres: ["Historický", "Art", "Drama"]
+film: "Salomè (1972)"
 ---
 > *„Nezajímalo mě vyprávět Wildea, ale ukázat nemožnost mučednictví v moderním světě, který už není barbarský, nýbrž výhradně hloupý.“*
 

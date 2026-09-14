@@ -1,5 +1,4 @@
 ---title: "Roar (1981): The Pathology of Coexistence and Documentary Terror"
-film: "Roar (1981)"
 year: 1981
 date: "2026-09-02"
 description: "An analytical study deconstructing the unique cinematic experiment Roar as a radical form of documentary terror, blurring the lines between fiction and actual assault by big cats."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "rev-1981"
 director: "Noel Marshall"
 genres: ["Nature Thriller", "Adventure"]
+film: "Roar (1981)"
 ---
 This study deconstructs the unique cinematic experiment *Roar* (1981, running time 102 minutes) as a radical form of „found footage“ horror that predates the genre's popularity, with the critical difference that the threat was real. The film analyzes a family's attempt to live in a single house with over a hundred predatory cats. Methodologically, the text focuses on the blurring of lines between fiction and the documentation of actual assault, the psychology of director Noel Marshall (an obsession with controlling the uncontrollable), and the total erosion of safety within domestic space. The film represents the ultimate study of taming gone chaotic, where the human voice and authority mean nothing against tons of living muscle and fangs.
 

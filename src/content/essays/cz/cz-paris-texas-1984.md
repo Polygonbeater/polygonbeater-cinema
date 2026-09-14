@@ -1,5 +1,4 @@
 ---title: "Paříž, Texas (Paris, Texas, 1984): Krajina osamění a anatomie ztráty"
-film: "Paříž, Texas (Paris, Texas, 1984)"
 year: 1984
 date: "2026-09-03"
 description: "Analytická studie kultovní road movie Wima Wenderse zkoumající lidskou izolaci, poušť jako existenciální očistec, barevnou kameru Robbyho Müllera a zpověď za polopropustným zrcadlem."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "paris-texas-1984"
 director: "Wim Wenders"
 genres: ["Road movie", "Drama", "Psychologický"]
+film: "Paříž, Texas (1984)"
 ---
 Melancholická existenciální road movie německého režiséra Wima Wenderse *Paříž, Texas* (*Paris, Texas*, 1984, stopáž 145 minut), oceněná Zlatou palmou na festivalu v Cannes, představuje jeden z vrcholů moderního autorského filmu. Snímek, natočený podle scénáře amerického dramatika Sama Sheparda za hudebního doprovodu kytaristy Ry Coodera, dekonstruuje americký mýtus o neomezené svobodě otevřené dálnice. 
 

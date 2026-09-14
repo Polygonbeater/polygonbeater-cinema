@@ -1,5 +1,4 @@
 ---title: "Nařčení (Compliance, 2012): Anatomie slepé poslušnosti a tyranie autority"
-film: "Nařčení (Compliance, 2012)"
 year: 2012
 date: "2026-09-03"
 description: "Analytická studie psychologického thrilleru Craiga Zobela zkoumající systémovou poslušnost, Milgramův experiment, kognitivní paralýzu a difúzi odpovědnosti."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "compliance-2012"
 director: "Craig Zobel"
 genres: ["Psychologický", "Thriller", "Drama"]
+film: "Nařčení (2012)"
 ---
 Tato studie dekonstruuje psychologický thriller Craiga Zobela *Nařčení* (*Compliance*, 2012, stopáž 90 minut) jako mrazivé varovné memento před systémovou konformitou a slepou poslušností. Snímek, který je rekonstrukcí reálného případu ze státu Kentucky, sleduje běžnou páteční směnu ve fastfoodové restauraci. Do podniku zavolá neznámý muž vydávající se za policejního důstojníka a přesvědčí manažerku Sandru, že mladá pokladní okradla zákaznici. Pod rouškou formálního vyšetřování donutí personál dívku uvěznit v zázemí a podrobit ji sérii stupňujících se, extrémně ponižujících prohlídek. 
 

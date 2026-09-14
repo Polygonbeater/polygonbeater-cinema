@@ -1,5 +1,4 @@
 ---title: "Hordubalové (1937): Střet archaického mýtu a moderní československé justice"
-film: "Hordubalové (1937)"
 director: "Martin Frič"
 year: 1937
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/hordubalove-1937.webp"
 lang: "cz"
 translationSlug: "hordubalove-1937"
 genres: ["Drama", "Klasický český film"]
+film: "Hordubalové (1937)"
 ---
 Filmová adaptace prvního dílu slavné noetické trilogie Karla Čapka v režii Martina Friče představuje jeden z vrcholů československé meziválečné kinematografie. *Hordubalové* (1937, stopáž 105 minut) nejsou pouhým psychologickým dramatem o milostném trojúhelníku a vraždě, nýbrž pronikavou sociologickou a filozofickou sondou do vnitřních rozporů první Československé republiky. Snímek vizualizuje radikální civilizační zlom mezi mýtickým, patriarchálním světem podkarpatské vesnice a moderním státním aparátem reprezentovaným exaktní justiční mocí.
 

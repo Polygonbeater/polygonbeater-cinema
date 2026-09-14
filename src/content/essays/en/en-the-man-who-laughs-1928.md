@@ -1,5 +1,4 @@
 ---title: "The Man Who Laughs (1928) – Anatomy of an Eternal Smile and the Birth of the Tragic Monster"
-film: "The Man Who Laughs (1928)"
 director: "Paul Leni"
 year: 1928
 date: "2026-09-02"
@@ -9,6 +8,7 @@ image: "/images/essays/the-man-who-laughs-1928.webp"
 lang: "en"
 translationSlug: "the-man-who-laughs-1928"
 genres: ["Silent Film", "Gothic Melodrama", "Horror"]
+film: "The Man Who Laughs (1928)"
 ---
 The year 1928 marks the twilight of the silent era. Just before synchronized sound irrevocably altered the cinematic landscape, visual storytelling achieved extraordinary formal sophistication. *The Man Who Laughs*, directed by Paul Leni, stands as a monument to this transitional phase. Imported from Germany to Universal Pictures, Leni infused a Victor Hugo adaptation with the striking visual lexicon of Weimar Expressionism. The result transcends historical melodrama; it is a radical exploration of the face as a prison and the genesis of the "sympathetic monster" archetype.
 

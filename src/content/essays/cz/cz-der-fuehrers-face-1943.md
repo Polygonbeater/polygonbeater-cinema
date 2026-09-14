@@ -1,5 +1,4 @@
 ---title: "Der Fuehrer's Face (1943): Animovaná psychologická válka a totalitní satira"
-film: "Der Fuehrer's Face (1943)"
 year: 1943
 date: "2026-09-03"
 description: "Hloubková analýza oscarového krátkého filmu Walta Disneyho, který využil kačera Donalda jako zbraň v psychologické válce proti nacistickému Německu."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "der-fuehrers-face-1943"
 director: "Jack Kinney"
 genres: ["Animovaný", "Propaganda", "Komedie"]
+film: "Der Fuehrer's Face (1943)"
 ---
 Krátkometrážní animovaný snímek *Der Fuehrer's Face* (1943, stopáž 8 minut), produkovaný studiem Walt Disney Productions v režii Jacka Kinneyho, představuje jeden z nejefektivnějších příkladů využití kresleného filmu pro potřeby psychologické války a mobilizace veřejného mínění za druhé světové války. Film, oceněný v roce 1943 Cenou Akademie (Oscarem) za nejlepší krátký animovaný film, demonstruje transformační potenciál popkulturní ikony v nástroj otevřeného ideologického střetu.
 

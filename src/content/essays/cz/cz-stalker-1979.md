@@ -1,5 +1,4 @@
 ---title: "Stalker (1979): Víra v zóně prázdnoty a metafyzika času"
-film: "Stalker (1979)"
 year: 1979
 date: "2026-09-03"
 description: "Analytická studie mistrovského díla Andreje Tarkovského zkoumající metafyzickou pouť, koncept sochání v čase, dialektiku vědy a víry a Komnatu přání."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "stalker-1979"
 director: "Andrej Tarkovskij"
 genres: ["Sci-Fi", "Filozofický", "Mysteriózní"]
+film: "Stalker (1979)"
 ---
 Filozofický snímek Andreje Tarkovského *Stalker* (1979, stopáž 162 minut), volně inspirovaný sci-fi novelou bratří Arkadije a Borise Strugackých *Piknik u cesty*, představuje jeden z vrcholů spirituální a kontemplativní kinematografie dvacátého století. Tarkovskij radikálně vyprázdnil konvenční žánrové rekvizity vědeckofantastického dobrodružství: Zóna neobsahuje mimozemská monstra, lasery ani akční střety. 
 

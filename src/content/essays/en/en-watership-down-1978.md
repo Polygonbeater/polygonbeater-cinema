@@ -1,5 +1,4 @@
 ---title: "Watership Down (1978): The Pastoral Apocalypse of Innocence"
-film: "Watership Down (1978)"
 year: 1978
 date: "2026-09-03"
 description: "An analytical essay on Martin Rosen's masterpiece, exploring myth, the cruelty of nature, and the existential struggle for survival."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "watership-down-1978"
 director: "Martin Rosen"
 genres: ["Animation", "Mytologický", "Adventure"]
+film: "Watership Down (1978)"
 ---
 > *“What if survival itself were the loss of paradise?”*
 

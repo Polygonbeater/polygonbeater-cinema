@@ -1,5 +1,4 @@
 ---title: "Der Fuehrer's Face (1943): Animated Psychological Warfare and Totalitarian Satire"
-film: "Der Fuehrer's Face (1943)"
 year: 1943
 date: "2026-09-03"
 description: "An analytical essay on Walt Disney's Academy Award-winning wartime short film, exploring its use of Donald Duck as psychological warfare against Nazi Germany."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "der-fuehrers-face-1943"
 director: "Jack Kinney"
 genres: ["Animation", "Propaganda", "Comedy"]
+film: "Der Fuehrer's Face (1943)"
 ---
 The 1943 short film *Der Fuehrer's Face*, produced by Walt Disney Productions, is an iconic and highly effective example of how animation was weaponized for morale and psychological warfare during World War II. The short won the Academy Award for Best Animated Short Film in 1943.
 

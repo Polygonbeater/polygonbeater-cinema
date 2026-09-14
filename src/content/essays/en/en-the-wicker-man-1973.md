@@ -1,5 +1,4 @@
 ---title: "The Wicker Man (1973): The Sun as an Instrument of Terror"
-film: "The Wicker Man (1973)"
 year: 1973
 date: "2026-09-03"
 description: "An analytical study of the foundational folk horror film exploring daylight terror, isolation through diegetic folk music, and the fatal collision of irreconcilable dogmas."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "the-wicker-man-1973"
 director: "Robin Hardy"
 genres: ["Folk Horror", "Mystery", "Cult"]
+film: "The Wicker Man (1973)"
 ---
 This study deconstructs the foundational work of the folk horror subgenre, *The Wicker Man* (1973, running time 88 minutes), as a radical polemic against the concept of civilizational superiority and religious dogma. The film analyzes a puritanical police sergeant's search for a missing girl on the isolated island of Summerisle, where the inhabitants practice pre-Christian Celtic polytheism. 
 

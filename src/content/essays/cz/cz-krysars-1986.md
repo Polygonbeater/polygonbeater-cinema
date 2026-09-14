@@ -1,5 +1,4 @@
 ---title: "Krysař (1986): Dřevěná apokalypsa a mravní rozpad"
-film: "Krysař (1986)"
 year: 1986
 date: "2026-09-03"
 description: "Hloubková analýza loutkového mistrovského díla Jiřího Barty zkoumající morální hnilobu, expresionistickou stop-motion animaci a totalitní alegorii chamtivosti."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "krysars-1986"
 director: "Jiří Barta"
 genres: ["Animovaný", "Gotický", "Horor"]
+film: "Krysař (1986)"
 ---
 > *„Když město přestalo naslouchat, flétna si vzpomněla, jak mluvit.“*
 

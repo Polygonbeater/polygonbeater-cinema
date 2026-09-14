@@ -1,5 +1,4 @@
 ---title: "Birth/Rebirth (2023): Biologické vzkříšení a etická nula"
-film: "Birth/Rebirth (2023)"
 year: 2023
 date: "2026-09-03"
 description: "Analytická studie nezávislého hororu Laury Moss zkoumající reanimaci jako technický proces, klinickou kameru a dekonstrukci mateřského pudu."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "birth-rebirth-2023"
 director: "Laura Moss"
 genres: ["Horor", "Sci-Fi", "Psychologický"]
+film: "Birth/Rebirth (2023)"
 ---
 Tato studie dekonstruuje prestižní nezávislý horor *Birth/Rebirth* (2023, stopáž 94 minut) jako radikální redefinici mýtu o vzkříšení. Snímek analyzuje střet dvou žen – patoložky Rose, která ve svém bytě vyvíjí sérum pro oživení mrtvé tkáně, a zdravotní sestry Celie, jejíž dcera náhle zemře a stane se subjektem Roseina experimentu. 
 

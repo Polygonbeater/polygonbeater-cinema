@@ -1,5 +1,4 @@
 ---title: "JFK (1991) – A System of Montage-Generated Epistemic Authority"
-film: "JFK (1991)"
 year: 1991
 date: "2026-09-02"
 description: "Oliver Stone weaponized film into an instrument of visual evidentiary procedure, demonstrating how to reorganize the relationship between image and truthfulness."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "jfk-1991"
 director: "Oliver Stone"
 genres: ["Political", "Thriller", "Historical"]
+film: "JFK (1991)"
 ---
 We typically view cinema as a medium for storytelling or artistic abstraction. However, in JFK (1991), director Oliver Stone revealed something formally much more radical: he weaponized film into an instrument of visual evidentiary procedure. He does not invite the viewer into an open dialogue. Instead, he immerses the audience in a meticulously constructed, strongly guiding interpretive framework that structurally favors his authorial version of the truth.
 

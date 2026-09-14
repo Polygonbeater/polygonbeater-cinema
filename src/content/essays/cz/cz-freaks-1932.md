@@ -1,5 +1,4 @@
 ---title: "Pozor na netvory! (Freaks, 1932): Odsouzený a rehabilitovaný klenot Toda Browninga"
-film: "Pozor na netvory! (1932)"
 director: "Tod Browning"
 year: 1932
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/freaks-1932.webp"
 lang: "cz"
 translationSlug: "freaks-1932"
 genres: ["Horor", "Drama", "Kultovní"]
+film: "Pozor na netvory! (1932)"
 ---
 > *„Film, který šokoval Hollywood svou radikální lidskostí a obsazením skutečných cirkusových umělců namísto monstrózních masek.“*
 

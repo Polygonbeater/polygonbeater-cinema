@@ -1,5 +1,4 @@
 ---title: "Krátký film o zabíjení (Krótki film o zabijaniu, 1988): Anatomie mechanické smrti"
-film: "Krátký film o zabíjení (1988)"
 year: 1988
 date: "2026-09-03"
 description: "Analytická studie mistrovského díla Krzysztofa Kieślowského zkoumající etickou symetrii individuální vraždy a státem řízené popravy, toxickou vizuální asfyxii Sławomira Idziaka a fyzickou tíhu umírání."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "krotki-film-o-zabijaniu-1988"
 director: "Krzysztof Kieślowski"
 genres: ["Drama", "Krimi", "Filozofický"]
+film: "Krátký film o zabíjení (1988)"
 ---
 Snímek Krzysztofa Kieślowského *Krátký film o zabíjení* (*Krótki film o zabijaniu*, 1988, stopáž 84 minut), rozšířená celovečerní verze pátého dílu televizního cyklu *Dekalog*, představuje jeden z nejdrtivějších etických traktátů v dějinách světové kinematografie. Kieślowski zbavuje akt usmrcení člověka jakéhokoliv žánrového nátěru, romantického heroizmu či hollywoodské katarze. Nejedná se o kriminální thriller ani o horor; je to chladná, metodická pitva obrovské fyzické námahy a institucionálního chladu, které jsou zapotřebí k definitivnímu vyhasnutí lidského života.
 

@@ -1,5 +1,4 @@
 ---title: "Nikola Šuhaj (1947) – Balladic Myth-Making and Post-War Reflection on a Lost Space"
-film: "Nikola Šuhaj (1947)"
 director: "Miroslav Josef Kr"
 year: 1947
 date: "2026-09-02"
@@ -9,6 +8,7 @@ image: "/images/essays/nikola-suhaj-1947.webp"
 lang: "en"
 translationSlug: "nikola-suhaj-1947"
 genres: ["Classic Czech Cinema", "Adventure", "Folkloric Ballad"]
+film: "Nikola Šuhaj (1947)"
 ---
 The 1947 film adaptation of Ivan Olbracht's seminal novel, directed by Miroslav Josef Krňanský, represents a remarkable transitional moment in the history of Czechoslovak cinema. While interwar films (*Marijka the Unfaithful*, *Hordubalové*) captured Carpathian Ruthenia as an integral, socially complex part of the First Republic, *Nikola Šuhaj* was produced in a post-war atmosphere following the 1945 treaty that ceded the territory to the Soviet Union. The film can thus be interpreted as one of the first post-war cinematic images of Carpathian Ruthenia that, rather than documenting reality, reflects a myth of a space permanently swallowed by Europe's post-war geopolitical transformations.
 

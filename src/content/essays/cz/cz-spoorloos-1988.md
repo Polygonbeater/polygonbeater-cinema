@@ -1,5 +1,4 @@
 ---title: "Zmizení (Spoorloos, 1988): Architektura absolutní logiky a klaustrofobie nevědění"
-film: "Zmizení (Spoorloos, 1988)"
 year: 1988
 date: "2026-09-03"
 description: "Analytická studie nizozemského psychologického thrilleru George Sluizera zkoumající banalitu zla, sociologický experiment únosce, epistemologickou past a metaforu zlatého vejce."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "spoorloos-1988"
 director: "George Sluizer"
 genres: ["Psychologický thriller", "Mysteriózní"]
+film: "Zmizení (1988)"
 ---
 Nizozemsko-francouzský psychologický thriller George Sluizera *Zmizení* (*Spoorloos*, v anglické distribuci *The Vanishing*, 1988, stopáž 107 minut), natočený podle novely Tima Krabbého *Zlaté vejce* (*Het Gouden Ei*), představuje jedno z nejmrazivějších děl moderní kinematografie o povaze zla a posedlosti pravdou. Sluizer radikálně dekonstruuje žánr kriminálního thrilleru: divákovi nezatajuje identitu pachatele ani mechanismus zločinu. 
 

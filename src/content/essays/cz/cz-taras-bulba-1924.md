@@ -1,5 +1,4 @@
 ---title: "Taras Bulba (1924): Exilová nostalgie a obraz ztraceného světa"
-film: "Taras Bulba (1924)"
 director: "Vladimir Striževskij"
 year: 1924
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/taras-bulba-1924.webp"
 lang: "cz"
 translationSlug: "taras-bulba-1924"
 genres: ["Němý film", "Historický", "Epos"]
+film: "Taras Bulba (1924)"
 ---
 Němý historický velkofilm *Taras Bulba* (1924, stopáž 85 minut) v režii Vladimira Striževského nepředstavuje pouhou adaptaci klasické romantické novely Nikolaje Vasiljeviče Gogola. V kontextu evropské meziválečné kinematografie jde především o monumentální a melancholický pomník jedné ztracené kulturní éry. Snímek nevznikl v autentických ukrajinských stepích, nýbrž v berlínských ateliérech společnosti Ermolieff-Film, kterou v německém exilu založil významný předrevoluční ruský producent Joseph N. Ermolieff (Iosif Jermoljev). 
 

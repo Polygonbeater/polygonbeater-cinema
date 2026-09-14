@@ -1,5 +1,4 @@
 ---title: "Hon na člověka (Man Hunt, 1941): Sportovní lov, protinacistický vzdor a geometrie pasti"
-film: "Hon na člověka (Man Hunt, 1941)"
 year: 1941
 date: "2026-09-03"
 description: "Analytická studie špionážního noiru Fritze Langa zkoumající sportovní lov Hitlera, noirovou geometrii londýnského podzemí, podzemní noru v Dorsetu a antifašistický apel."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "man-hunt-1941"
 director: "Fritz Lang"
 genres: ["Film noir", "Špionážní", "Thriller"]
+film: "Hon na člověka (1941)"
 ---
 Špionážní protinacistický thriller Fritze Langa *Hon na člověka* (*Man Hunt*, 1941, stopáž 102 minut), natočený v produkci studia 20th Century Fox podle slavného románu Geoffreyho Householda *Rogue Male* (1939), představuje zásadní milník v politické kinematografii počátku druhé světové války. Snímek byl uveden do kin v červnu 1941 – tedy půl roku před vstupem Spojených států do války, v době, kdy v Hollywoodu stále platila přísná pravidla neutrality. 
 

@@ -1,5 +1,4 @@
 ---title: "Persepolis (2007): Rozbité zrcadlo íránské paměti a geometrie útlaku"
-film: "Persepolis (2007)"
 year: 2007
 date: "2026-09-03"
 description: "Analytická studie animovaného snímku Marjane Satrapiové a Vincenta Paronnauda zkoumající vizuální minimalismus, Foucaultovu mikrofyziku moci a exilové přízvučné kino."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "persepolis-2007"
 director: "Marjane Satrapi, Vincent Paronnaud"
 genres: ["Animovaný", "Biografický", "Historický"]
+film: "Persepolis (2007)"
 ---
 Animovaný autobiografický film *Persepolis* (2007, stopáž 96 minut), režírovaný Marjane Satrapiovou a Vincentem Paronnaudem na motivy jejího stejnojmenného komiksového románu, představuje jeden z nejvýznamnějších příspěvků k modernímu exilovému filmu. Snímek oceněný Cenou poroty na festivalu v Cannes nezachycuje dějiny moderního Íránu (od pádu šáhova režimu přes islámskou revoluci roku 1979 až po válku s Irákem) jako akademickou kroniku, nýbrž jako intimní proces formování a rozpadu lidské identity pod tlakem totalitního státu. 
 

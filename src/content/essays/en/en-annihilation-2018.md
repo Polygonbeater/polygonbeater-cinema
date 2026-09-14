@@ -1,5 +1,4 @@
 ---title: "Annihilation (2018): Biological Refraction and the Aesthetics of Self-Destruction"
-film: "Annihilation (2018)"
 year: 2018
 date: "2026-09-03"
 description: "An analytical study of Alex Garland's sci-fi horror exploring The Shimmer as a biological prism, the aesthetics of cellular proliferation, and the annihilation of the human ego."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "annihilation-2018"
 director: "Alex Garland"
 genres: ["Sci-Fi", "Horror", "Psychological"]
+film: "Annihilation (2018)"
 ---
 This study deconstructs Alex Garland's sci-fi horror *Annihilation* (2018, running time 115 minutes) as a visually opulent meditation on self-destruction. The film follows an expedition of five female scientists into "Area X"—a quarantine zone surrounding an alien meteorite where known physical and biological laws no longer apply. 
 

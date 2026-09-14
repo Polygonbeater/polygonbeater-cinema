@@ -1,5 +1,4 @@
 ---title: "2001: Vesmírná odysea (1968): Evoluce vědomí"
-film: "2001: Vesmírná odysea (1968)"
 year: 1968
 date: "2026-09-03"
 description: "Analytická studie vizuální symfonie Stanleyho Kubricka zkoumající technologický transcendentalismus, motiv monolitu a tragédii umělé inteligence HAL 9000."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "2001-a-space-odyssey-1968"
 director: "Stanley Kubrick"
 genres: ["Sci-Fi", "Mysteriózní", "Filozofický"]
+film: "2001: Vesmírná odysea (1968)"
 ---
 Tato studie dekonstruuje film Stanleyho Kubricka *2001: Vesmírná odysea* (1968, stopáž 149 minut) jako vizuální symfonii o lidském osudu. Snímek transformuje žánr science-fiction v nelineární filosofickou esej o vztahu mezi člověkem, nástrojem a neznámem. 
 

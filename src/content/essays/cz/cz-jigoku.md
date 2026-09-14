@@ -1,5 +1,4 @@
 ---title: "Peklo (Jigoku, 1960): Autonomní mechanismus trestu a buddhistická geometrie zatracení"
-film: "Peklo (Jigoku, 1960)"
 director: "Nobuo Nakagawa"
 year: 1960
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/jigoku.webp"
 lang: "cz"
 translationSlug: "jigoku"
 genres: ["Horor", "Surrealismus", "Japonský film"]
+film: "Peklo (1960)"
 ---
 Snímek *Peklo* (*Jigoku*, 1960, stopáž 101 minut) režiséra Nobua Nakagawy, vyrobený ve studiu Shintoho na samém sklonku jeho existence, představuje naprosto ojedinělý mezník světového filmového hororu. Nakagawa nekoncipuje peklo jako pouhou metaforu či závěrečnou kulisu morálního ponaučení. V přesné polovině stopáže film brutálně láme dosavadní narativní kontinuitu a transformuje se v autonomní, mechanický systém, v němž prostor, barevná chromatika a kinetika přestávají sloužit psychologii postav a stávají se přímým aparátem exekuce.
 

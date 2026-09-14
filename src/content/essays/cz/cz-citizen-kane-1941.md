@@ -1,5 +1,4 @@
 ---title: "Občan Kane (Citizen Kane, 1941): Fragmentace identity a dekonstrukce mýtu"
-film: "Občan Kane (Citizen Kane, 1941)"
 year: 1941
 date: "2026-09-03"
 description: "Analytická studie mistrovského díla Orsona Wellese zkoumající nelineární narativ, revoluční hloubku ostrosti Gregga Tolanda a dekonstrukci amerického snu."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "citizen-kane-1941"
 director: "Orson Welles"
 genres: ["Drama", "Mysteriózní", "Klasický Hollywood"]
+film: "Občan Kane (1941)"
 ---
 Tato studie dekonstruuje opus magnum Orsona Wellese *Občan Kane* (*Citizen Kane*, 1941, stopáž 119 minut) jako přelomové dílo, které zavedlo nelineární narativní strukturu a radikální vizuální postupy do mainstreamové kinematografie. Snímek analyzuje život tiskového magnáta Charlese Fostera Kanea skrze sérii subjektivních retrospektiv pamětníků, kteří se snaží rozluštit význam jeho posledního slova „Rosebud“. 
 

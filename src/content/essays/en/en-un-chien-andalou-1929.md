@@ -1,5 +1,4 @@
 ---title: "Un Chien Andalou (1929) – A Razor Aimed at Rationality"
-film: "Un Chien Andalou (1929)"
 year: 1929
 date: "2026-09-02"
 description: "Luis Buñuel and Salvador Dalí deliberately sliced cinematic logic to pieces, destroying the assumption that reality on screen must make sense."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "un-chien-andalou-1929"
 director: "Luis Buñuel"
 genres: ["Surrealism", "Silent Film", "Avant-garde"]
+film: "Un Chien Andalou (1929)"
 ---
 From its very inception, cinema operated on a silent agreement: the screen is a window that safely and understandably organizes the world for us. In 1929, Luis Buñuel and Salvador Dalí took this contract and deliberately sliced it to pieces. Un Chien Andalou enters cinematic history not as a mere movie, but as a radical assault on how we are used to seeing.
 

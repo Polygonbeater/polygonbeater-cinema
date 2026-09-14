@@ -1,5 +1,4 @@
 ---title: "How to Start a Revolution (2011): Strategický narativ a Machiavelli nenásilí"
-film: "Jak začít revoluci (2011)"
 year: 2011
 date: "2026-09-03"
 description: "Analytická studie dokumentu Ruaridha Arrowa o odkazu Dr. Genea Sharpa zkoumající mechanismy nenásilného boje, pilíře moci a politické jiu-jitsu."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "how-to-start-a-revolution-2011"
 director: "Ruaridh Arrow"
 genres: ["Dokumentární", "Politický"]
+film: "Jak začít revoluci (2011)"
 ---
 Dokumentární film režiséra Ruaridha Arrowa *How to Start a Revolution* (*Jak začít revoluci*, 2011, stopáž 87 minut) představuje myšlenkový odkaz Dr. Genea Sharpa, politologa a zakladatele Albert Einstein Institution, jehož dílo zásadním způsobem proměnilo moderní chápání politického odporu. Sharpova ústřední teze boří mýtus o neotřesitelnosti autoritářských režimů: diktatura není monolitickým tělesem, nýbrž křehkou strukturou závislou na kontinuální a dobrovolné poslušnosti ovládaných. 
 

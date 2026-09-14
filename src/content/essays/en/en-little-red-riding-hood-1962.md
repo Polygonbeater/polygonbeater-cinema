@@ -1,5 +1,4 @@
 ---title: "Little Red Riding-Hood (Rotkäppchen, 1962): A Triumph of Visionary Craft Over State Dictate"
-film: "Little Red Riding-Hood (1962)"
 year: 1962
 date: "2026-09-03"
 description: "An analytical essay on Götz Friedrich's East German DEFA fairy tale film, examining the tension between ideological constraints and dark Gothic aesthetics."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "little-red-riding-hood-1962"
 director: "Götz Friedrich"
 genres: ["Fairy Tale", "Short Film"]
+film: "Little Red Riding-Hood (1962)"
 ---
 *Rotkäppchen* (1962), produced by the East German DEFA studios, is a paramount work that exhibits incredible artistic dexterity in the face of ideological constraint. Directed by Götz Friedrich—a future titan of the international opera stage—the film is a crucial study demonstrating how theatrical visionaries executed their craft during an era of political dictate.
 

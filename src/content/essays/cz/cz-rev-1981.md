@@ -1,5 +1,4 @@
 ---title: "Řev (Roar, 1981): Patologie koexistence a dokumentární teror"
-film: "Řev (1981)"
 year: 1981
 date: "2026-09-03"
 description: "Analytická studie unikátního filmového experimentu Noela Marshalla zkoumající dekonstrukci krotitelského mýtu, kameru Jana de Bonta na hraně smrti a rozpad domova v arénu dravců."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "rev-1981"
 director: "Noel Marshall"
 genres: ["Přírodní thriller", "Dobrodružný"]
+film: "Řev (1981)"
 ---
 Snímek Noela Marshalla *Řev* (*Roar*, 1981, stopáž 102 minut) představuje jeden z nejnebezpečnějších, nejbizarnějších a produkčně nejšílenějších experimentů v dějinách světové kinematografie. Film, natáčený s přestávkami celých jedenáct let na ranči v kalifornském Actonu, byl propagován jako rodinná dobrodružná komedie. Ve skutečnosti však funguje jako nezamýšlený a radikální dokumentární horor – dílo, v němž byla veškerá fikční distance mezi hercem a postavou, mezi krotitelem a dravcem, zcela vymazána.
 

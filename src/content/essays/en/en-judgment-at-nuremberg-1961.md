@@ -1,5 +1,4 @@
 ---title: "Judgment at Nuremberg (1961): A Filmic Tribunal of Conscience"
-film: "Judgment at Nuremberg (1961)"
 year: 1961
 date: "2026-09-03"
 description: "An analytical essay on Stanley Kramer's landmark legal drama exploring judicial compliance, collective guilt, and the banality of evil."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "judgment-at-nuremberg-1961"
 director: "Stanley Kramer"
 genres: ["Courtroom Drama", "Historical", "War"]
+film: "Judgment at Nuremberg (1961)"
 ---
 > *“Evil is presented not as the result of fanaticism, but as the result of societal consent and silence.”*
 

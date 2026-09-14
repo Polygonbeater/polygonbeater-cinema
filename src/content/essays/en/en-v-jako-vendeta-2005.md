@@ -1,5 +1,4 @@
 ---title: "V for Vendetta (2005): The Phenomenology of Semiotic Subversion and Asymmetric Information Warfare"
-film: "V for Vendetta (2005)"
 year: 2005
 date: "2026-09-02"
 description: "An analytical study deconstructing the dystopian film V for Vendetta as an instructional model for information and symbolic guerrilla warfare against undemocratic and populist governments."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "v-jako-vendeta-2005"
 director: "James McTeigue"
 genres: ["Dystopia", "Politický thriller", "Akční"]
+film: "V for Vendetta (2005)"
 ---
 The present study deconstructs the dystopian film *V for Vendetta* not as an action thriller, but as an instructional model for information and symbolic guerrilla warfare against undemocratic and populist governments. The text strictly separates the original intent of the creators (a comic book polemic on anarchy versus fascism) from the applied analysis (the use of anonymity, hijacking the state narrative). The methodological framework integrates the concept of the „Spiral of Silence“ (E. Noelle-Neumann) and the theory of „The Spectacle“ (G. Debord). The final phase transforms the theoretical framework into applied practice, defining tactics such as culture jamming and weaponized derision, which disrupt the monopoly of power without the need for physical confrontation.
 

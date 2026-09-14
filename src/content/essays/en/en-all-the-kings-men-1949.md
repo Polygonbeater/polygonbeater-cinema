@@ -1,5 +1,4 @@
 ---title: "All the King’s Men (1949): The Anatomy of Populism"
-film: "All the King’s Men (1949)"
 year: 1949
 date: "2026-09-03"
 description: "An analytical essay on Robert Rossen's political masterpiece exploring the transformation of an idealist into a ruthless demagogue."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "all-the-kings-men-1949"
 director: "Robert Rossen"
 genres: ["Drama", "Film Noir", "Political"]
+film: "All the King's Men (1949)"
 ---
 *All the King’s Men* is a chilling masterpiece of political realism. It traces the transformation of Willie Stark (Broderick Crawford) from a naive, honest lawyer into a ruthless demagogue. It is a clinical study of how power does not just corrupt—it redefines reality.
 

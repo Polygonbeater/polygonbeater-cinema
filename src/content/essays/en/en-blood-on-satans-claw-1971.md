@@ -1,5 +1,4 @@
 ---title: "The Blood on Satan's Claw (1971): Contagion from the Soil and the Children's Ritual"
-film: "The Blood on Satan's Claw (1971)"
 director: "Piers Haggard"
 year: 1971
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/blood-on-satans-claw-1971.webp"
 lang: "en"
 translationSlug: "blood-on-satans-claw-1971"
 genres: ["Folk Horror", "Historical"]
+film: "The Blood on Satan's Claw (1971)"
 ---
 This study deconstructs the seminal British folk-horror work *The Blood on Satan's Claw* (1971, running time 93 minutes) as a chilling probe into the genesis of a pagan cult in 17th-century England. The film analyzes the gradual decay of a rural community after a deformed, hairy skull of unknown origin is unearthed in a field. 
 

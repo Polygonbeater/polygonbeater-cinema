@@ -1,5 +1,4 @@
 ---title: "Soylent Green (1973): Climate Collapse and Corporate Cannibalism"
-film: "Soylent Green (1973)"
 director: "Richard Fleischer and"
 year: 1973
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/soylent-green-1973.webp"
 lang: "en"
 translationSlug: "soylent-green-1973"
 genres: ["Sci-Fi", "Dystopia", "Detective"]
+film: "Soylent Green (1973)"
 ---
 > *“Soylent Green is people!”*
 

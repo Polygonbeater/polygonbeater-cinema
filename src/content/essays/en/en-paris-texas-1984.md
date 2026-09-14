@@ -1,5 +1,4 @@
 ---title: "Paris, Texas (1984): The Landscape of Loneliness and the Anatomy of Loss"
-film: "Paris, Texas (1984)"
 year: 1984
 date: "2026-09-03"
 description: "An analytical study of Wim Wenders' iconic road movie exploring human isolation, the desert as purgatory, and confession behind a one-way mirror."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "paris-texas-1984"
 director: "Wim Wenders"
 genres: ["Road Movie", "Drama", "Psychological"]
+film: "Paris, Texas (1984)"
 ---
 This study deconstructs Wim Wenders' melancholic road movie *Paris, Texas* (1984, running time 145 minutes) as an existential exploration of human isolation, the disintegration of memory, and the effort to find forgiveness. The film analyzes the journey of Travis Henderson, a man who emerges from the desert stripped of language and his past, attempting to mend broken ties with his son and former wife. 
 

@@ -1,5 +1,4 @@
 ---title: "Pohádka pohádek (Skazka skazok, 1979): Paměť, válečné trauma a poetika ztraceného času"
-film: "Pohádka pohádek (1979)"
 year: 1979
 date: "2026-09-03"
 description: "Hloubková analýza hypnotické animované básně Jurije Norštejna zkoumající strukturu lidské paměti, vícevrstvou animaci na skle, postavu malého šedého vlka a trauma druhé světové války."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "tale-of-sales-1979"
 director: "Jurij Norštejn"
 genres: ["Animovaný", "Satira", "Krátkometrážní"]
+film: "Pohádka pohádek (1979)"
 ---
 Animovaný film ruského tvůrce Jurije Norštejna *Pohádka pohádek* (*Skazka skazok*, 1979, stopáž 29 minut), vytvořený ve studiu Sojuzmultfilm ve spolupráci se scenáristkou Ljudmilou Petruševskou a výtvarnicí Francescou Jarbusovou, představuje jeden z nejvyšších vrcholů světové kinematografie. Mezinárodními filmovými anketami kritiků (v Los Angeles 1984 i v Záhřebu 2002) byl opakovaně zvolen vůbec nejlepším animovaným filmem všech dob. 
 

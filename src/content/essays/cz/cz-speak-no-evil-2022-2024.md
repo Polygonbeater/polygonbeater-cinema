@@ -1,5 +1,4 @@
 ---title: "Nepřivolávej nic zlého (2022 & 2024): Tyranie slušnosti a technická architektura (ne)poslušnosti"
-film: "Nepřivolávej nic zlého (2022 & 2024)"
 director: "Christian Tafdrup, James Watkins"
 year: 2022
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/speak-no-evil-2022-2024.webp"
 lang: "cz"
 translationSlug: "speak-no-evil-2022-2024"
 genres: ["Psychologický thriller", "Horor", "Satira"]
+film: "Nepřivolávej nic zlého (2022 & 2024)"
 ---
 Tato studie dekonstruuje unikátní filmový fenomén dánsko-nizozemského originálu *Nepřivolávej nic zlého* (*Gæsterne / Speak No Evil*, 2022, stopáž 97 minut, režie Christian Tafdrup) a jeho amerického remaku (*Speak No Evil*, 2024, stopáž 110 minut, režie James Watkins) jako nekompromisní obžalobu moderní sociální konformity a patologické slušnosti. 
 

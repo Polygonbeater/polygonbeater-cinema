@@ -1,5 +1,4 @@
 ---title: "Dělníci odcházející z továrny (1895): Zrod kinematografie a ontologie pohybu"
-film: "Dělníci odcházející z továrny (1895)"
 year: 1895
 date: "2026-09-03"
 description: "Analytická studie zakladatelského snímku kinematografie bratří Lumièrů zkoumající historickou projekci v Grand Café, kompozici rámu, mýtus o panice a zrod moderního diváka."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "the-46-seconds-that-changed-the-world-forever"
 director: "Auguste Lumière, Louis Lumière"
 genres: ["Dokumentární", "Němý film", "Historický"]
+film: "Dělníci odcházející z továrny (1895)"
 ---
 Historický okamžik 28. prosince roku 1895, kdy v pařížském suterénu Indického salónu v Grand Café na Boulevard des Capucines proběhlo první veřejné placené promítání kinematografu bratří Augusta a Louise Lumièrů, představuje definitivní zlom v dějinách moderní lidské vizuality. Třiatřicet diváků, kteří zaplatili po jednom franku, tehdy spatřilo krátký film *Dělníci odcházející z továrny Lumière v Lyonu* (*La Sortie de l'usine Lumière à Lyon*, 1895, stopáž 46 sekund). 
 

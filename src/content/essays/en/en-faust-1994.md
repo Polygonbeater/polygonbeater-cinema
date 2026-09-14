@@ -1,5 +1,4 @@
 ---title: "Jan Švankmajer’s Faust (1994): Tactile Governance and the Limits of Subjectivity"
-film: "Jan Švankmajer’s Faust (1994)"
 year: 1994
 date: "2026-09-03"
 description: "Analytical study of Jan Švankmajer's surrealist masterpiece, exploring tactile governance, material procedures, and the procedural breakdown of subjectivity."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "faust-1994"
 director: "Jan Švankmajer"
 genres: ["Animation", "Surrealism", "Drama"]
+film: "Faust (1994)"
 ---
 Jan Švankmajer’s *Faust* (1994) constitutes one of the most rigorous material rearticulations of the Faustian myth in modern cinema. Drawing on Goethe, Marlowe, and Czech folk puppet theatre, the film abandons both narrative continuity and optical illusion in favor of a procedural system governed by material operations [6][9].
 

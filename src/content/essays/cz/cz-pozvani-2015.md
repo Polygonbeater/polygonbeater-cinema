@@ -1,5 +1,4 @@
 ---title: "Pozvání (The Invitation, 2015): Anatomie gaslightingu a sociální rezistence"
-film: "Pozvání (The Invitation, 2015)"
 year: 2015
 date: "2026-09-03"
 description: "Analytická studie psychologického thrilleru Karyn Kusamy dekonstruující mechanismy gaslightingu, nebezpečí společenské zdvořilosti a patologii kultu úlevy od žalu."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "pozvani-2015"
 director: "Karyn Kusama"
 genres: ["Psychologický thriller", "Mysteriózní"]
+film: "Pozvání (2015)"
 ---
 Psychologický thriller režisérky Karyn Kusamy *Pozvání* (*The Invitation*, 2015, stopáž 100 minut) představuje precizně zkonstruovaný model fungování sofistikované sociální manipulace a kultovního nátlaku. Tvůrci film koncipovali jako subverzivní „horor mravů“ (*comedy of manners turned horror*), jehož ústředním tématem je nebezpečí přehnané společenské zdvořilosti (*the dangers of being polite*). 
 

@@ -1,5 +1,4 @@
 ---title: "Svatá hora (The Holy Mountain, 1973): Alchymie jako proces individuace a iniciační struktura"
-film: "Svatá hora (The Holy Mountain, 1973)"
 year: 1973
 date: "2026-09-03"
 description: "Metodicky kontrolovaná analýza surrealistického mistrovského díla Alejandra Jodorowského skrze prizma antropologie přechodových rituálů, jungovské alchymie a hermetické dekonstrukce filmového aparátu."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "the-holy-mountain-1973"
 director: "Alejandro Jodorowsky"
 genres: ["Surrealismus", "Mystický", "Avantgarda"]
+film: "Svatá hora (1973)"
 ---
 Surrealistické vizionářské dílo Alejandra Jodorowského *Svatá hora* (*The Holy Mountain*, ve španělském originále *La montaña sagrada*, 1973, stopáž 114 minut), realizované v mexické produkci za finanční podpory Johna Lennona a Yoko Ono, představuje naprosto ojedinělý mezník v dějinách avantgardní kinematografie. Cílem této studie není subjektivní či esotericky spekulativní interpretace jednotlivých provokativních výjevů; je jím rigorózní strukturální analýza filmu jako funkčního iniciačního textu a procesu individuace[cite: 125]. 
 

@@ -1,5 +1,4 @@
 ---title: "JFK (1991): Systém montážně generované epistemické autority"
-film: "JFK (1991)"
 year: 1991
 date: "2026-09-03"
 description: "Analytická studie politického dramatu Olivera Stonea zkoumající vizuální důkazní řízení, kadenci montážního přetížení a asimilaci historického faktu s fikcí."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "jfk-1991"
 director: "Oliver Stone"
 genres: ["Politický", "Thriller", "Historický"]
+film: "JFK (1991)"
 ---
 Snímek Olivera Stonea *JFK* (1991, stopáž 189 minut) představuje jeden z nejradikálnějších formálních experimentů v dějinách hollywoodské kinematografie. Stone nepřistupuje k atentátu na Johna F. Kennedyho z 22. listopadu 1963 jako k tradičnímu narativnímu vyšetřování, nýbrž proměňuje filmové médium v agresivní nástroj vizuálního dokazování. Režisér nevede s divákem otevřený dialog; uvádí jej do precizně zkonstruovaného interpretačního pole, které diváka zahlcuje podněty a strukturálně protěžuje autorskou verzi spiknutí.
 

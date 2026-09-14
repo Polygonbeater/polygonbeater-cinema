@@ -1,5 +1,4 @@
 ---title: "The Big Heat (1953): An Anatomy of Systemic Rot"
-film: "The Big Heat (1953)"
 year: 1953
 date: "2026-09-03"
 description: "An analytical study of Fritz Lang's crime masterpiece, examining systemic corruption, high-key lighting aesthetics, domestic violence, and moral dehumanization."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "the-big-heat-1953"
 director: "Fritz Lang"
 genres: ["Film Noir", "Crime", "Thriller"]
+film: "The Big Heat (1953)"
 ---
 *The Big Heat* (89 min) is not merely a crime thriller; it is Fritz Lang’s clinical dissection of the American Dream during the early Cold War era. By moving away from the "shadowy" aesthetics of the 1940s, Lang created a terrifyingly bright world where corruption is as standardized as a corporate ledger. It is a film about the "contagion of violence"—how a man seeking justice eventually becomes a mirror image of the brutality he intends to destroy.
 

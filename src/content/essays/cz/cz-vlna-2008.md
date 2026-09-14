@@ -1,5 +1,4 @@
 ---title: "Vlna (Die Welle, 2008): Kinematografické terárium a etologie totalitního hejna"
-film: "Vlna (2008)"
 year: 2008
 date: "2026-09-03"
 description: "Etologická a sociálně-psychologická analýza německého dramatu Dennise Gansela zkoumající mechanismus experimentu Třetí vlna, neurobiologii stádního chování, oxytocinový tribalismus a zranitelnost moderního člověka vůči autokracii."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "vlna-2008"
 director: "Dennis Gansel"
 genres: ["Psychologické drama", "Sociologický thriller"]
+film: "Vlna (2008)"
 ---
 Německé společenské drama režiséra Dennise Gansela *Vlna* (*Die Welle*, 2008, stopáž 107 minut), volně adaptující skutečný sociální experiment *The Third Wave*, který v roce 2017 a 1967 na střední škole v kalifornském Palo Alto provedl učitel dějepisu Ron Jones, představuje mrazivou pitvu zranitelnosti moderní demokratické společnosti. Gansel přenesl děj do současného Německa a vytvořil uměle zkonstruované kinematografické „terárium“, v němž během pouhého týdne projektového vyučování na gymnáziu demonstruje bleskový rozklad liberálního vědomí studentů a zrod funkčního fašistického mikrostátu[cite: 99]. 
 

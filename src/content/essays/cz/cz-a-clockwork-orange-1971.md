@@ -1,5 +1,4 @@
 ---title: "Mechanický pomeranč (A Clockwork Orange, 1971): Násilí, behaviorismus a státní disciplinace"
-film: "Mechanický pomeranč (A Clockwork Orange, 1971)"
 director: "Stanley Kubrick"
 year: 1971
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/a-clockwork-orange-1971.webp"
 lang: "cz"
 translationSlug: "a-clockwork-orange-1971"
 genres: ["Dystopie", "Sci-Fi", "Kultovní"]
+film: "Mechanický pomeranč (1971)"
 ---
 Snímek *A Clockwork Orange* (*Mechanický pomeranč*, 1971) v režii Stanleyho Kubricka představuje nekompromisní kritiku moderní technokratické společnosti a její liberální rétoriky. Film nezkoumá násilí jako individuální patologii, nýbrž jako strukturální součást subjektivity, kterou stát eliminuje technologickým zásahem do vůle namísto etické kultivace.
 

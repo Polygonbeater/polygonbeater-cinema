@@ -1,5 +1,4 @@
 ---title: "Faust (1926): Filmový aparát, ztělesněné vidění a organizace morálního prostoru"
-film: "Faust (1926)"
 year: 1926
 date: "2026-09-03"
 description: "Rozšířená analytická studie filmu Faust F. W. Murnaua zkoumající filmový aparát jako percepční stroj, světelnou politiku a fenomenologii ztělesněného diváctví."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "faust-1926"
 director: "F. W. Murnau"
 genres: ["Němý film", "Expresionismus", "Fantasy"]
+film: "Faust (1926)"
 ---
 Snímek *Faust* (1926, stopáž 106 minut) F. W. Murnaua zaujímá v rámci pozdní výmarské kinematografie zcela jedinečné postavení. Tradiční výklady skrze expresionistickou stylizaci či pouhou adaptaci Goetha přehlížejí radikální jádro filmu: Murnau zde buduje ucelený systém organizace diváckého vnímání. Namísto pouhé dramatické ilustrace metafyzického zápasu konstruuje *Faust* filmový svět, v němž divák zakouší morálku, moc a transcendenci přímo skrze somatickou zkušenost zraku.
 

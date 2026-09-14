@@ -1,5 +1,4 @@
 ---title: "Bringing Down a Dictator (2002): The Birth of Revolutionary Branding"
-film: "Bringing Down a Dictator (2002)"
 year: 2002
 date: "2026-09-03"
 description: "An analytical study of the documentary chronicling Otpor!, the Serbian student movement that used decentralized strategy, humor, and psychological marketing to overthrow Slobodan Milošević."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "bringing-down-a-dictator-2002"
 director: "Steve York"
 genres: ["Documentary", "Political"]
+film: "Bringing Down a Dictator (2002)"
 ---
 Narrated by Martin Sheen, this award-winning documentary chronicles the meteoric rise of Otpor! (Resistance!), the Serbian student movement that toppled Slobodan Milošević in 2000. It is a masterclass in how a decentralized group of youth can outmaneuver a brutal state apparatus using disciplined strategy and sophisticated psychological marketing.
 

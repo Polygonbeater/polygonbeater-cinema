@@ -1,5 +1,4 @@
 ---title: "Leptirica (1973) – The Deconstruction of the Vampire Myth and the Rawness of Balkan Folklore"
-film: "Leptirica (1973)"
 year: 1973
 date: "2026-09-02"
 description: "Đorđe Kadijević's landmark Yugoslav folk-horror rejects Western aristocratic vampire tropes, returning the legend of Sava Savanović to its raw, animistic, and rural roots."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "leptirica-1973"
 director: "Đorđe Kadijević"
 genres: ["Folk Horror", "Mystery"]
+film: "Leptirica (1973)"
 ---
 The Yugoslav television film Leptirica (The She-Butterfly, 1973), directed by Đorđe Kadijević, represents a formal and thematic pinnacle of Eastern European folk-horror. This adaptation of a classic 19th-century Serbian story prioritizes local folkloric traditions over dominant Western forms of vampire horror, plunging the viewer into the deep layers of Balkan folklore, in which pre-Christian motifs intertwine with Christian folk religiosity. Although produced within the framework of state-controlled television in a modernizing socialist Yugoslavia, its tone can be interpreted as a reminder of a dark, irrational folkloric imagination.
 

@@ -1,5 +1,4 @@
 ---title: "Ďáblové (The Devils, 1971): Politika hysterie a falešné pašije"
-film: "Ďáblové (The Devils, 1971)"
 year: 1971
 date: "2026-09-03"
 description: "Analytická studie historického dramatu Kena Russella zkoumající politickou instrumentalizaci víry, Jarmanovu anachronickou architekturu a dekonstrukci Kristových pašijí."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "devils-1971"
 director: "Ken Russell"
 genres: ["Historický", "Horor", "Drama"]
+film: "Ďáblové (1971)"
 ---
 Tato studie dekonstruuje radikální a historicky cenzurované historické drama Kena Russella *Ďáblové* (*The Devils*, 1971, stopáž 111 minut) jako nekompromisní kritiku politické instrumentalizace náboženské víry. Snímek, vycházející ze skutečných událostí ve francouzském Loudunu 17. století a literární předlohy Aldouse Huxleyho, analyzuje likvidaci nekonformního kněze Urbana Grandiera. Ten se stane obětí vykonstruovaného procesu z čarodějnictví vyvolaného sexuální frustrací jeptišek a mocenským pragmatismem kardinála Richelieua. 
 

@@ -1,5 +1,4 @@
 ---title: "Ďábel (Diabeł, 1972): Historie jako hysterická halucinace"
-film: "Ďábel (Diabeł, 1972)"
 year: 1972
 date: "2026-09-03"
 description: "Analytická studie historického dramatu Andrzeje Żuławského zkoumající rozpad polského státu v roce 1793, barokní exces, postavu Cizince a hysterickou nákazu šílenstvím."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "diabel-1972"
 director: "Andrzej Żuławski"
 genres: ["Historický", "Horor", "Surrealismus"]
+film: "Ďábel (1972)"
 ---
 Andrzej Żuławski dokončil svůj radikální autorský snímek *Ďábel* (*Diabeł*, 1972, stopáž 119 minut) v atmosféře zostřeného dohledu komunistické cenzury po polských politických krizích let 1968 a 1970. Film byl komunistickými úřady okamžitě stažen a zamčen do trezoru; k divákům se dostal až v roce 1988. Tento osud nebyl náhodný – Żuławski nepřistupuje k minulosti jako k pietnímu historickému plátnu, nýbrž jako k hnisající ráně, v níž se rozklad státní suverenity stává přímou příčinou totálního rozpadu lidské integrity.
 

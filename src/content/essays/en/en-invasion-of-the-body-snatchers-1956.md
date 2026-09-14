@@ -1,5 +1,4 @@
 ---title: "Invasion of the Body Snatchers (1956): An Anatomy of Paranoia"
-film: "Invasion of the Body Snatchers (1956)"
 year: 1956
 date: "2026-09-03"
 description: "An analytical essay on Don Siegel's seminal sci-fi horror masterwork exploring Cold War paranoia, conformity, and the erosion of identity."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "invasion-of-the-body-snatchers-1956"
 director: "Don Siegel"
 genres: ["Sci-Fi", "Horror", "Paranoid Thriller"]
+film: "Invasion of the Body Snatchers (1956)"
 ---
 > *“How do you know that the person you're talking to is still themselves, and not merely a narrative replica?”*
 

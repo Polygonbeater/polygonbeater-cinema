@@ -1,5 +1,4 @@
 ---title: "Tim Burton – Vincent (1982): A Tribute to Gothic Obsession"
-film: "Vincent (1982)"
 year: 1982
 date: "2026-09-03"
 description: "An analytical essay on Tim Burton's debut stop-motion short film, exploring its homage to German Expressionism, Edgar Allan Poe, and Gothic horror."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "vincent-1982"
 director: "Tim Burton"
 genres: ["Animation", "Gothic", "Short Film"]
+film: "Vincent (1982)"
 ---
 *Vincent* (1982) is the six-minute, black-and-white stop-motion film that launched the career of director Tim Burton. Narrated by the legendary horror actor Vincent Price, the short film is an explicit and brilliant homage to German Expressionism and the classic gothic horror of Edgar Allan Poe.
 

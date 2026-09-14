@@ -1,5 +1,4 @@
 ---title: "Mystical Study: The Dybbuk (1937) and the Echoes of a Lost Hasidic World"
-film: "The Dybbuk (1937)"
 year: 1937
 date: "2026-09-02"
 description: "Michał Waszyński's Yiddish masterpiece serves as a vital visual monument to Eastern European Jewish culture, Kabbalah, and Hasidic folklore."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "dybuk-1937"
 director: "Michał Waszyński"
 genres: ["Horror", "Mystery", "Folklore"]
+film: "The Dybbuk (1937)"
 ---
 When Polish director Michał Waszyński brought S. Ansky's renowned play *The Dybbuk* (*Der Dibuk*) to the silver screen in 1937, he did not merely create a film. He constructed a visual monument to Eastern European Jewish culture, mysticism, and Hasidic folklore. Shot entirely in Yiddish, the picture is today regarded as one of the most vital ethnographic and artistic documents of the shtetl—a world that would, only a few years later, vanish forever in the flames of the Second World War.
 

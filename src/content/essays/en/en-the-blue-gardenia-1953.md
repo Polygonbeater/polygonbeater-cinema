@@ -1,5 +1,4 @@
 ---title: "The Blue Gardenia (1953): Media Manipulation, Technological Alienation, and the Amnesiac Trap"
-film: "The Blue Gardenia (1953)"
 year: 1953
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's film noir exploring tabloid media lynching, gendered vulnerability, technological alienation, and manufactured guilt."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "the-blue-gardenia-1953"
 director: "Fritz Lang"
 genres: ["Film Noir", "Crime", "Mystery"]
+film: "The Blue Gardenia (1953)"
 ---
 *The Blue Gardenia* (88 min) serves as Lang’s sharp critique of post-war middle-class morality and the predatory nature of the fourth estate. By subverting the traditional "everyman in a trap" motif, Lang focuses on gendered vulnerability within the modern metropolis. The film deconstructs romantic myths, replacing them with paranoia where telecommunications and tabloid sensationalism manufacture guilt—turning a subjective blackout into a public character execution.
 

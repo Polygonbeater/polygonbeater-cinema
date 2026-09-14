@@ -1,5 +1,4 @@
 ---title: "8½ (1963): Labyrint tvůrčí krize"
-film: "8½ (1963)"
 year: 1963
 date: "2026-09-03"
 description: "Analytická studie mistrovského díla Federica Felliniho zkoumající metafilm, freudovsko-jungiánskou psychoanalýzu a architekturu proudu vědomí."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "8-half-1963"
 director: "Federico Fellini"
 genres: ["Drama", "Surrealismus", "Metakino"]
+film: "8½ (1963)"
 ---
 Tato studie dekonstruuje mistrovské dílo Federica Felliniho *8½* (1963, stopáž 138 minut) jako ultimátní sebereflexivní metafilm, který zkoumá tvůrčí a existenciální krizi filmového režiséra Guida Anselmiho. Snímek analyzuje rozpad tradiční narativní struktury a její nahrazení volným proudem vědomí, kde se realita, sny, vzpomínky a fantazie prolínají v jeden nedělitelný celek. 
 

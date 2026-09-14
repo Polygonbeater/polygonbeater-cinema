@@ -1,5 +1,4 @@
 ---title: "Vlčice (Wilczyca, 1983): Dějiny jako masožravý přízrak a ztělesněné trauma"
-film: "Vlčice (1983)"
 year: 1983
 date: "2026-09-03"
 description: "Analytická studie polského gotického hororu Marka Piestraka zkoumající rozpad národního mýtu lednového povstání roku 1863, návrat vytěsněné viny a tělo zvířete jako historické trauma."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "wilczyca-1983"
 director: "Marek Piestrak"
 genres: ["Gotický horor", "Historický", "Folklor"]
+film: "Vlčice (1983)"
 ---
 V bažinách a mlhách polského lednového povstání roku 1863 se polský národní mýtus nedočkal hrdinské katarze, nýbrž krvavé a zahanbující agonie. Zatímco oficiální romantická historiografie balila národní porážky do vznešených metafor o křesťanském mučednictví Polska jako „Krista národů“, gotický horor Marka Piestraka *Vlčice* (*Wilczyca*, 1983, stopáž 98 minut), volně adaptující prózu Jerzyho Gembického, provádí pravý opak: strhává z historie romantický obvaz a odhaluje hnisající, nezhojenou ránu národního selhání. 
 

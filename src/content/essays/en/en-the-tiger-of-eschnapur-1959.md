@@ -1,5 +1,4 @@
 ---title: "The Tiger of Eschnapur (1959): Lang’s Chromatic Revenge on Fate"
-film: "The Tiger of Eschnapur (1959)"
 year: 1959
 date: "2026-09-03"
 description: "An analytical study of the first part of Fritz Lang's Indian Diptych, exploring technocratic hubris, architecture as a prison, and Eastmancolor aesthetics."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "the-tiger-of-eschnapur-1959"
 director: "Fritz Lang"
 genres: ["Adventure", "Exotic", "Epic"]
+film: "The Tiger of Eschnapur (1959)"
 ---
 *The Tiger of Eschnapur* (101 min) marks Fritz Lang’s triumphant return to German cinema. Reclaiming a script he co-wrote in 1921, Lang delivered a vibrant Eastmancolor epic that hides a biting critique of Western arrogance and the totalitarian nature of monumental architecture.
 

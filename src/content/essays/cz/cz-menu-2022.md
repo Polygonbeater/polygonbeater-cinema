@@ -1,5 +1,4 @@
 ---title: "Menu (The Menu, 2022): Kult haute cuisine, konformismus elit a kognitivní zkrat"
-film: "Menu (The Menu, 2022)"
 year: 2022
 date: "2026-09-03"
 description: "Analytická studie psychologického thrilleru Marka Myloda zkoumající dekonstrukci kulinářského kultu, třídní konformismus, taktiku cheeseburgeru a narativní subverzi moci."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "menu-2022"
 director: "Mark Mylod"
 genres: ["Černá komedie", "Satira", "Thriller"]
+film: "Menu (2022)"
 ---
 Černohumorný thriller Marka Myloda *Menu* (*The Menu*, 2022, stopáž 107 minut) představuje břitkou a nemilosrdnou dekonstrukci elitářského konzumu, kultu osobnosti a dobrovolné podřízenosti autoritě. Děj situovaný do izolované luxusní restaurace Hawthorn na soukromém ostrově, vedené charismatickým a psychotickým šéfkuchařem Julianem Slowikem (Ralph Fiennes), funguje jako přesná metafora toxického mikrosystému a sektoidní hierarchie. 
 

@@ -1,5 +1,4 @@
 ---title: "Küzdelem a létért (Leopard, 1918): Poslední evropská role Bély Lugosiho"
-film: "Küzdelem a létért (1918)"
 director: "Alfréd Deésy"
 year: 1918
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/kuzdelem-a-letert-1918.webp"
 lang: "cz"
 translationSlug: "kuzdelem-a-letert-1918"
 genres: ["Němý film", "Drama"]
+film: "Küzdelem a létért (1918)"
 ---
 > *„Vzácné okno do formativního období herecké legendy, která měla o dvě desetiletí později definovat ikonu hraběte Draculy.“*
 

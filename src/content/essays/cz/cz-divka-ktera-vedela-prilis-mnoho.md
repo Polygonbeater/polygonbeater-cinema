@@ -1,5 +1,4 @@
 ---title: "Dívka, která věděla příliš mnoho (La ragazza che sapeva troppo, 1963): Městský zrak, Hitchcock a zrod gialla"
-film: "Dívka, která věděla příliš mnoho (1963)"
 year: 1963
 date: "2026-09-03"
 description: "Analytická studie kriminálního thrilleru Maria Bavy zkoumající zrod žánru giallo, hitchcockovský voyeurismus, geometrii odcizeného Říma a nespolehlivost městského pohledu."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "divka-ktera-vedela-prilis-mnoho"
 director: "Mario Bava"
 genres: ["Giallo", "Mysteriózní", "Thriller"]
+film: "Dívka, která věděla příliš mnoho (1963)"
 ---
 Mario Bava bývá právem oslavován jako vizuální básník gotického hororu, avšak jeho černobílé kriminální drama *Dívka, která věděla příliš mnoho* (*La ragazza che sapeva troppo*, 1963, stopáž 86 minut) představuje mnohem radikálnější mezník. Snímek formálně navazuje na tradici italských laciných detektivních sešitů se žlutou obálkou (*gialli*), avšak Bava zde provádí tvůrčí syntézu, která ustavila nový svébytný filmový žánr. Režisér opouští mlžné krypty a hrady, aby svůj cit pro světlo, stín a prostor přenesl do oslnivých, avšak hluboce odcizených ulic moderního poválečného Říma.
 

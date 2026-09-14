@@ -1,5 +1,4 @@
 ---title: "Gulliver's Travels (1939): The Absurdity of Conflict in Animation"
-film: "Gulliver's Travels (1939)"
 year: 1939
 date: "2026-09-03"
 description: "An analytical essay on Fleischer Studios' landmark feature animation, exploring its anti-war allegory and technical innovation on the eve of WWII."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "gullivers-travels-1939"
 director: "Dave Fleischer"
 genres: ["Animation", "Adventure", "Fantasy"]
+film: "Gulliver's Travels (1939)"
 ---
 Released in December 1939, just months after the outbreak of World War II, Fleischer Studios’ *Gulliver's Travels* stands as a landmark of early American feature animation. It is not only a technical marvel that challenged Disney’s dominance but, more crucially, a pointed and influential cinematic allegory addressing the futility and absurdity of modern international conflict.
 

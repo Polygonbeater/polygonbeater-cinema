@@ -1,5 +1,4 @@
 ---title: "Rituál (The Wicker Man, 1973): Slunce jako nástroj teroru a střet dogmat"
-film: "Rituál (1973)"
 year: 1973
 date: "2026-09-03"
 description: "Analytická studie zakladatelského díla folk hororu zkoumající fenomén teroru za denního světla, diegetickou hudbu Paula Giovanniho a zhoubný střet křesťanské a pohanské vertikály."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "the-wicker-man-1973"
 director: "Robin Hardy"
 genres: ["Folk horor", "Mysteriózní", "Kultovní"]
+film: "Rituál (1973)"
 ---
 Snímek Robina Hardyho *Rituál* (*The Wicker Man*, 1973, stopáž 88 minut), natočený podle scénáře Anthonyho Shaffera na motivy románu Davida Pinnera *Ritual*, představuje fundamentální základní kámen subžánru folk hororu a jeden z nejvýznamnějších britských filmů sedmdesátých let. Hardy a Shaffer radikálně odmítli gotické klišé nočních hradů, pavučin a netopýrů, jež v té době chrlila studia Hammer Film Productions. 
 

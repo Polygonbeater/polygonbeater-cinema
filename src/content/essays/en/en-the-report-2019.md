@@ -1,5 +1,4 @@
 ---title: "The Report (2019): The Anatomy of Bureaucratic Disobedience and the Weaponization of Information"
-film: "The Report (2019)"
 year: 2019
 date: "2026-09-03"
 description: "An analytical study of Scott Z. Burns' procedural drama exploring malicious compliance, information asymmetry, and legal mechanisms of resistance."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "the-report-2019"
 director: "Scott Z. Burns"
 genres: ["Politické drama", "Thriller", "Procedural"]
+film: "The Report (2019)"
 ---
 The present study analyzes the procedural drama *The Report*, which reconstructs the actual investigation into the CIA's torture program (Enhanced Interrogation Techniques). The film is deconstructed here not as a historical document, but as an instructional model of legal civil disobedience and bureaucratic sabotage. Through the protagonist, Senate investigator Daniel Jones, it is demonstrated how the law, administrative processes, and absolute informational superiority can be utilized to paralyze a system possessing unlimited executive power. The study proves that the greatest threat to manipulative structures is not an armed rebel, but a pedantic official employing methods of malicious compliance.
 

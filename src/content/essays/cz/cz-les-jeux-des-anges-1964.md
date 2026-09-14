@@ -1,5 +1,4 @@
 ---title: "Hry andělů (Les Jeux des Anges, 1964): Elegie za industrializovaný holocaust"
-film: "Hry andělů (1964)"
 year: 1964
 date: "2026-09-03"
 description: "Hloubková analýza surrealistického animovaného mistrovského díla Waleriana Borowczyka zkoumající mechaniku vyhlazování, konkrétní hudbu Bernarda Parmegianiho a trauma industrializovaného teroru."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "les-jeux-des-anges-1964"
 director: "Walerian Borowczyk"
 genres: ["Animovaný", "Experimentální", "Surrealismus"]
+film: "Hry andělů (1964)"
 ---
 Krátkometrážní snímek *Hry andělů* (*Les Jeux des Anges*, 1964, stopáž 12 minut) polského malíře, grafika a filmového tvůrce Waleriana Borowczyka představuje jeden z nejdrtivějších a nejradikálnějších počinů v dějinách animované kinematografie. Film, realizovaný v pařížském exilu, zcela opouští konvenční narativní struktury a předkládá spalující abstraktní elegii za oběti nacistických vyhlazovacích táborů a totalitního teroru dvacátého století. 
 

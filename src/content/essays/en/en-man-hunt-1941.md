@@ -1,5 +1,4 @@
 ---title: "Man Hunt (1941): Personal Manifesto, Shadows, and the First Strike Against Nazism"
-film: "Man Hunt (1941)"
 year: 1941
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's political thriller Man Hunt, which broke Hollywood neutrality before Pearl Harbor and returned the director to expressionism."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "man-hunt-1941"
 director: "Fritz Lang"
 genres: ["Film Noir", "Espionage", "Thriller"]
+film: "Man Hunt (1941)"
 ---
 *Man Hunt* (1941) marks a vital turning point in Fritz Lang’s career—a return to dark German expressionism following his early American Westerns, and his boldest, most direct anti-Nazi manifesto at a time when Hollywood was strictly enforcing political neutrality.
 

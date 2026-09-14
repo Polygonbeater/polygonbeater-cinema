@@ -1,5 +1,4 @@
 ---title: "Žiješ jenom jednou (You Only Live Once, 1937): Když stigma nahrazuje důkaz a spravedlnost selhává"
-film: "Žiješ jenom jednou (1937)"
 year: 1937
 date: "2026-09-03"
 description: "Analytická studie tragického melodramatu Fritze Langa zkoumající sociální vyloučení, mechanismus společenského stigmatu, vizuální fatalismus Leona Shamroye a archetyp milenců na útěku."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "you-only-live-once-1937"
 director: "Fritz Lang"
 genres: ["Film noir", "Milenci na útěku", "Tragédie"]
+film: "Žiješ jenom jednou (1937)"
 ---
 Druhý americký film německého režiséra Fritze Langa *Žiješ jenom jednou* (*You Only Live Once*, 1937, stopáž 86 minut), natočený v nezávislé produkci Waltera Wangera v distribuci United Artists, představuje jeden ze základních pilířů rodícího se filmu noir a zakladatelský text subžánru „milenců na útěku“ (*lovers on the run*). Lang přímo navázal na sociálně-kritický apel svého amerického debutu *Byl jsem lynčován* (*Fury*, 1936). 
 

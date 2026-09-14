@@ -1,5 +1,4 @@
 ---title: "Vzpoura hraček (1947): Poválečná ukolébavka odporu a materiální animace Hermíny Týrlové"
-film: "Vzpoura hraček (1947)"
 year: 1947
 date: "2026-09-03"
 description: "Hloubková analýza průkopnického krátkometrážního filmu Hermíny Týrlové kombinujícího stop-motion loutkovou animaci s hraným filmem v politické protinacistické satiře ze zlínských ateliérů."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "vzpoura-hracek-1947"
 director: "Hermína Týrlová"
 genres: ["Animovaný", "Politická satira", "Krátkometrážní"]
+film: "Vzpoura hraček (1947)"
 ---
 > *„Když se zdánlivě bezmocní a křehcí spojí, dokážou srazit brutální tyranii na kolena.“*
 

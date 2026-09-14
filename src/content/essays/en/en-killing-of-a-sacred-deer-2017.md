@@ -1,5 +1,4 @@
 ---title: "The Killing of a Sacred Deer (2017): Surgical Guilt and the Symmetry of Punishment"
-film: "The Killing of a Sacred Deer (2017)"
 year: 2017
 date: "2026-09-03"
 description: "An analytical study of Yorgos Lanthimos's psychological thriller exploring clinical determinism, the deadpan delivery, language as a mask, and the mechanics of ritual sacrifice."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "killing-of-a-sacred-deer-2017"
 director: "Yorgos Lanthimos"
 genres: ["Psychological", "Mystery", "Horror"]
+film: "The Killing of a Sacred Deer (2017)"
 ---
 This study deconstructs Yorgos Lanthimos’s psychological thriller *The Killing of a Sacred Deer* (2017, running time 121 minutes) as a modern adaptation of Euripides' tragedy *Iphigenia in Aulis*. The film analyzes the life of a top cardiovascular surgeon, Steven Murphy, whose family falls victim to an unexplainable, paralyzing illness after Martin—the son of Steven's former patient—enters their lives. 
 

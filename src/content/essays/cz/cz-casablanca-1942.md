@@ -1,5 +1,4 @@
 ---title: "Casablanca (1942): Filmový konec amerického izolacionismu"
-film: "Casablanca (1942)"
 year: 1942
 date: "2026-09-03"
 description: "Hloubková analýza válečné romance Michaela Curtize jako politické alegorie o přechodu USA od neutrality k aktivnímu zapojení do druhé světové války."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "casablanca-1942"
 director: "Michael Curtiz"
 genres: ["Romantický", "Drama", "Válečný"]
+film: "Casablanca (1942)"
 ---
 *Casablanca* (1942, stopáž 102 minut), natočená režisérem Michaelem Curtizem a uvedená do distribuce v těsné návaznosti na spojenecké vylodění v Severní Africe (operace Torch), představuje mnohem více než melodramatickou romanci. Snímek funguje jako přesvědčivá politická alegorie přechodu Spojených států od doktríny nezasahování k přímému vojenskému zapojení do druhé světové války.
 

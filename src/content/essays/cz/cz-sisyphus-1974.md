@@ -1,5 +1,4 @@
 ---title: "Sisyfos (Sisyphus, 1974): Vzpoura linie, tíha věčného úsilí a estetika dřiny"
-film: "Sisyfos (1974)"
 year: 1974
 date: "2026-09-03"
 description: "Hloubková analýza minimalistického animovaného mistrovského díla Marcella Jankovicse zkoumající existenciální úsilí, animaci jako formu meta-dřiny a camusovskou absurditu."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "sisyphus-1974"
 director: "Marcell Jankovics"
 genres: ["Animovaný", "Filozofický", "Krátkometrážní"]
+film: "Sisyfos (1974)"
 ---
 > *„Váhou není kámen. Je jí lidská vůle.“*
 

@@ -1,5 +1,4 @@
 ---title: "Fräulein Raffke (1923): Tanec na hranici propasti a hyperinflace"
-film: "Fräulein Raffke (1923)"
 year: 1923
 date: "2026-09-03"
 description: "Analytická studie satirické komedie Richarda Eichberga zkoumající fenomén válečných zbohatlíků, hyperinflaci ve Výmarské republice a smích jako nástroj sociálního přežití."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "fraulein-raffke-1923"
 director: "Richard Eichberg"
 genres: ["Němý film", "Komedie", "Sociální"]
+film: "Fräulein Raffke (1923)"
 ---
 > *„Dnes ráno stojí dolar 10 miliard marek. Do dnešního odpoledne to bude pravděpodobně dvojnásobek.“* – Berlin Daily, 1923
 

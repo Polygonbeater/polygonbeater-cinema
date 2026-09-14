@@ -1,5 +1,4 @@
 ---title: "While the City Sleeps (1956): Media Predators and the Lipstick Killer"
-film: "While the City Sleeps (1956)"
 year: 1956
 date: "2026-09-03"
 description: "An analytical study of Fritz Lang's newsroom noir, exploring media voyeurism, corporate rat races, and the 2.00:1 Superscope widescreen format."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "while-the-city-sleeps-1956"
 director: "Fritz Lang"
 genres: ["Film Noir", "Media Drama", "Crime"]
+film: "While the City Sleeps (1956)"
 ---
 *While the City Sleeps* (100 min) is Lang’s most cynical exploration of the Fourth Estate. Lang creates a chilling parallel between the voyeurism of the murderer and the professional voyeurism of the newsroom.
 

@@ -1,5 +1,4 @@
 ---title: "Repulsion (1965): Subjectivized Space, Sensory Overload, and Psychological Collapse"
-film: "Repulsion (1965)"
 year: 1965
 date: "2026-09-03"
 description: "Analytical study of Roman Polanski’s masterpiece, examining the apartment as a psychological apparatus, the oppressive sound design, and Catherine Deneuve’s minimalist performance."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "repulsion-1965"
 director: "Roman Polanski"
 genres: ["Psychological Horror", "Thriller"]
+film: "Repulsion (1965)"
 ---
 Roman Polanski’s *Repulsion* (1965) stands as a cornerstone of psychological horror, where narrative minimalism yields to a rigorous formal investigation of subjective collapse. As film scholarship emphasizes (Durgnat 1967; Barr 1970; Wilson 2006), horror here is not an external plot event, but a gradual process rooted in prolonged stress and sensory overload.
 

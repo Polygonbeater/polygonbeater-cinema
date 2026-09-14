@@ -1,5 +1,4 @@
 ---title: "Když město spí (While the City Sleeps, 1956): Mediální dravci, rtěnkový vrah a krysí závod"
-film: "Když město spí (While the City Sleeps, 1956)"
 year: 1956
 date: "2026-09-03"
 description: "Analytická studie noiru Fritze Langa zkoumající paralelismus mezi voyeurismem sériového vraha a korporátní dravostí mediální redakce v širokoúhlém formátu Superscope."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "while-the-city-sleeps-1956"
 director: "Fritz Lang"
 genres: ["Film noir", "Mediální drama", "Krimi"]
+film: "Když město spí (1956)"
 ---
 Snímek Fritze Langa *Když město spí* (*While the City Sleeps*, 1956, stopáž 100 minut), natočený podle románu Charlese Einsteina *The Bloody Spur*, představuje jednu z nejostřejších, nejcyničtějších a nejmodernějších kritik čtvrté moci v dějinách kinematografie. Zatímco policie v ulicích New Yorku bezmocně pátrá po sexuálním deviantovi vraždícím osamělé ženy – tzv. „Rtěnkovém vrahovi“ (*Lipstick Killer*) –, v mrakodrapu mediálního konglomerátu Kyne Enterprises probíhá paralelně jiný, neméně bezohledný a brutální lov: boj o moc a kontrolu nad tiskovým impériem. 
 

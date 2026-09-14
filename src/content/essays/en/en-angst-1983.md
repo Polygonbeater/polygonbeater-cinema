@@ -1,5 +1,4 @@
 ---title: "Angst (1983): The Subjectivity of Psychopathy and the Kinetics of Evil"
-film: "Angst (1983)"
 director: "Gerald Kargl"
 year: 1983
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/angst-1983.webp"
 lang: "en"
 translationSlug: "angst-1983"
 genres: ["Horror", "Psychological", "Thriller"]
+film: "Angst (1983)"
 ---
 This study deconstructs the Austrian cult thriller *Angst* (1983, running time 87 minutes) as one of the most radical existential probes into the mind of a cold-blooded killer in the history of cinema. Loosely based on the true case of Werner Kniesek, the film follows a nameless psychopath from the moment of his release from prison to a sudden, impulsive massacre of a family in an isolated villa. 
 

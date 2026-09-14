@@ -1,5 +1,4 @@
 ---title: "Ostrov v ohni (Queimada, 1969): Korporátní imperialismus a krize moci"
-film: "Ostrov v ohni (1969)"
 year: 1969
 date: "2026-09-03"
 description: "Analytická studie politického dramatu Gilla Pontecorva zkoumající mechanismy neokolonialismu, korporatokracii a paralely s moderními intervencemi."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "corporate-imperialism-and-venezuela"
 director: "Gillo Pontecorvo"
 genres: ["Dokumentární", "Politický", "Esej"]
+film: "Ostrov v ohni (1969)"
 ---
 Snímek *Ostrov v ohni* (*Queimada* / *Burn!*, 1969, stopáž 112 minut) režiséra Gilla Pontecorva představuje jednu z nejradikálnějších politických a ekonomických pitev moderního imperialismu ve světové kinematografii. Příběh britského provokatéra sira Williama Walkera (Marlon Brando), který je vyslán na fiktivní karibský ostrov, aby podnítil vzpouru otroků proti portugalské koruně ve prospěch britské cukerní společnosti, obnažuje podstatu neokolonialismu: formální svoboda je pouze efektivnějším nástrojem ekonomického vykořisťování.
 

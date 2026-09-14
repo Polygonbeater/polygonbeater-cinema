@@ -1,5 +1,4 @@
 ---title: "Šarlatová ulice (Scarlet Street, 1945): Dekonstrukce subjektu a sluchová trajektorie viny"
-film: "Šarlatová ulice (Scarlet Street, 1945)"
 year: 1945
 date: "2026-09-03"
 description: "Analytická studie noiru Fritze Langa zkoumající dekonstrukci hrdiny, komodifikaci umělecké identity, weberovskou byrokracii a Chionovu zvukovou teorii viny."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "scarlet-street-1945"
 director: "Fritz Lang"
 genres: ["Film noir", "Krimi", "Drama"]
+film: "Šarlatová ulice (1945)"
 ---
 Snímek Fritze Langa *Šarlatová ulice* (*Scarlet Street*, 1945, stopáž 102 minut) představuje jeden z nejradikálnějších a nejtemnějších vrcholů americké éry tohoto tvůrce. Ve srovnání s předchozím snímkem *Žena za výlohou* (*The Woman in the Window*, 1944), jenž divákovi nabídl úlevné vysvětlení skrze snovou logiku, *Šarlatová ulice* jakýkoliv narativní ventil nekompromisně uzavírá a nastoluje absolutní fatalistický determinismus. 
 

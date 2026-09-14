@@ -1,5 +1,4 @@
 ---title: "Ikiru (1952): Awakening at Ground Zero"
-film: "Ikiru (1952)"
 year: 1952
 date: "2026-09-03"
 description: "An analytical study of Akira Kurosawa's humanistic masterpiece exploring rebellion against bureaucratic dead time and the search for existential meaning."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "ikiru-1952"
 director: "Akira Kurosawa"
 genres: ["Drama", "Philosophical"]
+film: "Ikiru (1952)"
 ---
 This study deconstructs Akira Kurosawa’s humanistic masterpiece *Ikiru* (*To Live*, 1952, running time 143 minutes) as a radical exploration of bureaucratic paralysis and the search for the meaning of human existence in the face of death. The film analyzes the transformation of Kanji Watanabe, an aging civil servant who, after receiving a stomach cancer diagnosis, awakens from a thirty-year coma of mechanical routine. 
 

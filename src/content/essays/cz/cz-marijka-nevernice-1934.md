@@ -1,5 +1,4 @@
 ---title: "Marijka nevěrnice (1934): Baladický realismus a avantgardní obraz Podkarpatské Rusi"
-film: "Marijka nevěrnice (1934)"
 year: 1934
 date: "2026-09-03"
 description: "Analytická studie vizionářského snímku Vladislava Vančury a Ivana Olbrachta zkoumající neherecké obsazení, avantgardní montáž, baladický mýtus a sociální realitu meziválečné Podkarpatské Rusi."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "marijka-nevernice-1934"
 director: "Vladislav Vančura"
 genres: ["Klasický český film", "Drama", "Balada"]
+film: "Marijka nevěrnice (1934)"
 ---
 Snímek spisovatele a režiséra Vladislava Vančury *Marijka nevěrnice* (1934, stopáž 72 minut), realizovaný podle původního scénáře Ivana Olbrachta a Karla Nového s hudbou Bohuslava Martinů, představuje naprosto výjimečný klenot československé meziválečné kinematografie. Film nevznikl v bezpečí pražských ateliérů na Barrandově; štáb se vydal přímo do odlehlých hvozdů Podkarpatské Rusi, do vesnice Koločava a na divokou řeku Tereblu, aby zde zachytil život v jeho nejryzejší, archaické a sociálně drsné podobě. 
 

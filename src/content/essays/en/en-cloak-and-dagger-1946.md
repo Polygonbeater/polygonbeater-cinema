@@ -1,5 +1,4 @@
 ---title: "Cloak and Dagger (1946): Science as Hostage, the Physiology of Violence, and the Dawn of Atomic Paranoia"
-film: "Cloak and Dagger (1946)"
 year: 1946
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's political espionage thriller exploring atomic paranoia, the deconstruction of the intellectual hero, and studio censorship."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "cloak-and-dagger-1946"
 director: "Fritz Lang"
 genres: ["Espionage", "Film Noir", "Thriller"]
+film: "Cloak and Dagger (1946)"
 ---
 *Cloak and Dagger* (106 min) represents Fritz Lang's immediate cinematic reaction to the post-atomic world. While his earlier anti-fascist war films fought against a clearly defined ideology, here the primary enemy becomes technological secrecy itself and the ultimate threat of global annihilation. The film deconstructs the myth of the untouchable intellectual, thrusting a theoretical physicist into a world of animalistic violence where survival depends on adapting to raw physical brutality.
 

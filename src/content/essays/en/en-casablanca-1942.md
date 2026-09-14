@@ -1,5 +1,4 @@
 ---title: "Casablanca (1942): The Cinematic End of American Isolationism"
-film: "Casablanca (1942)"
 year: 1942
 date: "2026-09-03"
 description: "An analytical essay on Michael Curtiz's wartime masterwork, examining Rick Blaine as an allegory for the United States' shift from neutrality to intervention."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "casablanca-1942"
 director: "Michael Curtiz"
 genres: ["Romance", "Drama", "War"]
+film: "Casablanca (1942)"
 ---
 Released in 1942, coinciding closely with the Allied invasion of North Africa (Operation Torch), *Casablanca* is far more than a wartime romance. It serves as a potent political allegory for the United States' transition from a doctrine of non-intervention to active engagement in World War II.
 

@@ -1,5 +1,4 @@
 ---title: "Moonfleet (1955): A Deep Study in Gothic Fatalism"
-film: "Moonfleet (1955)"
 year: 1955
 date: "2026-09-03"
 description: "An analytical study of Fritz Lang's gothic masterpiece, exploring the subversion of the swashbuckler genre, 2.55:1 CinemaScope spatial entrapment, and redemption."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "moonfleet-1955"
 director: "Fritz Lang"
 genres: ["Adventure", "Period", "Drama"]
+film: "Moonfleet (1955)"
 ---
 *Moonfleet* (87 min) is Fritz Lang’s clinical deconstruction of the adventure genre. Developed with screenwriters Jan Lustig and Margaret Fitts, the film rejects swashbuckling tropes in favor of a haunting exploration of guilt and betrayal. Produced by MGM in Eastmancolor and CinemaScope, it is a film where the landscape itself feels sentient and judgmental.
 

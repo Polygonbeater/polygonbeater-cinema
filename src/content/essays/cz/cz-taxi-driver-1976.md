@@ -1,5 +1,4 @@
 ---title: "Taxikář (Taxi Driver, 1976): Anatomie městské izolace a neo-noirové inferno"
-film: "Taxikář (Taxi Driver, 1976)"
 year: 1976
 date: "2026-09-03"
 description: "Analytická studie mistrovského díla Martina Scorseseho zkoumající městské odcizení, neo-noirovou kameru Michaela Chapmana, Schraderův existenciální scénář a rituál očistného násilí."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "taxi-driver-1976"
 director: "Martin Scorsese"
 genres: ["Neo-noir", "Psychologický", "Krimi"]
+film: "Taxikář (1976)"
 ---
 Snímek Martina Scorseseho *Taxikář* (*Taxi Driver*, 1976, stopáž 114 minut), oceněný Zlatou palmou na festivalu v Cannes, představuje jeden ze základních pilířů éry Nového Hollywoodu a definitivní vrchol moderního neo-noiru. Film, natočený podle scénáře Paula Schradera za hudebního doprovodu v labutí písni Bernarda Herrmanna, nepředstavuje pouhou kriminální kroniku rozkladu New Yorku sedmdesátých let. 
 

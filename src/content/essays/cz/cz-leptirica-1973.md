@@ -1,5 +1,4 @@
 ---title: "Motýlice (Leptirica, 1973): Dekonstrukce upířího mýtu a syrovost balkánského folklóru"
-film: "Motýlice (Leptirica, 1973)"
 director: "Đorđe Kadijević"
 year: 1973
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/leptirica-1973.webp"
 lang: "cz"
 translationSlug: "leptirica-1973"
 genres: ["Folk horor", "Mysteriózní"]
+film: "Motýlice (1973)"
 ---
 Jugoslávský televizní film *Motýlice* (*Leptirica*, 1973, stopáž 63 minut) v režii Đorđeho Kadijeviće představuje jeden z formálních i myšlenkových vrcholů východoevropského folk-hororu a nejvýznamnější žánrový počin balkánské kinematografie sedmdesátých let. Snímek, volně adaptující klasickou hororovou novelu Milovana Glišiće *Po devadesáti letech* (*Posle devedeset godina*, 1880), radikálně odmítá západní romantizaci vampyrismu a noří se do autentických vrstev archaického srbského folklóru, v němž se křesťanské pravoslavné rituály mísí s temnou předkřesťanskou chthonickou magií.
 

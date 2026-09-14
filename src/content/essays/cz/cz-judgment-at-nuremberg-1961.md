@@ -1,5 +1,4 @@
 ---title: "Norimberský proces (Judgment at Nuremberg, 1961): Tribunál svědomí a krize práva"
-film: "Norimberský proces (Judgment at Nuremberg, 1961)"
 director: "Stanley Kramer"
 year: 1961
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/judgment-at-nuremberg-1961.webp"
 lang: "cz"
 translationSlug: "judgment-at-nuremberg-1961"
 genres: ["Soudní drama", "Historický", "Válečný"]
+film: "Norimberský proces (1961)"
 ---
 > *„Zlo není prezentováno jako výsledek pouhého fanatismu, nýbrž jako produkt společenského souhlasu, právního alibismu a tiché poslušnosti elit.“*
 

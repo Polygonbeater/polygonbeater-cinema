@@ -1,5 +1,4 @@
 ---title: "Ďábelské ženy (Les Diaboliques, 1955): Anatomie viny a psychologická past"
-film: "Ďábelské ženy (1955)"
 year: 1955
 date: "2026-09-03"
 description: "Analytická studie mistrovského díla Henriho-Georgese Clouzota zkoumající somatizaci viny, asymetrii informací a precizně konstruovanou síť manipulace."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "dabelske-zeny"
 director: "Henri-Georges Clouzot"
 genres: ["Thriller", "Mysteriózní", "Horor"]
+film: "Ďábelské ženy (1955)"
 ---
 Francouzský klenot *Ďábelské ženy* (*Les Diaboliques*, 1955, stopáž 117 minut) v režii Henriho-Georgese Clouzota představuje základní pilíř moderního psychologického thrilleru. Zatímco dobový americký kriminální film sázel na vnější akci či policejní procedury, Clouzot situuje primární zdroj hrůzy do nitra lidské psychiky – do mechanismu viny, stupňující se paranoie a precizně zinscenované informační lsti. Snímek analyzuje proces, při němž se subjektivní přesvědčení o spáchaném hříchu proměňuje v dokonalou past na lidskou mysl.
 

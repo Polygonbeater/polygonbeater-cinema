@@ -1,5 +1,4 @@
 ---title: "Sedmikrásky (Daisies, 1966): Destrukce měšťácké morálky, koláž těla a radikální anarchie"
-film: "Sedmikrásky (1966)"
 year: 1966
 date: "2026-09-03"
 description: "Analytická studie přelomového díla Věry Chytilové a Ester Krumbachové zkoumající radikální vzpouru dvou Marií, destrukci filmové narace, kolážovou montáž a filosofii zkaženosti."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "sedmikrasky-1966"
 director: "Věra Chytilová"
 genres: ["Nová vlna", "Experimentální", "Komedie"]
+film: "Sedmikrásky (1966)"
 ---
 Snímek Věry Chytilové *Sedmikrásky* (*Daisies*, 1966, stopáž 74 minut), realizovaný ve scenáristické a výtvarné spolupráci s Ester Krumbachovou a za kameramanského mistrovství Jaroslava Kučery, představuje nejradikálnější formální i myšlenkový manifest Československé nové vlny. Film odmítá lineární dramaturgii, psychologický realismus i tradiční morální kánon dobové kinematografie. 
 

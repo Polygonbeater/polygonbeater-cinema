@@ -1,5 +1,4 @@
 ---title: "Human Desire (1954): Mechanika vášně a naturalistická past"
-film: "Lidská touha (1954)"
 year: 1954
 date: "2026-09-03"
 description: "Analytická studie adaptace Zolovy Lidské bestie Fritze Langa zkoumající environmentální determinismus, mechaniku železnice a tragickou rezignaci."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "human-desire-1954"
 director: "Fritz Lang"
 genres: ["Film noir", "Drama", "Krimi"]
+film: "Lidská touha (1954)"
 ---
 Zatímco Jean Renoir ve své slavné adaptaci z roku 1938 (*La Bête Humaine*) sázel na poetický realismus a osudovou tragédii krve, Fritz Lang v roce 1954 přistupuje k románu Émila Zoly jako inženýr lidské destrukce. Snímek *Human Desire* (*Lidská touha*, 1954, stopáž 91 minut) transformuje francouzský literární naturalismus do reálií poválečné Ameriky. Biologický atavismus nahrazuje Lang nekompromisním environmentálním determinismem – postavy nejsou drceny pouze dědičnými pudy, nýbrž prostředím, které je obklopuje: hlučným, špinavým a mechanicky rigorózním světem železnice.
 

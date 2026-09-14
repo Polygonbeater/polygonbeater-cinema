@@ -1,5 +1,4 @@
 ---title: "A Short Film About Killing (1988) – The Anatomy of Mechanical Death"
-film: "A Short Film About Killing (1988)"
 year: 1988
 date: "2026-09-02"
 description: "Krzysztof Kieślowski deconstructs murder and capital punishment, delivering a cold, methodical study of the mechanics of death and institutionalized violence."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "krotki-film-o-zabijaniu-1988"
 director: "Krzysztof Kieślowski"
 genres: ["Drama", "Crime", "Philosophical"]
+film: "A Short Film About Killing (1988)"
 ---
 In A Short Film About Killing (Krótki film o zabijaniu, 1988), Krzysztof Kieślowski strips the act of murder of any genre, romantic, or cathartic veneer. It is neither a horror film nor a conventional thriller. It is a cold, methodical study of the immense physical and institutional effort required to end a human life. The film portrays brutality not as an excess, but as a banal, exhausting, and dirty process.
 

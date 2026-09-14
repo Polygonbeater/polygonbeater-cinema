@@ -1,5 +1,4 @@
 ---title: "Příběh Alvina Straighta (The Straight Story, 1999): Radikální pomalost, horizont pokory a poutnictví starce"
-film: "Příběh Alvina Straighta (The Straight Story, 1999)"
 year: 1999
 date: "2026-09-03"
 description: "Analytická studie nejkřehčího a nejradikálnějšího díla Davida Lynche zkoumající pomalost jako etické gesto, pastorální krajinu středozápadu, tělesnost Richarda Farnswortha a pouť za odpuštěním."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "the-straight-story-1999"
 director: "David Lynch"
 genres: ["Biografický", "Road movie", "Drama"]
+film: "Příběh Alvina Straighta (1999)"
 ---
 Když David Lynch v roce 1999 představil snímek *Příběh Alvina Straighta* (*The Straight Story*, stopáž 112 minut), natočený pod hlavičkou studia Walt Disney Pictures s přístupností pro celou rodinu (rating G), způsobil v mezinárodní filmové obci šok. Autor pověstný surrealistickými nočními můrami, rozpadem lidské identity a perverzním podložím amerického maloměsta (*Modrý samet*, *Lost Highway*) natočil dílo formálně neobyčejně prosté, dojemné a hluboce humanistické[cite: 98, 128]. 
 

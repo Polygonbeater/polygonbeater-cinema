@@ -1,5 +1,4 @@
 ---title: "Apocalypse Now (1979): Descent into the Heart of Darkness"
-film: "Apocalypse Now (1979)"
 year: 1979
 date: "2026-09-03"
 description: "An analytical study of Francis Ford Coppola's magnum opus exploring moral nihilism, Vittorio Storaro's chiaroscuro cinematography, and Walter Murch's sound design."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "apocalypse-now-1979"
 director: "Francis Ford Coppola"
 genres: ["War", "Drama", "Psychological"]
+film: "Apocalypse Now (1979)"
 ---
 This study deconstructs Francis Ford Coppola’s magnum opus *Apocalypse Now* (1979, running time 153 minutes) as a visually intoxicating and philosophically devastating adaptation of Conrad’s *Heart of Darkness*. The film transforms the Vietnam conflict into a surreal journey against the current of time and morality. 
 

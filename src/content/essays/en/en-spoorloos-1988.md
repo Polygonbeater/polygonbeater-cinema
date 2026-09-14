@@ -1,5 +1,4 @@
 ---title: "The Vanishing (1988): The Architecture of Absolute Logic"
-film: "The Vanishing (1988)"
 year: 1988
 date: "2026-09-03"
 description: "An analytical study of George Sluizer's psychological thriller exploring the banality of evil, the manipulator as experimenter, and the claustrophobia of unknowing."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "spoorloos-1988"
 director: "George Sluizer"
 genres: ["Psychological Thriller", "Mystery"]
+film: "The Vanishing (1988)"
 ---
 This study deconstructs the Dutch psychological thriller *Spoorloos* (*The Vanishing*, 1988, running time 107 minutes) as a chilling anatomy of cold manipulation and pathological obsession. The film analyzes the disappearance of a young woman (Saskia) at a busy highway rest stop and her partner's (Rex) subsequent, self-destructive years-long quest to discover the truth. 
 

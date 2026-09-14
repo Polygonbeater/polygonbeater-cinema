@@ -1,5 +1,4 @@
 ---title: "What the Health (2017): When Science Becomes a Weapon"
-film: "What the Health (2017)"
 year: 2017
 date: "2026-09-03"
 description: "A deep dive study deconstructing the misinformation hacking of the human mind in What the Health as a manipulative assault on cognitive sovereignty."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "what-the-health-2017"
 director: "Kip Andersen, Keegan Kuhn"
 genres: ["Documentary", "Investigative"]
+film: "What the Health (2017)"
 ---
 This analysis is based on the principle of Cognitive Sovereignty—a state where the individual maintains full control over their mental processes, rejects external emotional pressure, and analyzes reality from a position of inner detachment.
 

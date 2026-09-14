@@ -1,5 +1,4 @@
 ---title: "Tale of Tales (Pohádka pohádek, 1979): The Greatest Animated Film Ever Made"
-film: "Tale of Tales (1979)"
 director: "the Russian master"
 year: 1979
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/tale-of-sales-1979.webp"
 lang: "en"
 translationSlug: "tale-of-sales-1979"
 genres: ["Animation", "Satire", "Short Film"]
+film: "Tale of Tales (1979)"
 ---
 *Tale of Tales* (*Skazka skazok*), directed by the Russian master Yuriy Norshteyn in 1979, is not just a film, but a hypnotic visual poem. It is frequently voted by international critics as the Greatest Animated Film of All Time, a testament to its profound emotional depth and technical brilliance.
 

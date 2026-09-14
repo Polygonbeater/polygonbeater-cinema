@@ -1,5 +1,4 @@
 ---title: "Hallucinatory Transgression: Psychoanalysis and Bourgeois Decay in Fulci's A Lizard in a Woman's Skin (1971)"
-film: "A Lizard in a Woman's Skin (1971)"
 year: 1971
 date: "2026-01-01"
 image: "/images/essays/jesterka-s-zenskou-kuzi.webp"
@@ -8,6 +7,7 @@ lang: "en"
 translationSlug: "jesterka-s-zenskou-kuzi"
 director: "Lucio Fulci"
 genres: ["Giallo", "Psychological", "Mystery"]
+film: "A Lizard in a Woman's Skin (1971)"
 ---
 In the context of Italian cinema, Lucio Fulci is often reduced to a purveyor of extreme gore, but his giallo A Lizard in a Woman's Skin (1971) reveals an entirely different facet: a master of visual delirium and a trenchant social critic. The film deliberately destabilizes the traditional detective narrative to plunge into the psyche of Carol Hammond (Florinda Bolkan), the daughter of an influential lawyer and politician, married to Frank, a partner in her father's law firm. Fulci employs psychedelic aesthetics not as a gratuitous visual attraction, but as a tool to deconstruct the repressive mechanisms of the upper class.
 

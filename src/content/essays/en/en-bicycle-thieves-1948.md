@@ -1,5 +1,4 @@
 ---title: "Bicycle Thieves (1948): Stations of the Cross in the Dust of the Street"
-film: "Bicycle Thieves (1948)"
 year: 1948
 date: "2026-09-03"
 description: "An analytical study of the pillar of Italian Neorealism exploring street aesthetics, the pure horizontal of existence, and the cyclical nature of guilt."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "bicycle-thieves-1948"
 director: "Vittorio De Sica"
 genres: ["Italian Neorealism", "Drama", "Social Drama"]
+film: "Bicycle Thieves (1948)"
 ---
 This study deconstructs the pillar of Italian Neorealism, *Bicycle Thieves* (Ladri di biciclette, 1948, running time 89 minutes), as a radical social drama that renounces studio stylization in favor of the raw truth of the street. The film analyzes the tragedy of a worker named Antonio, whose stolen bicycle—his only means of livelihood—triggers a chain of despair in post-war Rome. 
 

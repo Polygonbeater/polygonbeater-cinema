@@ -1,5 +1,4 @@
 ---title: "Příchozí z temnot (1921): Okultní pýcha, alchymie a historická anachronie"
-film: "Příchozí z temnot (1921)"
 year: 1921
 date: "2026-09-03"
 description: "Analytická studie raného československého okultního hororu Jana S. Kolára zkoumající alchymistický experiment, oživení rytíře Ješka, vliv německého expresionismu a etiku lidské pýchy."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "prichozi-z-temnot-1921"
 director: "Jan S. Kolár"
 genres: ["Němý film", "Horor", "Klasický český film"]
+film: "Příchozí z temnot (1921)"
 ---
 Snímek *Příchozí z temnot* (1921, dochovaná stopáž 62 minut), který měl premiéru v první polovině roku 1921, představuje jeden z nejvýznamnějších a formálně nejvyspělejších počinů rané československé kinematografie. Režisér a scenárista Jan S. Kolár vytvořil ambiciózní dílo, jež se radikálně vymykalo dobové tuzemské produkci spoléhající převážně na nenáročné frašky a sentimentální melodramata. 
 

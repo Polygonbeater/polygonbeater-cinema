@@ -1,5 +1,4 @@
 ---title: "Confirm or Deny (1941): Epistemologie novinářské etiky a studiový střet"
-film: "Confirm or Deny (1941)"
 year: 1941
 date: "2026-09-03"
 description: "Analytická studie válečného dramatu Confirm or Deny zkoumající odchod Fritze Langa, mediální etiku za londýnského Blitzu a komunikační síť."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "confirm-or-deny-1941"
 director: "Archie Mayo, Fritz Lang"
 genres: ["Válečný", "Drama"]
+film: "Confirm or Deny (1941)"
 ---
 Snímek *Confirm or Deny* (1941, stopáž 73 minut) v produkci studia 20th Century Fox představuje fascinující hybridní dílo klasického Hollywoodu. Projekt původně zahájil Fritz Lang, avšak po přibližně týdnu natáčení byl studiem nahrazen rutinérem Archiem Mayem. Tento produkční zlom odhaluje hluboký střet evropského autorského rigorismu s pragmatickými požadavky šéfa studia Darryla F. Zanucka na přímočaré žurnalistické drama.
 

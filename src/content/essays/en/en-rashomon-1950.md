@@ -1,5 +1,4 @@
 ---title: "Rashomon (1950): The Disintegration of Objective Truth"
-film: "Rashomon (1950)"
 year: 1950
 date: "2026-09-03"
 description: "An analytical study of Akira Kurosawa's landmark film exploring epistemological relativism, unreliable narrators, and Kazuo Miyagawa's revolutionary cinematography."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "rashomon-1950"
 director: "Akira Kurosawa"
 genres: ["Historical", "Mystery", "Philosophical"]
+film: "Rashomon (1950)"
 ---
 This study deconstructs Akira Kurosawa’s film *Rashomon* (1950, running time 88 min) as a pivotal work of modern cinema that introduced non-linear storytelling based on subjectivity. The film won the Golden Lion at the Venice Film Festival in 1951 and introduced the term "Rashomon effect" into the English language and scientific discourse. 
 

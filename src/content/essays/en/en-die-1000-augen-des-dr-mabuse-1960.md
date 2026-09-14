@@ -1,5 +1,4 @@
 ---title: "Die 1000 Augen des Dr. Mabuse (1960): Surveillance, Technical Power, and Banality"
-film: "Die 1000 Augen des Dr. Mabuse (1960)"
 year: 1960
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's final feature film, examining the Luxor Hotel, panopticism, technical surveillance infrastructure, and power without a subject."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "die-1000-augen-des-dr-mabuse-1960"
 director: "Fritz Lang"
 genres: ["Sci-Fi", "Thriller", "Crime"]
+film: "Die 1000 Augen des Dr. Mabuse (1960)"
 ---
 Fritz Lang’s final cinematic work, *Die 1000 Augen des Dr. Mabuse* (*The 1,000 Eyes of Dr. Mabuse*, 1960), offers a chillingly modern diagnostic of institutional power. Returning to his iconic criminal mastermind after decades in Hollywood exile, Lang eschews nostalgia and expressionist flourishes in favor of a rigorous structural critique of the surveillance state.
 

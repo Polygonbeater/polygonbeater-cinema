@@ -1,5 +1,4 @@
 ---title: "Monroeova doktrína (The Monroe Doctrine, 1939): Od izolacionismu k ekonomické hegemonii"
-film: "Monroeova doktrína (1939)"
 year: 1939
 date: "2026-09-03"
 description: "Analytická studie historického krátkého filmu studia Warner Bros. zkoumající ideologické kořeny Monroeovy doktríny, didaktickou obhajobu izolacionismu a Rooseveltovo corollarium."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "the-monroe-doctrine-1939"
 director: "A. Edward Sutherland"
 genres: ["Historický", "Propaganda", "Krátkometrážní"]
+film: "Monroeova doktrína (1939)"
 ---
 Krátkometrážní historický snímek *Monroeova doktrína* (*The Monroe Doctrine*, 1939, stopáž 16 minut), natočený v produkci studia Warner Bros. v režii A. Edwarda Sutherlanda v technologii Technicolor, představuje klíčový ideologický artefakt americké kinematografie na samém prahu druhé světové války. Film nevznikl jako kritická historická analýza, nýbrž jako didaktická a silně patriotická obhajoba tradičního amerického izolacionismu v okamžiku, kdy v Evropě po invazi do Polska propukl nový vojenský požár. 
 

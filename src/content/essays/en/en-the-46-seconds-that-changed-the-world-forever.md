@@ -1,5 +1,4 @@
 ---title: "The 46 Seconds That Changed the World Forever (1895): The Birth of Cinema"
-film: "The 46 Seconds That Changed the World Forever (1895)"
 year: 1895
 date: "2026-09-03"
 description: "A look at the historic moment on December 28, 1895, when the Lumière brothers presented the first public screening in Paris, changing our perception of reality forever."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "the-46-seconds-that-changed-the-world-forever"
 director: "Auguste a Louis Lumièrové"
 genres: ["Documentary", "Silent Film", "Historical"]
+film: "The 46 Seconds That Changed the World Forever (1895)"
 ---
 Imagine a world where images never moved. No TikTok. No Netflix. No YouTube.
 

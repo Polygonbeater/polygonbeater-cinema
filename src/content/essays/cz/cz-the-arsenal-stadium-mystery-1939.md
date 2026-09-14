@@ -1,5 +1,4 @@
 ---title: "Záhada na stadiónu Arsenalu (The Arsenal Stadium Mystery, 1939): Sportovní autenticita a detektivka na prahu války"
-film: "Záhada na stadiónu Arsenalu (The Arsenal Stadium Mystery, 1939)"
 director: "Thorold Dickinson"
 year: 1939
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/the-arsenal-stadium-mystery-1939.webp"
 lang: "cz"
 translationSlug: "the-arsenal-stadium-mystery-1939"
 genres: ["Detektivní", "Sportovní", "Krimi"]
+film: "Záhada na stadiónu Arsenalu (1939)"
 ---
 > *„Vizionářský kriminální film, který povýšil nízkorozpočtový formát na stylový, autentický a historicky neocenitelný milník britské kinematografie.“*
 

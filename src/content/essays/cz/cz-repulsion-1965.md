@@ -1,5 +1,4 @@
 ---title: "Hnus (Repulsion, 1965): Subjektivizovaný prostor, senzorické přetížení a psychický rozpad"
-film: "Hnus (1965)"
 director: "Roman Polanski"
 year: 1965
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/repulsion-1965.webp"
 lang: "cz"
 translationSlug: "repulsion-1965"
 genres: ["Psychologický horor", "Thriller"]
+film: "Hnus (1965)"
 ---
 Snímek Romana Polanského *Hnus* (*Repulsion*, 1965, stopáž 105 minut), první díl jeho volné „apartmánové trilogie“ (doplněné později snímky *Rosemary má děťátko* a *Nájemník*), představuje jeden z klíčových pilířů moderního psychologického hororu. Polanski ve svém prvním britském filmu radikálně odmítá konvenční gotické rekvizity i vnější monstra. Namísto toho provádí nekompromisní formální analýzu postupného propadu lidského vědomí do schizofrenní psychózy a androfobie (patologického strachu z mužů a sexuality). 
 

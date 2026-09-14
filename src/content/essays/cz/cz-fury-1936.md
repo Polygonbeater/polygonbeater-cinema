@@ -1,5 +1,4 @@
 ---title: "Byl jsem lynčován (Fury, 1936): Rychlá emoce, výroba jistoty a dav jako systém"
-film: "Byl jsem lynčován (1936)"
 year: 1936
 date: "2026-09-03"
 description: "Analytická studie prvního amerického filmu Fritze Langa zkoumající lynč jako sociální mechanismus, selhání justice a morální rozklad oběti."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "fury-1936"
 director: "Fritz Lang"
 genres: ["Film noir", "Drama", "Sociální"]
+film: "Byl jsem lynčován (1936)"
 ---
 Snímek *Byl jsem lynčován* (*Fury*, 1936, stopáž 92 minut) v produkci studia Metro-Goldwyn-Mayer představuje mimořádně suverénní a nekompromisní vstup Fritze Langa do americké kinematografie. Lang, čerstvě emigrující před nacismem, nepřistoupil k hollywoodské kriminální látce jako k běžné žánrové zábavě. Inspirován reálným případem lynčování v kalifornském San Jose z roku 1933 vytvořil mrazivou sociologickou a psychologickou studii toho, jak snadno se civilizované maloměsto promění v krvelačnou bestii.
 

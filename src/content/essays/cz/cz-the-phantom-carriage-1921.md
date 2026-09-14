@@ -1,5 +1,4 @@
 ---title: "Vozka smrti (Körkarlen, 1921): Půlnoční kletba, dvojitá expozice a severské vykoupení"
-film: "Vozka smrti (1921)"
 year: 1921
 date: "2026-09-03"
 description: "Analytická studie němého mistrovského díla Viktora Sjöströma zkoumající techniku vícenásobné expozice, motiv půlnoční kletby, sociální rozklad alkoholismu a hluboký vliv na Ingmara Bergmana i Stanleyho Kubricka."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "the-phantom-carriage-1921"
 director: "Victor Sjöström"
 genres: ["Němý film", "Gotický horor", "Mysteriózní"]
+film: "Vozka smrti (1921)"
 ---
 Němý snímek švédského režiséra a herce Viktora Sjöströma *Vozka smrti* (*Körkarlen*, v mezinárodní distribuci *The Phantom Carriage*, 1921, stopáž 106 minut), natočený podle stejnojmenného románu nositelky Nobelovy ceny Selmy Lagerlöfové, představuje jeden ze základních pilířů světové kinematografie a absolutní vrchol tzv. zlatého věku švédského němého filmu. 
 

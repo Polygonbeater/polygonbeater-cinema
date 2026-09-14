@@ -1,5 +1,4 @@
 ---title: "Waltz with Bashir (2008): The Animated Descent into Memory and War"
-film: "Waltz with Bashir (2008)"
 year: 2008
 date: "2026-09-03"
 description: "An analytical essay on Ari Folman's animated documentary, exploring trauma, collective guilt, and the subjective memory of the Lebanon War."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "vals-s-basirem-2008"
 director: "Ari Folman"
 genres: ["Animated Documentary", "War", "Psychological"]
+film: "Waltz with Bashir (2008)"
 ---
 > *“How do you remember something too painful to face?”*
 

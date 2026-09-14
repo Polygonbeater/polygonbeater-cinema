@@ -1,5 +1,4 @@
 ---title: "Moon (2009): Existential Isolation and the Horror of Corporate Recycling"
-film: "Moon (2009)"
 year: 2009
 date: "2026-09-03"
 description: "An analytical study of Duncan Jones's sci-fi thriller exploring memory cloning, lunar claustrophobia, and the chilling banality of corporate evil."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "moon-2009"
 director: "Duncan Jones"
 genres: ["Sci-Fi", "Mystery", "Psychological"]
+film: "Moon (2009)"
 ---
 This study deconstructs Duncan Jones's existential sci-fi thriller *Moon* (2009, running time 97 minutes) as a masterpiece of psychological horror. The film analyzes the story of astronaut Sam Bell, who solitarily oversees the mining of helium-3 on the far side of the Moon and is nearing the end of his three-year shift. 
 

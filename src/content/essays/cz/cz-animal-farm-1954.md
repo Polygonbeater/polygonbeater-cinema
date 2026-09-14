@@ -1,5 +1,4 @@
 ---title: "Farma zvířat (Animal Farm, 1954): Studenoválečná animovaná alegorie"
-film: "Farma zvířat (Animal Farm, 1954)"
 year: 1954
 date: "2026-09-03"
 description: "Hloubková analýza prvního britského celovečerního animovaného filmu Johna Halase a Joy Batchelorové, adaptujícího Orwellovu slavnou satiru."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "animal-farm-1954"
 director: "John Halas, Joy Batchelor"
 genres: ["Animovaný", "Dystopie", "Politický"]
+film: "Farma zvířat (1954)"
 ---
 > *„Všechna zvířata jsou si rovná, ale některá jsou si rovnější než jiná.“*
 

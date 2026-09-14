@@ -1,5 +1,4 @@
 ---title: "8½ (1963): The Labyrinth of Creative Crisis"
-film: "8½ (1963)"
 year: 1963
 date: "2026-09-03"
 description: "An analytical study of Federico Fellini's masterpiece exploring meta-cinema, Freudian-Jungian psychoanalysis, and the architecture of the stream of consciousness."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "8-half-1963"
 director: "Federico Fellini"
 genres: ["Drama", "Surrealism", "Meta-cinema"]
+film: "8½ (1963)"
 ---
 This study deconstructs Federico Fellini's masterpiece *8½* (1963, running time 138 minutes) as the ultimate self-reflexive meta-film, exploring the creative and existential crisis of film director Guido Anselmi. The film analyzes the dissolution of traditional narrative structure and its replacement by a free-flowing stream of consciousness, where reality, dreams, memories, and fantasies merge into one indivisible whole. 
 

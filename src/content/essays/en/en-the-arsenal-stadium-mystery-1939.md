@@ -1,5 +1,4 @@
 ---title: "The Arsenal Stadium Mystery (1939): A Pioneering Sports Thriller"
-film: "The Arsenal Stadium Mystery (1939)"
 director: "Thorold Dickinson and"
 year: 1939
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/the-arsenal-stadium-mystery-1939.webp"
 lang: "en"
 translationSlug: "the-arsenal-stadium-mystery-1939"
 genres: ["Detective", "Sportovní", "Crime"]
+film: "The Arsenal Stadium Mystery (1939)"
 ---
 > *“A visionary blend of sports action and detective mystery, filmed on the brink of World War II.”*
 

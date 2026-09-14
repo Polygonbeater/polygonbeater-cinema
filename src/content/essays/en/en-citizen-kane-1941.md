@@ -1,5 +1,4 @@
 ---title: "Citizen Kane (1941): Fragmentation of Identity"
-film: "Citizen Kane (1941)"
 year: 1941
 date: "2026-09-03"
 description: "An analytical study of Orson Welles's landmark film exploring non-linear narrative, Gregg Toland's deep focus cinematography, and the deconstruction of the American Dream."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "citizen-kane-1941"
 director: "Orson Welles"
 genres: ["Drama", "Mystery", "Classic Hollywood"]
+film: "Citizen Kane (1941)"
 ---
 This study deconstructs Orson Welles's *Citizen Kane* (1941, running time 119 min) as a landmark work that introduced non-linear narrative structure to mainstream cinema. The film analyzes the life of press tycoon Charles Foster Kane through a series of subjective flashbacks from various characters attempting to decipher the meaning of his last word, "Rosebud." 
 

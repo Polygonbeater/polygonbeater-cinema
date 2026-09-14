@@ -1,5 +1,4 @@
 ---title: "Noored kotkad (1927) – A Visual Representation of an Independent Baltic"
-film: "Noored kotkad (1927)"
 director: "Theodor Luts"
 year: 1927
 date: "2026-09-02"
@@ -9,6 +8,7 @@ image: "/images/essays/noored-kotkad-1927.webp"
 lang: "en"
 translationSlug: "noored-kotkad-1927"
 genres: ["Silent Film", "War", "Historical"]
+film: "Noored kotkad (1927)"
 ---
 The 1927 silent film Noored kotkad (Young Eagles), directed by Theodor Luts, is one of the most vital surviving works of interwar Estonian cinema. However, it is not merely a foundational war drama; it is, above all, a key visual source of contemporary national imagination, reflecting how the Baltic region wished to see itself before the Soviet annexation in 1940. Celebrating the Estonian War of Independence (1918–1920), the film presents the image of a modern, self-assured European nation that fought for its freedom amidst the ruins of a collapsing empire.
 

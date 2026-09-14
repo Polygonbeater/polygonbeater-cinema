@@ -1,5 +1,4 @@
 ---title: "Vij (1967): Folklórní imaginace na okraji sovětského materialismu"
-film: "Vij (1967)"
 year: 1967
 date: "2026-09-03"
 description: "Analytická studie první a jediné oficiální sovětské hororové adaptace v režii Konstantina Jeršova a Georgije Kropačova zkoumající gogolovský mýtus, animaci Alexandra Ptuška a chthonické síly ukrajinského venkova."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "vij-1967"
 director: "Konstantin Jeršov, Georgij Kropačov"
 genres: ["Folklor", "Horor", "Pohádka"]
+film: "Vij (1967)"
 ---
 Filmová adaptace slavné stejnojmenné novely Nikolaje Vasiljeviče Gogola *Vij* (1967, stopáž 77 minut), kterou v produkci moskevských studií Mosfilm natočili začínající režiséři Konstantin Jeršov a Georgij Kropačov pod uměleckým a trikovým dohledem legendárního mistra filmové pohádky Alexandra Ptuška, představuje v dějinách kinematografie východního bloku zcela anomální a ojedinělý fenomén. Přestože film vznikl v samotném centru oficiálního sovětského filmového průmyslu na sklonku tání šedesátých let, otevřel nebývalý prostor pro iracionalitu, náboženskou démonologii, gotický děs a nespoutanou lidovou mytologii – tedy pro témata, která stála v přímém ideologickém rozporu se státem prosazovaným vědeckým materialismem a socialistickým realismem[cite: 96].
 

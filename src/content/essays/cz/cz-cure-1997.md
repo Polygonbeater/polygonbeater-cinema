@@ -1,5 +1,4 @@
 ---title: "Cure (1997): Nákaza prázdnotou a destrukce ega"
-film: "Cure (1997)"
 year: 1997
 date: "2026-09-03"
 description: "Analytická studie kultovního japonského psychologického hororu Kijošiho Kurosawy zkoumající anatomii odcizení, hypnotickou destrukci ega a nákazu prázdnotou."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "cure-1997"
 director: "Kiyoshi Kurosawa"
 genres: ["Psychologický", "Horor", "Thriller", "Krimi"]
+film: "Cure (1997)"
 ---
 Tato studie dekonstruuje kultovní japonský psychologický horor *Cure* (*Kjua*, 1997, stopáž 111 minut) jako mrazivou meditaci o křehkosti lidské identity a potlačených pudech moderní společnosti. Snímek formálně využívá strukturu policejního procedurálu, aby sledoval detektiva Takabeho vyšetřujícího sérii bizarních hrdelních zločinů. 
 

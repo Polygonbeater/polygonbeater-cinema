@@ -1,5 +1,4 @@
 ---title: "The Return of Frank James (1940): The Great Silence, Technicolor Debut, and Outlaw Justice"
-film: "The Return of Frank James (1940)"
 year: 1940
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's first color film, which rehabilitated his standing in the Hollywood studio system after a creative hiatus."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "the-return-of-frank-james-1940"
 director: "Fritz Lang"
 genres: ["Western", "Adventure", "Crime"]
+film: "The Return of Frank James (1940)"
 ---
 *The Return of Frank James* (1940) marks a vital turning point in Fritz Lang’s career. Following a two-year hiatus after the failure of *You and Me* (1938), Lang accepted this studio assignment as a probationary test to prove his ability to navigate the Hollywood studio system and manage large-scale productions.
 

@@ -1,5 +1,4 @@
 ---title: "The Shop on Main Street (1965): The Anatomy of Conformity"
-film: "The Shop on Main Street (1965)"
 year: 1965
 date: "2026-09-07"
 description: "An analysis of the first Czechoslovak Academy Award winner – Ján Kadár and Elmar Klos's chilling tragicomedy on moral collapse and Aryanization."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "obchod-na-korze-1965"
 director: "Ján Kadár, Elmar Klos"
 genres: ["Drama", "War", "Classic Czech Cinema"]
+film: "The Shop on Main Street (1965)"
 ---
 The tragicomedy *The Shop on Main Street* (1965), directed by Ján Kadár and Elmar Klos, stands as one of the most powerful achievements of the Czechoslovak New Wave. Awarded the Academy Award for Best Foreign Language Film at the 1966 ceremony as the first Czechoslovak motion picture to earn an Oscar, it shuns simplistic depictions of wartime horrors defined by black-and-white morality, choosing instead to dissect the slow, insidious mechanics of fascism through the lens of an ordinary "everyman."
 

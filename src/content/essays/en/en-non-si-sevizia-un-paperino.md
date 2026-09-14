@@ -1,5 +1,4 @@
 ---title: "Non si sevizia un paperino (1972)"
-film: "Non si sevizia un paperino (1972)"
 director: "Lucio Fulci"
 year: 1972
 date: "2026-01-01"
@@ -9,6 +8,7 @@ image: "/images/essays/non-si-sevizia-un-paperino.webp"
 lang: "en"
 translationSlug: "non-si-sevizia-un-paperino"
 genres: ["Giallo", "Mystery", "Horror"]
+film: "Non si sevizia un paperino (1972)"
 ---
 Most horror films teach us to fear the monster as an intruder disrupting a familiar world. Lucio Fulci’s *Non si sevizia un paperino* (1972) offers a more unsettling idea: what if no monster exists? What if society itself is the true monster?
 

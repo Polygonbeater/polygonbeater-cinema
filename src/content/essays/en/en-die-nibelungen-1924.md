@@ -1,5 +1,4 @@
 ---title: "Die Nibelungen (1924): Myth, Fate, and the Geometry of Order"
-film: "Die Nibelungen (1924)"
 year: 1924
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's monumental two-part epic, examining the Schüfftan process, the engineering of myth, architectural scripting, and the roots of pre-political totality."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "die-nibelungen-1924"
 director: "Fritz Lang"
 genres: ["Silent Film", "Fantasy", "Epic"]
+film: "Die Nibelungen (1924)"
 ---
 Fritz Lang’s monumental two-part epic *Die Nibelungen* (*Siegfried* and *Kriemhilds Rache*, 1924), scripted in collaboration with Thea von Harbou, stands as a supreme achievement of silent cinema. Rather than offering a nostalgic folk pageant, Lang transforms Germanic myth into a rigorous study of spatial geometry, determinism, and self-regulating value systems.
 

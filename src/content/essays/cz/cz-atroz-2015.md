@@ -1,5 +1,4 @@
 ---title: "Atroz (2015): Extrémní horor, found footage a etika zobrazení násilí"
-film: "Atroz (2015)"
 director: "Lex Ortega"
 year: 2015
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/atroz-2015.webp"
 lang: "cz"
 translationSlug: "atroz-2015"
 genres: ["Horor", "Found footage", "Transgresivní"]
+film: "Atroz (2015)"
 ---
 Snímek *Atroz* (2015) v režii Lexa Ortegy patří k nejradikálnějším a nejdiskutovanějším dílům současného latinskoamerického hororu. Namísto stylizované žánrové zábavy či popkulturní exploatace přináší film nekompromisní sondu do struktur násilí, nihilismu a diváckého voyeurismu, čímž vědomě testuje hranice únosnosti filmové reprezentace.
 

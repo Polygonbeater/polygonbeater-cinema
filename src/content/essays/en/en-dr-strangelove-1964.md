@@ -1,5 +1,4 @@
 ---title: "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964): How to End the World and Die Laughing"
-film: "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)"
 year: 1964
 date: "2026-09-05"
 description: "An analytical study of Stanley Kubrick's satirical masterpiece exploring bureaucratic absurdism, Cold War paranoia, and automated apocalypse."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "dr-strangelove-1964"
 director: "Stanley Kubrick"
 genres: ["Black Comedy", "War", "Satire"]
+film: "Dr. Strangelove (1964)"
 ---
 This study examines Stanley Kubrick’s satirical masterpiece *Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb* (1964) as the ultimate indictment of human absurdity, bureaucratic incompetence, and technocratic paranoia during the Cold War. The film demonstrates that humanity's downfall will not stem from a grand clash between good and evil, but rather from individual failures and unquestioning reliance on automated systems.
 

@@ -1,5 +1,4 @@
 ---title: "Jigoku (1960)"
-film: "Jigoku (1960)"
 director: "Nobuo Nakagawa"
 year: 1960
 date: "2026-01-01"
@@ -9,6 +8,7 @@ image: "/images/essays/jigoku.webp"
 lang: "en"
 translationSlug: "jigoku"
 genres: ["Horror", "Surrealism", "Japonský film"]
+film: "Jigoku (1960)"
 ---
 *Jigoku* (Hell) is not merely a story about guilt, but a film that abandons narrative causality halfway through its runtime and shifts into a mode of an autonomous system. While the first part follows a standard moral drama, upon entering Hell, reality transforms into a closed structure where space, color, and movement no longer serve the narrative, but its execution.
 

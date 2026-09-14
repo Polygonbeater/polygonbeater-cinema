@@ -1,5 +1,4 @@
 ---title: "Optická báseň (An Optical Poem, 1937): Vizualizace svobody v exilu"
-film: "Optická báseň (An Optical Poem, 1937)"
 year: 1937
 date: "2026-09-03"
 description: "Hloubková analýza abstraktního animovaného díla Oskara Fischingera, představujícího triumf vizuální hudby a exilový vzdor."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "an-optical-poem-1937"
 director: "Oskar Fischinger"
 genres: ["Animovaný", "Experimentální", "Hudební"]
+film: "Optická báseň (1937)"
 ---
 *Optická báseň* (*An Optical Poem*), kterou v roce 1937 vytvořil pionýr abstraktní animace Oskar Fischinger a vydalo studio Metro-Goldwyn-Mayer (MGM), představuje klíčový moment v historii vizuální hudby. Tento krátký film, dokončený krátce poté, co Fischinger uprchl před nacistickým pronásledováním a čistkami „zvrhlého umění“, není pouhým formálním experimentem, nýbrž mocnou demonstrací svobody abstraktního projevu odpíraného totalitním režimem.
 

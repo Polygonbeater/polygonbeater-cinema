@@ -1,5 +1,4 @@
 ---title: "Špičák (Kynodontas / Dogtooth, 2009): Domácí krotitelství a lingvistické vězení"
-film: "Špičák (2009)"
 year: 2009
 date: "2026-09-03"
 description: "Analytická studie průlomového snímku Yorgose Lanthimose Špičák zkoumající patologii totální rodinné kontroly, lingvistickou drezuru a dekonstrukci patriarchální moci."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "spicak-2009"
 director: "Yorgos Lanthimos"
 genres: ["Psychologické drama", "Černá komedie"]
+film: "Špičák (2009)"
 ---
 Průlomové dílo řeckého režiséra Yorgose Lanthimose *Špičák* (*Kynodontas*, v mezinárodní distribuci *Dogtooth*, 2009, stopáž 94 minut), oceněné cenou Un Certain Regard na festivalu v Cannes a nominované na Oscara za nejlepší cizojazyčný film, představuje zakládající text tzv. řecké divné vlny (*Greek Weird Wave*). Snímek přináší radikální, klinicky chladnou a absurdní sondu do patologie absolutní institucionální a rodinné kontroly. 
 

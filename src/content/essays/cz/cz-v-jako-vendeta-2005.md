@@ -1,5 +1,4 @@
 ---title: "V jako Vendeta (V for Vendetta, 2005): Fenomenologie sémiotické subverze a symbolická guerilla"
-film: "V jako Vendeta (V for Vendetta, 2005)"
 year: 2005
 date: "2026-09-03"
 description: "Analytická studie dystopického snímku Jamese McTeiguea a sester Wachowských zkoumající sémiotickou subverzi, prolomení spirály mlčení, Debordovu společnost spektáklu a masku Guye Fawkese jako neprůstřelný symbol."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "v-jako-vendeta-2005"
 director: "James McTeigue"
 genres: ["Dystopie", "Politický thriller", "Akční"]
+film: "V jako Vendeta (2005)"
 ---
 Dystopický politický thriller *V jako Vendeta* (*V for Vendetta*, 2005, stopáž 132 minut) režiséra Jamese McTeiguea, natočený podle scénáře sester Wachowských na motivy kultovního komiksového románu Alana Moorea a Davida Lloyda, představuje jeden z nejvlivnějších kinematografických textů 21. století v oblasti politické filozofie a teorie asymetrického odporu. 
 

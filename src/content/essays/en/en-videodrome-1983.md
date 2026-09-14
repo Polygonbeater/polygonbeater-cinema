@@ -1,5 +1,4 @@
 ---title: "Videodrome (1983): Ontological Decay and the New Flesh"
-film: "Videodrome (1983)"
 year: 1983
 date: "2026-09-03"
 description: "An analytical study of David Cronenberg's visionary body horror exploring the New Flesh, mass media as a pathogen, and the dissolution of biological reality."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "videodrome-1983"
 director: "David Cronenberg"
 genres: ["Body Horror", "Sci-Fi", "Cult"]
+film: "Videodrome (1983)"
 ---
 This study deconstructs David Cronenberg's visionary body horror *Videodrome* (1983, running time 87 minutes) as a radical exploration of the fusion between the human body and communication technology. The film analyzes the downfall of Max Renn, a cynical cable TV executive who, in search of extreme content, discovers a pirate broadcast filled with torture. It is revealed, however, that the signal contains a frequency that induces fatal brain tumors and hallucinations. 
 

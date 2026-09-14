@@ -1,5 +1,4 @@
 ---title: "The Straight Story (1999): David Lynch’s Most Radical Masterpiece"
-film: "The Straight Story (1999)"
 year: 1999
 date: "2026-09-03"
 description: "An analytical essay on David Lynch's tender, unconventional masterpiece about an elderly man's cross-country journey on a lawnmower."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "the-straight-story-1999"
 director: "David Lynch"
 genres: ["Biographical", "Road Movie", "Drama"]
+film: "The Straight Story (1999)"
 ---
 When you think of David Lynch, you think of nightmares, surreal corridors, and the dark underbelly of America. But in 1999, the master of the bizarre did the most "un-Lynchian" thing possible: he told the simplest, truest story ever captured on film.
 

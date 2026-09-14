@@ -1,5 +1,4 @@
 ---title: "House by the River (1950): The Aesthetics of Decay, the River of Oblivion, and Narcissistic Pathology"
-film: "House by the River (1950)"
 year: 1950
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's Gothic noir exploring environmental determinism, sociopathic narcissism, and visual naturalism."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "house-by-the-river-1950"
 director: "Fritz Lang"
 genres: ["Film Noir", "Psychological", "Gothic"]
+film: "House by the River (1950)"
 ---
 *House by the River* (88 min) marks Fritz Lang's return to European naturalism within American noir following a three-year creative hiatus. Moving away from previous psychoanalytic experiments, the film offers a raw study of crime, class arrogance, and subsequent moral erosion. Lang transforms Gothic tropes into a chilling noir that focuses radically on the perspective of a remorseless, sociopathic murderer.
 

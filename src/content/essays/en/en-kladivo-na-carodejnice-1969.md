@@ -1,5 +1,4 @@
 ---title: "Witchhammer (1969) – A Film of Ink"
-film: "Witchhammer (1969)"
 year: 1969
 date: "2026-09-02"
 description: "Otakar Vávra and Ester Krumbachová present the Inquisition not through flames, but as a quiet administrative apparatus where people die the moment they are rewritten into a protocol."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "kladivo-na-carodejnice-1969"
 director: "Otakar Vávra"
 genres: ["Historical", "Drama", "Political Allegory"]
+film: "Witchhammer (1969)"
 ---
 Witchhammer (1969, dir. Otakar Vávra) is not a film about fire. It is a film about ink. The flames come only at the end. The real violence occurs much earlier, the precise moment a pen touches paper. Vávra’s film does not present history as a cabinet of medieval horrors, but as a chillingly quiet administrative process. It reveals a terrifying reality: a person does not die when they are condemned. They die the moment they are rewritten.
 

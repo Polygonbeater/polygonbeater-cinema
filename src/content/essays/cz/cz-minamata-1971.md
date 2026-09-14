@@ -1,5 +1,4 @@
 ---title: "Minamata: Oběti a jejich svět (Minamata: Kanja-san to sono sekai, 1971): Etika angažovaného dokumentu"
-film: "Minamata (1971)"
 year: 1971
 date: "2026-09-03"
 description: "Hloubková analýza přelomového dokumentu Noriakiho Cučimota o ekologické katastrofě, korporátním zločinu společnosti Chisso a etice politicky angažované kinematografie."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "minamata-1971"
 director: "Noriaki Cučimoto"
 genres: ["Dokumentární", "Environmentální"]
+film: "Minamata (1971)"
 ---
 > *„Environmentální katastrofy jsou jen málokdy pouhými chemickými nehodami; jsou to politická a korporátní selhání.“*
 

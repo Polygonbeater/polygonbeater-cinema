@@ -1,5 +1,4 @@
 ---title: "Mother Joan of the Angels (1961) – The Mechanism of Faith"
-film: "Mother Joan of the Angels (1961)"
 year: 1961
 date: "2026-09-02"
 description: "Jerzy Kawalerowicz examines the convent as a closed machine and a dogmatic system where repressed human emotions inevitably manifest as possession."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "matka-joanna-od-andelu-1961"
 director: "Jerzy Kawalerowicz"
 genres: ["Historical", "Psychological", "Drama"]
+film: "Mother Joan of the Angels (1961)"
 ---
 Jerzy Kawalerowicz’s 1961 film is not about demons. It is about people living within a system that has created rules so tight there is no room left for what is human. The story is inspired by the real 17th-century case of Loudun, France—a complex power struggle that culminated in the trial and execution of the priest Urbain Grandier. Kawalerowicz uses this historical event, rife with political intrigue and religious fervor, simply as a framework to observe how an institution copes with crises it cannot define.
 

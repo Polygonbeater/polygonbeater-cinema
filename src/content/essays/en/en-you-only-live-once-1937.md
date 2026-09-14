@@ -1,5 +1,4 @@
 ---title: "You Only Live Once (1937): When Stigma Replaces Proof and Justice Fails"
-film: "You Only Live Once (1937)"
 year: 1937
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's tragic melodrama examining social exclusion, the mechanism of stigma, and the manufacturing of certainty without proof."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "you-only-live-once-1937"
 director: "Fritz Lang"
 genres: ["Film Noir", "Lovers on the Run", "Tragedy"]
+film: "You Only Live Once (1937)"
 ---
 *You Only Live Once* (1937) stands as Fritz Lang’s second American feature. Following the searing critique of mob mentality in *Fury* (1936), Lang shifts his focus from open crowd violence to the slow, relentless tightening of institutional pressure, public suspicion, and inescapable reputation.
 

@@ -1,5 +1,4 @@
 ---title: "Modrá gardenie (The Blue Gardenia, 1953): Mediální manipulace, technologické odcizení a amnestická past"
-film: "Modrá gardenie (The Blue Gardenia, 1953)"
 year: 1953
 date: "2026-09-03"
 description: "Analytická studie noiru Fritze Langa zkoumající bulvární mediální lynč, genderovou zranitelnost pracujících žen, telekomunikační odcizení a amnestickou past paměťového výpadku."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "the-blue-gardenia-1953"
 director: "Fritz Lang"
 genres: ["Film noir", "Krimi", "Mysteriózní"]
+film: "Modrá gardenie (1953)"
 ---
 Snímek Fritze Langa *Modrá gardenie* (*The Blue Gardenia*, 1953, stopáž 88 minut) představuje bleskový, leč chirurgicky přesný a břitký komentář k morálce poválečné americké střední třídy, k všudypřítomné paranoii a k predátorské povaze senzacechtivého tisku. Subverzí klasického noirového motivu „nevinného člověka lapeného v síti podezření“ Lang přesouvá těžiště na genderovou zranitelnost ekonomicky emancipovaných, avšak společensky bezbranných žen v moderní metropoli Los Angeles. 
 

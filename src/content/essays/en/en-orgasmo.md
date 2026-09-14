@@ -1,5 +1,4 @@
 ---title: "The Gilded Cage of Paranoia: Eros and Psychological Destruction in Lenzi's Orgasmo (1969)"
-film: "Orgasmo (1969)"
 year: 1969
 date: "2026-01-01"
 description: "An essayistic analysis of Umberto Lenzi's Orgasmo (1969), exploring psychological manipulation, eros, and the architecture of isolation."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "orgasmo"
 director: "Umberto Lenzi"
 genres: ["Giallo", "Erotic Thriller", "Psychological"]
+film: "Orgasmo (1969)"
 ---
 While the classic Italian giallo typically subordinates its structure to detective investigation and the choreography of death, Umberto Lenzi radically transforms this formula in his seminal work Orgasmo (1969), shifting the focus from the hunt for a killer to psychological manipulation. In collaboration with Carroll Baker—who in the ensuing years became one of the most prominent faces of the Italian erotic giallo—he created a work where the primary source of terror is not a knife wielded by a black-gloved hand, but intimacy itself. The film probes the terrifying tension between sexual liberation and absolute subjugation.
 

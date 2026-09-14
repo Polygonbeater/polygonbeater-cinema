@@ -1,5 +1,4 @@
 ---title: "Location Scouting in Palestine (1965): Pier Paolo Pasolini’s Search for the Sacred"
-film: "Location Scouting in Palestine (1965)"
 year: 1965
 date: "2026-09-03"
 description: "An analytical essay on Pasolini's remarkable documentary travelogue exploring faith, modernity, and landscape prior to filming The Gospel According to St. Matthew."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "sopralluoghi-in-palestina-1965"
 director: "Pier Paolo Pasolini"
 genres: ["Documentary", "Essay", "Travelogue"]
+film: "Location Scouting in Palestine (1965)"
 ---
 > *“A non-believer profoundly moved by the sacred, seeking redemption through the act of filmmaking.”*
 

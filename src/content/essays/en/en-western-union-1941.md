@@ -1,5 +1,4 @@
 ---title: "Western Union (1941): The Wire That Bound a Nation and Confined Freedom"
-film: "Western Union (1941)"
 year: 1941
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's Western examining technology as a tool of determinism, spatial geometry, and the price of civilization."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "western-union-1941"
 director: "Fritz Lang"
 genres: ["Western", "Historical", "Technological"]
+film: "Western Union (1941)"
 ---
 *Western Union* (1941) stands as Fritz Lang’s fifth American film following his flight from Nazi Germany in 1933. Transplanting his dark, fatalistic vision into the classic Western genre, Lang utilizes the American nation-building myth—the 1860s telegraph linking of the continent based on Zane Grey's novel—to reflect on how technological infrastructure radically reshapes human existence.
 

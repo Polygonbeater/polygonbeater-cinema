@@ -1,5 +1,4 @@
 ---title: "Zpráva (The Report, 2019): Byrokratická rezistence, informační asymetrie a anatomie mučení"
-film: "Zpráva (The Report, 2019)"
 year: 2019
 date: "2026-09-03"
 description: "Analytická studie procedurálního dramatu Scotta Z. Burnse zkoumající vyšetřování programu mučení CIA, zlomyslnou poslušnost, informační asymetrii a legální mechanismy institucionální rezistence."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "the-report-2019"
 director: "Scott Z. Burns"
 genres: ["Politické drama", "Thriller", "Procedurální"]
+film: "Zpráva (2019)"
 ---
 Procedurální politické drama scenáristy a režiséra Scotta Z. Burnse *Zpráva* (*The Report*, 2019, stopáž 119 minut) rekonstruuje skutečné mnohaleté vyšetřování programu tzv. „zvláštních vyšetřovacích metod“ (*Enhanced Interrogation Techniques*) provozovaného Ústřední zpravodajskou službou (CIA) po útocích z 11. září 2001. Snímek však nepřistupuje k látce jako k tradičnímu politickému thrilleru se špionážními honičkami a dramatickými konfrontacemi. 
 

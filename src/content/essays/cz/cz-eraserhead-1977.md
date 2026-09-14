@@ -1,5 +1,4 @@
 ---title: "Mazací hlava (Eraserhead, 1977): Industriální paranoia a noční můra otcovství"
-film: "Mazací hlava (1977)"
 year: 1977
 date: "2026-09-03"
 description: "Analytická studie celovečerního debutu Davida Lynche zkoumající industriální pustinu, somatickou úzkost z reprodukce a surrealistickou destrukci ega."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "eraserhead-1977"
 director: "David Lynch"
 genres: ["Body horor", "Surrealismus", "Kultovní"]
+film: "Mazací hlava (1977)"
 ---
 Celovečerní debut Davida Lynche *Mazací hlava* (*Eraserhead*, 1977, stopáž 89 minut) představuje jednu z nejradikálnějších existenciálních vizí v dějinách nezávislé americké kinematografie. Snímek zcela rezignuje na tradiční narativní kauzalitu ve prospěch čisté psychoanalytické projekce podvědomí. Lynch analyzuje trauma tiskaře Henryho Spencera, který uvízl v dystopické průmyslové krajině a je donucen čelit nezvladatelným následkům nechtěného otcovství zmutovaného, nelidského plodu.
 

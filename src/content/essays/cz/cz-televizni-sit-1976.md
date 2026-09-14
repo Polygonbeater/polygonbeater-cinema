@@ -1,5 +1,4 @@
 ---title: "Televizní síť (Network, 1976): Fenomenologie komodifikace hněvu a korporátní cynismus"
-film: "Televizní síť (Network, 1976)"
 year: 1976
 date: "2026-09-03"
 description: "Analytická studie mediální satiry Sidneyho Lumeta a scenáristy Paddyho Chayefského zkoumající monetizaci hněvu, dekonstrukci žurnalistiky, ratingovou hysterii a korporátní kosmologii."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "televizni-sit-1976"
 director: "Sidney Lumet"
 genres: ["Satira", "Mediální drama", "Černá komedie"]
+film: "Televizní síť (1976)"
 ---
 Přelomová mediální satira režiséra Sidneyho Lumeta a scenáristy Paddyho Chayefského *Televizní síť* (*Network*, 1976, stopáž 121 minut), oceněná čtyřmi Oscary, představuje jedno z nejproročtějších děl v dějinách americké kinematografie. Film, vytvořený v éře vrcholícího vlivu televizních korporací, nepředstavuje pouhou zveličenou frašku z televizního zákulisí. 
 

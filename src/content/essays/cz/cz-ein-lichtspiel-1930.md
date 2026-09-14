@@ -1,5 +1,4 @@
 ---title: "Ein Lichtspiel schwarz weiss grau (1930): Kinetická plastika a světelná mechanika Bauhausu"
-film: "Ein Lichtspiel schwarz weiss grau (1930)"
 year: 1930
 date: "2026-09-03"
 description: "Analytická studie experimentálního filmu Lászlóa Moholy-Nagye zkoumající světelně-prostorový modulátor, estetiku Bauhausu a emancipaci filmového světla."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "ein-lichtspiel-1930"
 director: "László Moholy-Nagy"
 genres: ["Experimentální", "Avantgarda", "Němý film"]
+film: "Ein Lichtspiel schwarz weiss grau (1930)"
 ---
 Krátkometrážní experimentální snímek *Ein Lichtspiel schwarz weiss grau* (*Světelná hra černobílá šedá*, 1930, stopáž 6 minut) maďarského konstruktivisty a profesora výmarského Bauhausu Lászlóa Moholy-Nagye představuje jeden z vrcholných manifestů abstraktní kinematografie. Film vznikl na přelomu 20. a 30. let v době sílícího odporu konzervativních kruhů vůči modernistickému hnutí a funguje jako radikální zkoumání možností filmového média oproštěného od literárních, divadelních a narativních berliček.
 

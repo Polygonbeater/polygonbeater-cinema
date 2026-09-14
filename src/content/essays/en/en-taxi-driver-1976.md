@@ -1,5 +1,4 @@
 ---title: "Taxi Driver (1976): Anatomy of Isolation"
-film: "Taxi Driver (1976)"
 year: 1976
 date: "2026-09-03"
 description: "An analytical study of Martin Scorsese's masterpiece exploring urban alienation, Michael Chapman's neo-noir cinematography, and the ritual of purifying violence."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "taxi-driver-1976"
 director: "Martin Scorsese"
 genres: ["Neo-noir", "Psychological", "Crime"]
+film: "Taxi Driver (1976)"
 ---
 This study deconstructs Martin Scorsese's *Taxi Driver* (1976, running time 114 min) as a seminal work of "New Hollywood," exploring the psychological collapse of a Vietnam veteran against the backdrop of a morally devastated New York City. The film analyzes the subjective perception of reality by protagonist Travis Bickle. 
 

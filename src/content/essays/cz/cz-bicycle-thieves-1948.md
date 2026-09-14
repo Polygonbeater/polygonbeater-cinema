@@ -1,5 +1,4 @@
 ---title: "Zloději kol (Ladri di biciclette, 1948): Křížová cesta v prachu ulice"
-film: "Zloději kol (Ladri di biciclette, 1948)"
 year: 1948
 date: "2026-09-03"
 description: "Analytická studie pilíře italského neorealismu zkoumající estetiku ulice, čistou horizontálu existence a cykličnost viny."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "bicycle-thieves-1948"
 director: "Vittorio De Sica"
 genres: ["Neorealismus", "Drama", "Sociální"]
+film: "Zloději kol (1948)"
 ---
 Tato studie dekonstruuje pilíř italského neorealismu *Zloději kol* (*Ladri di biciclette*, 1948, stopáž 89 minut) jako radikální sociální drama, které rezignuje na studiovou stylizaci ve prospěch syrové pravdy ulice. Snímek analyzuje tragédii dělníka Antonia, jemuž ukradené kolo – jediný prostředek k obživě – spouští řetězec zoufalství v poválečném Římě. 
 

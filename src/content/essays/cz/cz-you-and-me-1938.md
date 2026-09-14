@@ -1,5 +1,4 @@
 ---title: "Ty a já (You and Me, 1938): Obchodní dům jako stroj na normalitu a audit druhé šance"
-film: "Ty a já (1938)"
 year: 1938
 date: "2026-09-03"
 description: "Analytická studie kriminálního melodramatu Fritze Langa zkoumající resocializaci jako nepřetržitý institucionální dohled, brechtovské písně Kurta Weilla, vizuální geometrii regálů a cenzuru PCA."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "you-and-me-1938"
 director: "Fritz Lang"
 genres: ["Film noir", "Krimi", "Sociální satira"]
+film: "Ty a já (1938)"
 ---
 Kriminální melodrama Fritze Langa *Ty a já* (*You and Me*, 1938, stopáž 90 minut), natočené v produkci studia Paramount Pictures, představuje jeden z nejvíce fascinujících, neortodoxních a formálně nejodvážnějších experimentů v americké kariéře tohoto německého tvůrce. Snímek byl v době své premiéry komerčně nepochopen dobovým publikem, které očekávalo buď přímočarou gangsterku, nebo sentimentální romanci s hvězdnou Sylvií Sidneyovou a Georgem Raftem. 
 

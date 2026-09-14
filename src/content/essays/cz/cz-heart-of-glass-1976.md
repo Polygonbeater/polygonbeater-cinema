@@ -1,5 +1,4 @@
 ---title: "Srdce ze skla (Herz aus Glas, 1976): Somnambulní proroctví a rozpad řádu"
-film: "Srdce ze skla (1976)"
 year: 1976
 date: "2026-09-03"
 description: "Analytická studie vizionářského díla Wernera Herzoga zkoumající hypnózu jako estetický stav bytí, alchymii rubínového skla a apokalyptické proroctví německého romantismu."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "heart-of-glass-1976"
 director: "Werner Herzog"
 genres: ["Drama", "Mysteriózní", "Art"]
+film: "Srdce ze skla (1976)"
 ---
 Vizionářské dílo Wernera Herzoga *Srdce ze skla* (*Herz aus Glas*, 1976, stopáž 94 minut) představuje jeden z nejradikálnějších experimentů v dějinách kinematografie zkoumající rozpad lidského společenství a spirituální agónii. Příběh situovaný do izolované bavorské sklářské vesnice 18. století analyzuje propad komunity do iracionálního šílenství poté, co se smrtí mistra skláře nenávratně zanikne tajná alchymistická receptura na výrobu legendárního rubínového skla.
 

@@ -1,5 +1,4 @@
 ---title: "Nosferatu, eine Symphonie des Grauens (1922): The Shadow of the Century"
-film: "Nosferatu, eine Symphonie des Grauens (1922)"
 director: "the visionary"
 year: 1922
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/nosferatu-1922.webp"
 lang: "en"
 translationSlug: "nosferatu-1922"
 genres: ["Horror", "Silent Film", "Expressionism"]
+film: "Nosferatu, eine Symphonie des Grauens (1922)"
 ---
 *Nosferatu: A Symphony of Horror*, directed by the visionary F. W. Murnau in 1922, is the foundational text of cinematic horror. It is a masterpiece of German Expressionism, embodying the aesthetic ideals later condemned as "Degenerate Art."
 

@@ -1,5 +1,4 @@
 ---title: "Muž, který se směje (The Man Who Laughs, 1928): Anatomie věčného úsměvu a zrození tragického monstra"
-film: "Muž, který se směje (1928)"
 director: "Paul Leni"
 year: 1928
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/the-man-who-laughs-1928.webp"
 lang: "cz"
 translationSlug: "the-man-who-laughs-1928"
 genres: ["Němý film", "Gotické melodrama", "Horor"]
+film: "Muž, který se směje (1928)"
 ---
 Rok 1928 představuje soumrak a absolutní vrchol němé éry světové kinematografie. Těsně předtím, než filmové plátno ovládl synchronní zvuk, dosáhlo vizuální vyprávění mimořádné formální vyspělosti a plasticity. Snímek německého režiséra a výtvarníka Paula Leniho *Muž, který se směje* (*The Man Who Laughs*, stopáž 110 minut), natočený v produkci studia Universal podle stejnojmenného románu Victora Huga z roku 1869, je monumentálním pomníkem této přechodové fáze. 
 

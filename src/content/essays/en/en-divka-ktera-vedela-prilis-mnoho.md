@@ -1,5 +1,4 @@
 ---title: "The Primal Flash: Urban Gaze, Hitchcock, and the Birth of Giallo in Bava's The Girl Who Knew Too Much (1963)"
-film: "The Girl Who Knew Too Much (1963)"
 year: 1963
 date: "2026-01-01"
 image: "/images/essays/divka-ktera-vedela-prilis-mnoho.webp"
@@ -8,6 +7,7 @@ lang: "en"
 translationSlug: "divka-ktera-vedela-prilis-mnoho"
 director: "Mario Bava"
 genres: ["Giallo", "Mystery", "Thriller"]
+film: "The Girl Who Knew Too Much (1963)"
 ---
 In the context of Italian cinema, Mario Bava is rightly celebrated as the visual poet of gothic horror, but his black-and-white crime thriller The Girl Who Knew Too Much (1963) represents a far more radical break. While formally rooted in the tradition of Italian pulp novels with yellow covers (gialli), the film performs a creative synthesis in real time, helping to establish a brand-new cinematic genre. Bava abandons gothic sets, transferring his keen eye for light, shadow, and space into the sun-drenched yet deeply alienated streets of modern Rome.
 

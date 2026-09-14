@@ -1,5 +1,4 @@
 ---title: "Lekce Faust (Faust, 1994): Taktilní správa moci a materiální rozklad subjektivity"
-film: "Lekce Faust (Faust, 1994)"
 year: 1994
 date: "2026-09-03"
 description: "Analytická studie surrealistického mistrovského díla Jana Švankmajera zkoumající taktilní správu moci, byrokratické procedury a loutkový determinismus."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "faust-1994"
 director: "Jan Švankmajer"
 genres: ["Animovaný", "Surrealismus", "Drama"]
+film: "Lekce Faust (1994)"
 ---
 Snímek *Lekce Faust* (*Faust*, 1994, stopáž 97 minut) Jana Švankmajera představuje jednu z nejradikálnějších materiálních a filozofických rekonfigurací faustovského mýtu v moderní kinematografii. Švankmajer syntetizuje texty Johanna Wolfganga von Goetha, Christophera Marlowa, lidové loutkářské hry matěje Kopeckého i motivy z Christiana Dietricha Grabbeho. Zásadně však odmítá tradiční metafyzický patos a nahrazuje jej mechanickým světem řízeným materiálními procedurami, byrokracií a nevyhnutelnou manipulací.
 

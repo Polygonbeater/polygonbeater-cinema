@@ -1,5 +1,4 @@
 ---title: "Western Union (1941): Drát, který spojil národ a spoutal svobodu"
-film: "Western Union (1941)"
 year: 1941
 date: "2026-09-03"
 description: "Analytická studie westernu Fritze Langa zkoumající technologii jako nástroj osudového determinismu, třípásový Technicolor, geometrii prostoru a civilizační zánik starého světa."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "western-union-1941"
 director: "Fritz Lang"
 genres: ["Western", "Historický", "Technologický"]
+film: "Western Union (1941)"
 ---
 Western *Western Union* (1941, stopáž 95 minut), natočený ve studiu 20th Century Fox, představuje pátý americký snímek Fritze Langa po jeho emigraci z nacistického Německa. Lang, jenž byl hollywoodskými producenty zprvu vnímán jako výhradně městský režisér kriminálních noirových dramat a sociálních alegorií, využil adaptaci stejnojmenného dobrodružného románu Zanea Greye k vytvoření překvapivě hluboké a fatalistické studie moderní infrastruktury. 
 

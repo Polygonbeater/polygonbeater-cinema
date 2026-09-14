@@ -1,5 +1,4 @@
 ---title: "The Manchurian Candidate (1962): The Definitive Cold War Thriller"
-film: "The Manchurian Candidate (1962)"
 year: 1962
 date: "2026-09-03"
 description: "An analytical essay on John Frankenheimer's masterpiece, exploring paranoia, mind control, and the domestic subversion of American democracy."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "the-manchurian-candidate-1962"
 director: "John Frankenheimer"
 genres: ["Politický thriller", "Espionage", "Paranoid Thriller"]
+film: "The Manchurian Candidate (1962)"
 ---
 > *“Paranoia, in this case, is simply a heightened awareness of a deeper, hidden truth about power.”*
 

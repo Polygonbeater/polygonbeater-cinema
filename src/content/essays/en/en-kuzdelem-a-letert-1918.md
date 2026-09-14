@@ -1,5 +1,4 @@
 ---title: "Küzdelem a létért / Leopard (1918): Béla Lugosi's Final European Role"
-film: "The Leopard (1918)"
 year: 1918
 date: "2026-09-03"
 description: "An analytical essay on the surviving fragment of Alfréd Deésy's 1918 silent drama featuring Béla Lugosi (credited as Arisztid Olt)."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "kuzdelem-a-letert-1918"
 director: "Alfréd Deésy"
 genres: ["Silent Film", "Drama"]
+film: "The Leopard (1918)"
 ---
 > *“A precious window into the formative stage of a legendary screen presence destined to define Count Dracula.”*
 

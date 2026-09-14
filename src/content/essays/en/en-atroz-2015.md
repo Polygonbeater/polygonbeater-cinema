@@ -1,5 +1,4 @@
 ---title: "Atroz (2015): Extreme Horror, Found Footage, and the Ethics of Representing Violence"
-film: "Atroz (2015)"
 year: 2015
 date: "2026-09-03"
 description: "Analytical study of Lex Ortega's controversial Mexican cult horror film, examining nihilism, voyeurism, and the absolute limits of cinematic suffering."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "atroz-2015"
 director: "Lex Ortega"
 genres: ["Horror", "Found Footage", "Transgressive"]
+film: "Atroz (2015)"
 ---
 Lex Ortega’s *Atroz* (2015) stands as one of the most radical and uncompromising works in contemporary Latin American horror. Eschewing stylized genre thrills or playful exploitation, the film delivers an unsparing exploration of violence, nihilism, and spectator voyeurism, deliberately confronting the boundaries of cinematic representation.
 

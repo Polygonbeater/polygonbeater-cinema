@@ -1,5 +1,4 @@
 ---title: "The Holy Mountain (1973): Alchemy as Individuation and Initiatory Structure"
-film: "The Holy Mountain (1973)"
 year: 1973
 date: "2026-09-03"
 description: "A methodologically controlled analysis of Alejandro Jodorowsky’s surrealist masterpiece through the lens of ritual anthropology, Jungian alchemy, and hermetic form."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "the-holy-mountain-1973"
 director: "Alejandro Jodorowsky"
 genres: ["Surrealism", "Mystical", "Avant-garde"]
+film: "The Holy Mountain (1973)"
 ---
 The aim of this study is not to offer a speculative interpretation of *The Holy Mountain* (1973), but to provide a methodologically controlled analysis of the film as an initiatory text. The film is approached as a cultural artifact whose meaning emerges from the overall organization of a transformative process presented to the viewer.
 

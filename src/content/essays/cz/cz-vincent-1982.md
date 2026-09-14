@@ -1,5 +1,4 @@
 ---title: "Vincent (1982): Pocta gotické posedlosti a zrod burtonovské estetiky"
-film: "Vincent (1982)"
 year: 1982
 date: "2026-09-03"
 description: "Analytická studie prvního autorského snímku Tima Burtona zkoumající transfer výmarského expresionismu, verše v dikci Vincenta Price, gotickou poezii Edgara Allana Poea a stop-motion animaci."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "vincent-1982"
 director: "Tim Burton"
 genres: ["Animovaný", "Gotický", "Krátkometrážní"]
+film: "Vincent (1982)"
 ---
 Šestiminutový černobílý loutkový film *Vincent* (1982) představuje fundamentální seismografický bod v kariéře amerického vizionáře Tima Burtona. Burton, tehdy mladý a hluboce frustrovaný animátor kreslící pro studio Walt Disney roztomilá zvířátka pro film *Liška a pes*, využil skromného studiového grantu k vytvoření radikálně osobního díla[cite: 97]. 
 

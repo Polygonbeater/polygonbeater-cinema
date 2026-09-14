@@ -1,5 +1,4 @@
 ---title: "Sedmá pečeť (Det sjunde inseglet, 1957): Architektura pochybnosti a šachová partie s konečností"
-film: "Sedmá pečeť (1957)"
 year: 1957
 date: "2026-09-03"
 description: "Analytická studie Ingmara Bergmana zkoumající existenciální úzkost, expresionistický šerosvit Gunnara Fischera, šachovou partii se Smrtí a reakce na mlčení Boha."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "the-seventh-seal-1957"
 director: "Ingmar Bergman"
 genres: ["Filozofický", "Historický", "Drama"]
+film: "Sedmá pečeť (1957)"
 ---
 Filmové podobenství Ingmara Bergmana *Sedmá pečeť* (*Det sjunde inseglet*, 1957, stopáž 96 minut), oceněné Zvláštní cenou poroty na festivalu v Cannes, představuje fundamentální pilíř moderní existenciální kinematografie. Bergman přenesl hlubokou společenskou úzkost padesátých let – konkrétně stálou hrozbu totální jaderné anihilace v počínající studené válce – do středověkých kulis Švédska 14. století, pustošeného morovou epidemií černé smrti. 
 

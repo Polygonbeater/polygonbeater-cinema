@@ -1,5 +1,4 @@
 ---title: "The Monroe Doctrine (1939): From Neutrality to Economic Imperialism"
-film: "The Monroe Doctrine (1939)"
 year: 1939
 date: "2026-09-03"
 description: "An analytical essay on Warner Bros.' 1939 short film, the historical roots of the Monroe Doctrine, and its modern implications."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "the-monroe-doctrine-1939"
 director: "A. Edward Sutherland"
 genres: ["Historical", "Propaganda", "Short Film"]
+film: "The Monroe Doctrine (1939)"
 ---
 The short film *The Monroe Doctrine* (1939), produced by Warner Bros., serves as a crucial historical artifact, reflecting the United States' deeply entrenched stance of isolationism on the eve of World War II. It is not a critique, but rather a didactic and patriotic defense of America's traditional foreign policy, promoting the idea that the US should focus solely on the Western Hemisphere while avoiding the "entangling alliances" of Europe.
 

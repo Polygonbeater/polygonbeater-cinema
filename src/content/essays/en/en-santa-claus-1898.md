@@ -1,5 +1,4 @@
 ---title: "Santa Claus (1898): The Cinematic Birth of Christmas Magic"
-film: "Santa Claus (1898)"
 year: 1898
 date: "2026-09-03"
 description: "An analytical essay on George Albert Smith's pioneering 1898 silent short, exploring the very first Christmas movie and its groundbreaking use of parallel action."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "santa-claus-1898"
 director: "George Albert Smith"
 genres: ["Silent Film", "Fantasy", "Short Film"]
+film: "Santa Claus (1898)"
 ---
 Did you know that the world’s very first Christmas movie was a DIY family project? Long before Hollywood existed, British film pioneer George Albert Smith turned his home into a studio, casting his wife, Laura Bayley, as the nurse and his own children, Harold and Dorothy, as the sleeping toddlers.
 

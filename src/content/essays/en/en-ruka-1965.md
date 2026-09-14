@@ -1,5 +1,4 @@
 ---title: "The Hand (Ruka, 1965): Jiří Trnka’s Final Testament and Allegory of Freedom"
-film: "The Hand (1965)"
 year: 1965
 date: "2026-09-03"
 description: "An analytical essay on Jiří Trnka's masterwork, serving as a chilling critique of totalitarian power and an immortal defense of artistic freedom."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "ruka-1965"
 director: "Jiří Trnka"
 genres: ["Animation", "Political Allegory", "Short Film"]
+film: "The Hand (1965)"
 ---
 > *“When art becomes obedience, creation dies.”*
 

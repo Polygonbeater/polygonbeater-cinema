@@ -1,5 +1,4 @@
 ---title: "Tetsuo / 鉄男 (1989)"
-film: "Tetsuo: The Iron Man (1989)"
 director: "Shinya Tsukamoto"
 year: 1989
 date: "2026-01-01"
@@ -9,6 +8,7 @@ image: "/images/essays/tetsuo.webp"
 lang: "en"
 translationSlug: "tetsuo"
 genres: ["Cyberpunk", "Body Horror", "Cult"]
+film: "Tetsuo: The Iron Man (1989)"
 ---
 The year was 1989. Japan was at the peak of its economic bubble; the world gleamed with neon light, and technological optimism felt almost tangible. In this intoxication, Shinya Tsukamoto filmed *Tetsuo*—a work that felt like a rusty nail driven into the polished chassis of the society of the time. While the mainstream dreamed of a clean future, Tsukamoto portrayed it as a rotting junkyard.
 

@@ -1,5 +1,4 @@
 ---title: "Lokis (1970) – The Clash of Enlightenment Reason and Baltic Myth in Ethnographic Gothic"
-film: "Lokis (1970)"
 director: "Polish filmmaker Janusz"
 year: 1970
 date: "2026-09-02"
@@ -9,6 +8,7 @@ image: "/images/essays/lokis-1970.webp"
 lang: "en"
 translationSlug: "lokis-1970"
 genres: ["Gothic Horror", "Mystery", "Historical"]
+film: "Lokis (1970)"
 ---
 Lokis (1970), directed by Polish filmmaker Janusz Majewski and adapted from Prosper Mérimée's novella, represents a highly sophisticated contribution to Eastern European cinematic gothic. Set in the 19th century on a remote estate in the Lithuanian region of Samogitia, the plot centers on the classic horror motif of lycanthropy (here associated with a bear). Within the context of cultural geography and memory studies, however, the film functions primarily as a fascinating analysis of the limits of Western rationalism when confronted with deeply rooted local mythology. The film can be read as an exploration of the limits of rational understanding when confronted with cultural otherness.
 

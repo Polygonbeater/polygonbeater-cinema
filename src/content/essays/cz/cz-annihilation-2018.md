@@ -1,5 +1,4 @@
 ---title: "Zničení (Annihilation, 2018): Biologická refrakce a estetika sebedestrukce"
-film: "Zničení (Annihilation, 2018)"
 year: 2018
 date: "2026-09-03"
 description: "Analytická studie sci-fi hororu Alexe Garlanda zkoumající Záři jako biologický hranol, estetiku buněčného bujení a anihilaci lidského ega."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "annihilation-2018"
 director: "Alex Garland"
 genres: ["Sci-Fi", "Horor", "Psychologický"]
+film: "Zničení (2018)"
 ---
 Tato studie dekonstruuje sci-fi horor Alexe Garlanda *Zničení* (*Annihilation*, 2018, stopáž 115 minut) jako vizuálně opulentní meditaci o sebedestrukci. Snímek sleduje expedici pěti vědkyň do „Oblasti X“ – karanténní zóny obklopující mimozemský meteorit, v níž neplatí známé fyzikální ani biologické zákony. 
 

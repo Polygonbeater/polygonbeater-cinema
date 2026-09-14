@@ -1,5 +1,4 @@
 ---title: "Golem (Le Golem, 1936): Expresionistická tenze, mystika a předobrazy evropské tragédie"
-film: "Golem (1936)"
 year: 1936
 date: "2026-09-03"
 description: "Francouzsko-československý snímek Juliena Duviviera natočený na Barrandově funguje jako sociopolitická alegorie, vizuální studie paranoie a varovný politický manifest."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "golem-1936"
 director: "Julien Duvivier"
 genres: ["Horor", "Historický", "Fantasy"]
+film: "Golem (1936)"
 ---
 Francouzsko-československý historický film *Golem* (*Le Golem*, 1936, stopáž 95 minut), natočený v pražských ateliérech Barrandov francouzským režisérem Julienem Duvivierem, představuje jeden z nejvýznamnějších mezinárodních projektů meziválečné evropské kinematografie. Film neslouží pouze jako výpravná adaptace staropražské židovské legendy; v kontextu doby svého vzniku funguje jako mrazivá sociopolitická alegorie, vizuální studie diktátorské paranoie a naléhavé varování před nástupem fašismu v Evropě.
 

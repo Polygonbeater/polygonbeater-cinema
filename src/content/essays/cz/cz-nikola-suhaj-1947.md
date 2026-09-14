@@ -1,5 +1,4 @@
 ---title: "Nikola Šuhaj (1947): Baladická mytizace a poválečná reflexe ztraceného prostoru"
-film: "Nikola Šuhaj (1947)"
 year: 1947
 date: "2026-09-03"
 description: "Poválečná adaptace Olbrachtova románu v režii Miroslava Josefa Krňanského reflektuje Podkarpatskou Rus jako melancholickou vzpomínkovou krajinu a elegické rozloučení se ztraceným územím."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "nikola-suhaj-1947"
 director: "Miroslav Josef Krňanský"
 genres: ["Klasický český film", "Dobrodružný", "Balada"]
+film: "Nikola Šuhaj (1947)"
 ---
 Filmová adaptace slavného románu Ivana Olbrachta z roku 1947, realizovaná pod režijním vedením Miroslava Josefa Krňanského, představuje pozoruhodný přechodový moment v dějinách československé kinematografie. Zatímco meziválečné snímky (*Marijka nevěrnice*, *Hordubalové*) zachycovaly Podkarpatskou Rus jako integrální, sociálně rozporuplnou součást první Československé republiky, *Nikola Šuhaj* vznikal v poválečné atmosféře, kdy bylo toto území na základě československo-sovětské smlouvy z června 1945 definitivně postoupeno Sovětskému svazu. 
 

@@ -1,5 +1,4 @@
 ---title: "Nevěsta Frankensteinova (Bride of Frankenstein, 1935): Tragická groteska a mýtus o osamělosti"
-film: "Nevěsta Frankensteinova (1935)"
 year: 1935
 date: "2026-09-03"
 description: "Analytická studie mistrovského díla Jamese Whalea zkoumající prvek campu, humanizaci monstra, cynismus vědy a tragédii absolutní samoty."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "bride-of-frankenstein-1935"
 director: "James Whale"
 genres: ["Horor", "Sci-Fi", "Klasický Hollywood"]
+film: "Nevěsta Frankensteinova (1935)"
 ---
 James Whale ve snímku *Nevěsta Frankensteinova* (*Bride of Frankenstein*, 1935, stopáž 75 minut) nejen překonal svůj původní přelomový film z roku 1931, ale vytvořil jedno z nejoriginálnějších děl klasického hollywoodského hororu. Film opouští přímočarou gotickou šablonu a vnáší do žánru prvky černé komedie, stylizované nadsázky (camp) a hluboké existenciální melancholie. Zatímco první díl byl dramatem stvoření, *Nevěsta* je studií zoufalé touhy po společenském ukotvení a lidské blízkosti.
 

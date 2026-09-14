@@ -1,5 +1,4 @@
 ---title: "Clash by Night (1952): Přímořský naturalismus, krize maskulinity a zrod moderní ikony"
-film: "V osidlech noci (1952)"
 year: 1952
 date: "2026-09-03"
 description: "Analytická studie noiru Fritze Langa zkoumající přímořský naturalismus, krizi poválečné maskulinity, vizuální styl Nicholase Musuracy a dramatický debut Marilyn Monroe."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "clash-by-night-1952"
 director: "Fritz Lang"
 genres: ["Film noir", "Drama"]
+film: "V osidlech noci (1952)"
 ---
 Snímek *Clash by Night* (1952, stopáž 105 minut) představuje hlubinnou sociální sondu do emocionálního marasmu poválečné Ameriky. Fritz Lang využívá syrové prostředí kalifornského rybářského přístavu Monterey jako metaforu pro uvíznutí v osidlech rutiny, sociální determinace a nenaplněných tužeb. Film dekonstruuje mýtus o idylickém návratu domů a nahrazuje jej vizí domova jako klaustrofobního vězení. Výjimečnost snímku podtrhuje střet cynického vyčerpání zralé ženy v podání Barbary Stanwyck s živočišnou bezprostředností mladé Marilyn Monroe.
 

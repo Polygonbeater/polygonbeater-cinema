@@ -1,5 +1,4 @@
 ---title: "A Bůh stvořil ženu (Et Dieu… créa la femme, 1956): Brigitte Bardotová a revoluce těla"
-film: "A Bůh stvořil ženu (Et Dieu… créa la femme, 1956)"
 year: 1956
 date: "2026-09-03"
 description: "Analytická studie filmu Rogera Vadima a ohlédnutí za odkazem Brigitte Bardotové, která přepsala pravidla ženské suverenity a popkulturní ikonicity."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "brigitte-bardot-farewell"
 director: "Roger Vadim"
 genres: ["Dokumentární", "Esej"]
+film: "A Bůh stvořil ženu (1956)"
 ---
 Když v roce 1956 uvedl Roger Vadim do kin film *A Bůh stvořil ženu* (*Et Dieu… créa la femme*), nešlo pouze o premiéru nového melodramatu. Byl to seismický zlom v evropské vizuální kultuře. Brigitte Bardotová v roli Juliette neztělesňovala tradiční studiovou femme fatale ani submisivní naivku; přinesla živelnou, neomluvitelnou tělesnou svobodu, která rozbila poválečný měšťácký mravní kánon. 
 

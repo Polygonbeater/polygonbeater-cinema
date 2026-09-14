@@ -1,5 +1,4 @@
 ---title: "The Indian Tomb (1959): The Geometry of Revenge and the Architecture of Death"
-film: "The Indian Tomb (1959)"
 year: 1959
 date: "2026-09-03"
 description: "An analytical study of the conclusion to Fritz Lang's Indian Diptych, exploring the architecture of death, staging in depth, and the collapse of geometric order."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "the-indian-tomb-1959"
 director: "Fritz Lang"
 genres: ["Adventure", "Exotic", "Epic"]
+film: "The Indian Tomb (1959)"
 ---
 *The Indian Tomb* (102 min) is the rigorous conclusion to Lang’s Indian Diptych. Lang brings his critique of power and technocracy to a boiling point. 
 

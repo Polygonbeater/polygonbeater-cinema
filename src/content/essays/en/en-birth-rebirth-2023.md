@@ -1,5 +1,4 @@
 ---title: "Birth/Rebirth (2023): Biological Resurrection and Ethical Zero"
-film: "Birth/Rebirth (2023)"
 year: 2023
 date: "2026-09-03"
 description: "An analytical study of Laura Moss's independent horror exploring reanimation as a technical process, clinical framing, and the deconstruction of maternal instinct."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "birth-rebirth-2023"
 director: "Laura Moss"
 genres: ["Horror", "Sci-Fi", "Psychological"]
+film: "Birth/Rebirth (2023)"
 ---
 This study deconstructs the prestigious independent horror *Birth/Rebirth* (2023, running time 94 minutes) as a radical and highly serious redefinition of the resurrection myth. The film analyzes the clash between two women: Rose, a pathologist developing a serum to revive dead tissue in her apartment, and Celie, a nurse whose daughter suddenly dies and becomes the subject of Rose's experiment. 
 

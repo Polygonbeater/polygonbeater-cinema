@@ -1,5 +1,4 @@
 ---title: "The Lodger (1927) – The Genesis of Hitchcockian Suspense"
-film: "The Lodger (1927)"
 year: 1927
 date: "2026-09-02"
 description: "Alfred Hitchcock lays the groundwork for the modern thriller through themes of paranoia, voyeurism, and expressionist visual anxiety in 1920s London."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "the-lodger-1927"
 director: "Alfred Hitchcock"
 genres: ["Silent Film", "Thriller", "Crime"]
+film: "The Lodger (1927)"
 ---
 With The Lodger (1927), Alfred Hitchcock not only established one of the foundational works of the British thriller but instilled cinema with its fundamental "visual anxiety." Although a silent film, in retrospect, we can clearly recognize in it the genetic code of his later work—the motif of the innocent man on the run, a fascination with voyeurism, and the fear of the unknown stranger disrupting the sanctity of the home. The Lodger is more than a detective story inspired by the Jack the Ripper myth; it is a precisely constructed study of paranoia that transforms London into a labyrinth of shadows.
 

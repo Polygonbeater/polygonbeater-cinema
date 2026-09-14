@@ -1,5 +1,4 @@
 ---title: "Cikáni (1921): Mýtus absolutní svobody a romantická projekce osudu"
-film: "Cikáni (1921)"
 year: 1921
 date: "2026-09-03"
 description: "Analytická studie němého filmu Karla Antona podle novely Karla Hynka Máchy zkoumající romantický archetyp vyhnanství, virážovaný prostor a počátky české filmové epiky."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "cikani-1921"
 director: "Karel Anton"
 genres: ["Němý film", "Drama", "Klasický český film"]
+film: "Cikáni (1921)"
 ---
 Němý film *Cikáni* (1921, stopáž 88 minut), který natočil režisér Karel Anton na motivy stejnojmenné novely Karla Hynka Máchy, představuje jeden ze základních pilířů rané československé kinematografie. Antonův snímek je dokladem toho, jak středoevropský romantismus 19. a počátku 20. století konstruoval mýtus o romském společenství. Film neusiluje o etnografickou věrnost; naopak využívá romské postavy jako projekční plátno pro existenciální úzkost, touhu po absolutní autonomii a tragický determinismus lidského osudu.
 

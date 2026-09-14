@@ -1,5 +1,4 @@
 ---title: "The Seventh Seal (1957): Architecture of Doubt"
-film: "The Seventh Seal (1957)"
 year: 1957
 date: "2026-09-03"
 description: "An analytical study of Ingmar Bergman's masterpiece exploring existential angst, Gunnar Fischer's chiaroscuro, the chess game with Death, and responses to the silence of God."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "the-seventh-seal-1957"
 director: "Ingmar Bergman"
 genres: ["Philosophical", "Historical", "Drama"]
+film: "The Seventh Seal (1957)"
 ---
 This study analyzes Ingmar Bergman's *The Seventh Seal* (1957, running time 96 min) as a fundamental work of existential cinema. By transplanting the anxieties of the Cold War—specifically the threat of nuclear annihilation—into the setting of a 14th-century Europe devastated by the plague, Bergman created a timeless allegory about the search for meaning in the face of absolute finality. This allegory directly mirrors the 1950s fears of total destruction. 
 

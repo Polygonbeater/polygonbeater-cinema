@@ -1,5 +1,4 @@
 ---title: "Scarlet Street (1945): Subject Deconstruction, Structural Emasculation, and the Auditory Trajectory of Guilt"
-film: "Scarlet Street (1945)"
 year: 1945
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's film noir exploring subject deconstruction, the commodification of identity, and Michel Chion's sound theory."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "scarlet-street-1945"
 director: "Fritz Lang"
 genres: ["Film Noir", "Crime", "Drama"]
+film: "Scarlet Street (1945)"
 ---
 *Scarlet Street* (102 min) represents a radical peak in Fritz Lang's American career. In contrast to *The Woman in the Window* (1944), which offers an escape through dream logic, *Scarlet Street* firmly closes this narrative escape valve and establishes absolute fatalism. This study explores the early post-war destabilization of gender and social roles while utilizing Michel Chion’s sound theory to analyze the psychic disintegration of the protagonist.
 

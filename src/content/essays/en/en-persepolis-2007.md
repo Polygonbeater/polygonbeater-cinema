@@ -1,5 +1,4 @@
 ---title: "Persepolis (2007): The Shattered Mirror of Iranian Memory"
-film: "Persepolis (2007)"
 year: 2007
 date: "2026-09-03"
 description: "An analytical study of Marjane Satrapi's animated film exploring the geometry of oppression, Foucault's theory of discipline, and exilic cinema."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "persepolis-2007"
 director: "Marjane Satrapi, Vincent Paronnaud"
 genres: ["Animation", "Biographical", "Historical"]
+film: "Persepolis (2007)"
 ---
 This study deconstructs the film *Persepolis* (2007) as a model of a permanent repressive mechanism. While ideologies change, the "Machine" of power remains constant, fueled by external violence and internal fear. 
 

@@ -1,5 +1,4 @@
 ---title: "Krev a černá krajka (Sei donne per l'assassino, 1964): Chromatická anatomie smrti"
-film: "Krev a černá krajka (1964)"
 year: 1964
 date: "2026-09-03"
 description: "Esejistická studie přelomového mistrovského díla Maria Bavy zkoumající barevnou stylizaci, panoptikum světa vysoké módy, fetišizaci vraždy a zrod moderního slasheru."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "krev-a-cerna-krajka"
 director: "Mario Bava"
 genres: ["Giallo", "Horor", "Krimi"]
+film: "Krev a černá krajka (1964)"
 ---
 Když Mario Bava v roce 1964 uvedl do kin film *Krev a černá krajka* (*Sei donne per l'assassino*, stopáž 88 minut), neučinil pouhý krok stranou od své dřívější černobílé gotické tvorby; provedl radikální estetickou revoluci, která kodifikovala italské filmové giallo a vytvořila fundamentální vizuální i narativní předlohu pro pozdější americký slasher. Bava vzal kostru klasické detektivky a bezohledně ji podřídil tyranii čisté formy. Ve světě luxusního římského módního salonu, kde se vysoká krejčovina prolíná s chladnokrevnou likvidací nepohodlných svědků, se sytá malířská chromatika a lidská krev stávají rovnocennými výtvarnými médii.
 

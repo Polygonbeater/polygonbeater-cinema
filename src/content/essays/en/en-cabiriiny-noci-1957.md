@@ -1,5 +1,4 @@
 ---title: "Clinical Study of Hope: Nights of Cabiria as a Manual for Preserving Integrity in an Era of Cynicism"
-film: "Nights of Cabiria (1957)"
 year: 1957
 date: "2026-09-02"
 description: "A psychological analysis of Fellini's masterwork exploring the mechanisms of trust exploitation, the search for a savior, and the final reclamation of human sovereignty."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "cabiriiny-noci-1957"
 director: "Federico Fellini"
 genres: ["Drama", "Italian Neorealism"]
+film: "Nights of Cabiria (1957)"
 ---
 In 1957, Federico Fellini did not merely create a cinematic story about a Roman prostitute. *Nights of Cabiria* can be read as a precise psychological autopsy of human trust and the mechanisms through which this trust is systematically exploited. If we abandon traditional film studies categorization and view the picture through the lens of power and manipulation analysis, we obtain an uncompromising text on how easily an individual surrenders their sovereignty in exchange for the illusion of safety.
 

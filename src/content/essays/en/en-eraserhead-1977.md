@@ -1,5 +1,4 @@
 ---title: "Eraserhead (1977): The Absolute Bottom of the Subconscious"
-film: "Eraserhead (1977)"
 year: 1977
 date: "2026-09-03"
 description: "An analytical study of David Lynch's feature debut exploring the industrial wasteland, fear of reproduction, and the surreal destruction of biological processes."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "eraserhead-1977"
 director: "David Lynch"
 genres: ["Body Horror", "Surrealism", "Cult"]
+film: "Eraserhead (1977)"
 ---
 This study deconstructs David Lynch's feature debut *Eraserhead* (1977, running time 89 minutes) as the ultimate cinematic nightmare, resigning from traditional narrative in favor of pure psychoanalytic projection. The film analyzes the story of Henry Spencer, a printer trapped in a dystopian industrial city, forced to face the consequences of the unwanted fatherhood of a mutated, non-human fetus. 
 

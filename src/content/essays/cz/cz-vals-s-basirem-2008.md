@@ -1,5 +1,4 @@
 ---title: "Valčík s Bašírem (Vals Im Bashir, 2008): Animovaná archeologie paměti a trauma Sabry a Šatíly"
-film: "Valčík s Bašírem (2008)"
 year: 2008
 date: "2026-09-03"
 description: "Hloubková analýza animovaného dokumentu Ariho Folmana propojujícího psychologickou disociaci, kolektivní vinu libanonské války roku 1982, digitální cut-out animaci a šok reálného archivu."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "vals-s-basirem-2008"
 director: "Ari Folman"
 genres: ["Animovaný dokument", "Válečný", "Psychologický"]
+film: "Valčík s Bašírem (2008)"
 ---
 > *„Jak vzpomenout na něco, co je příliš bolestné na to, abychom tomu čelili?“*
 

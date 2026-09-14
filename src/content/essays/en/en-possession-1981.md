@@ -1,5 +1,4 @@
 ---title: "Possession (1981): The Anatomy of Hysteria and the Materialization of Pain"
-film: "Possession (1981)"
 year: 1981
 date: "2026-09-03"
 description: "An analytical study of Andrzej Żuławski's psychological horror exploring marital destruction, the corporeality of divorce, and the birth of a monster from an emotional vacuum."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "possession-1981"
 director: "Andrzej Żuławski"
 genres: ["Body Horror", "Psychological", "Surrealism"]
+film: "Possession (1981)"
 ---
 This study deconstructs Andrzej Żuławski's psychological horror *Possession* (1981, running time 124 minutes) as the most extreme cinematic portrayal of the breakdown of a marital relationship. The film analyzes the destruction of Mark and Anna's union, which escalates from verbal arguments to physical self-mutilation and the creation of a Lovecraftian monster. 
 

@@ -1,5 +1,4 @@
 ---title: "The Invitation (2015): The Anatomy of Gaslighting and Social Resistance"
-film: "The Invitation (2015)"
 year: 2015
 date: "2026-09-02"
 description: "An analytical study deconstructing Karyn Kusama’s psychological thriller The Invitation as a manual for recognizing gaslighting, exploring the dangers of politeness and the pathology of unprocessed grief."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "pozvani-2015"
 director: "Karyn Kusama"
 genres: ["Psychological Thriller", "Mystery"]
+film: "The Invitation (2015)"
 ---
 This study deconstructs Karyn Kusama’s psychological thriller *The Invitation* (2015, running time 100 minutes) as a perfectly constructed manual for recognizing sophisticated emotional manipulation. The film, which the creators explicitly conceived as a „horror of manners“ exploring the „dangers of being polite,“ follows Will, who is invited to a dinner party hosted by his ex-wife. Here, he alone senses a creeping danger beneath the mask of hospitality. Methodologically, the text focuses on the fusion of the thematic phenomenon of „gaslighting“ and the film's technical precision. The film does not deal with classic fanaticism; rather, it explores the horror of unprocessed trauma, depicting cultism as a perverted form of grief relief. The film illustrates that in the fight against this toxic positivity and social conformity, our strongest survival tool is the very instinct that compels us to discard politeness and act.
 

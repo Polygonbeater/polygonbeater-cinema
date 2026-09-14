@@ -1,5 +1,4 @@
 ---title: "Clash by Night (1952): Coastal Naturalism, Masculinity in Crisis, and the Birth of a Modern Icon"
-film: "Clash by Night (1952)"
 year: 1952
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's drama exploring coastal naturalism, post-war masculinity in crisis, Nicholas Musuraca's cinematography, and Marilyn Monroe's dramatic breakthrough."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "clash-by-night-1952"
 director: "Fritz Lang"
 genres: ["Film Noir", "Drama"]
+film: "Clash by Night (1952)"
 ---
 *Clash by Night* (105 min) is a profound exploration of the social and emotional malaise of post-war America. Lang utilizes the setting of the Monterey fishing port as a metaphor for being trapped in the nets of routine and unfulfilled ambitions. The film deconstructs the myth of the happy homecoming, replacing it with a vision of home as a prison. The drama is marked by the collision of Barbara Stanwyck’s cynicism and the burgeoning stardom of Marilyn Monroe.
 

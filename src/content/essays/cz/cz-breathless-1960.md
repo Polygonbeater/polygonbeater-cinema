@@ -1,5 +1,4 @@
 ---title: "U konce s dechem (À bout de souffle, 1960): Rychlost povrchu a smrt v běhu"
-film: "U konce s dechem (À bout de souffle, 1960)"
 year: 1960
 date: "2026-09-03"
 description: "Analytická studie kultovního snímku francouzské nové vlny zkoumající skokový střih, čistou horizontálu stylu a dekonstrukci filmového času."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "breathless-1960"
 director: "Jean-Luc Godard"
 genres: ["Nová vlna", "Krimi", "Drama"]
+film: "U konce s dechem (1960)"
 ---
 Tato studie dekonstruuje manifest francouzské nové vlny *U konce s dechem* (*À bout de souffle*, 1960, stopáž 90 minut) jako radikální přetržení dosavadní filmové gramatiky. Snímek analyzuje příběh drobného zlodějíčka Michela Poiccarda, jehož existence je zredukována na neustálý pohyb vpřed. 
 

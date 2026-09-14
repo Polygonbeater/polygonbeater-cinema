@@ -1,5 +1,4 @@
 ---title: "Titane (2021): The Fusion of Flesh and Metal and the Horror of Unconditional Love"
-film: "Titane (2021)"
 year: 2021
 date: "2026-09-02"
 description: "An analytical study deconstructing Julia Ducournau’s transgressive body horror Titane as a radical exploration of post-humanism, machine fetishization, and the birth of the New Flesh."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "titane-2021"
 director: "Julia Ducournau"
 genres: ["Body Horror", "Transgressive", "Drama"]
+film: "Titane (2021)"
 ---
 This study deconstructs Julia Ducournau’s transgressive body horror *Titane* (2021, running time 108 minutes) as a radical exploration of post-humanism and the boundaries of human identity. The film follows Alexia, a serial killer with a titanium plate in her skull, who becomes pregnant after a sexual encounter with a car and assumes the identity of a long-lost son of an aging firefighter to escape the police. Methodologically, the text focuses on the fetishization of machines, the somatic terror of body modification, the deconstruction of toxic masculinity, and the concept of radical, unconditional empathy. The film illustrates the horror of one's own corporality while simultaneously finding profound, almost religious catharsis in the absolute acceptance of monstrosity.
 

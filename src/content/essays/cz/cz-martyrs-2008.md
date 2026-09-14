@@ -1,5 +1,4 @@
 ---title: "Mučedníci (2008): Anatomie bolesti a metafyzika utrpení"
-film: "Mučedníci (2008)"
 director: "Pascal Laugier"
 year: 2008
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/martyrs-2008.webp"
 lang: "cz"
 translationSlug: "martyrs-2008"
 genres: ["Horor", "Transgresivní", "Psychologický"]
+film: "Mučedníci (2008)"
 ---
 Tato studie dekonstruuje stěžejní dílo „nového francouzského extremismu“, film *Martyrs* (2008, stopáž 99 minut), jako radikální filozofický traktát o hledání transcendence skrze systematické mučení. Snímek analyzuje příběh Lucie a Anny, dvou mladých žen pronásledovaných tajemným společenstvím, které se snaží odhalit tajemství posmrtného života. 
 

@@ -1,5 +1,4 @@
 ---title: "Beyond a Reasonable Doubt (1956): Lang’s Final American Verdict"
-film: "Beyond a Reasonable Doubt (1956)"
 year: 1956
 date: "2026-09-03"
 description: "An analytical study of Fritz Lang's final American film, examining the clinical deconstruction of legal justice, high-key sterility, and narrative subversion."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "beyond-a-reasonable-doubt-1956"
 director: "Fritz Lang"
 genres: ["Film Noir", "Courtroom Drama", "Crime"]
+film: "Beyond a Reasonable Doubt (1956)"
 ---
 Fritz Lang’s final American film (80 min) is a clinical, almost mathematical deconstruction of the legal system and human nature. It is a noir stripped of its romantic shadows, replacing them with a blinding, flat light that reveals a terrifying moral void.
 

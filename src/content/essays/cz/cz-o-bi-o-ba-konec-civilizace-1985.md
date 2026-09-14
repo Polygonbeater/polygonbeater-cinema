@@ -1,5 +1,4 @@
 ---title: "O-Bi, O-Ba: Konec civilizace (1985): Architektura vykonstruované naděje"
-film: "O-Bi, O-Ba: Konec civilizace (1985)"
 year: 1985
 date: "2026-09-03"
 description: "Analytická studie postapokalyptického sci-fi Piotra Szulkina zkoumající mýtus o záchranné Arše, rozklad podzemní Kopule, sociální entropii a byrokracii zmaru."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "o-bi-o-ba-konec-civilizace-1985"
 director: "Piotr Szulkin"
 genres: ["Sci-Fi", "Postapokalyptický", "Dystopie"]
+film: "O-Bi, O-Ba: Konec civilizace (1985)"
 ---
 Snímek Piotra Szulkina *O-Bi, O-Ba: Konec civilizace* (*O-bi, O-ba: Koniec cywilizacji*, 1985, stopáž 88 minut), třetí část jeho volné sci-fi tetralogie, radikálně dekonstruuje tradiční schémata postapokalyptického žánru. Szulkin neinscenuje hrdinský boj o přežití v nukleární pustině; zaměřuje se na terminální stádium lidské společnosti uzavřené v rozpadajícím se podzemním betonovém bunkru (Kopuli) po globální jaderné katastrofě. 
 

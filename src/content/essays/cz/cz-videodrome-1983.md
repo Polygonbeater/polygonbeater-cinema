@@ -1,5 +1,4 @@
 ---title: "Videodrome (1983): Ontologický rozpad, mediální patogen a zrození Nového masa"
-film: "Videodrome (1983)"
 year: 1983
 date: "2026-09-03"
 description: "Analytická studie vizionářského body hororu Davida Cronenberga zkoumající koncept Nového masa (New Flesh), McLuhanovu mediální teorii, praktické efekty Ricka Bakera a masmédium jako biologický patogen."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "videodrome-1983"
 director: "David Cronenberg"
 genres: ["Body horor", "Sci-Fi", "Kultovní"]
+film: "Videodrome (1983)"
 ---
 Vizionářský tělesný horor kanadského režiséra a scenáristy Davida Cronenberga *Videodrome* (1983, stopáž 87 minut) představuje jeden z nejzásadnějších filozofických a formálních mezníků světové science fiction. Cronenberg v něm překročil hranice běžného žánrového filmu o televizním vysílání a vytvořil radikální ontologickou studii o zániku biologické integrity člověka pod náporem elektronických masmédií. 
 

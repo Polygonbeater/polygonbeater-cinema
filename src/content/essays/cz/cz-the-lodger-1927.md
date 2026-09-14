@@ -1,5 +1,4 @@
 ---title: "Příšerný host (The Lodger, 1927): Zrození hitchcockovského napětí a vizuální úzkost"
-film: "Příšerný host (1927)"
 year: 1927
 date: "2026-09-03"
 description: "Analytická studie zakladatelského díla Alfreda Hitchcocka zkoumající expresionistickou londýnskou mlhu, slavný trik se skleněnou podlahou, voyeurismus a archetyp falešně obviněného hrdiny."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "the-lodger-1927"
 director: "Alfred Hitchcock"
 genres: ["Němý film", "Thriller", "Krimi"]
+film: "Příšerný host (1927)"
 ---
 Snímek Alfreda Hitchcocka *Příšerný host* (*The Lodger: A Story of the London Fog*, 1927, stopáž 90 minut), adaptující román Marie Belloc Lowndesové z roku 1913, představuje klíčový zakládající kámen moderního psychologického thrilleru a první skutečně „hitchcockovský“ film. Sám Hitchcock v slavných rozhovorech s Françoisem Truffautem označil tento snímek za své první autentické dílo, v němž poprvé nalezl svůj nezaměnitelný autorský styl. 
 

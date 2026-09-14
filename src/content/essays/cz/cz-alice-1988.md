@@ -1,5 +1,4 @@
 ---title: "Něco z Alenky (Alice, 1988): Hmatový surrealismus a noční můra podvědomí"
-film: "Něco z Alenky (1988)"
 year: 1988
 date: "2026-09-03"
 description: "Hloubková analýza loutkového filmu Jana Švankmajera, který proměnil Lewisovu Alenku v mrazivou exkurzi do světa textur, rozkladu a totalitní moci."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "alice-1988"
 director: "Jan Švankmajer"
 genres: ["Animovaný", "Surrealismus", "Horor"]
+film: "Něco z Alenky (1988)"
 ---
 > *„Sen, který můžete cítit pod nehty.“*
 

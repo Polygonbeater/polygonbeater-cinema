@@ -1,5 +1,4 @@
 ---title: "Lāčplēsis (1930): Mytologický monument jako pilíř národní identity"
-film: "Lāčplēsis (1930)"
 director: "Aleksandrs Rusteiķis"
 year: 1930
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/lacplesis-1930.webp"
 lang: "cz"
 translationSlug: "lacplesis-1930"
 genres: ["Němý film", "Epos", "Historický"]
+film: "Lāčplēsis (1930)"
 ---
 Lotyšský němý velkofilm *Lāčplēsis* (*Trhač medvědů*, 1930, stopáž 100 minut) v režii Aleksandrse Rusteiķise představuje v kontextu meziválečného Pobaltí naprosto ojedinělý pokus o syntézu národního mytologického eposu a dramatických dějin dvacátého století. Snímek, realizovaný u příležitosti desátého výročí osvobození Rigy za přímé podpory lotyšského ministerstva obrany a armády, nevznikl jako běžná komerční podívaná. 
 

@@ -1,5 +1,4 @@
 ---title: "Pan Twardowski (1936): Magie, pýcha a sarmatský faustovský mýtus"
-film: "Pan Twardowski (1936)"
 year: 1936
 date: "2026-09-03"
 description: "Analytická studie polského historického velkofilmu Henryka Szara zkoumající sarmatský furiantismus, adaptaci faustovské legendy, trikovou seanci s Barbarou Radziwiłłównou a lidovou ironii kletby."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "pan-twardowski-1936"
 director: "Henryk Szaro"
 genres: ["Fantasy", "Historický", "Folklor"]
+film: "Pan Twardowski (1936)"
 ---
 Když polský režisér Henryk Szaro v roce 1936 uvedl do kin monumentální historický epos *Pan Twardowski* (stopáž 104 minut), nešlo o běžné kostýmní drama. Projekt, natočený ve varšavských ateliérech Falanga za mimořádných produkčních nákladů, představoval demonstraci technické i výpravné suverenity meziválečného polského filmu. Szaro vzal prastarou národní legendu o krakovském alchymistovi a čaroději ze 16. století – literárně kodifikovanou Józefem Ignacym Kraszewským a Adamem Mickiewiczem – a přetavil ji ve velkolepou fresku, v níž se renesanční okultismus snoubí s polským sarmatským furiantstvím a barokním folklórem.
 

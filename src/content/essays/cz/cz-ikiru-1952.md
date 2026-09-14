@@ -1,5 +1,4 @@
 ---title: "Žít (Ikiru, 1952): Probuzení v bodě nula"
-film: "Žít (1952)"
 year: 1952
 date: "2026-09-03"
 description: "Analytická studie humanistického mistrovského díla Akiry Kurosawy zkoumající vzpouru proti byrokratickému mrtvému času a hledání smyslu lidské existence."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "ikiru-1952"
 director: "Akira Kurosawa"
 genres: ["Drama", "Filozofický"]
+film: "Žít (1952)"
 ---
 Tato studie dekonstruuje humanistické mistrovské dílo Akiry Kurosawy *Žít* (*Ikiru*, 1952, stopáž 143 minut) jako radikální zkoumání byrokratické paralýzy a hledání smyslu lidské existence tváří v tvář smrti. Snímek analyzuje proměnu Kándžiho Watanabeho, stárnoucího úředníka, který po diagnóze rakoviny žaludku procitne z třicetiletého kómatu mechanické rutiny. 
 

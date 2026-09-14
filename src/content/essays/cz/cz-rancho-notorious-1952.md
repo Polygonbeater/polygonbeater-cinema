@@ -1,5 +1,4 @@
 ---title: "Rancho Notorious (1952): Balada o nenávisti, vraždě a pomstě"
-film: "Rancho Notorious (1952)"
 year: 1952
 date: "2026-09-03"
 description: "Analytická studie stylizovaného westernového noiru Fritze Langa zkoumající žánrovou hybriditu, baladickou píseň Chuck-a-Luck, ateliérový Technicolor a morální rozklad pomsty."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "rancho-notorious-1952"
 director: "Fritz Lang"
 genres: ["Western", "Film noir", "Drama"]
+film: "Rancho Notorious (1952)"
 ---
 Snímek *Rancho Notorious* (1952, stopáž 89 minut) představuje nejvíce stylizovaný western v americké kariéře Fritze Langa a zároveň jeho druhé hloubkové setkání s technologií třípásového Technicoloru. Pod nánosem žánrových propriet divokého západu (přestřelky, koně, saloony) Lang zkonstruoval čistokrevný film noir. 
 

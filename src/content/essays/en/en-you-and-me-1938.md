@@ -1,5 +1,4 @@
 ---title: "You and Me (1938): The Department Store as a Normalcy Machine and the Second-Chance Audit"
-film: "You and Me (1938)"
 year: 1938
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's crime melodrama examining resocialization as continuous surveillance, Kurt Weill's Brechtian songs, and censorship pressure."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "you-and-me-1938"
 director: "Fritz Lang"
 genres: ["Film Noir", "Crime", "Social Satire"]
+film: "You and Me (1938)"
 ---
 *You and Me* (1938), produced at Paramount Pictures, stands as one of Fritz Lang’s most unorthodox and sharply critical American films. While less commercially prominent than his major noirs, it offers a chilling diagnosis of a society where a "second chance" is immediately converted into a permanent audit and systemic test.
 

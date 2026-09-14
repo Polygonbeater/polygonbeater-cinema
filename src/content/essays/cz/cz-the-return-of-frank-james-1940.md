@@ -1,5 +1,4 @@
 ---title: "Návrat Franka Jamese (The Return of Frank James, 1940): Dvouleté ticho, barevná revoluce a spravedlnost mimo zákon"
-film: "Návrat Franka Jamese (The Return of Frank James, 1940)"
 year: 1940
 date: "2026-09-03"
 description: "Analytická studie prvního barevného filmu Fritze Langa zkoumající jeho návrat po tvůrčí krizi, debut v třípásovém Technicoloru, etiku pomsty a selhání psaného zákona."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "the-return-of-frank-james-1940"
 director: "Fritz Lang"
 genres: ["Western", "Dobrodružný", "Krimi"]
+film: "Návrat Franka Jamese (1940)"
 ---
 Western *Návrat Franka Jamese* (*The Return of Frank James*, 1940, stopáž 92 minut) v produkci studia 20th Century Fox představuje v americké kariéře Fritze Langa klíčový historický i tvůrčí předěl. Po komerčním a kritickém propadu experimentálního sociálního dramatu *You and Me* (1938) se německý emigrant ocitl v nucené dvouleté tvůrčí odmlce, během níž byl hollywoodskými producenty považován za „nepraktického, autoritativního a rozpočtově nespolehlivého génia“. 
 

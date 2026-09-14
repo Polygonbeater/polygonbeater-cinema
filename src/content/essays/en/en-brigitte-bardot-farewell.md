@@ -1,5 +1,4 @@
 ---title: "And God Created a Legend: Farewell to Brigitte Bardot (1934–2025)"
-film: "And God Created Woman (1956)"
 year: 1956
 date: "2026-09-03"
 description: "An analytical tribute to Brigitte Bardot, exploring her cinematic revolution in 'And God Created Woman' and her courageous transition to animal rights activism."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "brigitte-bardot-farewell"
 director: "Roger Vadim"
 genres: ["Documentary", "Essay"]
+film: "And God Created Woman (1956)"
 ---
 Today, the curtain falls on a woman who wasn't just a movie star—she was a cultural earthquake. Brigitte Bardot has passed away at 91, marking the true end of an era for world cinema.
 

@@ -1,5 +1,4 @@
 ---title: "The Wolf Man (1941): Expressionism and the Tragedy of Fate"
-film: "The Wolf Man (1941)"
 year: 1941
 date: "2026-09-03"
 description: "An analytical essay on Universal's classic horror film, examining Curt Siodmak's script, German Expressionist influence, and the tragedy of fate."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "the-wolf-man-1941"
 director: "George Waggner"
 genres: ["Klasický horor", "Gothic", "Mytologický"]
+film: "The Wolf Man (1941)"
 ---
 *The Wolf Man* (1941), produced by Universal Pictures, is one of the most significant films in the Universal Monsters canon. Its profound impact on the werewolf mythos and its deep-seated European aesthetic are largely attributable to its screenwriter, the German émigré Curt Siodmak.
 

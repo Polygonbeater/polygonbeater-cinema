@@ -1,5 +1,4 @@
 ---title: "Vertigo (1958): Anatomy of Obsession"
-film: "Vertigo (1958)"
 year: 1958
 date: "2026-09-03"
 description: "An analytical study of Alfred Hitchcock's masterpiece exploring the power of the image, the male gaze, the spiral motif, and the dolly zoom effect."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "vertigo-1958"
 director: "Alfred Hitchcock"
 genres: ["Psychological Thriller", "Mystery", "Neo-noir"]
+film: "Vertigo (1958)"
 ---
 This study deconstructs Alfred Hitchcock's masterpiece *Vertigo* (1958, running time 128 minutes) as a radical exploration of psychological obsession and manipulation. The film analyzes the destructive power of the "male gaze" through the character of detective Scottie Ferguson, who attempts to remold a living woman into the image of a dead ideal. 
 

@@ -1,5 +1,4 @@
 ---title: "Metropolis (1927): Architecture of Power, the Geometry of Oppression, and the Human Machine"
-film: "Metropolis (1927)"
 year: 1927
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's futuristic epic, examining Fordism, vertical hierarchy, Rotwang's mystical science, and the Schüfftan process."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "metropolis-1927"
 director: "Fritz Lang"
 genres: ["Sci-Fi", "Silent Film", "Dystopia"]
+film: "Metropolis (1927)"
 ---
 Fritz Lang’s futuristic epic *Metropolis* (1927), scripted by Thea von Harbou, stands as the ultimate visual and ideological manifesto of the Weimar Republic. Born out of the "Golden Twenties," the film reflects both rapid industrial modernization and deep cultural anxieties surrounding Taylorism, Fordism, and the mechanization of human labor.
 

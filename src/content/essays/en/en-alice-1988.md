@@ -1,5 +1,4 @@
 ---title: "Alice (Něco z Alenky, 1988): Tactile Surrealism and Subconscious Nightmare"
-film: "Alice (1988)"
 year: 1988
 date: "2026-09-03"
 description: "An analytical essay on Jan Švankmajer's masterpiece, transforming Carroll's classic into a chilling exploration of texture, decay, and institutional control."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "alice-1988"
 director: "Jan Švankmajer"
 genres: ["Animation", "Surrealism", "Horror"]
+film: "Alice (1988)"
 ---
 > *“A dream you can feel under your fingernails.”*
 

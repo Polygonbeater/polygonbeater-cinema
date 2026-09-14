@@ -1,5 +1,4 @@
 ---title: "Onibaba (1964): Material Horror and the Collapse of the Social Imaginary"
-film: "Onibaba (1964)"
 year: 1964
 date: "2026-09-03"
 description: "An analytical study of Kaneto Shindō’s Onibaba (1964), examining material horror, the aesthetics of entrapment, and the dissolution of the social order."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "onibaba-1964"
 director: "Kaneto Šindó"
 genres: ["Horror", "Historical", "Japonský film"]
+film: "Onibaba (1964)"
 ---
 The 1964 release of *Onibaba* marks a decisive rupture in postwar Japanese cinema. At a moment when Japan was publicly projecting an image of technological modernity—symbolically crystallized by the Tokyo Olympics—Kaneto Shindō turned backward to the fourteenth century to excavate what may be described as a materialist counter-history (Richie 2005; Desser 1988). Rejecting the heroic teleology of classical *jidaigeki*, Shindō dismantles feudal mythology to reveal history not as narrative progression but as a cyclical crisis of the body: hunger, sex, violence, and death endlessly reproduced (Standish 2000).
 

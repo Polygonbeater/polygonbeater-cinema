@@ -1,5 +1,4 @@
 ---title: "Persona (1966): The Dissolution of the Mask"
-film: "Persona (1966)"
 year: 1966
 date: "2026-09-03"
 description: "An analytical study of Ingmar Bergman's radical work exploring the instability of human identity, Sven Nykvist's cinematography, and the dissolution of the social mask."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "persona-1966"
 director: "Ingmar Bergman"
 genres: ["Psychological", "Drama", "Art House"]
+film: "Persona (1966)"
 ---
 This study deconstructs Ingmar Bergman's radical work *Persona* (1966, running time 83 minutes) as the ultimate exploration of the instability of human identity. The film analyzes the relationship between silent actress Elisabet and her nurse Alma, whose personalities begin to dangerously blur in isolation. 
 

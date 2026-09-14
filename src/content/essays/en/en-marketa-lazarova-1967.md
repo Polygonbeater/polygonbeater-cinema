@@ -1,5 +1,4 @@
 ---title: "Marketa Lazarová (1967) – The Weight of Mud and the Birth of Order from Violence"
-film: "Marketa Lazarová (1967)"
 year: 1967
 date: "2026-09-02"
 description: "František Vláčil strips the Middle Ages of romanticism, presenting a brutal, sensory, and fragmented cinema experience of historical transformation."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "marketa-lazarova-1967"
 director: "František Vláčil"
 genres: ["Historical", "Epic", "Folkloric Ballad"]
+film: "Marketa Lazarová (1967)"
 ---
 František Vláčil’s adaptation of Vladislav Vančura’s Marketa Lazarová (1967) ruthlessly strips the Middle Ages of their romantic veneer. Instead of gallant knights and linear historical progression, it presents a world gripped by frost, instinct, and a constant struggle for survival. The medieval world here is not reconstructed history, but a physical, brutal, and sensorially overwhelming experience.
 

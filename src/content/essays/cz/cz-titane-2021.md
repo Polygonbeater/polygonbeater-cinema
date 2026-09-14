@@ -1,5 +1,4 @@
 ---title: "Titane (2021): Fúze masa a kovu, posthumanismus a horor bezpodmínečné lásky"
-film: "Titane (2021)"
 year: 2021
 date: "2026-09-03"
 description: "Analytická studie transgresivního body hororu Julie Ducournauové zkoumající posthumanismus, fetišizaci strojů, destrukci genderu, Nové maso a radikální bezpodmínečnou empatii."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "titane-2021"
 director: "Julia Ducournau"
 genres: ["Body horor", "Transgresivní", "Drama"]
+film: "Titane (2021)"
 ---
 Transgresivní tělesný horor francouzské režisérky a scenáristky Julie Ducournauové *Titane* (2021, stopáž 108 minut), oceněný Zlatou palmou na festivalu v Cannes, představuje jeden z nejradikálnějších, nejprovokativnějších a myšlenkově nejodvážnějších filmů 21. století. Ducournauová navazuje na tradici tělesného hororu Davida Cronenberga (*Crash*, *Videodrome*) a koncept kyberfeminismu Donny Harawayové, avšak posouvá je do zcela nové, hluboce emocionální roviny. 
 

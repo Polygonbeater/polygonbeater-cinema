@@ -1,5 +1,4 @@
 ---title: "A Page of Madness (Kurutta Ippêji, 1926): Kinetická psychóza a avantgarda beze slov"
-film: "A Page of Madness (1926)"
 year: 1926
 date: "2026-09-03"
 description: "Analytická studie radikálního němého experimentu Teinosukeho Kinugasy zkoumající optické deformace, absenci mezititulků a subjektivizaci šílenství."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "a-page-of-madness"
 director: "Teinosuke Kinugasa"
 genres: ["Horor", "Němý film", "Avantgarda", "Psychologický"]
+film: "A Page of Madness (1926)"
 ---
 Píše se rok 1971. Stárnoucí režisér Teinosuke Kinugasa prohledává sklad na svém venkovském pozemku a v zaprášených krabicích po téměř padesáti letech objevuje filmový zázrak: dochovaný originální negativ vlastního filmu, který mezinárodní filmová věda dávno pokládala za ztracený. V kůlně po celá desetiletí odpočíval snímek *A Page of Madness* (*Kurutta Ippêji*, 1926) – jeden z nejodvážnějších formálních experimentů v dějinách světové kinematografie.
 

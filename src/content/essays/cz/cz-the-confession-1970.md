@@ -1,5 +1,4 @@
 ---title: "Doznání (L'Aveu, 1970): Pitva stalinské mašinérie a vyrobená pravda"
-film: "Doznání (1970)"
 year: 1970
 date: "2026-09-03"
 description: "Hloubková analýza politického dramatu Costa-Gavrase podle memoárů Artura Londona o vykonstruovaném procesu s Rudolfem Slánským, anatomii vymývání mozků a byrokratické výrobě viny."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "the-confession-1970"
 director: "Costa-Gavras"
 genres: ["Politický thriller", "Historický", "Drama"]
+film: "Doznání (1970)"
 ---
 Politické drama řecko-francouzského režiséra Costa-Gavrase *Doznání* (*L'Aveu*, 1970, stopáž 139 minut), natočené podle autobiografické knihy Artura Londona za scenáristické spolupráce Jorgeho Semprúna, představuje jedno z nejvýznamnějších a nejničivějších děl světové politické kinematografie. Film není ideologickou propagandou; je to chladná, precizní a neúprosná anatomie totalitní propagandy v její každodenní represivní praxi. 
 

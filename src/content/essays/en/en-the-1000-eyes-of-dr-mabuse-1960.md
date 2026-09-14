@@ -1,5 +1,4 @@
 ---title: "The 1,000 Eyes of Dr. Mabuse (1960): Lang’s Visionary Farewell"
-film: "The 1,000 Eyes of Dr. Mabuse (1960)"
 year: 1960
 date: "2026-09-03"
 description: "An analytical study of Fritz Lang's final artistic testament exploring total surveillance aesthetics, the Hotel Luxor as a Benthamite Panopticon, and Mabuse as an algorithm."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "the-1000-eyes-of-dr-mabuse-1960"
 director: "Fritz Lang"
 genres: ["Sci-Fi", "Crime", "Espionage"]
+film: "The 1,000 Eyes of Dr. Mabuse (1960)"
 ---
 *The 1,000 Eyes of Dr. Mabuse* (103 min) serves as Fritz Lang’s final artistic testament. Returning to the antagonist that defined his early career, Lang explores a new, modern form of evil: systemic surveillance. 
 

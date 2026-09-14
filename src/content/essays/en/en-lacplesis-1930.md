@@ -1,5 +1,4 @@
 ---title: "Lāčplēsis (1930) – Mythological Monument as a Pillar of National Identity"
-film: "Lāčplēsis (1930)"
 director: "Aleksandrs Rustei"
 year: 1930
 date: "2026-09-02"
@@ -9,6 +8,7 @@ image: "/images/essays/lacplesis-1930.webp"
 lang: "en"
 translationSlug: "lacplesis-1930"
 genres: ["Silent Film", "Epic", "Historical"]
+film: "Lāčplēsis (1930)"
 ---
 The 1930 Latvian silent feature Lāčplēsis (The Bear-Slayer), directed by Aleksandrs Rusteiķis, represents a unique synthesis of Latvian epic folklore and 20th-century history within the interwar Baltic context. The film was not merely entertainment; it was an ambitious effort to define the Latvian national identity at a time when newly won independence was viewed as an opportunity for emancipation after centuries of foreign rule.
 

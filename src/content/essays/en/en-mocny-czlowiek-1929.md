@@ -1,5 +1,4 @@
 ---title: "Mocny człowiek (1929): The Lost Jewel of Polish Silent Cinema"
-film: "Mocny człowiek (1929)"
 year: 1929
 date: "2026-09-02"
 description: "Henryk Szaro's psychological drama adapted from Stanisław Przybyszewski's novel stands as a high point of Polish silent cinema influenced by expressionism."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "mocny-czlowiek-1929"
 director: "Henryk Szaro"
 genres: ["Silent Film", "Psychological", "Drama"]
+film: "Mocny człowiek (1929)"
 ---
 The film *Mocny człowiek*, which premiered on October 2, 1929, simultaneously in two Warsaw cinemas, stands as one of the most important and mature works of Polish silent cinema. Director Henryk Szaro, alongside screenwriter Jerzy Braun, adapted the eponymous 1912 novel by Stanisław Przybyszewski.¹ The creators' goal was to translate the literary theme of guilt, punishment, and morbid ambition into a modern visual language deeply influenced by contemporary German Expressionism.
 

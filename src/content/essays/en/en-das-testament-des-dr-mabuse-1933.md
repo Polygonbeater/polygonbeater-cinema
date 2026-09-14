@@ -1,5 +1,4 @@
 ---title: "Das Testament des Dr. Mabuse (1933): Terror, Bureaucracy, and the Disembodied Voice"
-film: "Das Testament des Dr. Mabuse (1933)"
 year: 1933
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's early sound masterpiece, examining institutional terror, power without a subject, the acousmêtre, and the mechanics of modern control."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "das-testament-des-dr-mabuse-1933"
 director: "Fritz Lang"
 genres: ["Crime", "Thriller", "Horror"]
+film: "Das Testament des Dr. Mabuse (1933)"
 ---
 Fritz Lang’s *Das Testament des Dr. Mabuse* (*The Testament of Dr. Mabuse*, 1933) stands as a monumental milestone in film history, produced during the tense weeks of Hitler’s seizure of power. Banned immediately by the National Socialist censorship board, the film prompted Lang’s hasty flight into exile. Eschewing simple allegory, Lang constructs a rigorous clinical diagnosis of how institutional terror operates.
 

@@ -1,5 +1,4 @@
 ---title: "Diabeł (1972) – History as a Hysterical Hallucination"
-film: "Diabeł (1972)"
 year: 1972
 date: "2026-09-02"
 description: "Andrzej Żuławski frames the 1793 Partition of Poland not as archival history, but as an open wound and a chain of hysterical crises where state collapse mirrors psychological ruin."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "diabel-1972"
 director: "Andrzej Żuławski"
 genres: ["Historical", "Horror", "Surrealism"]
+film: "Diabeł (1972)"
 ---
 Andrzej Żuławski completed The Devil (Diabeł) in 1972, at a time when Polish cultural policy was under the strict supervision of censorship. After its completion, the film was shelved by authorities and did not enter standard distribution until 1988, following the relaxation of censorship restrictions. This fate is not merely a historical footnote; it underscores the radical nature of the work. Żuławski does not treat history as archival material, but as an open, festering wound.
 

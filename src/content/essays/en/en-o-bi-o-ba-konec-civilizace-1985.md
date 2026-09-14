@@ -1,5 +1,4 @@
 ---title: "O-Bi, O-Ba: The End of Civilization (1985) – The Architecture of Manufactured Hope"
-film: "O-Bi, O-Ba: The End of Civilization (1985)"
 year: 1985
 date: "2026-09-02"
 description: "Piotr Szulkin examines the terminal stage of humanity trapped in a decaying post-apocalyptic bunker, where political structures deploy the myth of salvation to maintain control."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "o-bi-o-ba-konec-civilizace-1985"
 director: "Piotr Szulkin"
 genres: ["Sci-Fi", "Post-apocalyptic", "Dystopia"]
+film: "O-Bi, O-Ba: The End of Civilization (1985)"
 ---
 In his sci-fi film O-Bi, O-Ba: The End of Civilization (1985), Piotr Szulkin abandons the traditional genre conventions of post-apocalyptic cinema. He focuses not on the physical struggle for survival in a wasteland, but on the terminal phase of a human society confined within a decaying underground bunker (the Dome) following a nuclear war. The film operates as a chilling sociological study, examining how institutional power utilizes myth to maintain control over a population that realistically has no future.
 

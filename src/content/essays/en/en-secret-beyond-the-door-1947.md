@@ -1,5 +1,4 @@
 ---title: "Secret Beyond the Door (1947): Architecture of Fate, the Freudian Myth, and the Labyrinth of the Mind"
-film: "Secret Beyond the Door (1947)"
 year: 1947
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's Gothic noir exploring spatial determinism, Freudian psychoanalysis, and architecture as a map of the pathological mind."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "secret-beyond-the-door-1947"
 director: "Fritz Lang"
 genres: ["Film Noir", "Psychological Thriller", "Gothic"]
+film: "Secret Beyond the Door (1947)"
 ---
 *Secret Beyond the Door* (99 min) marks Lang's radical pivot from geopolitical paranoia to the intimacy of psychological terror. The film serves as Lang's idiosyncratic response to the Hollywood trend of Freudian thrillers. It deconstructs the Gothic romance and the Bluebeard myth by transforming architecture into a literal map of a pathological mind, where spatial arrangement determines human behavior.
 

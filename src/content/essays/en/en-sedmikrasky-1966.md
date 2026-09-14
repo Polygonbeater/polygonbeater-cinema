@@ -1,5 +1,4 @@
 ---title: "Creaking Joints in a Well-Oiled Machine: On Dancing Over Shards and the Freedom to Go Bad"
-film: "Daisies (1966)"
 year: 1966
 date: "2026-09-08"
 description: "An essay on Věra Chytilová's legendary Czechoslovak film. On the radical rebellion of the two Maries, the destruction of bourgeois morality, and absolute freedom of form."
@@ -8,6 +7,7 @@ lang: "en"
 translationSlug: "sedmikrasky-1966"
 director: "Věra Chytilová"
 genres: ["French New Wave", "Experimental", "Comedy"]
+film: "Daisies (1966)"
 ---
 The world around us takes itself deadly seriously. State bureaucrats measure living space with rulers, moral authorities dictate proper posture at the table, and architects of human souls plan a neatly lined-up future. Everything is supposed to have its order, its compartment, and its utility. Yet what if the entire polished machine is rotten to the core? What if that admired order is merely a very expensive wrapping for emptiness?
 

@@ -1,5 +1,4 @@
 ---title: "A Force More Powerful (2000): Století nenásilného konfliktu a občanská neposlušnost"
-film: "A Force More Powerful (2000)"
 year: 2000
 date: "2026-09-03"
 description: "Analýza dokumentu zkoumajícího nenásilný odpor jako systematickou strategii pro politické změny na základě historických příkladů."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "a-force-more-powerful-2000"
 director: "Steve York"
 genres: ["Dokumentární", "Politický", "Historický"]
+film: "A Force More Powerful (2000)"
 ---
 Dokumentární cyklus *A Force More Powerful* představuje nenásilný odpor nejen jako morální volbu, nýbrž jako systematickou, historicky ověřenou strategii pro politické změny. Jeho ústřední teze, vycházející z myšlenek Hannah Arendtové a Genea Sharpa, spočívá v tom, že politická moc nezávisí pouze na nátlaku, ale na dobrovolné spolupráci ovládaných. Když lidé tuto spolupráci odvolají, mocenské struktury se zhroutí.
 

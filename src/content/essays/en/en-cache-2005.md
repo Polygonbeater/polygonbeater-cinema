@@ -1,5 +1,4 @@
 ---title: "Caché (2005): The Architecture of Guilt and the Terror of the Gaze"
-film: "Caché (2005)"
 year: 2005
 date: "2026-09-03"
 description: "An analytical study of Michael Haneke's psychological thriller exploring the weapon of the static image, repressed post-colonial guilt, and the breakdown of bourgeois security."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "cache-2005"
 director: "Michael Haneke"
 genres: ["Psychological", "Thriller", "Mystery"]
+film: "Caché (2005)"
 ---
 This study deconstructs Michael Haneke's psychological thriller *Caché* (2005, running time 117 minutes) as a relentless analysis of repressed guilt and media manipulation. The film follows a Parisian intellectual family whose life begins to crumble after they find anonymous videotapes containing static shots of their own home on their doorstep. 
 

@@ -1,5 +1,4 @@
 ---title: "2001: A Space Odyssey (1968): Evolution of Consciousness"
-film: "2001: A Space Odyssey (1968)"
 year: 1968
 date: "2026-09-03"
 description: "An analytical study of Stanley Kubrick's masterpiece exploring technological transcendentalism, the monolith motif, and the tragedy of HAL 9000."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "2001-a-space-odyssey-1968"
 director: "Stanley Kubrick"
 genres: ["Sci-Fi", "Mystery", "Philosophical"]
+film: "2001: A Space Odyssey (1968)"
 ---
 This study deconstructs Stanley Kubrick's *2001: A Space Odyssey* (1968, running time 149 minutes) as a visual symphony of human destiny. The film transforms the science-fiction genre into a non-linear philosophical essay on the relationship between man, tool, and the unknown. 
 

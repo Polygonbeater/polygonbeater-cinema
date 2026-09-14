@@ -1,5 +1,4 @@
 ---title: "The Cremator (1969) – The Banality of Evil as an Aesthetic System"
-film: "The Cremator (1969)"
 year: 1969
 date: "2026-09-02"
 description: "A radical study of the normalization of evil, where Juraj Herz and Rudolf Hrušínský trace how ordinary human desires for order and purity transform into tools of totalitarian ideology."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "spalovac-mrtvol-1969"
 director: "Juraj Herz"
 genres: ["Psychological Horror", "Black Comedy", "Historical"]
+film: "The Cremator (1969)"
 ---
 Juraj Herz’s The Cremator (1969), an adaptation of Ladislav Fuks’s prose, stands as one of the late, radical statements of the Czechoslovak New Wave. It does not treat the Nazi occupation as a historical spectacle or a moral memento in the traditional sense. Instead, it tracks the subtle, systematic process of an everyday subject’s transformation into an instrument of ideological power. The result is not an allegory of resistance, but a precise study of the normalization of evil.
 

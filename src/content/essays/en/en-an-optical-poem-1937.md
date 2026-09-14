@@ -1,5 +1,4 @@
 ---title: "An Optical Poem (1937): Visualizing Freedom in Exile"
-film: "An Optical Poem (1937)"
 year: 1937
 date: "2026-09-03"
 description: "An analytical essay on Oskar Fischinger's abstract animation masterpiece, exploring visual music, exile, and aesthetic liberty."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "an-optical-poem-1937"
 director: "Oskar Fischinger"
 genres: ["Animation", "Experimental", "Musical"]
+film: "An Optical Poem (1937)"
 ---
 *An Optical Poem*, created by the pioneer of abstract animation Oskar Fischinger and released by Metro-Goldwyn-Mayer (MGM) in 1937, represents a critical moment in the history of visual music. Completed shortly after Fischinger fled Nazi Germany and the purge of "Degenerate Art," this short film is not merely an artistic statement but a powerful demonstration of the freedom of abstract expression denied by the totalitarian regime.
 

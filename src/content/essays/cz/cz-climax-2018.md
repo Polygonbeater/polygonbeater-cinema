@@ -1,5 +1,4 @@
 ---title: "Climax (2018): Choreografie chaosu a rozpad sociální smlouvy"
-film: "Climax (2018)"
 year: 2018
 date: "2026-09-03"
 description: "Analytická studie halucinačního hororu Gaspara Noého zkoumající tanec jako jazyk, somatický teror, inverzní optiku kamery a rozpad lidské socializace."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "climax-2018"
 director: "Gaspar Noé"
 genres: ["Horor", "Psychologický", "Hudební"]
+film: "Climax (2018)"
 ---
 Tato studie dekonstruuje halucinační horor Gaspara Noého *Climax* (2018, stopáž 97 minut) jako čistě somatický zážitek a radikální filmové ztvárnění kolektivní psychózy. Snímek sleduje francouzský taneční soubor, který po úspěšné generální zkoušce v opuštěné lesní internátní škole vypije sangrii nevědomky pančovanou silnou dávkou LSD. Následuje nezadržitelný propad do animálního šílenství. 
 

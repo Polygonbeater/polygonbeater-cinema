@@ -1,5 +1,4 @@
 ---title: "Green Room (2015): The Anatomy of a Defective Micro-Cult, the Neurobiology of Power, and the Weaponization of Subcultural Identity"
-film: "Green Room (2015)"
 year: 2015
 date: "2026-09-02"
 description: "An analytical study deconstructing the thriller Green Room as a neurobiological model of a defective community, local gatekeeping, and defense in Zone Zero."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "zeleny-pokoj-2015"
 director: "Jeremy Saulnier"
 genres: ["Thriller", "Survival", "Crime"]
+film: "Green Room (2015)"
 ---
 The present study deconstructs the independent thriller *Green Room* as a reference sociological and neurobiological model of a so-called defective community. The film is analyzed as a case study of a closed subculture where a local leader (Darcy Banker) exploits the ideological loyalty of fans for his own benefit. The study newly integrates a detailed mapping of the brain reactions of the involved actors: from the manipulator's hypoactive amygdala to the oxytocin trap of his followers. The final phase applies these insights into practice, providing the individual with cognitive tools to identify and safely exit toxic structures (the state of Zone Zero) before the assimilation of their identity occurs.
 

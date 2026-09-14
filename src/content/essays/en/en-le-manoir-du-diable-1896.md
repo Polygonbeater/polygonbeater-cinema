@@ -1,5 +1,4 @@
 ---title: "Le Manoir du Diable (The House of the Devil, 1896): The Birth of Cinematic Horror"
-film: "Le Manoir du Diable (1896)"
 year: 1896
 date: "2026-09-03"
 description: "An analytical essay on Georges Méliès' legendary 1896 short, widely considered the world's very first horror film."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "le-manoir-du-diable-1896"
 director: "Georges Méliès"
 genres: ["Silent Film", "Horror", "Short Film"]
+film: "Le Manoir du Diable (1896)"
 ---
 > *“Often hailed as the world’s first horror film, Méliès’ The House of the Devil doesn't just predate cinema; it invents the supernatural on screen!”*
 

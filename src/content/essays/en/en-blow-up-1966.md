@@ -1,5 +1,4 @@
 ---title: "Blow-Up (1966): The Crisis of Perception and the Emptiness of the Image"
-film: "Blow-Up (1966)"
 year: 1966
 date: "2026-09-03"
 description: "An analytical study of Michelangelo Antonioni's first English-language film exploring the limits of human perception, color dramaturgy, and the unreliability of reality."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "blow-up-1966"
 director: "Michelangelo Antonioni"
 genres: ["Mystery", "Drama", "Art House"]
+film: "Blow-Up (1966)"
 ---
 This study deconstructs Michelangelo Antonioni's first English-language film, *Blow-Up* (1966, running time 111 minutes), as a radical exploration of the limits of human perception and the unreliability of the photographic record. Loosely inspired by a short story by Julio Cortázar, the film analyzes the emptiness of "Swinging London" through the character of Thomas, a photographer who believes he controls reality through his lens.
 

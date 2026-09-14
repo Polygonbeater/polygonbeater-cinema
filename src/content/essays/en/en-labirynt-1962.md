@@ -1,5 +1,4 @@
 ---title: "Labirynt (Labyrinth, 1962): The Architecture of Confinement"
-film: "Labirynt (1962)"
 year: 1962
 date: "2026-09-03"
 description: "An analytical essay on Jan Lenica's surrealist animation masterpiece, exploring bureaucratic oppression, collage aesthetics, and Kafkaesque entrapment."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "labirynt-1962"
 director: "Jan Lenica"
 genres: ["Animation", "Experimental", "Surrealism"]
+film: "Labirynt (1962)"
 ---
 > *“A man wakes into a nightmare made of order.”*
 

@@ -1,5 +1,4 @@
 ---title: "Velký zátah (The Big Heat, 1953): Anatomie systémového rozkladu a sterilita násilí"
-film: "Velký zátah (The Big Heat, 1953)"
 year: 1953
 date: "2026-09-03"
 description: "Analytická studie kultovního noiru Fritze Langa zkoumající systémovou korupci, osvětlení ve vysokém klíči (high-key), zranitelnost domova a proměnu hrdiny ve stroj na pomstu."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "the-big-heat-1953"
 director: "Fritz Lang"
 genres: ["Film noir", "Krimi", "Thriller"]
+film: "Velký zátah (1953)"
 ---
 Snímek Fritze Langa *Velký zátah* (*The Big Heat*, 1953, stopáž 89 minut), vyrobený ve studiu Columbia Pictures, představuje absolutní vrchol pozdního amerického filmu noir a neúprosnou reflexi poválečné institucionální krize. Vznikl v éře mccarthismu, kdy byla americká veřejnost poprvé konfrontována s televizními přenosy ze slyšení senátního výboru senátora Estese Kefauvera. 
 

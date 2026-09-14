@@ -1,5 +1,4 @@
 ---title: "Daleká cesta za domovem (Watership Down, 1978): Pastorální apokalypsa nevinnosti a mýtus přežití"
-film: "Daleká cesta za domovem (1978)"
 year: 1978
 date: "2026-09-03"
 description: "Hloubková analýza britského animovaného mistrovského díla Martina Rosena zkoumající pastorální apokalypsu, mytologii boha Fritha, totalitní alegorii Efrafy a existenciální zákon přežití."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "watership-down-1978"
 director: "Martin Rosen"
 genres: ["Animovaný", "Mytologický", "Dobrodružný"]
+film: "Daleká cesta za domovem (1978)"
 ---
 > *„Co když je samotné přežití ztrátou ráje?“*
 

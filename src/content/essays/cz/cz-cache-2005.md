@@ -1,5 +1,4 @@
 ---title: "Utajený (Caché, 2005): Architektura viny a teror pohledu"
-film: "Utajený (Caché, 2005)"
 year: 2005
 date: "2026-09-03"
 description: "Analytická studie psychologického thrilleru Michaela Hanekeho zkoumající zbraň statického obrazu, potlačenou postkoloniální vinu a destrukci buržoazního bezpečí."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "cache-2005"
 director: "Michael Haneke"
 genres: ["Psychologický", "Thriller", "Mysteriózní"]
+film: "Utajený (2005)"
 ---
 Tato studie dekonstruuje psychologický thriller Michaela Hanekeho *Utajený* (*Caché*, 2005, stopáž 117 minut) jako neúprosnou analýzu potlačené viny a mediální manipulace. Snímek sleduje pařížskou intelektuální rodinu, jejíž život se začne hroutit poté, co na zápraží nachází anonymní videokazety se statickými záběry vlastního domu. 
 

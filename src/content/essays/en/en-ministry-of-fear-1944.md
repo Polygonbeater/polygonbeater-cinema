@@ -1,5 +1,4 @@
 ---title: "Ministry of Fear (1944): Paranoia as Cognitive Lucidity in Wartime Modernity"
-film: "Ministry of Fear (1944)"
 year: 1944
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's wartime noir exploring paranoia as epistemological lucidity, surveillance culture, and the aesthetics of scarcity."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "ministry-of-fear-1944"
 director: "Fritz Lang"
 genres: ["Film Noir", "Espionage", "Mystery"]
+film: "Ministry of Fear (1944)"
 ---
 *Ministry of Fear* (87 min), produced by Paramount Pictures and directed by émigré filmmaker Fritz Lang, stands as a paradigmatic wartime noir in which paranoia emerges not as pathology but as an epistemologically justified mode of perception. The film transforms the conventions of the espionage thriller into an allegory of modern surveillance culture. Through constrained production conditions, chiaroscuro cinematography by Henry Sharp, and narrative condensation, Lang constructs a geometry of suspicion in which visibility itself becomes unstable.
 

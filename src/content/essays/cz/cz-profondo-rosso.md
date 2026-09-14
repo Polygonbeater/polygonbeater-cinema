@@ -1,5 +1,4 @@
 ---title: "Tmavě červená (Profondo Rosso, 1975): Slepá skvrna vnímání a krvavý operní balet"
-film: "Tmavě červená (1975)"
 year: 1975
 date: "2026-09-03"
 description: "Analytická studie vrcholného gialla Daria Argenta zkoumající trik se zrcadlem, epistemologickou zradu zraku, hudbu skupiny Goblin a dětské trauma Vily křičícího dítěte."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "profondo-rosso"
 director: "Dario Argento"
 genres: ["Giallo", "Horor", "Mysteriózní"]
+film: "Tmavě červená (1975)"
 ---
 Snímek Daria Argenta *Tmavě červená* (*Profondo Rosso*, v mezinárodní distribuci *Deep Red*, 1975, stopáž 127 minut) představuje absolutní tvůrčí a stylový zenit subžánru giallo. Argento v něm překračuje hranice běžné kriminální hádanky a přetváří vyšetřování série brutálních vražd v mistrovskou lekci z epistemologické zrady diváckého zraku[cite: 132]. Kde konvenční detektivka hledá logické stopy s lupou v ruce, tam Argento zhasíná světla, zaplavuje plátno sytou karmínovou barvou, nasazuje agresivní syntezátory skupiny Goblin a nechává diváka zírat přímo do tváře pachatele, aniž by si uvědomil, co ve skutečnosti vidí[cite: 132].
 

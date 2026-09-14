@@ -1,5 +1,4 @@
 ---title: "The Good, the Bad and the Ugly (1966): An Existential Epic"
-film: "The Good, the Bad and the Ugly (1966)"
 year: 1966
 date: "2026-09-03"
 description: "An analytical essay on Sergio Leone's masterpiece, exploring the absurdity of war, existentialism, and the deconstruction of the Western myth."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "the-good-the-bad-and-the-ugly-1966"
 director: "Sergio Leone"
 genres: ["Western", "Adventure", "Cult"]
+film: "The Good, the Bad and the Ugly (1966)"
 ---
 > *“Every war is just another name for what remains of man when he loses meaning.”*
 

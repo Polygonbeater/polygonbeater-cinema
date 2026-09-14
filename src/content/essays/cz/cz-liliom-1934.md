@@ -1,5 +1,4 @@
 ---title: "Liliom (1934): Spravedlnost jako procedura a nebeská byrokracie"
-film: "Liliom (1934)"
 year: 1934
 date: "2026-09-03"
 description: "Analytická studie jediného francouzského filmu Fritze Langa zkoumající zásvětí jako byrokratický aparát, filmed replay jako důkazní médium a kousavou tragikomickou dekonstrukci posmrtného soudu."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "liliom-1934"
 director: "Fritz Lang"
 genres: ["Fantasy", "Drama", "Romantický"]
+film: "Liliom (1934)"
 ---
 Snímek *Liliom* (1934, stopáž 118 minut) představuje v rámci filmografie Fritze Langa fascinující a často opomíjený mezistupeň. Jde o jeho jediný celovečerní projekt realizovaný ve francouzském exilu (v produkci legendárního Ericha Pommera pro společnost Fox Europa) po útěku z nacistického Německa a před definitivním přesídlením do Hollywoodu. Namísto monumentálních velkoměstských vizí či temných kriminálních kronik adaptoval Lang proslulou divadelní hru maďarského dramatika Ference Molnára. 
 

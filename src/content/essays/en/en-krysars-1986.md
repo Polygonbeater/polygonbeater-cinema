@@ -1,5 +1,4 @@
 ---title: "The Pied Piper (Krysař, 1986): A Wooden Apocalypse"
-film: "The Pied Piper (1986)"
 year: 1986
 date: "2026-09-03"
 description: "An analytical essay on Jiří Barta's stop-motion masterpiece, exploring moral decay, totalitarian allegory, and Czech expressionist animation."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "krysars-1986"
 director: "Jiří Barta"
 genres: ["Animation", "Gothic", "Horror"]
+film: "The Pied Piper (1986)"
 ---
 > *“When the city stopped listening, only the flute remembered how to speak.”*
 

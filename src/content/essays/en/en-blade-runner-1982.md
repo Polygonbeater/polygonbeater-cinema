@@ -1,5 +1,4 @@
 ---title: "Eyes in the Neon Dusk: Blade Runner and the Architecture of Artificial Memory"
-film: "Blade Runner (1982)"
 year: 1982
 date: "2026-09-07"
 description: "A philosophical analysis of Ridley Scott's 1982 sci-fi masterpiece. How visual chiaroscuro, retro-futurism, and memory motifs define the boundary between human and machine."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "blade-runner-1982"
 director: "Ridley Scott"
 genres: ["Sci-Fi", "Cyberpunk", "Film Noir"]
+film: "Blade Runner (1982)"
 ---
 When Ridley Scott's *Blade Runner* arrived in theaters in 1982, it did not merely adapt Philip K. Dick's novel *Do Androids Dream of Electric Sheep?*. It introduced a new visual and conceptual canon. Scott envisioned the dystopian Los Angeles of 2019 not as a sterile future, but as a layered palimpsest—a world where hyper-modern corporate pyramids loom over decaying urban structures, and perpetual rain blurs the boundary between the organic and the synthetic.
 

@@ -1,5 +1,4 @@
 ---title: "Tisíc očí dr. Mabuseho (Die 1000 Augen des Dr. Mabuse, 1960): Estetika totálního dohledu a technokratické panoptikum"
-film: "Tisíc očí dr. Mabuseho (1960)"
 year: 1960
 date: "2026-09-03"
 description: "Analytická studie posledního díla Fritze Langa zkoumající estetiku totálního dohledu, hotel Luxor jako Benthamovo panoptikum, technokratickou totalitu a Mabuseho jako neviditelný algoritmus."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "the-1000-eyes-of-dr-mabuse-1960"
 director: "Fritz Lang"
 genres: ["Sci-Fi", "Krimi", "Špionážní"]
+film: "Tisíc očí dr. Mabuseho (1960)"
 ---
 Snímek *Tisíc očí dr. Mabuseho* (*Die 1000 Augen des Dr. Mabuse*, 1960, stopáž 103 minut) představuje definitivní uměleckou i filozofickou závěť Fritze Langa. Po návratu z hollywoodského exilu a realizaci dvoudílného indického dobrodružného eposu se Lang v západoněmecké produkci Artura Braunera vrátil k postavě, která formovala jeho kariéru již od výmarského němého eposu z roku 1922. 
 

@@ -1,5 +1,4 @@
 ---title: "A Page of Madness (Kurutta Ippêji, 1926)"
-film: "A Page of Madness (1926)"
 date: "2026-09-02"
 description: "The Lost Shadow of 1926 — an analysis of a radical Japanese cinematic experiment."
 image: "/images/essays/a-page-of-madness.webp"
@@ -9,6 +8,7 @@ translationSlug: "a-page-of-madness"
 director: "Teinosuke Kinugasa"
 year: 1926
 genres: ["Horror", "Silent Film", "Avant-garde", "Psychological"]
+film: "A Page of Madness (1926)"
 ---
 The year is 1971. Aging director Teinosuke Kinugasa searches through an old storehouse on his property and, among dusty boxes, discovers a miracle nearly fifty years in the making: the surviving original film material of his own film, long mourned by the cinematic world as forever lost [^en1]. In a shed on his property, the film *A Page of Madness* (Kurutta Ippêji, 1926) had remained hidden for decades—one of the most radical experiments in the history of cinema.
 

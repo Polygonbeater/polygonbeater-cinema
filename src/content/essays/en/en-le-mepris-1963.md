@@ -1,5 +1,4 @@
 ---title: "Le Mépris (Contempt, 1963): The Dissolution of Meaning, Cinemascope, and the Economy of Alienation"
-film: "Le Mépris (1963)"
 year: 1963
 date: "2026-09-03"
 description: "Analytical study of Jean-Luc Godard's masterpiece, examining translation failures, the architecture of Casa Malaparte, widescreen framing, and Fritz Lang's ethical role."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "le-mepris-1963"
 director: "Jean-Luc Godard"
 genres: ["French New Wave", "Drama", "Meta-cinema"]
+film: "Le Mépris (1963)"
 ---
 Jean-Luc Godard’s *Le Mépris* (*Contempt*, 1963) marks a crucial juncture where the French New Wave turns its critical lens away from abstract formal play toward the structural realities of global film production and late-capitalist alienation. Adapting Alberto Moravia’s novel, Godard constructs a clinical anatomy of a relationship collapsing within an industrial framework.
 

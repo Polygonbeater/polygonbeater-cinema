@@ -1,5 +1,4 @@
 ---title: "Taras Bulba (1924) – Émigré Nostalgia and the Image of a Lost World"
-film: "Taras Bulba (1924)"
 director: "Vladimir Strizhevsky"
 year: 1924
 date: "2026-09-02"
@@ -9,6 +8,7 @@ image: "/images/essays/taras-bulba-1924.webp"
 lang: "en"
 translationSlug: "taras-bulba-1924"
 genres: ["Silent Film", "Historical", "Epic"]
+film: "Taras Bulba (1924)"
 ---
 The 1924 film Taras Bulba is not merely an adaptation of Nikolai Gogol’s classic novella; it is, above all, a visual monument to a lost era. The film was not shot on the Ukrainian steppes, but in studios in Germany, where a significant portion of the film emigration from the former Russian Empire sought refuge following the Bolshevik victory in the Russian Civil War. Produced by the prominent Joseph N. Ermolieff and directed by Vladimir Strizhevsky, the project brought to the screen not only the Cossack myth but the profound nostalgia of an émigré community for a world that had vanished forever.
 

@@ -1,5 +1,4 @@
 ---title: "Rancho Notorious (1952): A Ballad of Hate, Murder, and Revenge"
-film: "Rancho Notorious (1952)"
 year: 1952
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's stylized Western noir exploring genre hybridity, ballad structure, Technicolor expressionism, and moral corrosion."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "rancho-notorious-1952"
 director: "Fritz Lang"
 genres: ["Western", "Film Noir", "Drama"]
+film: "Rancho Notorious (1952)"
 ---
 *Rancho Notorious* (89 min) is Lang's most stylized western and his second deep exploration of Technicolor. Beneath the genre surface lies a noir heart, deconstructing the myth of the Old West. The film uses a "ballad structure" as a Greek chorus to explore themes of inescapable fate and moral corrosion driven by an obsessive quest for vengeance.
 

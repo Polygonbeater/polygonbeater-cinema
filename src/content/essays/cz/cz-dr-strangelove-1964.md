@@ -1,5 +1,4 @@
 ---title: "Dr. Divnoláska (Dr. Strangelove, 1964): Byrokratický absurdismus a návod k použití konce světa"
-film: "Dr. Divnoláska (1964)"
 year: 1964
 date: "2026-09-03"
 description: "Analytická studie satirického mistrovského díla Stanleyho Kubricka zkoumající byrokratický absurdismus, paranoiu studené války a mechanizovanou apokalypsu."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "dr-strangelove-1964"
 director: "Stanley Kubrick"
 genres: ["Černá komedie", "Válečný", "Satira"]
+film: "Dr. Divnoláska (1964)"
 ---
 Snímek Stanleyho Kubricka *Dr. Divnoláska aneb Jak jsem se naučil nedělat si starosti a mít rád bombu* (*Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb*, 1964, stopáž 95 minut) představuje nepřekonanou černou satiru na jaderné zbrojení, vojenskou paranoiu a selhání byrokratických procedur v éře studené války. Kubrick dekonstruuje politický a vojenský aparát nikoliv jako racionální obranný štít, nýbrž jako smrtící grotesku, v níž je osud lidské civilizace vydán napospas potlačeným psychotickým pudům a slepé automatizaci.
 

@@ -1,5 +1,4 @@
 ---title: "Alphaville (1965): Technokracie, jazyk a administrace moci"
-film: "Alphaville (1965)"
 year: 1965
 date: "2026-09-03"
 description: "Analytická studie sci-fi noir filmu Jean-Luc Godarda, jež zkoumá kybernetickou racionalitu, hlas Alpha 60, banálnost byrokratické moci a roli jazyka."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "alphaville-1965"
 director: "Jean-Luc Godard"
 genres: ["Sci-Fi", "Film noir", "Nová vlna"]
+film: "Alphaville (1965)"
 ---
 Snímek *Alphaville* (*Une étrange aventure de Lemmy Caution*, 1965) v režii Jean-Luc Godarda opouští klasická žánrová klišé vědecké fantastiky. Namísto futuristických kulis a speciálních efektů natáčel Godard v reálných, moderních prostorách Paříže poloviny 60. let, aby vytvořil mrazivou analýzu technokratické společnosti.
 

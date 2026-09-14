@@ -1,5 +1,4 @@
 ---title: "Liliom (1934): Justice as Procedure and the Bureaucracy of Heaven"
-film: "Liliom (1934)"
 year: 1934
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's sole French feature film, examining the afterlife as an institutional apparatus, comic irony, and the medium of recorded proof."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "liliom-1934"
 director: "Fritz Lang"
 genres: ["Fantasy", "Drama", "Romance"]
+film: "Liliom (1934)"
 ---
 *Liliom* (1934) stands as a unique milestone in Fritz Lang’s filmography—his only feature film produced in France (under producer Erich Pommer for Fox Europa) before his permanent relocation to Hollywood. Rather than returning to urban dystopias or gritty crime thrillers, Lang adapts Ferenc Molnár’s celebrated play, imbuing it with his signature structural critique.
 

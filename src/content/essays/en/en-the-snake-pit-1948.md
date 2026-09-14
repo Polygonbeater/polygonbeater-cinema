@@ -1,5 +1,4 @@
 ---title: "The Snake Pit (1948): Institutional Terror, Psychoanalysis, and Gendered Power"
-film: "The Snake Pit (1948)"
 year: 1948
 date: "2026-09-03"
 description: "Analytical study of Anatole Litvak's landmark drama, examining psychiatric ward hierarchies, iatrogenesis, and the Freudian framing of trauma."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "the-snake-pit-1948"
 director: "Anatole Litvaka"
 genres: ["Psychological Drama", "Institutional Drama"]
+film: "The Snake Pit (1948)"
 ---
 Anatole Litvak’s *The Snake Pit* (1948) breaks away from conventional cinematic horror to deliver a harrowing drama of institutional terror. Adapted from Mary Jane Ward’s 1946 semi-autobiographical novel, the film captures the post-WWII shift in American psychiatry from punitive confinement toward psychoanalytic reform, powerfully influencing public perception and real-world mental health care standards.
 

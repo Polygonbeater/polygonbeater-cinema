@@ -1,5 +1,4 @@
 ---title: "On the Cinematographic Terrarium and the Unbearable Heaviness of Freedom"
-film: "The Wave (2008)"
 year: 2008
 date: "2026-09-02"
 description: "An ethological and neurobiological analysis of Gansel's film The Wave exploring the vulnerability of the human operating system to totalitarian structures."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "vlna-2008"
 director: "Dennis Gansel"
 genres: ["Psychological Drama", "Sociological Thriller"]
+film: "The Wave (2008)"
 ---
 When watching Gansel's film *The Wave*, it is necessary to beware of a very seductive fallacy. The film is not real life. It is an artificially constructed terrarium in which the director, within a runtime of less than two hours, accelerates social processes that would take months, if not years, in the wild of human society. If a viewer mistakes this one hundred percent distillate of totalitarianism for the normal course of events, they can easily end up in that paranoid trap from which the saddest conspiracy theorists are recruited.
 

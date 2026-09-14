@@ -1,5 +1,4 @@
 ---title: "Johnny Got His Gun (1971) – Consciousness as the Final Prison"
-film: "Johnny Got His Gun (1971)"
 year: 1971
 date: "2026-09-02"
 description: "An anatomy of a man whom war has survived so thoroughly that nothing remains but pure consciousness condemned to absolute isolation."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "johnny-got-his-gun-1971"
 director: "Dalton Trumbo"
 genres: ["Anti-war", "Drama", "Psychological"]
+film: "Johnny Got His Gun (1971)"
 ---
 There are anti-war films that depict trenches and mass graves. And then there is Johnny Got His Gun (1971), a film that strips away the battlefield to leave only the final cost. Dalton Trumbo does not adapt a story of war; he creates an anatomy of a man whom war has "survived" so thoroughly that nothing remains but pure consciousness.
 

@@ -1,5 +1,4 @@
 ---title: "The Cabinet of Dr. Caligari (1920): Expressionist Space, Authority, and the Subjectivization of Psychosis"
-film: "The Cabinet of Dr. Caligari (1920)"
 year: 1920
 date: "2026-09-03"
 description: "Analytical study of Robert Wiene's foundational German Expressionist masterpiece, exploring anti-realist architecture, the unreliable narrator, and structures of power."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "cabinet-of-dr-caligari-1920"
 director: "Robert Wien"
 genres: ["Expressionism", "Horror", "Silent Film"]
+film: "The Cabinet of Dr. Caligari (1920)"
 ---
 Robert Wiene’s *The Cabinet of Dr. Caligari* (1920) is universally recognized in film scholarship as the cornerstone of German Expressionist cinema and one of the earliest systematic attempts to subjectivize cinematic space. Horror in this landmark work does not stem from plot events, but from the radical deformation of space, causality, and perception, directly anticipating modern psychological horror.
 

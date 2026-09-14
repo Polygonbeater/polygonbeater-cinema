@@ -1,5 +1,4 @@
 ---title: "Anatomy of Guilt and the Trap of Self-Deception: A Deep Dive into Diabolique (1955)"
-film: "Diabolique (1955)"
 year: 1955
 date: "2026-01-01"
 description: "An essayistic study of Henri-Georges Clouzot's Diabolique (1955), exploring human guilt, escalating paranoia, and psychological traps."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "dabelske-zeny"
 director: "Henri-Georges Clouzot"
 genres: ["Thriller", "Mystery", "Horror"]
+film: "Diabolique (1955)"
 ---
 Henri-Georges Clouzot’s 1955 masterpiece Diabolique (Les Diaboliques) stands as a foundational pillar of modern psychological horror. Unlike films featuring external monsters or supernatural forces, terror here emerges from within—born of human guilt, escalating paranoia, and a meticulously constructed web of deception. The film is a chilling study of how the belief in having committed a crime can transform into a psychological purgatory and a lethal trap for the human mind.
 

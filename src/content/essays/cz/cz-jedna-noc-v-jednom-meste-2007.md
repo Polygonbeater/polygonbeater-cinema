@@ -1,5 +1,4 @@
 ---title: "Jedna noc v jednom městě (2007): Poezie rozkladu a městská groteska"
-film: "Jedna noc v jednom městě (2007)"
 year: 2007
 date: "2026-09-03"
 description: "Hloubková analýza loutkového filmu Jana Baleje zkoumající hmatový surrealismus, městskou osamělost, poetiku rozkladu a absenci lidské řeči."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "jedna-noc-v-jednom-meste-2007"
 director: "Jan Balej"
 genres: ["Animovaný", "Černá komedie", "Surrealismus"]
+film: "Jedna noc v jednom městě (2007)"
 ---
 > *„V tomhle městě má i ticho zuby.“*
 

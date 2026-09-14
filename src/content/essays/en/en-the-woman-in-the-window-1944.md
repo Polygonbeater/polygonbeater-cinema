@@ -1,5 +1,4 @@
 ---title: "The Woman in the Window (1944): Diagnosis of a Single Second and Dream Geometry"
-film: "The Woman in the Window (1944)"
 year: 1944
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's film noir exploring suppressed desire, the dream twist, psychological terror, and its connection to Scarlet Street."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "the-woman-in-the-window-1944"
 director: "Fritz Lang"
 genres: ["Film Noir", "Psychological Thriller", "Crime"]
+film: "The Woman in the Window (1944)"
 ---
 In 1944, Fritz Lang reveals a psychological war between a "decent man" and his subconscious. Professor Richard Wanley (Edward G. Robinson) is not a criminal; he is a victim of suppressed desire, trapped in the shadows of New York.
 

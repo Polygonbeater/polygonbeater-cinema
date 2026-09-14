@@ -1,5 +1,4 @@
 ---title: "Vampyr (1932): Perceptual Collapse, Acoustic Uncertainty, and the Horizon of Psychological Horror"
-film: "Vampyr (1932)"
 year: 1932
 date: "2026-09-03"
 description: "Analytical study of Carl Theodor Dreyer’s landmark masterpiece, exploring unmoored space, early sound design, and the iconic coffin sequence as an apex of existential dread."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "vampyr-1932"
 director: "Carla Theodora Dreyera"
 genres: ["Psychological Horror", "Gothic", "Art House"]
+film: "Vampyr (1932)"
 ---
 Carl Theodor Dreyer’s *Vampyr* (1932) marks the watershed moment when horror systematically detaches from conventional narrative logic, relocating entirely into unstable perception, blurred spatial coordinates, and fractured temporality. Eschewing a clear antagonist or causal plot, the film sustains a permanent state of ontological uncertainty, establishing a foundational blueprint for modern psychological horror.
 

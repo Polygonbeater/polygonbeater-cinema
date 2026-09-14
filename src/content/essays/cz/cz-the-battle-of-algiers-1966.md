@@ -1,5 +1,4 @@
 ---title: "Bitva o Alžír (La battaglia di Algeri, 1966): Anatomie revoluce a kinematografie dekolonizace"
-film: "Bitva o Alžír (La battaglia di Algeri, 1966)"
 year: 1966
 date: "2026-09-03"
 description: "Hloubková analýza revolučního mistrovského díla Gilla Pontecorva zkoumající dynamiku protipovstaleckého boje, etiku násilí, Kasbu jako městské bojiště a hudební lament Ennia Morriconeho."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "the-battle-of-algiers-1966"
 director: "Gillo Pontecorvo"
 genres: ["Historický", "Válečný", "Politický"]
+film: "Bitva o Alžír (1966)"
 ---
 > *„Každý akt koloniální nadvlády plodí svou vlastní vzpouru a každá vzpoura riskuje, že se stane novou formou útlaku.“*
 

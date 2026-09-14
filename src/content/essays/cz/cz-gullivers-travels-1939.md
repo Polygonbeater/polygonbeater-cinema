@@ -1,5 +1,4 @@
 ---title: "Gulliverovy cesty (Gulliver's Travels, 1939): Absurdita konfliktu v animaci"
-film: "Gulliverovy cesty (1939)"
 year: 1939
 date: "2026-09-03"
 description: "Hloubková analýza celovečerního animovaného filmu studia Fleischer, představujícího protiválečnou alegorii a technický milník rotoskopie v předvečer světového konfliktu."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "gullivers-travels-1939"
 director: "Dave Fleischer"
 genres: ["Animovaný", "Dobrodružný", "Fantasy"]
+film: "Gulliverovy cesty (1939)"
 ---
 Snímek *Gulliverovy cesty* (*Gulliver's Travels*, 1939, stopáž 76 minut), uvedený do amerických kin studiem Fleischer Studios v distribuci Paramount Pictures v prosinci 1939, představuje historický milník světové animace. Jako teprve druhý americký celovečerní animovaný film v historii (uvedený dva roky po Disneyho *Sněhurce a sedmi trpaslících*) demonstroval technickou vyzrálost média a zároveň posloužil jako břitká protiválečná alegorie v okamžiku, kdy se v Evropě již naplno rozhořela druhá světová válka.
 

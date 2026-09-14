@@ -1,5 +1,4 @@
 ---title: "Vertigo (1958): Anatomie posedlosti, nekrofilní fetišismus a mužský pohled"
-film: "Vertigo (1958)"
 year: 1958
 date: "2026-09-03"
 description: "Analytická studie mistrovského díla Alfreda Hitchcocka zkoumající psychologickou obsesi, dekonstrukci mužského pohledu Laury Mulveyové, revoluční efekt dolly zoom a motiv spirály."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "vertigo-1958"
 director: "Alfred Hitchcock"
 genres: ["Psychologický thriller", "Mysteriózní", "Neo-noir"]
+film: "Vertigo (1958)"
 ---
 Psychologický thriller Alfreda Hitchcocka *Vertigo* (1958, stopáž 128 minut), natočený podle románu francouzské autorské dvojice Boileau-Narcejac *D'entre les morts* (Mezi mrtvými), představuje nejhlubší, nejtemnější a nejvíce sebereflexivní dílo v historii kinematografie. Snímek, který v prestižní anketě britského časopisu *Sight & Sound* sesadil z pozice nejlepšího filmu všech dob Wellesova *Občana Kanea*, překračuje mantinely detektivního vyšetřování. 
 

@@ -1,5 +1,4 @@
 ---title: "The Credibility Crisis: Why the US Must Abandon Corporate Imperialism"
-film: "Burn! (1969)"
 year: 1969
 date: "2026-09-03"
 description: "An analytical essay on the mechanics of corporate imperialism, historical US interventions in Latin America, and the Venezuelan crisis."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "corporate-imperialism-and-venezuela"
 director: "Gillo Pontecorvo"
 genres: ["Documentary", "Political", "Essay"]
+film: "Burn! (1969)"
 ---
 The fundamental problem facing American democracy is that the tools of extraction described decades ago have not disappeared; they have simply gone global and corporate.
 

@@ -1,5 +1,4 @@
 ---title: "Salomè (1972): Carmelo Bene's Radical Anti-Cinema"
-film: "Salomè (1972)"
 year: 1972
 date: "2026-09-03"
 description: "An analytical essay on Carmelo Bene's iconoclastic experimental film, deconstructing Oscar Wilde through Baroque aesthetics and Pop Art provocation."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "salome-1972"
 director: "Carmelo Bene"
 genres: ["Historical", "Art House", "Drama"]
+film: "Salomè (1972)"
 ---
 > *“I didn't want to retell Wilde, but to question the impossibility of martyrdom in a modern world, which is no longer barbaric, but exclusively stupid.”*
 

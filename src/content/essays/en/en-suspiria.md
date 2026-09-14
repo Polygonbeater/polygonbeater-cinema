@@ -1,5 +1,4 @@
 ---title: "Two Faces of Darkness: Suspiria as an Aesthetic Trap and Historical Decay"
-film: "Suspiria (1977)"
 year: 1977
 date: "2026-01-01"
 description: "An essayistic comparative study of the two versions of Suspiria (1977 and 2018) by Dario Argento and Luca Guadagnino."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "suspiria"
 director: "Dario Argento"
 genres: ["Horror", "Giallo", "Mystery"]
+film: "Suspiria (1977)"
 ---
 Most remakes lazily copy the original. The encounter between Dario Argento’s 1977 film and Luca Guadagnino’s 2018 reinterpretation is a rare exception. Both auteurs took the exact same premise—a young American at a German ballet academy run by witches—and forged two completely different worlds.
 

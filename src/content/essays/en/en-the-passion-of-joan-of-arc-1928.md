@@ -1,5 +1,4 @@
 ---title: "The Passion of Joan of Arc (1928): The Anatomy of the Absolute"
-film: "The Passion of Joan of Arc (1928)"
 year: 1928
 date: "2026-09-03"
 description: "An analytical study of Carl Theodor Dreyer's silent masterpiece exploring the deconstruction of space, the face as a spiritual battlefield, and the geometry of oppression."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "the-passion-of-joan-of-arc-1928"
 director: "Carl Theodor Dreyer"
 genres: ["Silent Film", "Historical", "Spiritual Drama"]
+film: "The Passion of Joan of Arc (1928)"
 ---
 This study deconstructs the silent era masterpiece *The Passion of Joan of Arc* (1928, running time 82 minutes) as a radical exploration of the limits of the cinematic medium and human endurance. The film analyzes the trial of Joan of Arc not as a historical epic, but as an intimate, claustrophobic clash between earthly dogmatism and pure spiritual faith. 
 

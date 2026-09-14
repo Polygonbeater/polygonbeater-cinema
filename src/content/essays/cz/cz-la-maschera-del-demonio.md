@@ -1,5 +1,4 @@
 ---title: "Maska démona (La maschera del demonio, 1960): Krása, která odmítla zemřít"
-film: "Maska démona (1960)"
 year: 1960
 date: "2026-09-03"
 description: "Analytická studie zakladatelského gotického hororu Maria Bavy zkoumající doppelgängera Barbary Steeleové, návrat potlačeného a fluidní hranici mezi krásou a hrůzou."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "la-maschera-del-demonio"
 director: "Mario Bava"
 genres: ["Gotický horor", "Klasický horor"]
+film: "Maska démona (1960)"
 ---
 Režijní debut Maria Bavy *Maska démona* (*La maschera del demonio*, v mezinárodní distribuci známý též jako *Black Sunday*, 1960, stopáž 87 minut) nepředstavuje pouhou variaci na Gogolovu povídku *Vij*. Je to přelomový okamžik, v němž se evropský filmový horor definitivně vymanil z akademismu a ustavil novou vizuální syntax založenou na fluidním propojení erotické touhy, gotické poezie a fyzického zmaru. Bava, dlouholetý mistr černobílé kamery a optických triků, stvořil dílo, které neděsí vnějšími monstry, nýbrž tím, co patriarchální civilizace odmítá pohřbít a co se s neúprosnou silou vrací z hlubin vytěsněného nevědomí.
 

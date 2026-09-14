@@ -1,5 +1,4 @@
 ---title: "The Revolt of the Toys (1947): A Post-War Lullaby of Resistance"
-film: "The Revolt of the Toys (1947)"
 director: "pioneering animation artist"
 year: 1947
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/vzpoura-hracek-1947.webp"
 lang: "en"
 translationSlug: "vzpoura-hracek-1947"
 genres: ["Animation", "Politická satira", "Short Film"]
+film: "The Revolt of the Toys (1947)"
 ---
 > *“When the seemingly powerless unite, they possess the power to bring down tyranny.”*
 

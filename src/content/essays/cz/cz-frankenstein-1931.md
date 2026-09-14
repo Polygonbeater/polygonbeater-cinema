@@ -1,5 +1,4 @@
 ---title: "Frankenstein (1931): Zrození z masa a vědecká hybris"
-film: "Frankenstein (1931)"
 year: 1931
 date: "2026-09-03"
 description: "James Whale ve svém ikonickém hororu zkoumá vědeckou hybris, etickou odpovědnost tvůrce a tragickou existenci monstra v rané zvukové éře."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "frankenstein-1931"
 director: "James Whale"
 genres: ["Horor", "Sci-Fi", "Klasický Hollywood"]
+film: "Frankenstein (1931)"
 ---
 James Whale ve snímku *Frankenstein* (1931, stopáž 70 minut) zásadním způsobem spoluutvářel ikonografii klasického filmového hororu dvacátého století. Snímek volně vychází z románu Mary Shelleyové, avšak přenáší jej do vizuálního jazyka rané zvukové éry, kde se gotický mysticismus střetává s moderní fascinací vědeckým pokrokem. Film nepředstavuje pouhou žánrovou moralitku o stvoření netvora; funguje jako existenciální a etická pitva odpovědnosti stvořitele za život vržený do nepřátelského světa.
 

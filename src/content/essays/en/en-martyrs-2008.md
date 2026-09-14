@@ -1,5 +1,4 @@
 ---title: "Martyrs (2008): The Anatomy of Pain and the Metaphysics of Suffering"
-film: "Martyrs (2008)"
 director: "Pascal Laugier"
 year: 2008
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/martyrs-2008.webp"
 lang: "en"
 translationSlug: "martyrs-2008"
 genres: ["Horror", "Transgressive", "Psychological"]
+film: "Martyrs (2008)"
 ---
 This study deconstructs the cornerstone of "New French Extremity," *Martyrs* (2008, running time 99 minutes), as a radical philosophical treatise on the search for transcendence through systematic torture. The film follows the story of Lucie and Anna, two young women pursued by a mysterious society attempting to uncover the secret of the afterlife. 
 

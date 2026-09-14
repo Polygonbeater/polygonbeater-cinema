@@ -1,5 +1,4 @@
 ---title: "Tajemství za dveřmi (Secret Beyond the Door, 1947): Architektura osudu a labyrint patologické mysli"
-film: "Tajemství za dveřmi (Secret Beyond the Door, 1947)"
 year: 1947
 date: "2026-09-03"
 description: "Analytická studie psychologického noiru a ženské gotiky Fritze Langa zkoumající prostorový determinismus, freudiánskou psychoanalýzu a architekturu jako mapu patologické mysli."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "secret-beyond-the-door-1947"
 director: "Fritz Lang"
 genres: ["Film noir", "Psychologický thriller", "Gotický"]
+film: "Tajemství za dveřmi (1947)"
 ---
 Snímek *Tajemství za dveřmi* (*Secret Beyond the Door*, 1947, stopáž 99 minut) představuje v tvorbě Fritze Langa radikální přechod od geopolitické špionáže a společenského útlaku k intimnímu teroru lidského podvědomí. Film vznikl jako osobitá a subverzivní autorská reakce na tehdejší vlnu hollywoodských freudiánských thrillerů (např. Hitchcockovo *Rozdvojené lano*). 
 

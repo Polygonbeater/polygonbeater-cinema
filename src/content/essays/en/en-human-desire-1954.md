@@ -1,5 +1,4 @@
 ---title: "Human Desire (1954): A Study in Mechanical Fatalism"
-film: "Human Desire (1954)"
 year: 1954
 date: "2026-09-03"
 description: "An analytical study of Fritz Lang's adaptation of Émile Zola's novel, exploring environmental determinism, rail line geometry, and mechanical fatalism."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "human-desire-1954"
 director: "Fritz Lang"
 genres: ["Film Noir", "Drama", "Crime"]
+film: "Human Desire (1954)"
 ---
 *Human Desire* (91 min) is Lang’s cold, clinical take on Émile Zola’s naturalism. Moving away from the moral outrage of *The Big Heat*, Lang focuses here on the "beast within" the modern industrial worker. The film is a study of how human emotions—jealousy, lust, and greed—are amplified and eventually crushed by the mechanical indifference of the machine age.
 

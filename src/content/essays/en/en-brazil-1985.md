@@ -1,5 +1,4 @@
 ---title: "Brazil (1985): Bureaucratic Normality, Technical Infrastructure, and the Colonization of Dreams"
-film: "Brazil (1985)"
 year: 1985
 date: "2026-09-03"
 description: "Analytical study of Terry Gilliam's dystopian masterpiece, examining bureaucracy as an autonomous organism, permanent temporal deferral, and the failure of imaginative escape."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "brazil-1985"
 director: "Terry Gilliam"
 genres: ["Dystopia", "Sci-Fi", "Black Comedy"]
+film: "Brazil (1985)"
 ---
 Terry Gilliam’s *Brazil* (1985) stands as one of modern cinema’s most striking and intellectually rigorous dystopias. The film’s horror does not derive from monsters or overt tyranny, but from the chilling banality of bureaucratic normality—the daily operation of a system that is technically efficient, procedurally meticulous, and profoundly indifferent to human life.
 

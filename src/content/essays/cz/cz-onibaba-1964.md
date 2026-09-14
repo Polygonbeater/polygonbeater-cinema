@@ -1,5 +1,4 @@
 ---title: "Onibaba (1964): Materiální horor a kolaps sociálního imaginárna"
-film: "Onibaba (1964)"
 year: 1964
 date: "2026-09-03"
 description: "Analytická studie filmu Kaneta Šindóa Onibaba zkoumající materiální horor, širokoúhlou estetiku TohoScope, masku Hanny a historické trauma poválečného Japonska."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "onibaba-1964"
 director: "Kaneto Šindó"
 genres: ["Horor", "Historický", "Japonský film"]
+film: "Onibaba (1964)"
 ---
 Uvedení snímku *Onibaba* (1964, stopáž 103 minut) v režii Kaneta Šindóa představovalo zásadní zlom v poválečné japonské kinematografii. V éře, kdy se země navenek prezentovala moderním technologickým optimismem symbolizovaným tokijskými olympijskými hrami, se Šindó obrátil hluboko do občanských válek 14. století, aby vytvořil radikální materialistickou kontrahistorii. Režisér odmítá hrdinský patos klasického žánru jidaigeki a demystifikuje samurajskou kulturu: dějiny v jeho pojetí nepředstavují pokrok cti, nýbrž brutální biologický cyklus hladu, potu, sexuality, animálního násilí a smrti.
 

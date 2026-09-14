@@ -1,5 +1,4 @@
 ---title: "Moon (2009): Existenciální izolace a horor korporátní recyklace"
-film: "Moon (2009)"
 year: 2009
 date: "2026-09-03"
 description: "Analytická studie sci-fi thrilleru Duncana Jonese zkoumající klonování paměti, lunární klaustrofobii a mrazivou banalitu korporátního zla."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "moon-2009"
 director: "Duncan Jones"
 genres: ["Sci-Fi", "Mysteriózní", "Psychologický"]
+film: "Moon (2009)"
 ---
 Tato studie dekonstruuje existenciální sci-fi thriller Duncana Jonese *Moon* (2009, stopáž 97 minut) jako mistrovské dílo psychologického hororu. Snímek analyzuje příběh astronauta Sama Bella, který osaměle dohlíží na těžbu hélia-3 na odvrácené straně Měsíce a jemuž právě končí tříletá směna. 
 

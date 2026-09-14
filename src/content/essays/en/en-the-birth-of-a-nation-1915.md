@@ -1,5 +1,4 @@
 ---title: "The Birth of a Nation (1915): The Genesis of Film Technique and Ideology"
-film: "The Birth of a Nation (1915)"
 year: 1915
 date: "2026-09-03"
 description: "An analytical essay on D.W. Griffith's monumental and deeply controversial epic, examining its pioneering cinematic language alongside its white supremacist ideology."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "the-birth-of-a-nation-1915"
 director: "D. W. Griffith"
 genres: ["Silent Film", "Historical", "Epic"]
+film: "The Birth of a Nation (1915)"
 ---
 D. W. Griffith’s 1915 epic, *The Birth of a Nation*, is arguably the single most important and controversial film in the history of cinema. It is a dual artifact: a technical masterpiece that pioneered the language of film, and a racist polemic whose ideological damage cannot be overstated.
 

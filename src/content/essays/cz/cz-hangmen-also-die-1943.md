@@ -1,5 +1,4 @@
 ---title: "I katé umírají! (Hangmen Also Die!, 1943): Politická epistemologie a vizuální architektura moci"
-film: "I katé umírají! (1943)"
 year: 1943
 date: "2026-09-03"
 description: "Analytická studie válečného dramatu Fritze Langa a Bertolta Brechta zkoumající manipulaci s pravdou, heydrichiádu, brechtovský zcizovací efekt a vizuální panoptikon okupované Prahy."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "hangmen-also-die-1943"
 director: "Fritz Lang"
 genres: ["Válečný", "Film noir", "Thriller"]
+film: "I katé umírají! (1943)"
 ---
 Snímek *I katé umírají!* (*Hangmen Also Die!*, 1943, stopáž 134 minut) nepředstavuje pouhou hollywoodskou válečnou agitku; je to přísný analytický rozbor fungování totalitní moci a epistemologie lži. Režisér Fritz Lang a dramatik Bertolt Brecht (společně s kameramanem Jamesem Wongem Howem) uchopili atentát na zastupujícího říšského protektora Reinharda Heydricha nikoliv jako faktografickou rekonstrukci, nýbrž jako modelovou studii mechanismů kolektivního odporu. Snímek organicky propojuje tradici německého expresionismu, brechtovskou dialektiku a rodící se poetiku amerického filmu noir.
 

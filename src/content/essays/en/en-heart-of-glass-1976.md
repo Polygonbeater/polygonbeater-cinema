@@ -1,5 +1,4 @@
 ---title: "Heart of Glass (1976): The Somnambulistic Prophecy"
-film: "Heart of Glass (1976)"
 year: 1976
 date: "2026-09-03"
 description: "An analytical study of Werner Herzog's visionary work exploring hypnosis as a state of being, the alchemy of Ruby Glass, and apocalypse in red grain."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "heart-of-glass-1976"
 director: "Werner Herzog"
 genres: ["Drama", "Mystery", "Art House"]
+film: "Heart of Glass (1976)"
 ---
 This study deconstructs Werner Herzog’s visionary work *Heart of Glass* (*Herz aus Glas*, 1976, running time 94 minutes) as a radical exploration of social collapse and spiritual decay. Set in an 18th-century Bavarian glassblowing village, the film follows the disintegration of a community after the loss of the recipe for precious "Ruby Glass." 
 

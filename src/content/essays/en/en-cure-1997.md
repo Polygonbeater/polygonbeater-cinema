@@ -1,5 +1,4 @@
 ---title: "Cure (1997): The Contagion of Emptiness"
-film: "Cure (1997)"
 year: 1997
 date: "2026-09-03"
 description: "An analytical study of Kiyoshi Kurosawa's psychological horror exploring the anatomy of alienation, the hypnotic destruction of the ego, and the contagion of emptiness."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "cure-1997"
 director: "Kijoshi Kurosawa"
 genres: ["Psychological", "Horror", "Thriller", "Crime"]
+film: "Cure (1997)"
 ---
 This study deconstructs the cult Japanese psychological horror film *Cure* (1997, running time 111 minutes) as a chilling meditation on the fragility of human identity and the suppressed instincts of modern society. The film formally utilizes the structure of a police procedural to follow Detective Takabe, who is investigating a series of bizarre murders. 
 

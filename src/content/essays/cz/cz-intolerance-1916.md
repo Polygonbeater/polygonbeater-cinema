@@ -1,5 +1,4 @@
 ---title: "Intolerance (1916): Univerzální manifest proti zneužívání moci a dogmatu"
-film: "Intolerance (1916)"
 year: 1916
 date: "2026-09-03"
 description: "Monumentální němý epos D. W. Griffitha paralelně propojuje čtyři historické epochy, aby demaskoval nadčasový mechanismus lidské krutosti, dogmatismu a institucionální arogance."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "intolerance-1916"
 director: "D. W. Griffith"
 genres: ["Němý film", "Historický", "Epos"]
+film: "Intolerance (1916)"
 ---
 Monumentální němý epos D. W. Griffitha *Intolerance* (*Intolerance: Love's Struggle Throughout the Ages*, 1916, stopáž 197 minut) představuje jeden z nejradikálnějších autorských manifestů v dějinách kinematografie. Snímek nevznikl jako chladná akademická rekonstrukce, nýbrž jako vášnivá reakce tvůrce na cenzurní útoky a společenské kontroverze, kterým čelil po uvedení svého předešlého filmu *Zrození národa*. 
 

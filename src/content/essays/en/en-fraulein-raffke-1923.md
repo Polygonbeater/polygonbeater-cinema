@@ -1,5 +1,4 @@
 ---title: "Fräulein Raffke (1923): Dancing on the Edge of the Abyss"
-film: "Fräulein Raffke (1923)"
 year: 1923
 date: "2026-09-03"
 description: "An analytical essay on Richard Eichberg's satirical silent film capturing hyperinflation, social profiteers, and the hedonistic pulse of 1923 Berlin."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "fraulein-raffke-1923"
 director: "Richard Eichberg"
 genres: ["Silent Film", "Comedy", "Social Drama"]
+film: "Fräulein Raffke (1923)"
 ---
 > "This morning, a dollar costs 10 billion marks. By this afternoon, it will likely be double." – Berlin Daily, 1923.
 

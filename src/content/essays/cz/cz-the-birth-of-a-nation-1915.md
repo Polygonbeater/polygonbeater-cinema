@@ -1,5 +1,4 @@
 ---title: "Zrození národa (The Birth of a Nation, 1915): Zrod filmové gramatiky a ideologie bílé nadvlády"
-film: "Zrození národa (The Birth of a Nation, 1915)"
 year: 1915
 date: "2026-09-03"
 description: "Hloubková analýza přelomového a hluboce kontroverzního velkofilmu D. W. Griffitha zkoumající zrod moderní filmové řeči, paralelní montáž, revizionismus amerického Jihu a ideologické škody Ku Klux Klanu."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "the-birth-of-a-nation-1915"
 director: "D. W. Griffith"
 genres: ["Němý film", "Historický", "Epos"]
+film: "Zrození národa (1915)"
 ---
 Tříhodinový němý epos Davida Warka Griffitha *Zrození národa* (*The Birth of a Nation*, 1915, stopáž 193 minut), adaptující rasistický román Thomase Dixona *The Clansman* (1905), představuje nejvýznamnější a současně nejničivější paradox v dějinách světové kinematografie. Na jedné straně jde o monumentální technický a formální triumf, který kodifikoval základní syntax moderního filmového jazyka a povýšil kinematografii z pouťové atrakce na suverénní umělecké médium schopné celovečerní epické výpovědi. 
 

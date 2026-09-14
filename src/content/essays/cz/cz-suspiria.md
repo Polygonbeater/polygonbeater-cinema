@@ -1,5 +1,4 @@
 ---title: "Suspiria (1977 & 2018): Estetická past, geometrie hrůzy a historická vina"
-film: "Suspiria (1977)"
 year: 1977
 date: "2026-09-03"
 description: "Srovnávací analytická studie dvou verzí kultovního hororu Suspiria od Daria Argenta a Lucy Guadagnina zkoumající technicolorový teror, matriarchát a trauma Německého podzimu."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "suspiria"
 director: "Dario Argento, Luca Guadagnino"
 genres: ["Horor", "Giallo", "Mysteriózní"]
+film: "Suspiria (1977)"
 ---
 Většina filmových remaků představuje pouhou komerční reprodukci prověřeného originálu. Umělecká konfrontace původní *Suspirie* Daria Argenta (1977, stopáž 98 minut) a její radikální reinterpretace v režii Lucy Guadagnina (2018, stopáž 152 minut) však tvoří jeden z nejvíce fascinujících dialogů v dějinách kinematografie. 
 

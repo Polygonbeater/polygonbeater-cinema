@@ -1,5 +1,4 @@
 ---title: "La maschera del demonio (1960): Beauty That Refused to Die"
-film: "La maschera del demonio (1960)"
 year: 1960
 date: "2026-09-02"
 description: "Return over resurrection — an analysis of Mario Bava's iconic gothic horror masterpiece."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "la-maschera-del-demonio"
 director: "Mario Bava"
 genres: ["Gothic Horror", "Klasický horor"]
+film: "La maschera del demonio (1960)"
 ---
 ## Introduction: Return Over Resurrection
 

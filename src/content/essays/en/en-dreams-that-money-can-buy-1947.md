@@ -1,5 +1,4 @@
 ---title: "Dreams That Money Can Buy (1947): A Manifesto of the Subconscious"
-film: "Dreams That Money Can Buy (1947)"
 year: 1947
 date: "2026-09-03"
 description: "An analytical essay on Hans Richter's experimental surrealist anthology film, exploring its collaborative exile production and avant-garde resistance."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "dreams-that-money-can-buy-1947"
 director: "Hans Richter"
 genres: ["Avant-garde", "Surrealism", "Experimental"]
+film: "Dreams That Money Can Buy (1947)"
 ---
 *Dreams That Money Can Buy* (1947), directed and conceived by German Dadaist and avant-garde pioneer Hans Richter, is a seminal work of experimental cinema. Produced in American exile, the film functions as a vivid surrealist anthology and a powerful collective statement of artistic freedom, gathering the voices of European modernists who had fled Nazi persecution.
 

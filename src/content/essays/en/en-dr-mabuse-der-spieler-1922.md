@@ -1,5 +1,4 @@
 ---title: "Dr. Mabuse, der Spieler (1922): The Operating System of Power, Speculation, and Epistemic Collapse"
-film: "Dr. Mabuse, der Spieler (1922)"
 year: 1922
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's monumental two-part silent epic, examining hypnosis as ideology, stock-market volatility, and Mabuse as an archetype of modern control."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "dr-mabuse-der-spieler-1922"
 director: "Fritz Lang"
 genres: ["Silent Film", "Crime", "Expressionism"]
+film: "Dr. Mabuse, der Spieler (1922)"
 ---
 Fritz Lang’s monumental two-part silent masterpiece *Dr. Mabuse, der Spieler* (*Dr. Mabuse, the Gambler*, 1922), co-written with Thea von Harbou, stands as one of cinema's earliest and most sophisticated models of modern power. Produced amidst the hyperinflation, political turmoil, and institutional collapse of the Weimar Republic, the film diagnoses the pathologies of modern mass society.
 

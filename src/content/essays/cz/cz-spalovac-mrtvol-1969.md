@@ -1,5 +1,4 @@
 ---title: "Spalovač mrtvol (1969): Banalita zla jako estetický systém"
-film: "Spalovač mrtvol (1969)"
 year: 1969
 date: "2026-09-03"
 description: "Radikální studie normalizace zla, v níž Juraj Herz a Rudolf Hrušínský ukazují přerod malého člověka v nástroj vyhlazovací ideologie skrze touhu po řádu, čistotě a estetice."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "spalovac-mrtvol-1969"
 director: "Juraj Herz"
 genres: ["Psychologický horor", "Černá komedie", "Historický"]
+film: "Spalovač mrtvol (1969)"
 ---
 Snímek Juraje Herze *Spalovač mrtvol* (1969, stopáž 95 minut), natočený podle stejnojmenné novely Ladislava Fukse, představuje jeden z nejradikálnějších, formálně nejodvážnějších a myšlenkově nejničivějších vrcholů Československé nové vlny. Film nepřistupuje k nacistické okupaci jako k historickému dramatu s vnějším hrdinstvím či patosem. Namísto toho provádí mikroskopickou a mrazivou pitvu toho, jak se spořádaný, kultivovaný a zdánlivě mírumilovný měšťan plynule promění v masového vraha a výkonný orgán vyhlazovací mašinérie. 
 

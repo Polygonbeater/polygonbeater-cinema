@@ -1,5 +1,4 @@
 ---title: "Magic, Pride, and the Sarmatian Nobleman: The Cinematic Epic Pan Twardowski (1936)"
-film: "Pan Twardowski (1936)"
 year: 1936
 date: "2026-09-02"
 description: "Henryk Szaro's ambitious Polish historical epic blends Renaissance splendor, Sarmatian swagger, and folk tales about the Polish Faust."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "pan-twardowski-1936"
 director: "Henryk Szaro"
 genres: ["Fantasy", "Historical", "Folklore"]
+film: "Pan Twardowski (1936)"
 ---
 When Polish director Henryk Szaro decided to adapt the legend of Master Twardowski in 1936, he was not aiming for a modest, intimate experiment. His goal was to showcase the power and grandeur of Polish cinema. *Pan Twardowski* was one of the most expensive and ambitious projects of its time. Szaro took the ancient tale of the Polish Faust and forged it into a mesmerizing historical epic, blending Renaissance splendor with folk tales of devils and sorcery.
 

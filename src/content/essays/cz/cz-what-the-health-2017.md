@@ -1,5 +1,4 @@
 ---title: "What the Health (2017): Když se věda stane zbraní a manipulace kognitivní suverenity"
-film: "What the Health (2017)"
 year: 2017
 date: "2026-09-03"
 description: "Kritická analytická studie dokumentu What the Health zkoumající manipulaci vědeckého diskurzu, neurochemii strachu, techniky cherry-pickingu a kognitivní suverenitu diváka."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "what-the-health-2017"
 director: "Kip Andersen, Keegan Kuhn"
 genres: ["Dokumentární", "Investigativní"]
+film: "What the Health (2017)"
 ---
 Dokumentární film Kipa Andersena a Keegana Kuhna *What the Health* (2017, stopáž 97 minut) představuje instruktážní model novodobého dezinformačního narativu a sofistikovaného útoku na kognitivní suverenitu diváka. Film, distribuovaný globálně prostřednictvím streamovací platformy Netflix, vystupuje pod maskou angažované investigativní žurnalistiky hájící veganské stravování. 
 

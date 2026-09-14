@@ -1,5 +1,4 @@
 ---title: "A Force More Powerful (2000): A Century of Nonviolent Conflict"
-film: "A Force More Powerful (2000)"
 year: 2000
 date: "2026-09-03"
 description: "An analytical study of the documentary examining nonviolent resistance as a systematic strategy for political change through historical examples."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "a-force-more-powerful-2000"
 director: "Steve York"
 genres: ["Documentary", "Political", "Historical"]
+film: "A Force More Powerful (2000)"
 ---
 The documentary *A Force More Powerful* presents nonviolent resistance not merely as a moral choice, but as a systematic, historically proven strategy for political change. Its central thesis, drawing on Hannah Arendt and Gene Sharp, is that political power depends not only on coercion but on the voluntary cooperation of the governed. When people withdraw that cooperation, power structures collapse.
 

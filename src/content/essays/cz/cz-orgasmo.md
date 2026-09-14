@@ -1,5 +1,4 @@
 ---title: "Orgasmo (1969): Zlatá klec paranoie a psychologická destrukce"
-film: "Orgasmo (1969)"
 year: 1969
 date: "2026-09-03"
 description: "Esejistická analýza psychologického thrilleru Umberta Lenziho zkoumající manipulaci, gaslighting, architekturu slunné izolace a rozpad buržoazní suverenity."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "orgasmo"
 director: "Umberto Lenzi"
 genres: ["Giallo", "Erotický thriller", "Psychologický"]
+film: "Orgasmo (1969)"
 ---
 Zatímco klasické italské giallo obvykle podřizuje svou výstavbu hledání maskovaného vraha s břitvou a choreografii krvavých mordů, Umberto Lenzi ve svém přelomovém díle *Orgasmo* (1969, stopáž 90 minut) tuto žánrovou šablonu radikálně proměňuje. Ve spolupráci s americkou hvězdou Carroll Bakerovou – pro niž se film stal odrazovým můstkem k postavení ikony italského erotického thrilleru – přesunul těžiště děsu od vnějšího nebezpečí k rafinované psychologické manipulaci. 
 

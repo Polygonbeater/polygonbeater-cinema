@@ -1,5 +1,4 @@
 ---title: "Lost Highway (1997) – A Trap Without Escape"
-film: "Lost Highway (1997)"
 year: 1997
 date: "2026-09-02"
 description: "David Lynch treats film as a closed system without a linear narrative, where identity collapses into the shape of a Möbius strip."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "lost-highway-1997"
 director: "David Lynch"
 genres: ["Neo-noir", "Surrealism", "Psychological"]
+film: "Lost Highway (1997)"
 ---
 In Lost Highway, David Lynch treats the film not as an observation of the world, but as a closed system designed to consume the viewer. The film begins with the announcement of a death ("Dick Laurent is dead") and ends at that very same point. Within this seemingly closed narrative construction, there is no linear story—only an endless transformation of identity that strips the viewer of all orientation.
 

@@ -1,5 +1,4 @@
 ---title: "The Adventures of Prince Achmed (1926): Lotte Reiniger’s Silhouette Symphony"
-film: "The Adventures of Prince Achmed (1926)"
 year: 1926
 date: "2026-09-03"
 description: "An analytical essay on the world's oldest surviving feature-length animated film, crafted through intricate paper silhouettes by Lotte Reiniger."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "dobrodruzstvi-princa-achmeda-1926"
 director: "Lotte Reiniger"
 genres: ["Animation", "Silent Film", "Fairy Tale"]
+film: "The Adventures of Prince Achmed (1926)"
 ---
 > *“Long before digital animation, Lotte Reiniger crafted the world’s oldest surviving feature-length animated film — a mesmerizing silhouette fantasy that still feels otherworldly today.”*
 

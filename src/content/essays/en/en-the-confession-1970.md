@@ -1,5 +1,4 @@
 ---title: "The Confession (1970): The Autopsy of Propaganda"
-film: "The Confession (1970)"
 year: 1970
 date: "2026-09-03"
 description: "An analytical essay on Costa-Gavras's political drama based on Artur London’s memoir about the Slánský show trial."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "the-confession-1970"
 director: "Costa-Gavras"
 genres: ["Politický thriller", "Historical", "Drama"]
+film: "The Confession (1970)"
 ---
 *The Confession* is not propaganda — it is an autopsy of propaganda in practice. It reconstructs the Stalinist show trial of Rudolf Slánský and 13 co-defendants in Czechoslovakia (1952), exposing how totalitarian systems manufacture guilt through fear, isolation, sleep deprivation, and scripted confessions.
 

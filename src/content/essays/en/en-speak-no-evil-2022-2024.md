@@ -1,5 +1,4 @@
 ---title: "Speak No Evil (2022 & 2024): The Tyranny of Politeness and the Technical Architecture of (Dis)obedience"
-film: "Speak No Evil (2022 & 2024)"
 date: "2026-09-03"
 description: "A comparative analytical study of the Danish original and American remake exploring the open door syndrome, the acoustics of discomfort, and the cinematography of survival."
 image: "/images/essays/speak-no-evil-2022-2024.webp"
@@ -9,6 +8,7 @@ translationSlug: "speak-no-evil-2022-2024"
 director: "Christian Tafdrup"
 year: 2022
 genres: ["Psychological Thriller", "Horror", "Satire"]
+film: "Speak No Evil (2022 & 2024)"
 ---
 This study deconstructs the unique cinematic phenomenon of the Danish-Dutch original *Speak No Evil* (2022, 97 min) and its American remake (2024, 110 min) as the ultimate indictment of modern social conformity. Both films follow a civilized family who accepts a weekend invitation from a foreign couple, stepping into a psychological trap. 
 

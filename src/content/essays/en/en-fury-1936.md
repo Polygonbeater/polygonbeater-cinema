@@ -1,5 +1,4 @@
 ---title: "Fury (1936): Fast Emotion, the Manufacture of Certainty, and the Mob as a System"
-film: "Fury (1936)"
 year: 1936
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's first American film, examining lynching as a social mechanism, institutional failure, and the moral corruption of the victim."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "fury-1936"
 director: "Fritz Lang"
 genres: ["Film Noir", "Drama", "Social Drama"]
+film: "Fury (1936)"
 ---
 *Fury* (1936), produced by Joseph L. Mankiewicz at Metro-Goldwyn-Mayer, marks Fritz Lang’s stunning American debut. Drawing inspiration from real-world atrocities—specifically the 1933 San Jose lynching—Lang crafts a controlled study of how ordinary communities transform into destructive mobs.
 

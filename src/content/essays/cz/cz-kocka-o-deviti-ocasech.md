@@ -1,5 +1,4 @@
 ---title: "Kočka o devíti ocasech (Il gatto a nove code, 1971): Labyrint smyslů a krize poznání"
-film: "Kočka o devíti ocasech (1971)"
 year: 1971
 date: "2026-09-03"
 description: "Analytická studie druhého gialla Daria Argenta zkoumající epistemologickou krizi zraku, slepého vyšetřovatele, genetický determinismus a avantgardní zvukovou krajinu Ennia Morriconeho."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "kocka-o-deviti-ocasech"
 director: "Dario Argento"
 genres: ["Giallo", "Mysteriózní", "Thriller"]
+film: "Kočka o devíti ocasech (1971)"
 ---
 Vizuální svět italského gialla tradičně funguje jako labyrint zrcadel, v němž je objektivní pravda pokřivena barvami, deformovanou optikou a stíny. Když Dario Argento v roce 1971 uvedl svůj druhý celovečerní snímek *Kočka o devíti ocasech* (*Il gatto a nove code*, stopáž 112 minut), rozhodl se tento optický mýtus radikálně zpochybnit. Do centra vyšetřování série brutálních vražd spojených s genetickým výzkumným institutem nestaví bystrého pozorovatele, nýbrž muže, který byl zraku zbaven. Bývalý novinář Franco Arnò (Karl Malden) operuje v režimu alternativní smyslové rekonstrukce reality, čímž film otevírá hlubokou epistemologickou debatu o nespolehlivosti samotného vidění.
 

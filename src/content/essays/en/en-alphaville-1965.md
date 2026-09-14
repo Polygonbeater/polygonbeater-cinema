@@ -1,5 +1,4 @@
 ---title: "Alphaville (1965): Technocracy, Language, and the Administration of Power"
-film: "Alphaville (1965)"
 year: 1965
 date: "2026-09-03"
 description: "Analytical study of Jean-Luc Godard's sci-fi noir masterpiece, examining cybernetic rationality, the voice of Alpha 60, bureaucratic power, and linguistic control."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "alphaville-1965"
 director: "Jean-Luc Godard"
 genres: ["Sci-Fi", "Film Noir", "French New Wave"]
+film: "Alphaville (1965)"
 ---
 Jean-Luc Godard’s *Alphaville* (*Une étrange aventure de Lemmy Caution*, 1965) discards traditional sci-fi iconography. Eschewing futuristic studio sets and miniatures, Godard shot entirely within the contemporary, raw glass-and-concrete architecture of mid-1960s Paris, crafting a biting diagnosis of technocratic modernity.
 

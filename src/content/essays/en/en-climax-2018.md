@@ -1,5 +1,4 @@
 ---title: "Climax (2018): The Choreography of Chaos and the Collapse of the Social Contract"
-film: "Climax (2018)"
 year: 2018
 date: "2026-09-02"
 description: "An analytical study deconstructing Gaspar Noé's hallucinatory horror Climax as a purely somatic experience and a radical depiction of collective psychosis induced by LSD."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "climax-2018"
 director: "Gaspar Noé"
 genres: ["Horror", "Psychological", "Musical"]
+film: "Climax (2018)"
 ---
 This study deconstructs Gaspar Noé's hallucinatory horror *Climax* (2018, running time 97 minutes) as a purely somatic experience and a radical depiction of collective psychosis. The film follows a dance troupe that, after a successful rehearsal in an isolated building, drinks LSD-laced sangria, leading to an absolute descent into animalistic madness. Methodologically, the text focuses on the use of dance as a primary language, the uninterrupted camera tracking shots that ultimately visualize moral inversion by flipping the image upside down, and the fragility of human civility. The film does not employ the supernatural, but rather the crushing fact that beneath the thin veneer of socialization lies an uncontrollable, instinctive chaos.
 

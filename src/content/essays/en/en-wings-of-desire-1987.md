@@ -1,5 +1,4 @@
 ---title: "Wings of Desire (1987): The Weight of the Earthly"
-film: "Wings of Desire (1987)"
 year: 1987
 date: "2026-09-03"
 description: "An analytical study of Wim Wenders' poetic masterpiece exploring the synthesis of eternity, Henri Alekan's cinematography, and the spatial metaphor of the Berlin Wall."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "wings-of-desire-1987"
 director: "Wim Wenders"
 genres: ["Poetic Drama", "Philosophical", "Romance"]
+film: "Wings of Desire (1987)"
 ---
 This study deconstructs Wim Wenders' poetic masterpiece *Wings of Desire* (Der Himmel über Berlin, 1987, running time 128 minutes) as the absolute visualization of the ontological intersection between spirit and matter. The film analyzes the existence of angels who wander as silent witnesses through divided Berlin, incapable of physical experience. 
 

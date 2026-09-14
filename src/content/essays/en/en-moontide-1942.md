@@ -1,5 +1,4 @@
 ---title: "Moontide (1942): The Year of Professional and Personal Fracture"
-film: "Moontide (1942)"
 year: 1942
 date: "2026-09-03"
 description: "Analytical study of Moontide mapping Fritz Lang's departure after four days, the Gabin-Lang-Dietrich triangle, and the film's visual schizophrenia."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "moontide-1942"
 director: "Archie Mayo, Fritz Lang"
 genres: ["Film Noir", "Drama", "Romance"]
+film: "Moontide (1942)"
 ---
 *Moontide* (1942) represents a unique turning point in Fritz Lang’s career—a project that forced him to resign after just four days of shooting and propelled him toward radical independence for his subsequent masterpiece, *Hangmen Also Die!*.
 

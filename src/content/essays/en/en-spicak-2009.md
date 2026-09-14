@@ -1,5 +1,4 @@
 ---title: "Dogtooth (2009): Domestic Taming and the Linguistic Prison"
-film: "Dogtooth (2009)"
 year: 2009
 date: "2026-09-02"
 description: "An analytical study deconstructing Yorgos Lanthimos’s breakthrough film Dogtooth as a radical investigation into the pathology of total control, linguistic repression, and domestic taming."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "spicak-2009"
 director: "Yorgos Lanthimos"
 genres: ["Psychological Drama", "Black Comedy"]
+film: "Dogtooth (2009)"
 ---
 This study deconstructs Yorgos Lanthimos’s breakthrough film *Dogtooth* (2009, running time 94 minutes) as a radical investigation into the pathology of total control. The film analyzes the lives of three adult siblings kept in absolute isolation by their parents within a family villa, led to believe that the outside world is deathly dangerous. Methodologically, the text focuses on the use of language as a tool of taming (renaming objects), physical and psychological conditioning, and the concept of "erased identity." The film illustrates that the most terrifying cage is not one of steel, but the one a person carries in their own mind due to a perverted upbringing.
 

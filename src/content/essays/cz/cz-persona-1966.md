@@ -1,5 +1,4 @@
 ---title: "Persona (1966): Rozpad masky, labilita identity a ontologie ticha"
-film: "Persona (1966)"
 year: 1966
 date: "2026-09-03"
 description: "Analytická studie radikálního mistrovského díla Ingmara Bergmana zkoumající labilitu lidské identity, bílé světlo ostrova Fårö, optiku Svena Nykvista a sebereflexivní destrukci filmového materiálu."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "persona-1966"
 director: "Ingmar Bergman"
 genres: ["Psychologický", "Drama", "Art"]
+film: "Persona (1966)"
 ---
 Snímek Ingmara Bergmana *Persona* (1966, stopáž 83 minut) představuje jeden z nejradikálnějších epistemologických a formálních experimentů v dějinách moderní kinematografie. Bergman opouští tradiční narativní rámce a vytváří neúprosnou psychoanalytickou a filozofickou studii lability lidského já. Příběh sleduje vztah mezi divadelní herečkou Elisabet Voglerovou (Liv Ullmannová), která se uprostřed představení Elektry rozhodne náhle a absolutně umlknout, a její mladou ošetřovatelkou Almou (Bibi Anderssonová), jež je pověřena péčí o ni na izolovaném pobřeží ostrova Fårö. 
 

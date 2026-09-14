@@ -1,5 +1,4 @@
 ---title: "The Phantom Carriage (1921): The Midnight Curse"
-film: "The Phantom Carriage (1921)"
 year: 1921
 date: "2026-09-03"
 description: "An analytical essay on Victor Sjöström's haunting silent masterpiece, blending Nordic folklore, groundbreaking special effects, and moral redemption."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "the-phantom-carriage-1921"
 director: "Victor Sjöström"
 genres: ["Silent Film", "Gothic Horror", "Mystery"]
+film: "The Phantom Carriage (1921)"
 ---
 While the world toasts to the future, Victor Sjöström’s silent masterpiece, *The Phantom Carriage* (*Körkarlen*), invites us into a winter’s night that has haunted audiences for over a century.
 

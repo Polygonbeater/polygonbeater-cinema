@@ -1,5 +1,4 @@
 ---title: "Na břehu (On the Beach, 1959): Tiché umírání lidstva a etika zániku"
-film: "Na břehu (On the Beach, 1959)"
 year: 1959
 date: "2026-09-03"
 description: "Hloubková analýza vizionářského postapokalyptického dramatu Stanleyho Kramera zkoumající jadernou hrozbu, psychologii konce bez naděje a technologickou hybris civilizace."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "on-the-beach-1959"
 director: "Stanley Kramer"
 genres: ["Sci-Fi", "Postapokalyptický", "Drama"]
+film: "Na břehu (1959)"
 ---
 > *„Je stále ještě čas... bratře.“*
 

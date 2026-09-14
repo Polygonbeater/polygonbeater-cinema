@@ -1,5 +1,4 @@
 ---title: "Nebe nad Berlínem (Der Himmel über Berlin, 1987): Tíha pozemskosti a ontologie lidského pádu"
-film: "Nebe nad Berlínem (1987)"
 year: 1987
 date: "2026-09-03"
 description: "Analytická studie poetického mistrovského díla Wima Wenderse zkoumající syntézu věčnosti a konečnosti, dualitu kamery Henriho Alekana, texty Petera Handkeho a prostorovou metaforu Berlínské zdi."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "wings-of-desire-1987"
 director: "Wim Wenders"
 genres: ["Poetické drama", "Filozofický", "Romantický"]
+film: "Nebe nad Berlínem (1987)"
 ---
 Poetické mistrovské dílo německého režiséra Wima Wenderse *Nebe nad Berlínem* (*Der Himmel über Berlin*, 1987, stopáž 128 minut), oceněné Cenou za nejlepší režii na festivalu v Cannes, představuje jeden z vrcholů moderního filozofického a spirituálního filmu. Snímek, natočený podle scénáře vzniklého v úzké spolupráci s rakouským dramatikem a básníkem Peterem Handkem, dekonstruuje tradiční teologické představy o andělech. 
 

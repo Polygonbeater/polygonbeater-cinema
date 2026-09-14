@@ -1,5 +1,4 @@
 ---title: "Červená Karkulka (Rotkäppchen, 1962): Triumf vizionářského řemesla nad státním diktátem"
-film: "Červená Karkulka (1962)"
 year: 1962
 date: "2026-09-03"
 description: "Hloubková analýza východoněmeckého pohádkového snímku DEFA v režii Götze Friedricha zkoumající napětí mezi ideologickým diktátem, divadelním realismem a gotickou estetikou."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "little-red-riding-hood-1962"
 director: "Götz Friedrich"
 genres: ["Pohádka", "Krátkometrážní"]
+film: "Červená Karkulka (1962)"
 ---
 > *„Zkouška umělecké integrity: jak divadelní vizionář dokázal proměnit státem nařízenou dětskou bajku v goticky znepokojivou studii moci a poslušnosti.“*
 

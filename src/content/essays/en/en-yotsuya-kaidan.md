@@ -1,5 +1,4 @@
 ---title: "Tōkaidō Yotsuya Kaidan (1959)"
-film: "Tōkaidō Yotsuya Kaidan (1959)"
 year: 1959
 date: "2026-09-02"
 description: "Curse, Ritual, and the Birth of Horror in Nobuo Nakagawa's adaptation."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "yotsuya-kaidan"
 director: "Nobuo Nakagawa"
 genres: ["Japanese Horror", "Kaidan", "Historical"]
+film: "Tōkaidō Yotsuya Kaidan (1959)"
 ---
 The story of Oiwa and her revenge is one of the most prominent threads in the Japanese kaidan tradition, with roots extending deep into the world of Kabuki. Yet, this is not merely a ghost story. In the Japanese cultural landscape, the narrative carries a strange density—as if it were not simply told, but continuously reactivated. As if each telling does not describe the past, but briefly opens it again.
 

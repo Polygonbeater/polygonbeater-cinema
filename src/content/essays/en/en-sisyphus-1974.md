@@ -1,5 +1,4 @@
 ---title: "Sisyphus (1974): The Weight of Will in Minimalist Animation"
-film: "Sisyphus (1974)"
 year: 1974
 date: "2026-09-03"
 description: "An analytical essay on Marcell Jankovics' minimalist masterpiece, exploring existentialism, endurance, and animation as physical labor."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "sisyphus-1974"
 director: "Marcell Jankovics"
 genres: ["Animation", "Philosophical", "Short Film"]
+film: "Sisyphus (1974)"
 ---
 > *“The weight isn’t the stone. It’s the will.”*
 

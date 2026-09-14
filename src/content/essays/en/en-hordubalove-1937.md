@@ -1,5 +1,4 @@
 ---title: "Hordubalové (1937) – The Clash of Archaic Myth and Modern Czechoslovak Justice"
-film: "Hordubalové (1937)"
 director: "Martin Fri"
 year: 1937
 date: "2026-09-02"
@@ -9,6 +8,7 @@ image: "/images/essays/hordubalove-1937.webp"
 lang: "en"
 translationSlug: "hordubalove-1937"
 genres: ["Drama", "Classic Czech Cinema"]
+film: "Hordubalové (1937)"
 ---
 Directed by Martin Frič, the film adaptation of the first installment of Karel Čapek's famous noetic trilogy stands as a pinnacle of interwar Czechoslovak cinema. *Hordubalové* (1937) is not merely a psychological crime drama involving a love triangle and murder; it operates as a brilliant sociological probe into the internal contradictions of the First Republic. The film visualizes the radical civilizational fracture between the mythical, insular world of a Carpathian village and the modern state apparatus represented by the judicial system and the region's administrative center.
 

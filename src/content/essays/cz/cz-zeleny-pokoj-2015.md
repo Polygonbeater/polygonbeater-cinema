@@ -1,5 +1,4 @@
 ---title: "Zelený pokoj (Green Room, 2015): Klaustrofobní obléhání, subkulturní manipulace a anatomie přežití"
-film: "Zelený pokoj (2015)"
 year: 2015
 date: "2026-09-03"
 description: "Analytická studie brutálního thrilleru Jeremyho Saulniera zkoumající klaustrofobní prostor backstage, subkulturní manipulaci neonacistické komunity, de-glamurizaci násilí a mechaniku animálního přežití."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "zeleny-pokoj-2015"
 director: "Jeremy Saulnier"
 genres: ["Thriller", "Survival", "Krimi"]
+film: "Zelený pokoj (2015)"
 ---
 Nezávislý thriller amerického režiséra a scenáristy Jeremyho Saulniera *Zelený pokoj* (*Green Room*, 2015, stopáž 95 minut) představuje jeden z nejintenzivnějších, nekompromisních a realisticky drásavých příspěvků k žánru moderního obléhacího filmu (*siege film*). Saulnier, navazující na tradici Carpenterova *Přepadení 13. okrsku* i Peckinpahových *Strašáků*, zasazuje děj do klaustrofobního zázemí zapadlého hudebního klubu uprostřed oregonských hvozdů pacifického Severozápadu. 
 

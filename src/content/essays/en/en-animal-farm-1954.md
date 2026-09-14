@@ -1,5 +1,4 @@
 ---title: "Animal Farm (1954): A Cold War Cinematic Allegory"
-film: "Animal Farm (1954)"
 director: "John Halas and"
 year: 1954
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/animal-farm-1954.webp"
 lang: "en"
 translationSlug: "animal-farm-1954"
 genres: ["Animation", "Dystopia", "Political"]
+film: "Animal Farm (1954)"
 ---
 > *“All animals are equal, but some animals are more equal than others.”*
 

@@ -1,5 +1,4 @@
 ---title: "Faust (1926): Cinematic Apparatus, Embodied Vision, and the Organization of Moral Space"
-film: "Faust (1926)"
 year: 1926
 date: "2026-09-03"
 description: "An analytical study of F. W. Murnau’s Faust (1926) as a perceptual machine, synthesizing apparatus theory and phenomenology to explore the somatic organization of moral space."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "faust-1926"
 director: "F. W. Murnau"
 genres: ["Silent Film", "Expressionism", "Fantasy"]
+film: "Faust (1926)"
 ---
 Released in 1926, F. W. Murnau’s *Faust* occupies a singular position within late Weimar cinema. Traditionally approached through the lenses of Expressionist stylization or literary adaptation, the film’s most radical achievement lies elsewhere: in its systematic organization of perception. Rather than merely illustrating metaphysical conflict, *Faust* constructs a cinematic world in which morality, power, and transcendence are experienced somatically by the spectator [1].
 

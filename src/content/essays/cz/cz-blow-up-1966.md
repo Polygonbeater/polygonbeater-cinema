@@ -1,5 +1,4 @@
 ---title: "Zvětšenina (Blow-Up, 1966): Krize vnímání a prázdnota obrazu"
-film: "Zvětšenina (Blow-Up, 1966)"
 year: 1966
 date: "2026-09-03"
 description: "Analytická studie prvního anglicky mluveného snímku Michelangela Antonioniho zkoumající limity lidského vnímání, barevnou dramaturgii a nečitelnost reality v zrnu."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "blow-up-1966"
 director: "Michelangelo Antonioni"
 genres: ["Mysteriózní", "Drama", "Art"]
+film: "Zvětšenina (1966)"
 ---
 Tato studie dekonstruuje první anglicky mluvený film Michelangela Antonioniho *Zvětšenina* (*Blow-Up*, 1966, stopáž 111 minut) jako radikální zkoumání limitů lidského vnímání a nespolehlivosti fotografického záznamu. Snímek, volně inspirovaný povídkou Júlia Cortázara, analyzuje vyprázdněnost „swingujícího Londýna“ skrze postavu fotografa Thomase, který věří, že skrze objektiv ovládá realitu.
 

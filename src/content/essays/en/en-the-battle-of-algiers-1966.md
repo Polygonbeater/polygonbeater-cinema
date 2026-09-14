@@ -1,5 +1,4 @@
 ---title: "The Battle of Algiers (1966): Anatomy of Revolution"
-film: "The Battle of Algiers (1966)"
 year: 1966
 date: "2026-09-03"
 description: "An analytical essay on Gillo Pontecorvo's masterpiece, exploring the mechanics of urban insurgency, colonial oppression, and the ethics of violence."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "the-battle-of-algiers-1966"
 director: "Gillo Pontecorvo"
 genres: ["Historical", "War", "Political"]
+film: "The Battle of Algiers (1966)"
 ---
 > *“Every act of domination creates its rebellion, and every rebellion risks becoming a new dominion.”*
 

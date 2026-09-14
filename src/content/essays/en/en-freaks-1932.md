@@ -1,5 +1,4 @@
 ---title: "Freaks (1932): Todd Browning's Misunderstood Masterpiece"
-film: "Freaks (1932)"
 director: "Todd Browning fresh"
 year: 1932
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/freaks-1932.webp"
 lang: "en"
 translationSlug: "freaks-1932"
 genres: ["Horror", "Drama", "Cult"]
+film: "Freaks (1932)"
 ---
 > *“A daring, deeply empathetic masterpiece that shocked audiences by casting real sideshow performers and questioning who the true monsters are.”*
 

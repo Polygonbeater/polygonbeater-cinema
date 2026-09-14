@@ -1,5 +1,4 @@
 ---title: "The Golem (1936) – Expressionist Tension, Kabbalistic Mysticism, and the Harbingers of European Tragedy"
-film: "The Golem (1936)"
 director: "Julien Duvivier and"
 year: 1936
 date: "2026-09-02"
@@ -9,6 +8,7 @@ image: "/images/essays/golem-1936.webp"
 lang: "en"
 translationSlug: "golem-1936"
 genres: ["Horror", "Historical", "Fantasy"]
+film: "The Golem (1936)"
 ---
 The French-Czechoslovak co-production *The Golem* (*Le Golem*), directed by Julien Duvivier and shot in 1936 at the Barrandov Studios in Prague, represents one of the most complex works of interwar European cinema. The film serves not merely as an adaptation of the ancient Prague legend, but functions primarily as a profound sociopolitical allegory and a visual study of paranoia, power, and existential threat.
 

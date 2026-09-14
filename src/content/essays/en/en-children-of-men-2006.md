@@ -1,5 +1,4 @@
 ---title: "Children of Men (2006): Hope in the Ashes of Dystopia"
-film: "Children of Men (2006)"
 director: "Alfonso Cuarón"
 year: 2006
 date: "2026-09-03"
@@ -9,6 +8,7 @@ image: "/images/essays/children-of-men-2006.webp"
 lang: "en"
 translationSlug: "children-of-men-2006"
 genres: ["Dystopia", "Sci-Fi", "Thriller"]
+film: "Children of Men (2006)"
 ---
 This study deconstructs Alfonso Cuarón's masterpiece *Children of Men* (2006, running time 109 minutes) as a groundbreaking dystopia that redefines the sci-fi genre through a hyper-realistic visual form. The film analyzes the state of humanity in a situation of total infertility and subsequent social decay. 
 

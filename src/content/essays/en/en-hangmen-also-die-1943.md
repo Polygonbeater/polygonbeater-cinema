@@ -1,5 +1,4 @@
 ---title: "Hangmen Also Die! (1943): Political Epistemology and Visual Architecture of Power"
-film: "Hangmen Also Die! (1943)"
 year: 1943
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang and Bertolt Brecht's wartime drama examining truth manipulation, totalitarian power, and the visual panopticon."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "hangmen-also-die-1943"
 director: "Fritz Lang"
 genres: ["War", "Film Noir", "Thriller"]
+film: "Hangmen Also Die! (1943)"
 ---
 *Hangmen Also Die!* (1943) is not merely a war film—it is an intellectual and visual assault on totalitarian logic. Fritz Lang and Bertolt Brecht (collaborating with cinematographer James Wong Howe) treat the assassination of Reinhard Heydrich not as a historical reconstruction, but as a model of how totalitarian power operates through truth, power, and narrative. The film fuses German expressionism, Brechtian dialectics, and early American noir into a cohesive whole.
 

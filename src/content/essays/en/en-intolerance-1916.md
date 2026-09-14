@@ -1,5 +1,4 @@
 ---title: "Intolerance (1916) – A Universal Manifesto Against the Abuse of Power and Dogma"
-film: "Intolerance (1916)"
 year: 1916
 date: "2026-09-02"
 description: "D.W. Griffith's monumental silent epic interweaves four historical eras to diagnose the timeless mechanism of human cruelty, dogmatism, and institutional arrogance."
@@ -9,6 +8,7 @@ lang: "en"
 translationSlug: "intolerance-1916"
 director: "D. W. Griffith"
 genres: ["Silent Film", "Historical", "Epic"]
+film: "Intolerance (1916)"
 ---
 D.W. Griffith's monumental silent epic *Intolerance* (1916), subtitled *Love's Struggle Throughout the Ages*, stands as one of the most powerful directorial manifestos in cinema history. The film was not conceived as a cold academic study, but as a visceral, angry reaction by a creator facing immense social pressure, hypocrisy, and censorship in early 20th-century America. Griffith systematically interweaves four historical eras—the fall of ancient Babylon, the crucifixion of Jesus Christ, the St. Bartholomew's Day Massacre in Renaissance France, and modern America—to diagnose the timeless mechanism of human cruelty and dogmatism.¹
 

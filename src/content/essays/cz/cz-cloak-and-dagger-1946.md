@@ -1,5 +1,4 @@
 ---title: "Cloak and Dagger (1946): Věda jako rukojmí, fyziologie násilí a úsvit atomové paranoie"
-film: "Cloak and Dagger (1946)"
 year: 1946
 date: "2026-09-03"
 description: "Analytická studie politického špionážního thrilleru Fritze Langa zkoumající atomovou paranoiu, dekonstrukci hrdiny-intelektuála a dopad cenzurních zásahů."
@@ -9,6 +8,7 @@ lang: "cz"
 translationSlug: "cloak-and-dagger-1946"
 director: "Fritz Lang"
 genres: ["Špionážní", "Film noir", "Thriller"]
+film: "Cloak and Dagger (1946)"
 ---
 Snímek *Cloak and Dagger* (1946, stopáž 106 minut) představuje první bezprostřední reakci Fritze Langa na nově zrozený post-atomový svět. Zatímco jeho předchozí protifašistické tituly bojovaly proti konkrétní totalitní ideologii, zde se primárním nepřítelem stává samotné technologické tajemství a univerzální hrozba globální anihilace. Snímek dekonstruuje mýtus o nedotknutelném akademickém intelektuálovi a vrhá teoretického fyzika do arény animálního násilí, kde přežití závisí na schopnosti adaptovat se na syrovou fyzickou brutalitu.
 
