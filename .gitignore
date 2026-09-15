@@ -26,3 +26,10 @@ os
 *.pdf
 check_cz_essays.py
 fix_remaining_cz_essays.sh
+
+# Build a zbytečné soubory
+npm
+polygonbeater-cinema*
+dist/
+.astro/
+gh-pages/
