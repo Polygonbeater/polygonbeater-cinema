@@ -221,9 +221,7 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 
 
 <script>
-  const FUSE_CDN = 'https://cdn.jsdelivr.net/npm/fuse.js@7/dist/fuse.min.js';
-
-  const GENRE_TRANSLATIONS = {
+  const GENRE_TRANSLATIONS: Record<string, string> = {
     "Sci-Fi": "Sci-Fi", "Mysteriózní": "Mystery", "Filozofický": "Philosophical", "Drama": "Drama",
     "Surrealismus": "Surrealism", "Metakino": "Meta-cinema", "Dystopie": "Dystopia", "Kultovní": "Cult",
     "Dokumentární": "Documentary", "Politický": "Political", "Historický": "Historical", "Horor": "Horror",
@@ -251,7 +249,35 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
     "Environmentální": "Environmental", "Dobový": "Period", "Esej": "Essay"
   };
 
-  function translateGenre(genre, lang) {
+  interface SearchRecord {
+    slug: string;
+    title_cs: string;
+    title_en: string;
+    director: string;
+    genres: string;
+    body_cs: string;
+    body_en: string;
+  }
+
+  interface FuseSearchResult {
+    item: SearchRecord;
+  }
+
+  interface FuseInstance {
+    search(query: string): FuseSearchResult[];
+  }
+
+  interface FuseConstructor {
+    new (data: SearchRecord[], options: Record<string, unknown>): FuseInstance;
+  }
+
+  declare global {
+    interface Window {
+      Fuse?: FuseConstructor;
+    }
+  }
+
+  function translateGenre(genre: string, lang: string): string {
     if (lang === 'en') {
       return GENRE_TRANSLATIONS[genre] || genre;
     }
@@ -259,33 +285,33 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
   }
 
   document.addEventListener('DOMContentLoaded', () => {
-    const searchInput = document.getElementById('searchInput');
-    const genreSelect = document.getElementById('genreSelect');
+    const searchInput = document.getElementById('searchInput') as HTMLInputElement | null;
+    const genreSelect = document.getElementById('genreSelect') as HTMLSelectElement | null;
     const genreDefaultOpt = document.getElementById('genreDefaultOpt');
-    const directorSelect = document.getElementById('directorSelect');
+    const directorSelect = document.getElementById('directorSelect') as HTMLSelectElement | null;
     const directorDefaultOpt = document.getElementById('directorDefaultOpt');
     const resetBtn = document.getElementById('resetFiltersBtn');
     const alphabetBar = document.getElementById('alphabetBar');
-    const alphaButtons = alphabetBar ? alphabetBar.querySelectorAll('.alpha-btn') : [];
-    const essayCards = Array.from(document.querySelectorAll('.essay-card'));
-    const genreTags = Array.from(document.querySelectorAll('.genre-tag'));
+    const alphaButtons = alphabetBar ? alphabetBar.querySelectorAll<HTMLButtonElement>('.alpha-btn') : [];
+    const essayCards = Array.from(document.querySelectorAll<HTMLElement>('.essay-card'));
+    const genreTags = Array.from(document.querySelectorAll<HTMLElement>('.genre-tag'));
     const resultsCount = document.getElementById('resultsCount');
     const noResults = document.getElementById('noResults');
     const paginationControls = document.getElementById('paginationControls');
-    const prevPageBtn = document.getElementById('prevPageBtn');
-    const nextPageBtn = document.getElementById('nextPageBtn');
+    const prevPageBtn = document.getElementById('prevPageBtn') as HTMLButtonElement | null;
+    const nextPageBtn = document.getElementById('nextPageBtn') as HTMLButtonElement | null;
     const pageNumbers = document.getElementById('pageNumbers');
     const searchLoading = document.getElementById('searchLoading');
 
     const ITEMS_PER_PAGE = 16;
     let currentPage = 1;
     let selectedLetter = '';
-    let matchingCards = [];
+    let matchingCards: HTMLElement[] = [];
 
-    let fuse = null;
+    let fuse: FuseInstance | null = null;
     let fuseLoading = false;
     let fuseReady = false;
-    let fullTextSlugs = null;
+    let fullTextSlugs: Set<string> | null = null;
 
     function getLang() {
       const htmlLang = document.documentElement.getAttribute('lang') || document.documentElement.getAttribute('data-lang') || 'cs';
@@ -314,7 +340,7 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
       });
     }
 
-    function setLoadingIndicator(visible) {
+    function setLoadingIndicator(visible: boolean) {
       if (!searchLoading) return;
       searchLoading.hidden = !visible;
     }
@@ -326,7 +352,7 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 
       try {
         if (!window.Fuse) {
-          await new Promise((resolve, reject) => {
+          await new Promise<void>((resolve, reject) => {
             const script = document.createElement('script');
             script.src = 'https://cdn.jsdelivr.net/npm/fuse.js@7/dist/fuse.min.js';
             script.onload = () => resolve();
@@ -337,9 +363,11 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 
         const res = await fetch('/search-index.json');
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const data = await res.json();
+        const data = await res.json() as SearchRecord[];
 
-        fuse = new window.Fuse(data, {
+        const Fuse = window.Fuse;
+        if (!Fuse) throw new Error('Fuse.js constructor unavailable');
+        fuse = new Fuse(data, {
           keys: [
             { name: 'title_cs',  weight: 0.25 },
             { name: 'title_en',  weight: 0.25 },
@@ -365,7 +393,7 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
       }
     }
 
-    function runFullTextSearch(query) {
+    function runFullTextSearch(query: string): Set<string> | null {
       if (!fuseReady || !fuse || query.length < 3) return null;
       const results = fuse.search(query);
       return new Set(results.map(r => r.item.slug));
@@ -389,7 +417,7 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 
     let lastRenderedTotalPages = -1;
 
-    function renderPagination(totalPages) {
+    function renderPagination(totalPages: number) {
       if (!pageNumbers || !paginationControls) return;
 
       if (totalPages <= 1) {
@@ -419,7 +447,7 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
         lastRenderedTotalPages = totalPages;
       }
 
-      pageNumbers.querySelectorAll('.page-num-btn').forEach(btn => {
+      pageNumbers.querySelectorAll<HTMLButtonElement>('.page-num-btn').forEach(btn => {
         btn.classList.toggle('active', btn.dataset.page === String(currentPage));
       });
 
@@ -549,7 +577,7 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
       searchInput.addEventListener('focus', loadFuse, { once: true });
     }
 
-    let searchTimer;
+    let searchTimer: ReturnType<typeof setTimeout> | undefined;
     if (searchInput) {
       searchInput.addEventListener('input', () => {
         clearTimeout(searchTimer);

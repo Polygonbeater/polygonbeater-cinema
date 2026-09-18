@@ -9,6 +9,7 @@ translationSlug: "brana-do-temnot"
 director: "František Vláčil"
 genres: ["Horror", "Mystery", "Silent Film"]
 film: "The Beyond (1981)"
+description: "Architecture of Absolute Ruin: Rot, Lovecraft, and the Death of Logic in Fulci’s The Beyond (1981)"
 ---
 ## Architecture of Absolute Ruin: Rot, Lovecraft, and the Death of Logic in Fulci’s The Beyond (1981)
 

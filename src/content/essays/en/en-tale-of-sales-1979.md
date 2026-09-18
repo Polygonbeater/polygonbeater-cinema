@@ -8,6 +8,7 @@ lang: "en"
 translationSlug: "tale-of-sales-1979"
 genres: ["Animation", "Satire", "Short Film"]
 film: "Tale of Tales"
+director: "Jurij Norštejn"
 ---
 
 *Tale of Tales* (*Skazka skazok*), directed by the Russian master Yuriy Norshteyn in 1979 (runtime 29 minutes), is not just a film, but a hypnotic visual poem. It is frequently voted by international critics as the Greatest Animated Film of All Time, a testament to its profound emotional depth and technical brilliance. Norshteyn completely abandoned Soviet state-mandated Socialist Realism and conventional fairy-tale narration, creating an intimate, polyphonic visual poem exploring memory, childhood melancholy, and the trauma of World War II.

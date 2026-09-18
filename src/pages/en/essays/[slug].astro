@@ -153,7 +153,6 @@ const czAlternateUrl = `${siteUrl}/essays/${slug}`;
   description={pageDescription} 
   image={posterAbsolute} 
   type="article"
-  lang="en"
   datePublished={enEntry?.data.date ? new Date(enEntry.data.date as string | Date).toISOString().split('T')[0] : undefined}
 >
   <Fragment slot="head">

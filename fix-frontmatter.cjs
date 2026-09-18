@@ -39,7 +39,7 @@ files.forEach(file => {
   let frontmatter = match[2];
   let originalFm = frontmatter;
 
-  frontmatter = frontmatter.replace(/^director:\s*["']?(.*?)["']?$/gm, (m, dir) => {
+  frontmatter = frontmatter.replace(/^director:\s*["']?(.*?)["']?$/gm, (_match, dir) => {
     let clean = dir.replace(/\s+(představuje|patří|je|má|byl|byla).*$/i, "").trim();
     for (const [declined, fixed] of Object.entries(nameMap)) {
       clean = clean.replace(new RegExp(declined, "g"), fixed);

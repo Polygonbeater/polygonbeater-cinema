@@ -8,6 +8,7 @@ lang: "en"
 translationSlug: "taxi-driver-1976"
 genres: ["Neo-noir", "Psychological", "Crime"]
 film: "Taxi Driver"
+director: "Martin Scorsese"
 ---
 
 This study deconstructs Martin Scorsese's *Taxi Driver* (1976, running time 114 minutes) as a seminal work of "New Hollywood," exploring the psychological collapse of a Vietnam veteran against the backdrop of a morally devastated New York City. The film analyzes the subjective perception of reality by protagonist Travis Bickle. 

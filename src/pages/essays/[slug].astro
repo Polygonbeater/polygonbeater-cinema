@@ -266,7 +266,7 @@ const enAlternateUrl = `${siteUrl}/en/essays/${slug}`;
               <div class="meta-chip"><span class="meta-label">Year</span><span class="meta-val">{metaEn.year}</span></div>
             )}
             {metaEn.genres && metaEn.genres.length > 0 && (
-              <div class="meta-chip"><span class="meta-label">Genre</span><span class="meta-val">{metaEn.genres.map(g => GENRE_MAP[g] || g).join(', ')}</span></div>
+              <div class="meta-chip"><span class="meta-label">Genre</span><span class="meta-val">{metaEn.genres.map((genre: string) => GENRE_MAP[genre] || genre).join(', ')}</span></div>
             )}
             <div class="meta-chip"><span class="meta-label">Read</span><span class="meta-val">~{metaEn.readingTime} min</span></div>
           </div>

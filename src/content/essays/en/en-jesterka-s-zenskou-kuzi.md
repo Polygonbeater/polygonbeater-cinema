@@ -9,6 +9,7 @@ translationSlug: "jesterka-s-zenskou-kuzi"
 director: "Lucio Fulci"
 genres: ["Giallo", "Psychological", "Mystery"]
 film: "A Lizard in a Woman's Skin (1971)"
+description: "In the context of Italian cinema, Lucio Fulci is often reduced to a purveyor of extreme gore, but his giallo A Lizard in a Woman's Skin (1971) reveals an entirely different facet: a master of visual delirium and a trenchant social…"
 ---
 In the context of Italian cinema, Lucio Fulci is often reduced to a purveyor of extreme gore, but his giallo A Lizard in a Woman's Skin (1971) reveals an entirely different facet: a master of visual delirium and a trenchant social critic. The film deliberately destabilizes the traditional detective narrative to plunge into the psyche of Carol Hammond (Florinda Bolkan), the daughter of an influential lawyer and politician, married to Frank, a partner in her father's law firm. Fulci employs psychedelic aesthetics not as a gratuitous visual attraction, but as a tool to deconstruct the repressive mechanisms of the upper class.
 
