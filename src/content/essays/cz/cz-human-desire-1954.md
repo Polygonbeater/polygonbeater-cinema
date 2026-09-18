@@ -1,4 +1,5 @@
----title: "Human Desire (1954): Mechanika vášně a naturalistická past"
+---
+title: "Human Desire (1954): Mechanika vášně a naturalistická past"
 year: 1954
 date: "2026-09-03"
 description: "Analytická studie adaptace Zolovy Lidské bestie Fritze Langa zkoumající environmentální determinismus, mechaniku železnice a tragickou rezignaci."

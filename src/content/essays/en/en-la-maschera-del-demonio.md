@@ -1,4 +1,5 @@
----title: "La maschera del demonio (1960): Beauty That Refused to Die"
+---
+title: "La maschera del demonio (1960): Beauty That Refused to Die"
 year: 1960
 date: "2026-09-02"
 description: "Return over resurrection — an analysis of Mario Bava's iconic gothic horror masterpiece."

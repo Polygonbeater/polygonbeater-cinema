@@ -1,4 +1,5 @@
----title: "Birth/Rebirth (2023): Biological Resurrection and Ethical Zero"
+---
+title: "Birth/Rebirth (2023): Biological Resurrection and Ethical Zero"
 year: 2023
 date: "2026-09-03"
 description: "An analytical study of Laura Moss's independent horror exploring reanimation as a technical process, clinical framing, and the deconstruction of maternal instinct."

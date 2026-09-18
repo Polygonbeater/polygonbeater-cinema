@@ -1,4 +1,5 @@
----title: "The Straight Story (1999): David Lynch’s Most Radical Masterpiece"
+---
+title: "The Straight Story (1999): David Lynch’s Most Radical Masterpiece"
 year: 1999
 date: "2026-09-03"
 description: "An analytical essay on David Lynch's tender, unconventional masterpiece about an elderly man's cross-country journey on a lawnmower."

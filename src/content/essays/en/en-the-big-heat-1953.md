@@ -1,4 +1,5 @@
----title: "The Big Heat (1953): An Anatomy of Systemic Rot"
+---
+title: "The Big Heat (1953): An Anatomy of Systemic Rot"
 year: 1953
 date: "2026-09-03"
 description: "An analytical study of Fritz Lang's crime masterpiece, examining systemic corruption, high-key lighting aesthetics, domestic violence, and moral dehumanization."

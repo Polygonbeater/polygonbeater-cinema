@@ -1,4 +1,5 @@
----title: "A Force More Powerful (2000): A Century of Nonviolent Conflict"
+---
+title: "A Force More Powerful (2000): A Century of Nonviolent Conflict"
 year: 2000
 date: "2026-09-03"
 description: "An analytical study of the documentary examining nonviolent resistance as a systematic strategy for political change through historical examples."

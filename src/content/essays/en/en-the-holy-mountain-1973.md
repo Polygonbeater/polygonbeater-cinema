@@ -1,4 +1,5 @@
----title: "The Holy Mountain (1973): Alchemy as Individuation and Initiatory Structure"
+---
+title: "The Holy Mountain (1973): Alchemy as Individuation and Initiatory Structure"
 year: 1973
 date: "2026-09-03"
 description: "A methodologically controlled analysis of Alejandro Jodorowsky’s surrealist masterpiece through the lens of ritual anthropology, Jungian alchemy, and hermetic form."

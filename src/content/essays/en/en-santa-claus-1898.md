@@ -1,4 +1,5 @@
----title: "Santa Claus (1898): The Cinematic Birth of Christmas Magic"
+---
+title: "Santa Claus (1898): The Cinematic Birth of Christmas Magic"
 year: 1898
 date: "2026-09-03"
 description: "An analytical essay on George Albert Smith's pioneering 1898 silent short, exploring the very first Christmas movie and its groundbreaking use of parallel action."

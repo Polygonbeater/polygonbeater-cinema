@@ -1,4 +1,5 @@
----title: "The Lives of Others (2006): The Phenomenology of Moral Conversion and the Neuroaesthetics of Resistance"
+---
+title: "The Lives of Others (2006): The Phenomenology of Moral Conversion and the Neuroaesthetics of Resistance"
 year: 2006
 date: "2026-09-02"
 description: "An analytical study deconstructing the transformation process of Stasi secret police agent Gerd Wiesler within an environment of total surveillance and defining silent sabotage tactics."

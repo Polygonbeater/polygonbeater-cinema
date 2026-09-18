@@ -1,4 +1,5 @@
----title: "Network (1976): The Phenomenology of the Commodification of Anger and the Illusion of Control"
+---
+title: "Network (1976): The Phenomenology of the Commodification of Anger and the Illusion of Control"
 year: 1976
 date: "2026-09-02"
 description: "An analytical study deconstructing the media satire Network as a reference model of the commodification of anger, algorithmic frustration, and defense in Zone Zero."

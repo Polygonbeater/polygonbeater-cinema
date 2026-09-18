@@ -1,4 +1,5 @@
----title: "The Invitation (2015): The Anatomy of Gaslighting and Social Resistance"
+---
+title: "The Invitation (2015): The Anatomy of Gaslighting and Social Resistance"
 year: 2015
 date: "2026-09-02"
 description: "An analytical study deconstructing Karyn Kusama’s psychological thriller The Invitation as a manual for recognizing gaslighting, exploring the dangers of politeness and the pathology of unprocessed grief."

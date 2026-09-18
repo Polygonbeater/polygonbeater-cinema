@@ -1,4 +1,5 @@
----title: "Faust (1926): Cinematic Apparatus, Embodied Vision, and the Organization of Moral Space"
+---
+title: "Faust (1926): Cinematic Apparatus, Embodied Vision, and the Organization of Moral Space"
 year: 1926
 date: "2026-09-03"
 description: "An analytical study of F. W. Murnau’s Faust (1926) as a perceptual machine, synthesizing apparatus theory and phenomenology to explore the somatic organization of moral space."

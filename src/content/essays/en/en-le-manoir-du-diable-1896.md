@@ -1,4 +1,5 @@
----title: "Le Manoir du Diable (The House of the Devil, 1896): The Birth of Cinematic Horror"
+---
+title: "Le Manoir du Diable (The House of the Devil, 1896): The Birth of Cinematic Horror"
 year: 1896
 date: "2026-09-03"
 description: "An analytical essay on Georges Méliès' legendary 1896 short, widely considered the world's very first horror film."

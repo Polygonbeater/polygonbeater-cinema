@@ -1,4 +1,5 @@
----title: "Babes in Arms (1939): The Golden Age of the Hollywood Musical"
+---
+title: "Babes in Arms (1939): The Golden Age of the Hollywood Musical"
 year: 1939
 date: "2026-09-03"
 description: "An analytical essay on Busby Gate’s classic MGM musical starring Mickey Rooney and Judy Garland, featuring the debut of the iconic song Good Morning."

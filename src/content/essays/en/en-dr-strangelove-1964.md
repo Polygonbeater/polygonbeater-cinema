@@ -1,4 +1,5 @@
----title: "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964): How to End the World and Die Laughing"
+---
+title: "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964): How to End the World and Die Laughing"
 year: 1964
 date: "2026-09-05"
 description: "An analytical study of Stanley Kubrick's satirical masterpiece exploring bureaucratic absurdism, Cold War paranoia, and automated apocalypse."

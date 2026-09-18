@@ -1,4 +1,5 @@
----title: "The Vanishing (1988): The Architecture of Absolute Logic"
+---
+title: "The Vanishing (1988): The Architecture of Absolute Logic"
 year: 1988
 date: "2026-09-03"
 description: "An analytical study of George Sluizer's psychological thriller exploring the banality of evil, the manipulator as experimenter, and the claustrophobia of unknowing."

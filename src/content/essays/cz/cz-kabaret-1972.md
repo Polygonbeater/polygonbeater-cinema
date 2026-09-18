@@ -1,4 +1,5 @@
----title: "Kabaret (Cabaret, 1972): Anatomie vědomé komplicity a rozpad morálky"
+---
+title: "Kabaret (Cabaret, 1972): Anatomie vědomé komplicity a rozpad morálky"
 year: 1972
 date: "2026-09-03"
 description: "Analytická studie oscarového muzikálu Boba Fosseho zkoumající mechanismy vědomé komplicity, kompartmentalizaci a plíživou fašizaci společnosti v zrcadle berlínského Kit Kat Klubu."

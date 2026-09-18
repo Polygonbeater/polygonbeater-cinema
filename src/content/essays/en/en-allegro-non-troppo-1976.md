@@ -1,4 +1,5 @@
----title: "Allegro Non Troppo (1976): When Civilization Dances to the Wrong Music"
+---
+title: "Allegro Non Troppo (1976): When Civilization Dances to the Wrong Music"
 year: 1976
 date: "2026-09-03"
 description: "An analytical essay on Bruno Bozzetto's satirical masterpiece, offering an anarchic European counterpart to Disney's Fantasia."

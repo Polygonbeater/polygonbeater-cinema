@@ -1,4 +1,5 @@
----title: "The Battle of Algiers (1966): Anatomy of Revolution"
+---
+title: "The Battle of Algiers (1966): Anatomy of Revolution"
 year: 1966
 date: "2026-09-03"
 description: "An analytical essay on Gillo Pontecorvo's masterpiece, exploring the mechanics of urban insurgency, colonial oppression, and the ethics of violence."

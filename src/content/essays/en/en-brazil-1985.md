@@ -1,4 +1,5 @@
----title: "Brazil (1985): Bureaucratic Normality, Technical Infrastructure, and the Colonization of Dreams"
+---
+title: "Brazil (1985): Bureaucratic Normality, Technical Infrastructure, and the Colonization of Dreams"
 year: 1985
 date: "2026-09-03"
 description: "Analytical study of Terry Gilliam's dystopian masterpiece, examining bureaucracy as an autonomous organism, permanent temporal deferral, and the failure of imaginative escape."

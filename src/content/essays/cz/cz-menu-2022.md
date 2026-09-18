@@ -1,4 +1,5 @@
----title: "Menu (The Menu, 2022): Kult haute cuisine, konformismus elit a kognitivní zkrat"
+---
+title: "Menu (The Menu, 2022): Kult haute cuisine, konformismus elit a kognitivní zkrat"
 year: 2022
 date: "2026-09-03"
 description: "Analytická studie psychologického thrilleru Marka Myloda zkoumající dekonstrukci kulinářského kultu, třídní konformismus, taktiku cheeseburgeru a narativní subverzi moci."

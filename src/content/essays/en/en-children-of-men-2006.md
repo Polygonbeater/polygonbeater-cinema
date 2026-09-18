@@ -1,4 +1,5 @@
----title: "Children of Men (2006): Hope in the Ashes of Dystopia"
+---
+title: "Children of Men (2006): Hope in the Ashes of Dystopia"
 director: "Alfonso Cuarón"
 year: 2006
 date: "2026-09-03"

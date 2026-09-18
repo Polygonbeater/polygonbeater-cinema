@@ -1,4 +1,5 @@
----title: "Annihilation (2018): Biological Refraction and the Aesthetics of Self-Destruction"
+---
+title: "Annihilation (2018): Biological Refraction and the Aesthetics of Self-Destruction"
 year: 2018
 date: "2026-09-03"
 description: "An analytical study of Alex Garland's sci-fi horror exploring The Shimmer as a biological prism, the aesthetics of cellular proliferation, and the annihilation of the human ego."

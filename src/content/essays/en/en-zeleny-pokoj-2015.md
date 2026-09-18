@@ -1,4 +1,5 @@
----title: "Green Room (2015): The Anatomy of a Defective Micro-Cult, the Neurobiology of Power, and the Weaponization of Subcultural Identity"
+---
+title: "Green Room (2015): The Anatomy of a Defective Micro-Cult, the Neurobiology of Power, and the Weaponization of Subcultural Identity"
 year: 2015
 date: "2026-09-02"
 description: "An analytical study deconstructing the thriller Green Room as a neurobiological model of a defective community, local gatekeeping, and defense in Zone Zero."

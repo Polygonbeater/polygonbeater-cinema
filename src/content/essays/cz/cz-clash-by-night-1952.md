@@ -1,4 +1,5 @@
----title: "Clash by Night (1952): Přímořský naturalismus, krize maskulinity a zrod moderní ikony"
+---
+title: "Clash by Night (1952): Přímořský naturalismus, krize maskulinity a zrod moderní ikony"
 year: 1952
 date: "2026-09-03"
 description: "Analytická studie noiru Fritze Langa zkoumající přímořský naturalismus, krizi poválečné maskulinity, vizuální styl Nicholase Musuracy a dramatický debut Marilyn Monroe."

@@ -1,4 +1,5 @@
----title: "Birth/Rebirth (2023): Biologické vzkříšení a etická nula"
+---
+title: "Birth/Rebirth (2023): Biologické vzkříšení a etická nula"
 year: 2023
 date: "2026-09-03"
 description: "Analytická studie nezávislého hororu Laury Moss zkoumající reanimaci jako technický proces, klinickou kameru a dekonstrukci mateřského pudu."

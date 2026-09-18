@@ -1,4 +1,5 @@
----title: "Fräulein Raffke (1923): Tanec na hranici propasti a hyperinflace"
+---
+title: "Fräulein Raffke (1923): Tanec na hranici propasti a hyperinflace"
 year: 1923
 date: "2026-09-03"
 description: "Analytická studie satirické komedie Richarda Eichberga zkoumající fenomén válečných zbohatlíků, hyperinflaci ve Výmarské republice a smích jako nástroj sociálního přežití."

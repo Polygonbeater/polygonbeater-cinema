@@ -1,4 +1,5 @@
----title: "Das Testament des Dr. Mabuse (1933): Terror, Bureaucracy, and the Disembodied Voice"
+---
+title: "Das Testament des Dr. Mabuse (1933): Terror, Bureaucracy, and the Disembodied Voice"
 year: 1933
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's early sound masterpiece, examining institutional terror, power without a subject, the acousmêtre, and the mechanics of modern control."

@@ -1,4 +1,5 @@
----title: "Monroeova doktrína (The Monroe Doctrine, 1939): Od izolacionismu k ekonomické hegemonii"
+---
+title: "Monroeova doktrína (The Monroe Doctrine, 1939): Od izolacionismu k ekonomické hegemonii"
 year: 1939
 date: "2026-09-03"
 description: "Analytická studie historického krátkého filmu studia Warner Bros. zkoumající ideologické kořeny Monroeovy doktríny, didaktickou obhajobu izolacionismu a Rooseveltovo corollarium."

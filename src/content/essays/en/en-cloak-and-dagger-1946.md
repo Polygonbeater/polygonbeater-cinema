@@ -1,4 +1,5 @@
----title: "Cloak and Dagger (1946): Science as Hostage, the Physiology of Violence, and the Dawn of Atomic Paranoia"
+---
+title: "Cloak and Dagger (1946): Science as Hostage, the Physiology of Violence, and the Dawn of Atomic Paranoia"
 year: 1946
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's political espionage thriller exploring atomic paranoia, the deconstruction of the intellectual hero, and studio censorship."

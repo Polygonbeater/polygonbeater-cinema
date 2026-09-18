@@ -1,4 +1,5 @@
----title: "Grizzly Man (2005): Mýtus o přátelství a lhostejnost dravce"
+---
+title: "Grizzly Man (2005): Mýtus o přátelství a lhostejnost dravce"
 year: 2005
 date: "2026-09-03"
 description: "Analytická studie dokumentární tragédie Wernera Herzoga zkoumající selhání lidské empatie vůči divočině, nebezpečnou antropomorfizaci a etiku neslyšeného záznamu smrti."

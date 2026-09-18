@@ -1,4 +1,5 @@
----title: "Taxikář (Taxi Driver, 1976): Anatomie městské izolace a neo-noirové inferno"
+---
+title: "Taxikář (Taxi Driver, 1976): Anatomie městské izolace a neo-noirové inferno"
 year: 1976
 date: "2026-09-03"
 description: "Analytická studie mistrovského díla Martina Scorseseho zkoumající městské odcizení, neo-noirovou kameru Michaela Chapmana, Schraderův existenciální scénář a rituál očistného násilí."

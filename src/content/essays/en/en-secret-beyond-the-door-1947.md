@@ -1,4 +1,5 @@
----title: "Secret Beyond the Door (1947): Architecture of Fate, the Freudian Myth, and the Labyrinth of the Mind"
+---
+title: "Secret Beyond the Door (1947): Architecture of Fate, the Freudian Myth, and the Labyrinth of the Mind"
 year: 1947
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's Gothic noir exploring spatial determinism, Freudian psychoanalysis, and architecture as a map of the pathological mind."

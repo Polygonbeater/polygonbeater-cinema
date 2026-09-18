@@ -1,4 +1,5 @@
----title: "Un Chien Andalou (1929) – A Razor Aimed at Rationality"
+---
+title: "Un Chien Andalou (1929) – A Razor Aimed at Rationality"
 year: 1929
 date: "2026-09-02"
 description: "Luis Buñuel and Salvador Dalí deliberately sliced cinematic logic to pieces, destroying the assumption that reality on screen must make sense."

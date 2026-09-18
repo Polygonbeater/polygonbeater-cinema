@@ -1,4 +1,5 @@
----title: "Bringing Down a Dictator (2002): Zrod revolučního brandingu a politické jiu-jitsu"
+---
+title: "Bringing Down a Dictator (2002): Zrod revolučního brandingu a politické jiu-jitsu"
 year: 2002
 date: "2026-09-03"
 description: "Analýza dokumentu o srbském hnutí Otpor!, které pomocí decentralizované strategie, humoru a psychologického marketingu svrhlo režim Slobodana Miloševiće."

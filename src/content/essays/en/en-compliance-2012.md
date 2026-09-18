@@ -1,4 +1,5 @@
----title: "Compliance (2012): The Anatomy of Blind Obedience and the Tyranny of Authority"
+---
+title: "Compliance (2012): The Anatomy of Blind Obedience and the Tyranny of Authority"
 year: 2012
 date: "2026-09-02"
 description: "An analytical study deconstructing Craig Zobel’s psychological thriller Compliance as the ultimate cautionary memento against systemic submissiveness and the diffusion of responsibility."

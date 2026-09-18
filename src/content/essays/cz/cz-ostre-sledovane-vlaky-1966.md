@@ -1,4 +1,5 @@
----title: "Ostře sledované vlaky (Closely Watched Trains, 1966): Perlička na dně staničního prachu a erotika vzdoru"
+---
+title: "Ostře sledované vlaky (Closely Watched Trains, 1966): Perlička na dně staničního prachu a erotika vzdoru"
 year: 1966
 date: "2026-09-03"
 description: "Analytická studie oscarové tragikomedie Jiřího Menzela a Bohumila Hrabala zkoumající střet mikrodějin se zhoubnou mašinérií války, erotiku jako formu rezistence a absurdní hrdinství bez patosu."

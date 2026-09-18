@@ -1,4 +1,5 @@
----title: "Der Fuehrer's Face (1943): Animated Psychological Warfare and Totalitarian Satire"
+---
+title: "Der Fuehrer's Face (1943): Animated Psychological Warfare and Totalitarian Satire"
 year: 1943
 date: "2026-09-03"
 description: "An analytical essay on Walt Disney's Academy Award-winning wartime short film, exploring its use of Donald Duck as psychological warfare against Nazi Germany."

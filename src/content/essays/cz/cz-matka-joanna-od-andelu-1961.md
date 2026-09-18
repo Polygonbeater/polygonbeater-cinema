@@ -1,4 +1,5 @@
----title: "Matka Johana od Andělů (Matka Joanna od Aniołów, 1961): Bělost hábitu, posedlost a metafyzika vzdoru"
+---
+title: "Matka Johana od Andělů (Matka Joanna od Aniołów, 1961): Bělost hábitu, posedlost a metafyzika vzdoru"
 year: 1961
 date: "2026-09-03"
 description: "Analytická studie polského historického dramatu Jerzyho Kawalerowicze zkoumající asketické černobílé chiaroscuro, fenomén hromadné hysterie jeptišek a tragickou oběť otce Suryna."

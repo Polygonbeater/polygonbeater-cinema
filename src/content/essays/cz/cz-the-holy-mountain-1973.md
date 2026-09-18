@@ -1,4 +1,5 @@
----title: "Svatá hora (The Holy Mountain, 1973): Alchymie jako proces individuace a iniciační struktura"
+---
+title: "Svatá hora (The Holy Mountain, 1973): Alchymie jako proces individuace a iniciační struktura"
 year: 1973
 date: "2026-09-03"
 description: "Metodicky kontrolovaná analýza surrealistického mistrovského díla Alejandra Jodorowského skrze prizma antropologie přechodových rituálů, jungovské alchymie a hermetické dekonstrukce filmového aparátu."

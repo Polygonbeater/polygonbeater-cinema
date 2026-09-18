@@ -1,4 +1,5 @@
----title: "Tajemství za dveřmi (Secret Beyond the Door, 1947): Architektura osudu a labyrint patologické mysli"
+---
+title: "Tajemství za dveřmi (Secret Beyond the Door, 1947): Architektura osudu a labyrint patologické mysli"
 year: 1947
 date: "2026-09-03"
 description: "Analytická studie psychologického noiru a ženské gotiky Fritze Langa zkoumající prostorový determinismus, freudiánskou psychoanalýzu a architekturu jako mapu patologické mysli."

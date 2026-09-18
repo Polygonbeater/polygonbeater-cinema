@@ -1,4 +1,5 @@
----title: "The Cabinet of Dr. Caligari (1920): Expressionist Space, Authority, and the Subjectivization of Psychosis"
+---
+title: "The Cabinet of Dr. Caligari (1920): Expressionist Space, Authority, and the Subjectivization of Psychosis"
 year: 1920
 date: "2026-09-03"
 description: "Analytical study of Robert Wiene's foundational German Expressionist masterpiece, exploring anti-realist architecture, the unreliable narrator, and structures of power."

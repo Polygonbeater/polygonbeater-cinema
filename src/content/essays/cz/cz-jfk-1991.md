@@ -1,4 +1,5 @@
----title: "JFK (1991): Systém montážně generované epistemické autority"
+---
+title: "JFK (1991): Systém montážně generované epistemické autority"
 year: 1991
 date: "2026-09-03"
 description: "Analytická studie politického dramatu Olivera Stonea zkoumající vizuální důkazní řízení, kadenci montážního přetížení a asimilaci historického faktu s fikcí."

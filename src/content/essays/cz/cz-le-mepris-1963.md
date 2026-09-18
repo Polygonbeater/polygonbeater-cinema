@@ -1,4 +1,5 @@
----title: "Pohrdání (Le Mépris, 1963): Rozpad významu, Cinemascope a ekonomie odcizení"
+---
+title: "Pohrdání (Le Mépris, 1963): Rozpad významu, Cinemascope a ekonomie odcizení"
 year: 1963
 date: "2026-09-03"
 description: "Analytická studie mistrovského díla Jeana-Luca Godarda zkoumající selhání překladu, architekturu Vily Malaparte, širokoúhlý formát Cinemascope a symbolickou roli Fritze Langa."

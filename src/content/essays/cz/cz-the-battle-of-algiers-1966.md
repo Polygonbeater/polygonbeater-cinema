@@ -1,4 +1,5 @@
----title: "Bitva o Alžír (La battaglia di Algeri, 1966): Anatomie revoluce a kinematografie dekolonizace"
+---
+title: "Bitva o Alžír (La battaglia di Algeri, 1966): Anatomie revoluce a kinematografie dekolonizace"
 year: 1966
 date: "2026-09-03"
 description: "Hloubková analýza revolučního mistrovského díla Gilla Pontecorva zkoumající dynamiku protipovstaleckého boje, etiku násilí, Kasbu jako městské bojiště a hudební lament Ennia Morriconeho."

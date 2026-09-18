@@ -1,4 +1,5 @@
----title: "The Devils (1971): The Politics of Hysteria and the False Passion"
+---
+title: "The Devils (1971): The Politics of Hysteria and the False Passion"
 year: 1971
 date: "2026-09-03"
 description: "An analytical study of Ken Russell's historical drama exploring the political weaponization of faith, Jarman's anachronistic architecture, and the deconstruction of the Passion of Christ."

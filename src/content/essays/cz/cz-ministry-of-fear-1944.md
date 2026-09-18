@@ -1,4 +1,5 @@
----title: "Ministry of Fear (1944): Paranoia jako kognitivní lucidita ve válečném stavu"
+---
+title: "Ministry of Fear (1944): Paranoia jako kognitivní lucidita ve válečném stavu"
 year: 1944
 date: "2026-09-03"
 description: "Analytická studie válečného noiru Fritze Langa zkoumající paranoiu jako epistemologickou luciditu, kulturu ambientního dohledu a geometrii podezření v Londýně za války."

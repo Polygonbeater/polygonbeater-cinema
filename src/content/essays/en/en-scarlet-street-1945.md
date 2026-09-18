@@ -1,4 +1,5 @@
----title: "Scarlet Street (1945): Subject Deconstruction, Structural Emasculation, and the Auditory Trajectory of Guilt"
+---
+title: "Scarlet Street (1945): Subject Deconstruction, Structural Emasculation, and the Auditory Trajectory of Guilt"
 year: 1945
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's film noir exploring subject deconstruction, the commodification of identity, and Michel Chion's sound theory."

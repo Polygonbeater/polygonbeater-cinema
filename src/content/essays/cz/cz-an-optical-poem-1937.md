@@ -1,4 +1,5 @@
----title: "Optická báseň (An Optical Poem, 1937): Vizualizace svobody v exilu"
+---
+title: "Optická báseň (An Optical Poem, 1937): Vizualizace svobody v exilu"
 year: 1937
 date: "2026-09-03"
 description: "Hloubková analýza abstraktního animovaného díla Oskara Fischingera, představujícího triumf vizuální hudby a exilový vzdor."

@@ -1,4 +1,5 @@
----title: "Sisyphus (1974): The Weight of Will in Minimalist Animation"
+---
+title: "Sisyphus (1974): The Weight of Will in Minimalist Animation"
 year: 1974
 date: "2026-09-03"
 description: "An analytical essay on Marcell Jankovics' minimalist masterpiece, exploring existentialism, endurance, and animation as physical labor."

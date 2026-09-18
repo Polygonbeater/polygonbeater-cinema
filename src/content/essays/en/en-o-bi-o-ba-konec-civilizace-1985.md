@@ -1,4 +1,5 @@
----title: "O-Bi, O-Ba: The End of Civilization (1985) – The Architecture of Manufactured Hope"
+---
+title: "O-Bi, O-Ba: The End of Civilization (1985) – The Architecture of Manufactured Hope"
 year: 1985
 date: "2026-09-02"
 description: "Piotr Szulkin examines the terminal stage of humanity trapped in a decaying post-apocalyptic bunker, where political structures deploy the myth of salvation to maintain control."

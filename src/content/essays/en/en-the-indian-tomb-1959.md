@@ -1,4 +1,5 @@
----title: "The Indian Tomb (1959): The Geometry of Revenge and the Architecture of Death"
+---
+title: "The Indian Tomb (1959): The Geometry of Revenge and the Architecture of Death"
 year: 1959
 date: "2026-09-03"
 description: "An analytical study of the conclusion to Fritz Lang's Indian Diptych, exploring the architecture of death, staging in depth, and the collapse of geometric order."

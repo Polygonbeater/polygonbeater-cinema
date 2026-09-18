@@ -1,4 +1,5 @@
----title: "Gaslight (1944): The Birth of Psychological Terror and the Architecture of Doubt"
+---
+title: "Gaslight (1944): The Birth of Psychological Terror and the Architecture of Doubt"
 year: 1944
 date: "2026-09-02"
 description: "An analytical study deconstructing George Cukor’s classic psychological thriller Gaslight as the fundamental work defining the modern concept of sanity manipulation and gaslighting."

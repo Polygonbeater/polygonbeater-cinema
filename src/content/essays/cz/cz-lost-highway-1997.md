@@ -1,4 +1,5 @@
----title: "Lost Highway (1997): Past, ze které není úniku, a Möbiova páska identity"
+---
+title: "Lost Highway (1997): Past, ze které není úniku, a Möbiova páska identity"
 year: 1997
 date: "2026-09-03"
 description: "Analytická studie kultovního neo-noiru Davida Lynche zkoumající psychogenní fugu, dekonstrukci subjektivity do podoby Möbiovy pásky, voyeurismus videokazet a noční dálnici bez konce."

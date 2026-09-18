@@ -1,4 +1,5 @@
----title: "Tōkaidō Yotsuya Kaidan (1959)"
+---
+title: "Tōkaidō Yotsuya Kaidan (1959)"
 year: 1959
 date: "2026-09-02"
 description: "Curse, Ritual, and the Birth of Horror in Nobuo Nakagawa's adaptation."

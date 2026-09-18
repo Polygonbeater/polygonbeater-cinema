@@ -1,4 +1,5 @@
----title: "Netrapte kachňátko (Non si sevizia un paperino, 1972): Anatomie systémového zla a venkovský folk-horor"
+---
+title: "Netrapte kachňátko (Non si sevizia un paperino, 1972): Anatomie systémového zla a venkovský folk-horor"
 director: "Lucio Fulci"
 year: 1972
 date: "2026-09-03"

@@ -1,4 +1,5 @@
----title: "Labirynt (Labyrinth, 1962): The Architecture of Confinement"
+---
+title: "Labirynt (Labyrinth, 1962): The Architecture of Confinement"
 year: 1962
 date: "2026-09-03"
 description: "An analytical essay on Jan Lenica's surrealist animation masterpiece, exploring bureaucratic oppression, collage aesthetics, and Kafkaesque entrapment."

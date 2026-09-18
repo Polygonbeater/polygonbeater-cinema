@@ -1,4 +1,5 @@
----title: "Lāčplēsis (1930): Mytologický monument jako pilíř národní identity"
+---
+title: "Lāčplēsis (1930): Mytologický monument jako pilíř národní identity"
 director: "Aleksandrs Rusteiķis"
 year: 1930
 date: "2026-09-03"

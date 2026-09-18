@@ -1,4 +1,5 @@
----title: "Lokis (1970): Střet osvícenského rozumu a pobaltského mýtu v etnografické gotice"
+---
+title: "Lokis (1970): Střet osvícenského rozumu a pobaltského mýtu v etnografické gotice"
 year: 1970
 date: "2026-09-03"
 description: "Analytická studie polského gotického hororu Janusze Majewského zkoumající adaptaci Prospera Mériméa, limity západního racionalismu, medvědí lykantropii a chthonické mýty Žemaitije."

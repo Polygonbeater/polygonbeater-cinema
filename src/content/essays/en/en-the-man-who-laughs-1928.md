@@ -1,4 +1,5 @@
----title: "The Man Who Laughs (1928) – Anatomy of an Eternal Smile and the Birth of the Tragic Monster"
+---
+title: "The Man Who Laughs (1928) – Anatomy of an Eternal Smile and the Birth of the Tragic Monster"
 director: "Paul Leni"
 year: 1928
 date: "2026-09-02"

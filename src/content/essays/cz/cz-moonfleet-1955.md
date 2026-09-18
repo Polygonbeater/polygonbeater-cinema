@@ -1,4 +1,5 @@
----title: "Moonfleet (1955): Gotická studie morálního úpadku"
+---
+title: "Moonfleet (1955): Gotická studie morálního úpadku"
 year: 1955
 date: "2026-09-03"
 description: "Analytická studie gotického melodramatu Fritze Langa zkoumající subverzi dobrodružného žánru, anamorfný formát CinemaScope jako horizontální past a motiv morálního vykoupení."

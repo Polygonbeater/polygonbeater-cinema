@@ -1,4 +1,5 @@
----title: "Man Hunt (1941): Personal Manifesto, Shadows, and the First Strike Against Nazism"
+---
+title: "Man Hunt (1941): Personal Manifesto, Shadows, and the First Strike Against Nazism"
 year: 1941
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's political thriller Man Hunt, which broke Hollywood neutrality before Pearl Harbor and returned the director to expressionism."

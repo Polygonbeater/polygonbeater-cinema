@@ -1,4 +1,5 @@
----title: "Allegro non troppo (1976): Subverze disneyovského mýtu a animovaná groteska"
+---
+title: "Allegro non troppo (1976): Subverze disneyovského mýtu a animovaná groteska"
 year: 1976
 date: "2026-09-03"
 description: "Analytická studie kultovního animovaného filmu Bruna Bozzetta parodujícího Disneyho Fantasii, zkoumající střet klasické hudby, sociální satiry a tragikomické evoluce."

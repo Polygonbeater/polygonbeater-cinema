@@ -1,4 +1,5 @@
----title: "Marketa Lazarová (1967): Tíha bláta, kmenový animismus a zrod řádu z krve"
+---
+title: "Marketa Lazarová (1967): Tíha bláta, kmenový animismus a zrod řádu z krve"
 year: 1967
 date: "2026-09-03"
 description: "Analytická studie vizionářského historického eposu Františka Vláčila zkoumající drtivou materialitu středověku, kameru Bedřicha Baťky, polyfonní partituru Zdeňka Lišky a střet kmenového pohanství s křesťanskou mocí."

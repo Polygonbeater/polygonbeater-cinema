@@ -1,4 +1,5 @@
----title: "Les Jeux des Anges (The Games of Angels, 1964): An Elegy for the Industrialized Holocaust"
+---
+title: "Les Jeux des Anges (The Games of Angels, 1964): An Elegy for the Industrialized Holocaust"
 director: "the Polish"
 year: 1964
 date: "2026-09-03"

@@ -1,4 +1,5 @@
----title: "Svatá krev (Santa Sangre, 1989): Rituální art-horor, cirkusová tělesnost a psychologické trauma"
+---
+title: "Svatá krev (Santa Sangre, 1989): Rituální art-horor, cirkusová tělesnost a psychologické trauma"
 director: "Alejandro Jodorowsky"
 year: 1989
 date: "2026-09-03"

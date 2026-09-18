@@ -1,4 +1,5 @@
----title: "Krev na Satanově drápu (The Blood on Satan's Claw, 1971): Nákaza z půdy a rituál dětí"
+---
+title: "Krev na Satanově drápu (The Blood on Satan's Claw, 1971): Nákaza z půdy a rituál dětí"
 director: "Piers Haggard"
 year: 1971
 date: "2026-09-03"

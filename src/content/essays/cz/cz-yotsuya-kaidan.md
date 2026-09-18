@@ -1,4 +1,5 @@
----title: "Tókaidó Jocuja kaidan (Tōkaidō Yotsuya Kaidan, 1959): Prokletí, rituál a zrození hororového obrazu"
+---
+title: "Tókaidó Jocuja kaidan (Tōkaidō Yotsuya Kaidan, 1959): Prokletí, rituál a zrození hororového obrazu"
 year: 1959
 date: "2026-09-03"
 description: "Analytická studie mistrovského díla Nobua Nakagawy zkoumající rituální tradici kaidan, dekonstrukci prostoru, fyzický tlak chiaroscura a tělesný rozklad tváře Oiwy."

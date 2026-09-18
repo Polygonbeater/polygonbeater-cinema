@@ -1,4 +1,5 @@
----title: "Shock Corridor (1963): The Psychiatric State, Depoliticization, and the Cold War"
+---
+title: "Shock Corridor (1963): The Psychiatric State, Depoliticization, and the Cold War"
 year: 1963
 date: "2026-09-03"
 description: "Analytical study of Samuel Fuller's radical masterpiece, examining the asylum as a disciplinary state, ideological psychiatry, and the collapse of external critique."

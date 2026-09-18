@@ -1,4 +1,5 @@
----title: "What the Health (2017): When Science Becomes a Weapon"
+---
+title: "What the Health (2017): When Science Becomes a Weapon"
 year: 2017
 date: "2026-09-03"
 description: "A deep dive study deconstructing the misinformation hacking of the human mind in What the Health as a manipulative assault on cognitive sovereignty."

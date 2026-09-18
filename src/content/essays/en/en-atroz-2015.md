@@ -1,4 +1,5 @@
----title: "Atroz (2015): Extreme Horror, Found Footage, and the Ethics of Representing Violence"
+---
+title: "Atroz (2015): Extreme Horror, Found Footage, and the Ethics of Representing Violence"
 year: 2015
 date: "2026-09-03"
 description: "Analytical study of Lex Ortega's controversial Mexican cult horror film, examining nihilism, voyeurism, and the absolute limits of cinematic suffering."

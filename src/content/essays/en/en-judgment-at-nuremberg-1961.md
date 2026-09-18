@@ -1,4 +1,5 @@
----title: "Judgment at Nuremberg (1961): A Filmic Tribunal of Conscience"
+---
+title: "Judgment at Nuremberg (1961): A Filmic Tribunal of Conscience"
 year: 1961
 date: "2026-09-03"
 description: "An analytical essay on Stanley Kramer's landmark legal drama exploring judicial compliance, collective guilt, and the banality of evil."

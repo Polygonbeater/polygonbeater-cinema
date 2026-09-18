@@ -1,4 +1,5 @@
----title: "The Return of Frank James (1940): The Great Silence, Technicolor Debut, and Outlaw Justice"
+---
+title: "The Return of Frank James (1940): The Great Silence, Technicolor Debut, and Outlaw Justice"
 year: 1940
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's first color film, which rehabilitated his standing in the Hollywood studio system after a creative hiatus."

@@ -1,4 +1,5 @@
----title: "And God Created a Legend: Farewell to Brigitte Bardot (1934–2025)"
+---
+title: "And God Created a Legend: Farewell to Brigitte Bardot (1934–2025)"
 year: 1956
 date: "2026-09-03"
 description: "An analytical tribute to Brigitte Bardot, exploring her cinematic revolution in 'And God Created Woman' and her courageous transition to animal rights activism."

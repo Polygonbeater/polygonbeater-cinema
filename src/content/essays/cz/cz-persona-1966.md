@@ -1,4 +1,5 @@
----title: "Persona (1966): Rozpad masky, labilita identity a ontologie ticha"
+---
+title: "Persona (1966): Rozpad masky, labilita identity a ontologie ticha"
 year: 1966
 date: "2026-09-03"
 description: "Analytická studie radikálního mistrovského díla Ingmara Bergmana zkoumající labilitu lidské identity, bílé světlo ostrova Fårö, optiku Svena Nykvista a sebereflexivní destrukci filmového materiálu."

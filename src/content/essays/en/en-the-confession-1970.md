@@ -1,4 +1,5 @@
----title: "The Confession (1970): The Autopsy of Propaganda"
+---
+title: "The Confession (1970): The Autopsy of Propaganda"
 year: 1970
 date: "2026-09-03"
 description: "An analytical essay on Costa-Gavras's political drama based on Artur London’s memoir about the Slánský show trial."

@@ -1,4 +1,5 @@
----title: "The Killing of a Sacred Deer (2017): Surgical Guilt and the Symmetry of Punishment"
+---
+title: "The Killing of a Sacred Deer (2017): Surgical Guilt and the Symmetry of Punishment"
 year: 2017
 date: "2026-09-03"
 description: "An analytical study of Yorgos Lanthimos's psychological thriller exploring clinical determinism, the deadpan delivery, language as a mask, and the mechanics of ritual sacrifice."

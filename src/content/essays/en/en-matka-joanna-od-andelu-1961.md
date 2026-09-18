@@ -1,4 +1,5 @@
----title: "Mother Joan of the Angels (1961) – The Mechanism of Faith"
+---
+title: "Mother Joan of the Angels (1961) – The Mechanism of Faith"
 year: 1961
 date: "2026-09-02"
 description: "Jerzy Kawalerowicz examines the convent as a closed machine and a dogmatic system where repressed human emotions inevitably manifest as possession."

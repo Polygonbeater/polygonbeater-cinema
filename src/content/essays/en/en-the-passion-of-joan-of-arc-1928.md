@@ -1,4 +1,5 @@
----title: "The Passion of Joan of Arc (1928): The Anatomy of the Absolute"
+---
+title: "The Passion of Joan of Arc (1928): The Anatomy of the Absolute"
 year: 1928
 date: "2026-09-03"
 description: "An analytical study of Carl Theodor Dreyer's silent masterpiece exploring the deconstruction of space, the face as a spiritual battlefield, and the geometry of oppression."

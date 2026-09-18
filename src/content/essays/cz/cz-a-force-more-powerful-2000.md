@@ -1,4 +1,5 @@
----title: "A Force More Powerful (2000): Století nenásilného konfliktu a občanská neposlušnost"
+---
+title: "A Force More Powerful (2000): Století nenásilného konfliktu a občanská neposlušnost"
 year: 2000
 date: "2026-09-03"
 description: "Analýza dokumentu zkoumajícího nenásilný odpor jako systematickou strategii pro politické změny na základě historických příkladů."

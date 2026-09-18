@@ -1,4 +1,5 @@
----title: "Grizzly Man (2005): The Myth of Friendship and the Indifference of the Predator"
+---
+title: "Grizzly Man (2005): The Myth of Friendship and the Indifference of the Predator"
 year: 2005
 date: "2026-09-02"
 description: "An analytical study deconstructing Werner Herzog’s documentary tragedy Grizzly Man as a radical report on the failure of human empathy toward the wild and dangerous anthropomorphism."

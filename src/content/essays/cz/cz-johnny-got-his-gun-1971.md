@@ -1,4 +1,5 @@
----title: "Johnny Got His Gun (1971): Vědomí jako poslední vězení"
+---
+title: "Johnny Got His Gun (1971): Vědomí jako poslední vězení"
 year: 1971
 date: "2026-09-03"
 description: "Analytická studie protiválečného mistrovského díla Daltona Trumba zkoumající tělo jako biologický sarkofág, solipsismus smyslové deprivace a nemožnost zemřít."

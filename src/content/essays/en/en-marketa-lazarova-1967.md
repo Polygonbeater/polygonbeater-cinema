@@ -1,4 +1,5 @@
----title: "Marketa Lazarová (1967) – The Weight of Mud and the Birth of Order from Violence"
+---
+title: "Marketa Lazarová (1967) – The Weight of Mud and the Birth of Order from Violence"
 year: 1967
 date: "2026-09-02"
 description: "František Vláčil strips the Middle Ages of romanticism, presenting a brutal, sensory, and fragmented cinema experience of historical transformation."

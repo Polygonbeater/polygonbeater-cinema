@@ -1,4 +1,5 @@
----title: "Clash by Night (1952): Coastal Naturalism, Masculinity in Crisis, and the Birth of a Modern Icon"
+---
+title: "Clash by Night (1952): Coastal Naturalism, Masculinity in Crisis, and the Birth of a Modern Icon"
 year: 1952
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's drama exploring coastal naturalism, post-war masculinity in crisis, Nicholas Musuraca's cinematography, and Marilyn Monroe's dramatic breakthrough."

@@ -1,4 +1,5 @@
----title: "Cabaret (1972): The Anatomy of Conscious Complicity and Compartmentalization in a Defective Community"
+---
+title: "Cabaret (1972): The Anatomy of Conscious Complicity and Compartmentalization in a Defective Community"
 year: 1972
 date: "2026-09-02"
 description: "An analytical study examines the Oscar-winning film Cabaret as a model of conscious complicity, co-opted authorities, and systemic enablers in the Kit Kat Klub."

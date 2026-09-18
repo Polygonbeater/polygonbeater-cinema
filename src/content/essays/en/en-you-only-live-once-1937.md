@@ -1,4 +1,5 @@
----title: "You Only Live Once (1937): When Stigma Replaces Proof and Justice Fails"
+---
+title: "You Only Live Once (1937): When Stigma Replaces Proof and Justice Fails"
 year: 1937
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's tragic melodrama examining social exclusion, the mechanism of stigma, and the manufacturing of certainty without proof."

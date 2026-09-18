@@ -1,4 +1,5 @@
----title: "The Wicker Man (1973): The Sun as an Instrument of Terror"
+---
+title: "The Wicker Man (1973): The Sun as an Instrument of Terror"
 year: 1973
 date: "2026-09-03"
 description: "An analytical study of the foundational folk horror film exploring daylight terror, isolation through diegetic folk music, and the fatal collision of irreconcilable dogmas."

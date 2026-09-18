@@ -1,4 +1,5 @@
----title: "Norimberský proces (Judgment at Nuremberg, 1961): Tribunál svědomí a krize práva"
+---
+title: "Norimberský proces (Judgment at Nuremberg, 1961): Tribunál svědomí a krize práva"
 director: "Stanley Kramer"
 year: 1961
 date: "2026-09-03"

@@ -1,4 +1,5 @@
----title: "The Menu (2022): The Destruction of a Cultic Hierarchy and the Cognitive Short-Circuit as the Ultimate Defense"
+---
+title: "The Menu (2022): The Destruction of a Cultic Hierarchy and the Cognitive Short-Circuit as the Ultimate Defense"
 year: 2022
 date: "2026-09-02"
 description: "An analytical study deconstructing the psychological thriller The Menu as a case study in the destruction of elitist hierarchy and tactical escape from Zone Zero."

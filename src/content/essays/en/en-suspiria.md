@@ -1,4 +1,5 @@
----title: "Two Faces of Darkness: Suspiria as an Aesthetic Trap and Historical Decay"
+---
+title: "Two Faces of Darkness: Suspiria as an Aesthetic Trap and Historical Decay"
 year: 1977
 date: "2026-01-01"
 description: "An essayistic comparative study of the two versions of Suspiria (1977 and 2018) by Dario Argento and Luca Guadagnino."

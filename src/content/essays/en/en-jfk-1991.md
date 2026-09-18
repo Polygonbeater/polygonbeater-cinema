@@ -1,4 +1,5 @@
----title: "JFK (1991) – A System of Montage-Generated Epistemic Authority"
+---
+title: "JFK (1991) – A System of Montage-Generated Epistemic Authority"
 year: 1991
 date: "2026-09-02"
 description: "Oliver Stone weaponized film into an instrument of visual evidentiary procedure, demonstrating how to reorganize the relationship between image and truthfulness."

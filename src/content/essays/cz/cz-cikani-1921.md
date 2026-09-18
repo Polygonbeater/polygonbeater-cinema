@@ -1,4 +1,5 @@
----title: "Cikáni (1921): Mýtus absolutní svobody a romantická projekce osudu"
+---
+title: "Cikáni (1921): Mýtus absolutní svobody a romantická projekce osudu"
 year: 1921
 date: "2026-09-03"
 description: "Analytická studie němého filmu Karla Antona podle novely Karla Hynka Máchy zkoumající romantický archetyp vyhnanství, virážovaný prostor a počátky české filmové epiky."

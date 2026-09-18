@@ -1,4 +1,5 @@
----title: "Vozka smrti (Körkarlen, 1921): Půlnoční kletba, dvojitá expozice a severské vykoupení"
+---
+title: "Vozka smrti (Körkarlen, 1921): Půlnoční kletba, dvojitá expozice a severské vykoupení"
 year: 1921
 date: "2026-09-03"
 description: "Analytická studie němého mistrovského díla Viktora Sjöströma zkoumající techniku vícenásobné expozice, motiv půlnoční kletby, sociální rozklad alkoholismu a hluboký vliv na Ingmara Bergmana i Stanleyho Kubricka."

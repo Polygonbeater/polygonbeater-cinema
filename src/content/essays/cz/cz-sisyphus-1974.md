@@ -1,4 +1,5 @@
----title: "Sisyfos (Sisyphus, 1974): Vzpoura linie, tíha věčného úsilí a estetika dřiny"
+---
+title: "Sisyfos (Sisyphus, 1974): Vzpoura linie, tíha věčného úsilí a estetika dřiny"
 year: 1974
 date: "2026-09-03"
 description: "Hloubková analýza minimalistického animovaného mistrovského díla Marcella Jankovicse zkoumající existenciální úsilí, animaci jako formu meta-dřiny a camusovskou absurditu."

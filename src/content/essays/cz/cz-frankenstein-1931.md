@@ -1,4 +1,5 @@
----title: "Frankenstein (1931): Zrození z masa a vědecká hybris"
+---
+title: "Frankenstein (1931): Zrození z masa a vědecká hybris"
 year: 1931
 date: "2026-09-03"
 description: "James Whale ve svém ikonickém hororu zkoumá vědeckou hybris, etickou odpovědnost tvůrce a tragickou existenci monstra v rané zvukové éře."

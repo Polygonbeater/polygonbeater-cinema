@@ -1,4 +1,5 @@
----title: "House by the River (1950): Estetika hniloby, řeka zapomnění a narcistní patologie"
+---
+title: "House by the River (1950): Estetika hniloby, řeka zapomnění a narcistní patologie"
 year: 1950
 date: "2026-09-03"
 description: "Analytická studie noirové viktoriánské gotiky Fritze Langa zkoumající environmentální determinismus, sociopatický narcismus, bahno a vizuální naturalismus."

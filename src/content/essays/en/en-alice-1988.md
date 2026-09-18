@@ -1,4 +1,5 @@
----title: "Alice (Něco z Alenky, 1988): Tactile Surrealism and Subconscious Nightmare"
+---
+title: "Alice (Něco z Alenky, 1988): Tactile Surrealism and Subconscious Nightmare"
 year: 1988
 date: "2026-09-03"
 description: "An analytical essay on Jan Švankmajer's masterpiece, transforming Carroll's classic into a chilling exploration of texture, decay, and institutional control."

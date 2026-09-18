@@ -1,4 +1,5 @@
----title: "Návrat Franka Jamese (The Return of Frank James, 1940): Dvouleté ticho, barevná revoluce a spravedlnost mimo zákon"
+---
+title: "Návrat Franka Jamese (The Return of Frank James, 1940): Dvouleté ticho, barevná revoluce a spravedlnost mimo zákon"
 year: 1940
 date: "2026-09-03"
 description: "Analytická studie prvního barevného filmu Fritze Langa zkoumající jeho návrat po tvůrčí krizi, debut v třípásovém Technicoloru, etiku pomsty a selhání psaného zákona."

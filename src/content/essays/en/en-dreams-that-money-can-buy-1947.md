@@ -1,4 +1,5 @@
----title: "Dreams That Money Can Buy (1947): A Manifesto of the Subconscious"
+---
+title: "Dreams That Money Can Buy (1947): A Manifesto of the Subconscious"
 year: 1947
 date: "2026-09-03"
 description: "An analytical essay on Hans Richter's experimental surrealist anthology film, exploring its collaborative exile production and avant-garde resistance."

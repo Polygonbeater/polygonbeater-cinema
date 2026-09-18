@@ -1,4 +1,5 @@
----title: "Western Union (1941): The Wire That Bound a Nation and Confined Freedom"
+---
+title: "Western Union (1941): The Wire That Bound a Nation and Confined Freedom"
 year: 1941
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's Western examining technology as a tool of determinism, spatial geometry, and the price of civilization."

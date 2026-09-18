@@ -1,4 +1,5 @@
----title: "Mamma Roma (1962): Pier Paolo Pasolini’s Maternal Tragedy"
+---
+title: "Mamma Roma (1962): Pier Paolo Pasolini’s Maternal Tragedy"
 year: 1962
 date: "2026-09-03"
 description: "An analytical essay on Pier Paolo Pasolini's neorealist masterpiece starring Anna Magnani, exploring maternal sacrifice, class, and sacred iconography."

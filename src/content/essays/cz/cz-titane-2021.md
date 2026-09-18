@@ -1,4 +1,5 @@
----title: "Titane (2021): Fúze masa a kovu, posthumanismus a horor bezpodmínečné lásky"
+---
+title: "Titane (2021): Fúze masa a kovu, posthumanismus a horor bezpodmínečné lásky"
 year: 2021
 date: "2026-09-03"
 description: "Analytická studie transgresivního body hororu Julie Ducournauové zkoumající posthumanismus, fetišizaci strojů, destrukci genderu, Nové maso a radikální bezpodmínečnou empatii."

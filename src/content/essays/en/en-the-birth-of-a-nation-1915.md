@@ -1,4 +1,5 @@
----title: "The Birth of a Nation (1915): The Genesis of Film Technique and Ideology"
+---
+title: "The Birth of a Nation (1915): The Genesis of Film Technique and Ideology"
 year: 1915
 date: "2026-09-03"
 description: "An analytical essay on D.W. Griffith's monumental and deeply controversial epic, examining its pioneering cinematic language alongside its white supremacist ideology."

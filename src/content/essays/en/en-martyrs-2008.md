@@ -1,4 +1,5 @@
----title: "Martyrs (2008): The Anatomy of Pain and the Metaphysics of Suffering"
+---
+title: "Martyrs (2008): The Anatomy of Pain and the Metaphysics of Suffering"
 director: "Pascal Laugier"
 year: 2008
 date: "2026-09-03"

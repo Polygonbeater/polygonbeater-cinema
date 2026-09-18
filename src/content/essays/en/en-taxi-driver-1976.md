@@ -1,4 +1,5 @@
----title: "Taxi Driver (1976): Anatomy of Isolation"
+---
+title: "Taxi Driver (1976): Anatomy of Isolation"
 year: 1976
 date: "2026-09-03"
 description: "An analytical study of Martin Scorsese's masterpiece exploring urban alienation, Michael Chapman's neo-noir cinematography, and the ritual of purifying violence."

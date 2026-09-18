@@ -1,4 +1,5 @@
----title: "Martha Marcy May Marlene (2011): The Physics of Paranoia and the Erasure of the Ego"
+---
+title: "Martha Marcy May Marlene (2011): The Physics of Paranoia and the Erasure of the Ego"
 year: 2011
 date: "2026-09-03"
 description: "An analytical study of Sean Durkin's psychological drama exploring the anatomy of trauma, the erasure of personal identity, and the fluid collapse of memory and present reality."

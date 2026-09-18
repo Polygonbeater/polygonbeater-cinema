@@ -1,4 +1,5 @@
----title: "Tetsuo (Tetsuo: The Iron Man, 1989): Mutace masa, industriální virus a biomechanický fetišismus"
+---
+title: "Tetsuo (Tetsuo: The Iron Man, 1989): Mutace masa, industriální virus a biomechanický fetišismus"
 director: "Šinja Cukamoto"
 year: 1989
 date: "2026-09-03"

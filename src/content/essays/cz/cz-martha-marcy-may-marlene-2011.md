@@ -1,4 +1,5 @@
----title: "Martha Marcy May Marlene (2011): Fyzika paranoie a vymazání ega"
+---
+title: "Martha Marcy May Marlene (2011): Fyzika paranoie a vymazání ega"
 year: 2011
 date: "2026-09-03"
 description: "Analytická studie psychologického dramatu Seana Durkina zkoumající anatomii traumatu, ztrátu osobní identity a tekuté prolínání paměti s přítomností."

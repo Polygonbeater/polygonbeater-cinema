@@ -1,4 +1,5 @@
----title: "Kladivo na čarodějnice (1969): Administrativní teror a moc inkoustu"
+---
+title: "Kladivo na čarodějnice (1969): Administrativní teror a moc inkoustu"
 year: 1969
 date: "2026-09-03"
 description: "Analytická studie historického dramatu Otakara Vávry a Ester Krumbachové zkoumající inkviziční procesy jako byrokratický mechanismus, vykonstruovanou vinu a paralelu s politickými procesy 50. let."

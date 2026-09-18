@@ -1,4 +1,5 @@
----title: "House by the River (1950): The Aesthetics of Decay, the River of Oblivion, and Narcissistic Pathology"
+---
+title: "House by the River (1950): The Aesthetics of Decay, the River of Oblivion, and Narcissistic Pathology"
 year: 1950
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's Gothic noir exploring environmental determinism, sociopathic narcissism, and visual naturalism."

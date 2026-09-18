@@ -1,4 +1,5 @@
----title: "Ostrov v ohni (Queimada, 1969): Korporátní imperialismus a krize moci"
+---
+title: "Ostrov v ohni (Queimada, 1969): Korporátní imperialismus a krize moci"
 year: 1969
 date: "2026-09-03"
 description: "Analytická studie politického dramatu Gilla Pontecorva zkoumající mechanismy neokolonialismu, korporatokracii a paralely s moderními intervencemi."

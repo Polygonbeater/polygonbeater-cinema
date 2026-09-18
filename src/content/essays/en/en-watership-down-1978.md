@@ -1,4 +1,5 @@
----title: "Watership Down (1978): The Pastoral Apocalypse of Innocence"
+---
+title: "Watership Down (1978): The Pastoral Apocalypse of Innocence"
 year: 1978
 date: "2026-09-03"
 description: "An analytical essay on Martin Rosen's masterpiece, exploring myth, the cruelty of nature, and the existential struggle for survival."

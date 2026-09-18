@@ -1,4 +1,5 @@
----title: "Hangmen Also Die! (1943): Political Epistemology and Visual Architecture of Power"
+---
+title: "Hangmen Also Die! (1943): Political Epistemology and Visual Architecture of Power"
 year: 1943
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang and Bertolt Brecht's wartime drama examining truth manipulation, totalitarian power, and the visual panopticon."

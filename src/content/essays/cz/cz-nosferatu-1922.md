@@ -1,4 +1,5 @@
----title: "Nosferatu: Symfonie hrůzy (Nosferatu, eine Symphonie des Grauens, 1922): Stín století a metafyzika nákazy"
+---
+title: "Nosferatu: Symfonie hrůzy (Nosferatu, eine Symphonie des Grauens, 1922): Stín století a metafyzika nákazy"
 year: 1922
 date: "2026-09-03"
 description: "Hloubková analýza zakládajícího díla filmového hororu F. W. Murnaua zkoumající expresionistický stín, metaforu španělské chřipky, okultní vliv Albina Graua a biologický parazitismus."

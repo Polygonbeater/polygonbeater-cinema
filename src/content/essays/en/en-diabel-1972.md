@@ -1,4 +1,5 @@
----title: "Diabeł (1972) – History as a Hysterical Hallucination"
+---
+title: "Diabeł (1972) – History as a Hysterical Hallucination"
 year: 1972
 date: "2026-09-02"
 description: "Andrzej Żuławski frames the 1793 Partition of Poland not as archival history, but as an open wound and a chain of hysterical crises where state collapse mirrors psychological ruin."

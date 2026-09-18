@@ -1,4 +1,5 @@
----title: "Liliom (1934): Spravedlnost jako procedura a nebeská byrokracie"
+---
+title: "Liliom (1934): Spravedlnost jako procedura a nebeská byrokracie"
 year: 1934
 date: "2026-09-03"
 description: "Analytická studie jediného francouzského filmu Fritze Langa zkoumající zásvětí jako byrokratický aparát, filmed replay jako důkazní médium a kousavou tragikomickou dekonstrukci posmrtného soudu."

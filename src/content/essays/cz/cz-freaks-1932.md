@@ -1,4 +1,5 @@
----title: "Pozor na netvory! (Freaks, 1932): Odsouzený a rehabilitovaný klenot Toda Browninga"
+---
+title: "Pozor na netvory! (Freaks, 1932): Odsouzený a rehabilitovaný klenot Toda Browninga"
 director: "Tod Browning"
 year: 1932
 date: "2026-09-03"

@@ -1,4 +1,5 @@
----title: "Faust (1926): Filmový aparát, ztělesněné vidění a organizace morálního prostoru"
+---
+title: "Faust (1926): Filmový aparát, ztělesněné vidění a organizace morálního prostoru"
 year: 1926
 date: "2026-09-03"
 description: "Rozšířená analytická studie filmu Faust F. W. Murnaua zkoumající filmový aparát jako percepční stroj, světelnou politiku a fenomenologii ztělesněného diváctví."

@@ -1,4 +1,5 @@
----title: "Marijka nevěrnice (1934): Baladický realismus a avantgardní obraz Podkarpatské Rusi"
+---
+title: "Marijka nevěrnice (1934): Baladický realismus a avantgardní obraz Podkarpatské Rusi"
 year: 1934
 date: "2026-09-03"
 description: "Analytická studie vizionářského snímku Vladislava Vančury a Ivana Olbrachta zkoumající neherecké obsazení, avantgardní montáž, baladický mýtus a sociální realitu meziválečné Podkarpatské Rusi."

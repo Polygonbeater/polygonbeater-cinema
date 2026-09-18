@@ -1,4 +1,5 @@
----title: "The 46 Seconds That Changed the World Forever (1895): The Birth of Cinema"
+---
+title: "The 46 Seconds That Changed the World Forever (1895): The Birth of Cinema"
 year: 1895
 date: "2026-09-03"
 description: "A look at the historic moment on December 28, 1895, when the Lumière brothers presented the first public screening in Paris, changing our perception of reality forever."

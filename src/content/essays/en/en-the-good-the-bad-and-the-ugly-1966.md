@@ -1,4 +1,5 @@
----title: "The Good, the Bad and the Ugly (1966): An Existential Epic"
+---
+title: "The Good, the Bad and the Ugly (1966): An Existential Epic"
 year: 1966
 date: "2026-09-03"
 description: "An analytical essay on Sergio Leone's masterpiece, exploring the absurdity of war, existentialism, and the deconstruction of the Western myth."

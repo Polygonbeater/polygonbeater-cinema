@@ -1,4 +1,5 @@
----title: "Gulliverovy cesty (Gulliver's Travels, 1939): Absurdita konfliktu v animaci"
+---
+title: "Gulliverovy cesty (Gulliver's Travels, 1939): Absurdita konfliktu v animaci"
 year: 1939
 date: "2026-09-03"
 description: "Hloubková analýza celovečerního animovaného filmu studia Fleischer, představujícího protiválečnou alegorii a technický milník rotoskopie v předvečer světového konfliktu."

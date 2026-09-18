@@ -1,4 +1,5 @@
----title: "Possession (1981): The Anatomy of Hysteria and the Materialization of Pain"
+---
+title: "Possession (1981): The Anatomy of Hysteria and the Materialization of Pain"
 year: 1981
 date: "2026-09-03"
 description: "An analytical study of Andrzej Żuławski's psychological horror exploring marital destruction, the corporeality of divorce, and the birth of a monster from an emotional vacuum."

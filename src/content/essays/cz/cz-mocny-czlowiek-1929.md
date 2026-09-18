@@ -1,4 +1,5 @@
----title: "Mocný člověk (Mocny człowiek, 1929): Ztracený a nalezený vrchol polského němého filmu"
+---
+title: "Mocný člověk (Mocny człowiek, 1929): Ztracený a nalezený vrchol polského němého filmu"
 year: 1929
 date: "2026-09-03"
 description: "Analytická studie psychologického dramatu Henryka Szara podle románu Stanisława Przybyszewského zkoumající expresionistickou vizualitu, morální pád a moderní znovuzrození v Bruselu."

@@ -1,4 +1,5 @@
----title: "Rashomon (1950): The Disintegration of Objective Truth"
+---
+title: "Rashomon (1950): The Disintegration of Objective Truth"
 year: 1950
 date: "2026-09-03"
 description: "An analytical study of Akira Kurosawa's landmark film exploring epistemological relativism, unreliable narrators, and Kazuo Miyagawa's revolutionary cinematography."

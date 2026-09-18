@@ -1,4 +1,5 @@
----title: "Vlkodlak (The Wolf Man, 1941): Expresionistický fatalismus a tragédie monstra uvnitř"
+---
+title: "Vlkodlak (The Wolf Man, 1941): Expresionistický fatalismus a tragédie monstra uvnitř"
 year: 1941
 date: "2026-09-03"
 description: "Hloubková analýza klasického hororu studia Universal v režii George Waggnera zkoumající scenáristický přínos německého emigranta Curta Siodmaka, výmarský expresionismus a tragédii Lawrence Talbota."

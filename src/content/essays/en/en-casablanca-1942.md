@@ -1,4 +1,5 @@
----title: "Casablanca (1942): The Cinematic End of American Isolationism"
+---
+title: "Casablanca (1942): The Cinematic End of American Isolationism"
 year: 1942
 date: "2026-09-03"
 description: "An analytical essay on Michael Curtiz's wartime masterwork, examining Rick Blaine as an allegory for the United States' shift from neutrality to intervention."

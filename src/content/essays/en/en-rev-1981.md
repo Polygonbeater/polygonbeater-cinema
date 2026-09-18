@@ -1,4 +1,5 @@
----title: "Roar (1981): The Pathology of Coexistence and Documentary Terror"
+---
+title: "Roar (1981): The Pathology of Coexistence and Documentary Terror"
 year: 1981
 date: "2026-09-02"
 description: "An analytical study deconstructing the unique cinematic experiment Roar as a radical form of documentary terror, blurring the lines between fiction and actual assault by big cats."

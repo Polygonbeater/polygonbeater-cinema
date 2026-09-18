@@ -1,4 +1,5 @@
----title: "Apokalypsa (Apocalypse Now, 1979): Sestup do srdce temnoty"
+---
+title: "Apokalypsa (Apocalypse Now, 1979): Sestup do srdce temnoty"
 year: 1979
 date: "2026-09-03"
 description: "Analytická studie opusu magnum Francise Forda Coppoly zkoumající morální nihilismus, šerosvitnou kameru Vittoria Storara a zvukový design Waltera Murche."

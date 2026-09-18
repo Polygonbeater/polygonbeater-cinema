@@ -1,4 +1,5 @@
----title: "The Wolf Man (1941): Expressionism and the Tragedy of Fate"
+---
+title: "The Wolf Man (1941): Expressionism and the Tragedy of Fate"
 year: 1941
 date: "2026-09-03"
 description: "An analytical essay on Universal's classic horror film, examining Curt Siodmak's script, German Expressionist influence, and the tragedy of fate."

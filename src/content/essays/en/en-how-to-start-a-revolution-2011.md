@@ -1,4 +1,5 @@
----title: "How to Start a Revolution (2011): The Machiavelli of Nonviolence"
+---
+title: "How to Start a Revolution (2011): The Machiavelli of Nonviolence"
 director: "Ruaridh Arrow"
 year: 2011
 date: "2026-09-03"

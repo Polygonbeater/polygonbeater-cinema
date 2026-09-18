@@ -1,4 +1,5 @@
----title: "Nikola Šuhaj (1947): Baladická mytizace a poválečná reflexe ztraceného prostoru"
+---
+title: "Nikola Šuhaj (1947): Baladická mytizace a poválečná reflexe ztraceného prostoru"
 year: 1947
 date: "2026-09-03"
 description: "Poválečná adaptace Olbrachtova románu v režii Miroslava Josefa Krňanského reflektuje Podkarpatskou Rus jako melancholickou vzpomínkovou krajinu a elegické rozloučení se ztraceným územím."

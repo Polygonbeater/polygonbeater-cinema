@@ -1,4 +1,5 @@
----title: "Ďábelské ženy (Les Diaboliques, 1955): Anatomie viny a psychologická past"
+---
+title: "Ďábelské ženy (Les Diaboliques, 1955): Anatomie viny a psychologická past"
 year: 1955
 date: "2026-09-03"
 description: "Analytická studie mistrovského díla Henriho-Georgese Clouzota zkoumající somatizaci viny, asymetrii informací a precizně konstruovanou síť manipulace."

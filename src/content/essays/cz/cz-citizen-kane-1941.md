@@ -1,4 +1,5 @@
----title: "Občan Kane (Citizen Kane, 1941): Fragmentace identity a dekonstrukce mýtu"
+---
+title: "Občan Kane (Citizen Kane, 1941): Fragmentace identity a dekonstrukce mýtu"
 year: 1941
 date: "2026-09-03"
 description: "Analytická studie mistrovského díla Orsona Wellese zkoumající nelineární narativ, revoluční hloubku ostrosti Gregga Tolanda a dekonstrukci amerického snu."

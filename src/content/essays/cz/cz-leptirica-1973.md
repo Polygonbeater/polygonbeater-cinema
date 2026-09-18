@@ -1,4 +1,5 @@
----title: "Motýlice (Leptirica, 1973): Dekonstrukce upířího mýtu a syrovost balkánského folklóru"
+---
+title: "Motýlice (Leptirica, 1973): Dekonstrukce upířího mýtu a syrovost balkánského folklóru"
 director: "Đorđe Kadijević"
 year: 1973
 date: "2026-09-03"

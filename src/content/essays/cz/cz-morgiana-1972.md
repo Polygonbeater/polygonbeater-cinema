@@ -1,4 +1,5 @@
----title: "Morgiana (1972): Vražda jako umělecký objekt a opera narcismu"
+---
+title: "Morgiana (1972): Vražda jako umělecký objekt a opera narcismu"
 year: 1972
 date: "2026-09-03"
 description: "Analytická studie gotického psychologického hororu Juraje Herza zkoumající estetizovaný sadismus, zrcadlové plochy, narcistní sesterstvo a vraždu jako umělecký objekt."

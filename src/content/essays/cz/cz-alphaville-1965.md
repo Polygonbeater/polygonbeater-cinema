@@ -1,4 +1,5 @@
----title: "Alphaville (1965): Technokracie, jazyk a administrace moci"
+---
+title: "Alphaville (1965): Technokracie, jazyk a administrace moci"
 year: 1965
 date: "2026-09-03"
 description: "Analytická studie sci-fi noir filmu Jean-Luc Godarda, jež zkoumá kybernetickou racionalitu, hlas Alpha 60, banálnost byrokratické moci a roli jazyka."

@@ -1,4 +1,5 @@
----title: "The Arsenal Stadium Mystery (1939): A Pioneering Sports Thriller"
+---
+title: "The Arsenal Stadium Mystery (1939): A Pioneering Sports Thriller"
 director: "Thorold Dickinson and"
 year: 1939
 date: "2026-09-03"

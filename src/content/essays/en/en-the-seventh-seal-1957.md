@@ -1,4 +1,5 @@
----title: "The Seventh Seal (1957): Architecture of Doubt"
+---
+title: "The Seventh Seal (1957): Architecture of Doubt"
 year: 1957
 date: "2026-09-03"
 description: "An analytical study of Ingmar Bergman's masterpiece exploring existential angst, Gunnar Fischer's chiaroscuro, the chess game with Death, and responses to the silence of God."

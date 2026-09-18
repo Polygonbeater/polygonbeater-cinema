@@ -1,4 +1,5 @@
----title: "Marijka the Unfaithful (1934) – Avant-Garde, Authenticity, and the Raw Poetry of Carpathian Ruthenia"
+---
+title: "Marijka the Unfaithful (1934) – Avant-Garde, Authenticity, and the Raw Poetry of Carpathian Ruthenia"
 year: 1934
 date: "2026-09-02"
 description: "Vladislav Vančura's avant-garde film merges formal experimentation with a neorealist depiction of harsh life in Carpathian Ruthenia."

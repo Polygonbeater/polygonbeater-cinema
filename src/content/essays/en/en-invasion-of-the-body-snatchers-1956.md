@@ -1,4 +1,5 @@
----title: "Invasion of the Body Snatchers (1956): An Anatomy of Paranoia"
+---
+title: "Invasion of the Body Snatchers (1956): An Anatomy of Paranoia"
 year: 1956
 date: "2026-09-03"
 description: "An analytical essay on Don Siegel's seminal sci-fi horror masterwork exploring Cold War paranoia, conformity, and the erosion of identity."

@@ -1,4 +1,5 @@
----title: "Dělníci odcházející z továrny (1895): Zrod kinematografie a ontologie pohybu"
+---
+title: "Dělníci odcházející z továrny (1895): Zrod kinematografie a ontologie pohybu"
 year: 1895
 date: "2026-09-03"
 description: "Analytická studie zakladatelského snímku kinematografie bratří Lumièrů zkoumající historickou projekci v Grand Café, kompozici rámu, mýtus o panice a zrod moderního diváka."

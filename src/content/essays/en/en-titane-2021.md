@@ -1,4 +1,5 @@
----title: "Titane (2021): The Fusion of Flesh and Metal and the Horror of Unconditional Love"
+---
+title: "Titane (2021): The Fusion of Flesh and Metal and the Horror of Unconditional Love"
 year: 2021
 date: "2026-09-02"
 description: "An analytical study deconstructing Julia Ducournau’s transgressive body horror Titane as a radical exploration of post-humanism, machine fetishization, and the birth of the New Flesh."

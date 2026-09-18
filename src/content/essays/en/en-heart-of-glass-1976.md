@@ -1,4 +1,5 @@
----title: "Heart of Glass (1976): The Somnambulistic Prophecy"
+---
+title: "Heart of Glass (1976): The Somnambulistic Prophecy"
 year: 1976
 date: "2026-09-03"
 description: "An analytical study of Werner Herzog's visionary work exploring hypnosis as a state of being, the alchemy of Ruby Glass, and apocalypse in red grain."

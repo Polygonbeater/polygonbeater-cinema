@@ -1,4 +1,5 @@
----title: "Wings of Desire (1987): The Weight of the Earthly"
+---
+title: "Wings of Desire (1987): The Weight of the Earthly"
 year: 1987
 date: "2026-09-03"
 description: "An analytical study of Wim Wenders' poetic masterpiece exploring the synthesis of eternity, Henri Alekan's cinematography, and the spatial metaphor of the Berlin Wall."

@@ -1,4 +1,5 @@
----title: "Climax (2018): Choreografie chaosu a rozpad sociální smlouvy"
+---
+title: "Climax (2018): Choreografie chaosu a rozpad sociální smlouvy"
 year: 2018
 date: "2026-09-03"
 description: "Analytická studie halucinačního hororu Gaspara Noého zkoumající tanec jako jazyk, somatický teror, inverzní optiku kamery a rozpad lidské socializace."

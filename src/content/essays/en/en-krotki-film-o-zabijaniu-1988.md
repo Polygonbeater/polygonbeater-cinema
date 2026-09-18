@@ -1,4 +1,5 @@
----title: "A Short Film About Killing (1988) – The Anatomy of Mechanical Death"
+---
+title: "A Short Film About Killing (1988) – The Anatomy of Mechanical Death"
 year: 1988
 date: "2026-09-02"
 description: "Krzysztof Kieślowski deconstructs murder and capital punishment, delivering a cold, methodical study of the mechanics of death and institutionalized violence."

@@ -1,4 +1,5 @@
----title: "Rancho Notorious (1952): A Ballad of Hate, Murder, and Revenge"
+---
+title: "Rancho Notorious (1952): A Ballad of Hate, Murder, and Revenge"
 year: 1952
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's stylized Western noir exploring genre hybridity, ballad structure, Technicolor expressionism, and moral corrosion."

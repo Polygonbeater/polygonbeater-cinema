@@ -1,4 +1,5 @@
----title: "Jigoku (1960)"
+---
+title: "Jigoku (1960)"
 director: "Nobuo Nakagawa"
 year: 1960
 date: "2026-01-01"

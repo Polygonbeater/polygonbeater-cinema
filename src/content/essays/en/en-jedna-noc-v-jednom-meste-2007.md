@@ -1,4 +1,5 @@
----title: "One Night in One City (2007): The Poetry of Decay"
+---
+title: "One Night in One City (2007): The Poetry of Decay"
 year: 2007
 date: "2026-09-03"
 description: "An analytical essay on Jan Balej's stop-motion masterwork, exploring urban folklore, grotesque compassion, and the decay of modern loneliness."

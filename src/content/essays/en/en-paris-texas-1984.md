@@ -1,4 +1,5 @@
----title: "Paris, Texas (1984): The Landscape of Loneliness and the Anatomy of Loss"
+---
+title: "Paris, Texas (1984): The Landscape of Loneliness and the Anatomy of Loss"
 year: 1984
 date: "2026-09-03"
 description: "An analytical study of Wim Wenders' iconic road movie exploring human isolation, the desert as purgatory, and confession behind a one-way mirror."

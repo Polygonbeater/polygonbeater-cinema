@@ -1,4 +1,5 @@
----title: "V for Vendetta (2005): The Phenomenology of Semiotic Subversion and Asymmetric Information Warfare"
+---
+title: "V for Vendetta (2005): The Phenomenology of Semiotic Subversion and Asymmetric Information Warfare"
 year: 2005
 date: "2026-09-02"
 description: "An analytical study deconstructing the dystopian film V for Vendetta as an instructional model for information and symbolic guerrilla warfare against undemocratic and populist governments."

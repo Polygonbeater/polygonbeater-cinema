@@ -1,4 +1,5 @@
----title: "2001: A Space Odyssey (1968): Evolution of Consciousness"
+---
+title: "2001: A Space Odyssey (1968): Evolution of Consciousness"
 year: 1968
 date: "2026-09-03"
 description: "An analytical study of Stanley Kubrick's masterpiece exploring technological transcendentalism, the monolith motif, and the tragedy of HAL 9000."

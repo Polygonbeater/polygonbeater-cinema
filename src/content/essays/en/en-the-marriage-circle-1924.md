@@ -1,4 +1,5 @@
----title: "The Marriage Circle (1924): Ernst Lubitsch's Silent Masterpiece"
+---
+title: "The Marriage Circle (1924): Ernst Lubitsch's Silent Masterpiece"
 director: "Ernst Lubitsch and"
 year: 1924
 date: "2026-09-03"

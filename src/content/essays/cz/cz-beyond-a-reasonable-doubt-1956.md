@@ -1,4 +1,5 @@
----title: "Beyond a Reasonable Doubt (1956): Langovo mrazivé sbohem Hollywoodu"
+---
+title: "Beyond a Reasonable Doubt (1956): Langovo mrazivé sbohem Hollywoodu"
 year: 1956
 date: "2026-09-03"
 description: "Analytická studie posledního amerického snímku Fritze Langa zkoumající laboratorní dekonstrukci právního systému, estetiku sterilního jasu a nihilistický zvrat."

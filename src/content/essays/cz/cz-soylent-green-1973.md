@@ -1,4 +1,5 @@
----title: "Soylent Green (1973): Ekologický kolaps a korporátní kanibalismus"
+---
+title: "Soylent Green (1973): Ekologický kolaps a korporátní kanibalismus"
 director: "Richard Fleischer"
 year: 1973
 date: "2026-09-03"

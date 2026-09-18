@@ -1,4 +1,5 @@
----title: "Zvětšenina (Blow-Up, 1966): Krize vnímání a prázdnota obrazu"
+---
+title: "Zvětšenina (Blow-Up, 1966): Krize vnímání a prázdnota obrazu"
 year: 1966
 date: "2026-09-03"
 description: "Analytická studie prvního anglicky mluveného snímku Michelangela Antonioniho zkoumající limity lidského vnímání, barevnou dramaturgii a nečitelnost reality v zrnu."

@@ -1,4 +1,5 @@
----title: "Non si sevizia un paperino (1972)"
+---
+title: "Non si sevizia un paperino (1972)"
 director: "Lucio Fulci"
 year: 1972
 date: "2026-01-01"

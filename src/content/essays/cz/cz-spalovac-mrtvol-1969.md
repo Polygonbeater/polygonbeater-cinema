@@ -1,4 +1,5 @@
----title: "Spalovač mrtvol (1969): Banalita zla jako estetický systém"
+---
+title: "Spalovač mrtvol (1969): Banalita zla jako estetický systém"
 year: 1969
 date: "2026-09-03"
 description: "Radikální studie normalizace zla, v níž Juraj Herz a Rudolf Hrušínský ukazují přerod malého člověka v nástroj vyhlazovací ideologie skrze touhu po řádu, čistotě a estetice."

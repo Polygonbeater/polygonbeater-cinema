@@ -1,4 +1,5 @@
----title: "While the City Sleeps (1956): Media Predators and the Lipstick Killer"
+---
+title: "While the City Sleeps (1956): Media Predators and the Lipstick Killer"
 year: 1956
 date: "2026-09-03"
 description: "An analytical study of Fritz Lang's newsroom noir, exploring media voyeurism, corporate rat races, and the 2.00:1 Superscope widescreen format."

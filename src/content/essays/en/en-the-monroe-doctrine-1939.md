@@ -1,4 +1,5 @@
----title: "The Monroe Doctrine (1939): From Neutrality to Economic Imperialism"
+---
+title: "The Monroe Doctrine (1939): From Neutrality to Economic Imperialism"
 year: 1939
 date: "2026-09-03"
 description: "An analytical essay on Warner Bros.' 1939 short film, the historical roots of the Monroe Doctrine, and its modern implications."

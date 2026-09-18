@@ -1,4 +1,5 @@
----title: "Modrá gardenie (The Blue Gardenia, 1953): Mediální manipulace, technologické odcizení a amnestická past"
+---
+title: "Modrá gardenie (The Blue Gardenia, 1953): Mediální manipulace, technologické odcizení a amnestická past"
 year: 1953
 date: "2026-09-03"
 description: "Analytická studie noiru Fritze Langa zkoumající bulvární mediální lynč, genderovou zranitelnost pracujících žen, telekomunikační odcizení a amnestickou past paměťového výpadku."

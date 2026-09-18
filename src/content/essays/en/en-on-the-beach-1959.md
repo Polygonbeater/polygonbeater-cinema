@@ -1,4 +1,5 @@
----title: "On the Beach (1959): The Quiet Fade of Humanity"
+---
+title: "On the Beach (1959): The Quiet Fade of Humanity"
 year: 1959
 date: "2026-09-03"
 description: "An analytical essay on Stanley Kramer's groundbreaking post-apocalyptic drama, exploring nuclear dread, technological hubris, and the psychology of extinction."

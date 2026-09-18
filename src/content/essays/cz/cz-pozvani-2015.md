@@ -1,4 +1,5 @@
----title: "Pozvání (The Invitation, 2015): Anatomie gaslightingu a sociální rezistence"
+---
+title: "Pozvání (The Invitation, 2015): Anatomie gaslightingu a sociální rezistence"
 year: 2015
 date: "2026-09-03"
 description: "Analytická studie psychologického thrilleru Karyn Kusamy dekonstruující mechanismy gaslightingu, nebezpečí společenské zdvořilosti a patologii kultu úlevy od žalu."

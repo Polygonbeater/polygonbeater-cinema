@@ -1,4 +1,5 @@
----title: "The Blue Gardenia (1953): Media Manipulation, Technological Alienation, and the Amnesiac Trap"
+---
+title: "The Blue Gardenia (1953): Media Manipulation, Technological Alienation, and the Amnesiac Trap"
 year: 1953
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's film noir exploring tabloid media lynching, gendered vulnerability, technological alienation, and manufactured guilt."

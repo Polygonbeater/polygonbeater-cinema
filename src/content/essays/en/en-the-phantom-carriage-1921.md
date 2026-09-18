@@ -1,4 +1,5 @@
----title: "The Phantom Carriage (1921): The Midnight Curse"
+---
+title: "The Phantom Carriage (1921): The Midnight Curse"
 year: 1921
 date: "2026-09-03"
 description: "An analytical essay on Victor Sjöström's haunting silent masterpiece, blending Nordic folklore, groundbreaking special effects, and moral redemption."

@@ -1,4 +1,5 @@
----title: "Witchhammer (1969) – A Film of Ink"
+---
+title: "Witchhammer (1969) – A Film of Ink"
 year: 1969
 date: "2026-09-02"
 description: "Otakar Vávra and Ester Krumbachová present the Inquisition not through flames, but as a quiet administrative apparatus where people die the moment they are rewritten into a protocol."

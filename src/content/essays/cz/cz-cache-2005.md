@@ -1,4 +1,5 @@
----title: "Utajený (Caché, 2005): Architektura viny a teror pohledu"
+---
+title: "Utajený (Caché, 2005): Architektura viny a teror pohledu"
 year: 2005
 date: "2026-09-03"
 description: "Analytická studie psychologického thrilleru Michaela Hanekeho zkoumající zbraň statického obrazu, potlačenou postkoloniální vinu a destrukci buržoazního bezpečí."

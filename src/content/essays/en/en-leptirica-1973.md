@@ -1,4 +1,5 @@
----title: "Leptirica (1973) – The Deconstruction of the Vampire Myth and the Rawness of Balkan Folklore"
+---
+title: "Leptirica (1973) – The Deconstruction of the Vampire Myth and the Rawness of Balkan Folklore"
 year: 1973
 date: "2026-09-02"
 description: "Đorđe Kadijević's landmark Yugoslav folk-horror rejects Western aristocratic vampire tropes, returning the legend of Sava Savanović to its raw, animistic, and rural roots."

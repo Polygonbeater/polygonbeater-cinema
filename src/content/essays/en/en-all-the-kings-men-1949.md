@@ -1,4 +1,5 @@
----title: "All the King’s Men (1949): The Anatomy of Populism"
+---
+title: "All the King’s Men (1949): The Anatomy of Populism"
 year: 1949
 date: "2026-09-03"
 description: "An analytical essay on Robert Rossen's political masterpiece exploring the transformation of an idealist into a ruthless demagogue."

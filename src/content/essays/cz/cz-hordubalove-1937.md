@@ -1,4 +1,5 @@
----title: "Hordubalové (1937): Střet archaického mýtu a moderní československé justice"
+---
+title: "Hordubalové (1937): Střet archaického mýtu a moderní československé justice"
 director: "Martin Frič"
 year: 1937
 date: "2026-09-03"

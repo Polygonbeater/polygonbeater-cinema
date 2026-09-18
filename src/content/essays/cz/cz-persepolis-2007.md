@@ -1,4 +1,5 @@
----title: "Persepolis (2007): Rozbité zrcadlo íránské paměti a geometrie útlaku"
+---
+title: "Persepolis (2007): Rozbité zrcadlo íránské paměti a geometrie útlaku"
 year: 2007
 date: "2026-09-03"
 description: "Analytická studie animovaného snímku Marjane Satrapiové a Vincenta Paronnauda zkoumající vizuální minimalismus, Foucaultovu mikrofyziku moci a exilové přízvučné kino."

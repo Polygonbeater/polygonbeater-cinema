@@ -1,4 +1,5 @@
----title: "Küzdelem a létért / Leopard (1918): Béla Lugosi's Final European Role"
+---
+title: "Küzdelem a létért / Leopard (1918): Béla Lugosi's Final European Role"
 year: 1918
 date: "2026-09-03"
 description: "An analytical essay on the surviving fragment of Alfréd Deésy's 1918 silent drama featuring Béla Lugosi (credited as Arisztid Olt)."

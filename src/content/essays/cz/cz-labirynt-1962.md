@@ -1,4 +1,5 @@
----title: "Labyrint (Labirynt, 1962): Architektura nesvobody a byrokratická noční můra"
+---
+title: "Labyrint (Labirynt, 1962): Architektura nesvobody a byrokratická noční můra"
 year: 1962
 date: "2026-09-03"
 description: "Hloubková analýza surrealistického animovaného mistrovského díla Jana Lenicy zkoumající byrokratický útlak, kolážovou animaci a kafkovský labyrint totalitní moci."

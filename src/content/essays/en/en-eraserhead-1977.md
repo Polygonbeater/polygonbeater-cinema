@@ -1,4 +1,5 @@
----title: "Eraserhead (1977): The Absolute Bottom of the Subconscious"
+---
+title: "Eraserhead (1977): The Absolute Bottom of the Subconscious"
 year: 1977
 date: "2026-09-03"
 description: "An analytical study of David Lynch's feature debut exploring the industrial wasteland, fear of reproduction, and the surreal destruction of biological processes."

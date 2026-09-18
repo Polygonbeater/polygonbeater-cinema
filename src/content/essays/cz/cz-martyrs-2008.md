@@ -1,4 +1,5 @@
----title: "Mučedníci (2008): Anatomie bolesti a metafyzika utrpení"
+---
+title: "Mučedníci (2008): Anatomie bolesti a metafyzika utrpení"
 director: "Pascal Laugier"
 year: 2008
 date: "2026-09-03"

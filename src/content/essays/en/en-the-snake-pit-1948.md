@@ -1,4 +1,5 @@
----title: "The Snake Pit (1948): Institutional Terror, Psychoanalysis, and Gendered Power"
+---
+title: "The Snake Pit (1948): Institutional Terror, Psychoanalysis, and Gendered Power"
 year: 1948
 date: "2026-09-03"
 description: "Analytical study of Anatole Litvak's landmark drama, examining psychiatric ward hierarchies, iatrogenesis, and the Freudian framing of trauma."

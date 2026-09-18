@@ -1,4 +1,5 @@
----title: "Alphaville (1965): Technocracy, Language, and the Administration of Power"
+---
+title: "Alphaville (1965): Technocracy, Language, and the Administration of Power"
 year: 1965
 date: "2026-09-03"
 description: "Analytical study of Jean-Luc Godard's sci-fi noir masterpiece, examining cybernetic rationality, the voice of Alpha 60, bureaucratic power, and linguistic control."

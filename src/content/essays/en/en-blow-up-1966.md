@@ -1,4 +1,5 @@
----title: "Blow-Up (1966): The Crisis of Perception and the Emptiness of the Image"
+---
+title: "Blow-Up (1966): The Crisis of Perception and the Emptiness of the Image"
 year: 1966
 date: "2026-09-03"
 description: "An analytical study of Michelangelo Antonioni's first English-language film exploring the limits of human perception, color dramaturgy, and the unreliability of reality."

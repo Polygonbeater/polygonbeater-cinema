@@ -1,4 +1,5 @@
----title: "I katé umírají! (Hangmen Also Die!, 1943): Politická epistemologie a vizuální architektura moci"
+---
+title: "I katé umírají! (Hangmen Also Die!, 1943): Politická epistemologie a vizuální architektura moci"
 year: 1943
 date: "2026-09-03"
 description: "Analytická studie válečného dramatu Fritze Langa a Bertolta Brechta zkoumající manipulaci s pravdou, heydrichiádu, brechtovský zcizovací efekt a vizuální panoptikon okupované Prahy."

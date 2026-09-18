@@ -1,4 +1,5 @@
----title: "Rituál (The Wicker Man, 1973): Slunce jako nástroj teroru a střet dogmat"
+---
+title: "Rituál (The Wicker Man, 1973): Slunce jako nástroj teroru a střet dogmat"
 year: 1973
 date: "2026-09-03"
 description: "Analytická studie zakladatelského díla folk hororu zkoumající fenomén teroru za denního světla, diegetickou hudbu Paula Giovanniho a zhoubný střet křesťanské a pohanské vertikály."

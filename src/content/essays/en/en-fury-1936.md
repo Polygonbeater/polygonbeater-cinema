@@ -1,4 +1,5 @@
----title: "Fury (1936): Fast Emotion, the Manufacture of Certainty, and the Mob as a System"
+---
+title: "Fury (1936): Fast Emotion, the Manufacture of Certainty, and the Mob as a System"
 year: 1936
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's first American film, examining lynching as a social mechanism, institutional failure, and the moral corruption of the victim."

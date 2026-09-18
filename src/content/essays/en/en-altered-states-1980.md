@@ -1,4 +1,5 @@
----title: "Altered States (1980) – When Science Runs Into the Mind Itself"
+---
+title: "Altered States (1980) – When Science Runs Into the Mind Itself"
 year: 1980
 date: "2026-09-02"
 description: "Ken Russell’s visionary sci-fi explores the boundaries of human consciousness, sensory deprivation, and the unsettling paradox of knowledge rewriting the observer."

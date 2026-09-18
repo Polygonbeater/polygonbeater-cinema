@@ -1,4 +1,5 @@
----title: "The Shop on Main Street (1965): The Anatomy of Conformity"
+---
+title: "The Shop on Main Street (1965): The Anatomy of Conformity"
 year: 1965
 date: "2026-09-07"
 description: "An analysis of the first Czechoslovak Academy Award winner – Ján Kadár and Elmar Klos's chilling tragicomedy on moral collapse and Aryanization."

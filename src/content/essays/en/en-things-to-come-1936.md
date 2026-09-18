@@ -1,4 +1,5 @@
----title: "Things to Come (1936): H.G. Wells and the Technocratic Dilemma"
+---
+title: "Things to Come (1936): H.G. Wells and the Technocratic Dilemma"
 year: 1936
 date: "2026-09-03"
 description: "An analytical essay on the pre-WWII British sci-fi epic adapted by H.G. Wells, exploring societal collapse, technocratic rule, and scientific progress."

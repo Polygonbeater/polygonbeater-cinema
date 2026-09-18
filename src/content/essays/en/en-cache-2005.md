@@ -1,4 +1,5 @@
----title: "Caché (2005): The Architecture of Guilt and the Terror of the Gaze"
+---
+title: "Caché (2005): The Architecture of Guilt and the Terror of the Gaze"
 year: 2005
 date: "2026-09-03"
 description: "An analytical study of Michael Haneke's psychological thriller exploring the weapon of the static image, repressed post-colonial guilt, and the breakdown of bourgeois security."

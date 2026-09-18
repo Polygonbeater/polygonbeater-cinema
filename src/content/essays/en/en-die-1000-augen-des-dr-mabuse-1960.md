@@ -1,4 +1,5 @@
----title: "Die 1000 Augen des Dr. Mabuse (1960): Surveillance, Technical Power, and Banality"
+---
+title: "Die 1000 Augen des Dr. Mabuse (1960): Surveillance, Technical Power, and Banality"
 year: 1960
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's final feature film, examining the Luxor Hotel, panopticism, technical surveillance infrastructure, and power without a subject."

@@ -1,4 +1,5 @@
----title: "O-Bi, O-Ba: Konec civilizace (1985): Architektura vykonstruované naděje"
+---
+title: "O-Bi, O-Ba: Konec civilizace (1985): Architektura vykonstruované naděje"
 year: 1985
 date: "2026-09-03"
 description: "Analytická studie postapokalyptického sci-fi Piotra Szulkina zkoumající mýtus o záchranné Arše, rozklad podzemní Kopule, sociální entropii a byrokracii zmaru."

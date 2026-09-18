@@ -1,4 +1,5 @@
----title: "Televizní síť (Network, 1976): Fenomenologie komodifikace hněvu a korporátní cynismus"
+---
+title: "Televizní síť (Network, 1976): Fenomenologie komodifikace hněvu a korporátní cynismus"
 year: 1976
 date: "2026-09-03"
 description: "Analytická studie mediální satiry Sidneyho Lumeta a scenáristy Paddyho Chayefského zkoumající monetizaci hněvu, dekonstrukci žurnalistiky, ratingovou hysterii a korporátní kosmologii."

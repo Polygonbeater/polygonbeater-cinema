@@ -1,4 +1,5 @@
----title: "Noored kotkad (Mladí orli, 1927): Vizuální reprezentace nezávislého Pobaltí"
+---
+title: "Noored kotkad (Mladí orli, 1927): Vizuální reprezentace nezávislého Pobaltí"
 year: 1927
 date: "2026-09-03"
 description: "Analytická studie zakladatelského eposu Theodora Lutse zkoumající estonskou válku za nezávislost, západoevropskou filmovou estetiku a vizuální památník svobodné První republiky."

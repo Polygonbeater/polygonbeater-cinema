@@ -1,4 +1,5 @@
----title: "Santa Sangre (1989): Ritual Art-Horror, Circus Corporeality, and Psychological Trauma"
+---
+title: "Santa Sangre (1989): Ritual Art-Horror, Circus Corporeality, and Psychological Trauma"
 year: 1989
 date: "2026-09-03"
 description: "Analytical study of Alejandro Jodorowsky’s surrealist masterpiece, exploring the circus as a liminal space, psychoanalytic maternal symbiosis, and ritual aesthetics."

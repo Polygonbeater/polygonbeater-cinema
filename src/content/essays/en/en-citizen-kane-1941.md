@@ -1,4 +1,5 @@
----title: "Citizen Kane (1941): Fragmentation of Identity"
+---
+title: "Citizen Kane (1941): Fragmentation of Identity"
 year: 1941
 date: "2026-09-03"
 description: "An analytical study of Orson Welles's landmark film exploring non-linear narrative, Gregg Toland's deep focus cinematography, and the deconstruction of the American Dream."

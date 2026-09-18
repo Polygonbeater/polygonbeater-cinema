@@ -1,4 +1,5 @@
----title: "A Clockwork Orange (1971): Violence, Behaviorism, and State Disciplining"
+---
+title: "A Clockwork Orange (1971): Violence, Behaviorism, and State Disciplining"
 year: 1971
 date: "2026-09-03"
 description: "Analytical study of Stanley Kubrick's masterpiece, examining the Ludovico technique, the aestheticization of ultra-violence, wide-angle optics, and the crisis of free will."

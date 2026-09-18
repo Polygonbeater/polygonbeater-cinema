@@ -1,4 +1,5 @@
----title: "Bringing Down a Dictator (2002): The Birth of Revolutionary Branding"
+---
+title: "Bringing Down a Dictator (2002): The Birth of Revolutionary Branding"
 year: 2002
 date: "2026-09-03"
 description: "An analytical study of the documentary chronicling Otpor!, the Serbian student movement that used decentralized strategy, humor, and psychological marketing to overthrow Slobodan Milošević."

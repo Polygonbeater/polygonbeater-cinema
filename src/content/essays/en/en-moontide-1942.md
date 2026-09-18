@@ -1,4 +1,5 @@
----title: "Moontide (1942): The Year of Professional and Personal Fracture"
+---
+title: "Moontide (1942): The Year of Professional and Personal Fracture"
 year: 1942
 date: "2026-09-03"
 description: "Analytical study of Moontide mapping Fritz Lang's departure after four days, the Gabin-Lang-Dietrich triangle, and the film's visual schizophrenia."

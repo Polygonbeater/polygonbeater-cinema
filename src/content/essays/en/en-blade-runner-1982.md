@@ -1,4 +1,5 @@
----title: "Eyes in the Neon Dusk: Blade Runner and the Architecture of Artificial Memory"
+---
+title: "Eyes in the Neon Dusk: Blade Runner and the Architecture of Artificial Memory"
 year: 1982
 date: "2026-09-07"
 description: "A philosophical analysis of Ridley Scott's 1982 sci-fi masterpiece. How visual chiaroscuro, retro-futurism, and memory motifs define the boundary between human and machine."

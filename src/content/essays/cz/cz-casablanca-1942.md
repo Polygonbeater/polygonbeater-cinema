@@ -1,4 +1,5 @@
----title: "Casablanca (1942): Filmový konec amerického izolacionismu"
+---
+title: "Casablanca (1942): Filmový konec amerického izolacionismu"
 year: 1942
 date: "2026-09-03"
 description: "Hloubková analýza válečné romance Michaela Curtize jako politické alegorie o přechodu USA od neutrality k aktivnímu zapojení do druhé světové války."

@@ -1,4 +1,5 @@
----title: "Mamma Roma (1962): Tragédie mateřské lásky a římské pašije Pierra Paola Pasoliniho"
+---
+title: "Mamma Roma (1962): Tragédie mateřské lásky a římské pašije Pierra Paola Pasoliniho"
 year: 1962
 date: "2026-09-03"
 description: "Analytická studie druhého celovečerního filmu Pierra Paola Pasoliniho s Annou Magnaniovou zkoumající neorealistický odkaz, sakrální kompozici a sociální determinismus římské periferie."

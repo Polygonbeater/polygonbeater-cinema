@@ -1,4 +1,5 @@
----title: "Confirm or Deny (1941): Epistemology of Media Ethics and Studio Conflict"
+---
+title: "Confirm or Deny (1941): Epistemology of Media Ethics and Studio Conflict"
 year: 1941
 date: "2026-09-03"
 description: "Analytical study of the wartime drama Confirm or Deny examining Fritz Lang's departure, media ethics during the London Blitz, and visual networks."

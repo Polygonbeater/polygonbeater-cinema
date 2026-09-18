@@ -1,4 +1,5 @@
----title: "Zpráva (The Report, 2019): Byrokratická rezistence, informační asymetrie a anatomie mučení"
+---
+title: "Zpráva (The Report, 2019): Byrokratická rezistence, informační asymetrie a anatomie mučení"
 year: 2019
 date: "2026-09-03"
 description: "Analytická studie procedurálního dramatu Scotta Z. Burnse zkoumající vyšetřování programu mučení CIA, zlomyslnou poslušnost, informační asymetrii a legální mechanismy institucionální rezistence."

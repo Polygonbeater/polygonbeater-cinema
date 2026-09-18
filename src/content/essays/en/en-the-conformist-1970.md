@@ -1,4 +1,5 @@
----title: "The Conformist (Il conformista, 1970): The Mechanics of Obedience"
+---
+title: "The Conformist (Il conformista, 1970): The Mechanics of Obedience"
 year: 1970
 date: "2026-09-03"
 description: "An analytical essay on Bernardo Bertolucci's masterpiece, exploring the psychology of fascism, visual subjugation, and the banality of conformity."

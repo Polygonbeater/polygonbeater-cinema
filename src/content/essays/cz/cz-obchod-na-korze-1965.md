@@ -1,4 +1,5 @@
----title: "Obchod na korze (1965): Anatomie konformismu a banality zla"
+---
+title: "Obchod na korze (1965): Anatomie konformismu a banality zla"
 year: 1965
 date: "2026-09-03"
 description: "Analytická studie prvního československého držitele Oscara v režii Jána Kadára a Elmara Klose zkoumající arizaci, morální paralýzu malého člověka a plíživý mechanismus fašismu."

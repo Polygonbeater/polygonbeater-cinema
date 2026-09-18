@@ -1,4 +1,5 @@
----title: "Cure (1997): The Contagion of Emptiness"
+---
+title: "Cure (1997): The Contagion of Emptiness"
 year: 1997
 date: "2026-09-03"
 description: "An analytical study of Kiyoshi Kurosawa's psychological horror exploring the anatomy of alienation, the hypnotic destruction of the ego, and the contagion of emptiness."

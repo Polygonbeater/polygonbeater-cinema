@@ -1,4 +1,5 @@
----title: "Mechanický pomeranč (A Clockwork Orange, 1971): Násilí, behaviorismus a státní disciplinace"
+---
+title: "Mechanický pomeranč (A Clockwork Orange, 1971): Násilí, behaviorismus a státní disciplinace"
 director: "Stanley Kubrick"
 year: 1971
 date: "2026-09-03"

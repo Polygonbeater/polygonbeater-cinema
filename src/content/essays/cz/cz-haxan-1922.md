@@ -1,4 +1,5 @@
----title: "Čarodějnictví v průběhu věků (Häxan, 1922): Děsivá freska o pověrách a hysterii"
+---
+title: "Čarodějnictví v průběhu věků (Häxan, 1922): Děsivá freska o pověrách a hysterii"
 year: 1922
 date: "2026-09-03"
 description: "Analytická studie přelomového švédsko-dánského hybridního eseje Benjamina Christensena zkoumající historii inkvizice, středověkou démonologii a most mezi čarodějnictvím a moderní psychiatrií."

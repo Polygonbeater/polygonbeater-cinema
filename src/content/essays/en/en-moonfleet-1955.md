@@ -1,4 +1,5 @@
----title: "Moonfleet (1955): A Deep Study in Gothic Fatalism"
+---
+title: "Moonfleet (1955): A Deep Study in Gothic Fatalism"
 year: 1955
 date: "2026-09-03"
 description: "An analytical study of Fritz Lang's gothic masterpiece, exploring the subversion of the swashbuckler genre, 2.55:1 CinemaScope spatial entrapment, and redemption."

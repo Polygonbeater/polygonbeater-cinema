@@ -1,4 +1,5 @@
----title: "Confirm or Deny (1941): Epistemologie novinářské etiky a studiový střet"
+---
+title: "Confirm or Deny (1941): Epistemologie novinářské etiky a studiový střet"
 year: 1941
 date: "2026-09-03"
 description: "Analytická studie válečného dramatu Confirm or Deny zkoumající odchod Fritze Langa, mediální etiku za londýnského Blitzu a komunikační síť."

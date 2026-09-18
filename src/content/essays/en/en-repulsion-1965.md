@@ -1,4 +1,5 @@
----title: "Repulsion (1965): Subjectivized Space, Sensory Overload, and Psychological Collapse"
+---
+title: "Repulsion (1965): Subjectivized Space, Sensory Overload, and Psychological Collapse"
 year: 1965
 date: "2026-09-03"
 description: "Analytical study of Roman Polanski’s masterpiece, examining the apartment as a psychological apparatus, the oppressive sound design, and Catherine Deneuve’s minimalist performance."

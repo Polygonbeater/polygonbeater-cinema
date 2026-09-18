@@ -1,4 +1,5 @@
----title: "Onibaba (1964): Materiální horor a kolaps sociálního imaginárna"
+---
+title: "Onibaba (1964): Materiální horor a kolaps sociálního imaginárna"
 year: 1964
 date: "2026-09-03"
 description: "Analytická studie filmu Kaneta Šindóa Onibaba zkoumající materiální horor, širokoúhlou estetiku TohoScope, masku Hanny a historické trauma poválečného Japonska."

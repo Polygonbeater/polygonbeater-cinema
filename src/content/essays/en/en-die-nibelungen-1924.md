@@ -1,4 +1,5 @@
----title: "Die Nibelungen (1924): Myth, Fate, and the Geometry of Order"
+---
+title: "Die Nibelungen (1924): Myth, Fate, and the Geometry of Order"
 year: 1924
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's monumental two-part epic, examining the Schüfftan process, the engineering of myth, architectural scripting, and the roots of pre-political totality."

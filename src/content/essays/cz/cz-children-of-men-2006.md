@@ -1,4 +1,5 @@
----title: "Potomci lidí (Children of Men, 2006): Naděje v popelu dystopie"
+---
+title: "Potomci lidí (Children of Men, 2006): Naděje v popelu dystopie"
 director: "Alfonso Cuarón"
 year: 2006
 date: "2026-09-03"

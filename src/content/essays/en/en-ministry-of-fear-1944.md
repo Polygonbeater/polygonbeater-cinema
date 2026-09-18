@@ -1,4 +1,5 @@
----title: "Ministry of Fear (1944): Paranoia as Cognitive Lucidity in Wartime Modernity"
+---
+title: "Ministry of Fear (1944): Paranoia as Cognitive Lucidity in Wartime Modernity"
 year: 1944
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's wartime noir exploring paranoia as epistemological lucidity, surveillance culture, and the aesthetics of scarcity."

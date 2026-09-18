@@ -1,4 +1,5 @@
----title: "Climax (2018): The Choreography of Chaos and the Collapse of the Social Contract"
+---
+title: "Climax (2018): The Choreography of Chaos and the Collapse of the Social Contract"
 year: 2018
 date: "2026-09-02"
 description: "An analytical study deconstructing Gaspar Noé's hallucinatory horror Climax as a purely somatic experience and a radical depiction of collective psychosis induced by LSD."

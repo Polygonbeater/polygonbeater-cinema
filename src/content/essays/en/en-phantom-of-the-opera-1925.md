@@ -1,4 +1,5 @@
----title: "The Phantom of the Opera (1925) – The Grotesque Mask and the Architecture of Solitude"
+---
+title: "The Phantom of the Opera (1925) – The Grotesque Mask and the Architecture of Solitude"
 year: 1925
 date: "2026-09-02"
 description: "Rupert Julian's silent masterpiece explores physical disfigurement, social exclusion, and existential loneliness through Lon Chaney's transformative performance."

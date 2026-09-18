@@ -1,4 +1,5 @@
----title: "Hon na člověka (Man Hunt, 1941): Sportovní lov, protinacistický vzdor a geometrie pasti"
+---
+title: "Hon na člověka (Man Hunt, 1941): Sportovní lov, protinacistický vzdor a geometrie pasti"
 year: 1941
 date: "2026-09-03"
 description: "Analytická studie špionážního noiru Fritze Langa zkoumající sportovní lov Hitlera, noirovou geometrii londýnského podzemí, podzemní noru v Dorsetu a antifašistický apel."

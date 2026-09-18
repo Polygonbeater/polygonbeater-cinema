@@ -1,4 +1,5 @@
----title: "Küzdelem a létért (Leopard, 1918): Poslední evropská role Bély Lugosiho"
+---
+title: "Küzdelem a létért (Leopard, 1918): Poslední evropská role Bély Lugosiho"
 director: "Alfréd Deésy"
 year: 1918
 date: "2026-09-03"

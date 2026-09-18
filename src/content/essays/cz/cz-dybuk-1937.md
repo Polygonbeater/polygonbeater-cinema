@@ -1,4 +1,5 @@
----title: "Dybuk (Der Dibuk, 1937): Kabalistická mystika a ozvěny chasidského světa"
+---
+title: "Dybuk (Der Dibuk, 1937): Kabalistická mystika a ozvěny chasidského světa"
 year: 1937
 date: "2026-09-03"
 description: "Analytická studie jidiš klenotu Michała Waszyńského zkoumající kabalistickou mystiku, tanec žebráků, exorcismus a ztracený svět východoevropského štetlu."

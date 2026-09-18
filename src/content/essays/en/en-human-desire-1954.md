@@ -1,4 +1,5 @@
----title: "Human Desire (1954): A Study in Mechanical Fatalism"
+---
+title: "Human Desire (1954): A Study in Mechanical Fatalism"
 year: 1954
 date: "2026-09-03"
 description: "An analytical study of Fritz Lang's adaptation of Émile Zola's novel, exploring environmental determinism, rail line geometry, and mechanical fatalism."

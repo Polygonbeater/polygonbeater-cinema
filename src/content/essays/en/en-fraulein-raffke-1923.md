@@ -1,4 +1,5 @@
----title: "Fräulein Raffke (1923): Dancing on the Edge of the Abyss"
+---
+title: "Fräulein Raffke (1923): Dancing on the Edge of the Abyss"
 year: 1923
 date: "2026-09-03"
 description: "An analytical essay on Richard Eichberg's satirical silent film capturing hyperinflation, social profiteers, and the hedonistic pulse of 1923 Berlin."

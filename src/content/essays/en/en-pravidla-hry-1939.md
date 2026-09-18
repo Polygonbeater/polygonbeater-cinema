@@ -1,4 +1,5 @@
----title: "Dancing on the Brink: The Rules of the Game and the Geometry of Social Hypocrisy"
+---
+title: "Dancing on the Brink: The Rules of the Game and the Geometry of Social Hypocrisy"
 year: 1939
 date: "2026-09-09"
 description: "An essay on Jean Renoir's masterpiece. On the cold anatomy of moral decay, deep-focus cinematography, and the tragicomedy of social masks."

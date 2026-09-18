@@ -1,4 +1,5 @@
----title: "The Lodger (1927) – The Genesis of Hitchcockian Suspense"
+---
+title: "The Lodger (1927) – The Genesis of Hitchcockian Suspense"
 year: 1927
 date: "2026-09-02"
 description: "Alfred Hitchcock lays the groundwork for the modern thriller through themes of paranoia, voyeurism, and expressionist visual anxiety in 1920s London."

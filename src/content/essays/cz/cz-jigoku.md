@@ -1,4 +1,5 @@
----title: "Peklo (Jigoku, 1960): Autonomní mechanismus trestu a buddhistická geometrie zatracení"
+---
+title: "Peklo (Jigoku, 1960): Autonomní mechanismus trestu a buddhistická geometrie zatracení"
 director: "Nobuo Nakagawa"
 year: 1960
 date: "2026-09-03"

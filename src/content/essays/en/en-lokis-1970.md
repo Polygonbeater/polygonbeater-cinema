@@ -1,4 +1,5 @@
----title: "Lokis (1970) – The Clash of Enlightenment Reason and Baltic Myth in Ethnographic Gothic"
+---
+title: "Lokis (1970) – The Clash of Enlightenment Reason and Baltic Myth in Ethnographic Gothic"
 director: "Polish filmmaker Janusz"
 year: 1970
 date: "2026-09-02"

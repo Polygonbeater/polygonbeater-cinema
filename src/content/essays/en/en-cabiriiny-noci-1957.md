@@ -1,4 +1,5 @@
----title: "Clinical Study of Hope: Nights of Cabiria as a Manual for Preserving Integrity in an Era of Cynicism"
+---
+title: "Clinical Study of Hope: Nights of Cabiria as a Manual for Preserving Integrity in an Era of Cynicism"
 year: 1957
 date: "2026-09-02"
 description: "A psychological analysis of Fellini's masterwork exploring the mechanisms of trust exploitation, the search for a savior, and the final reclamation of human sovereignty."

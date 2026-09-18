@@ -1,4 +1,5 @@
----title: "Dogtooth (2009): Domestic Taming and the Linguistic Prison"
+---
+title: "Dogtooth (2009): Domestic Taming and the Linguistic Prison"
 year: 2009
 date: "2026-09-02"
 description: "An analytical study deconstructing Yorgos Lanthimos’s breakthrough film Dogtooth as a radical investigation into the pathology of total control, linguistic repression, and domestic taming."

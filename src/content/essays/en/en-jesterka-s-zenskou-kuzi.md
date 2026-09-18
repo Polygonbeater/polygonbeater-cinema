@@ -1,4 +1,5 @@
----title: "Hallucinatory Transgression: Psychoanalysis and Bourgeois Decay in Fulci's A Lizard in a Woman's Skin (1971)"
+---
+title: "Hallucinatory Transgression: Psychoanalysis and Bourgeois Decay in Fulci's A Lizard in a Woman's Skin (1971)"
 year: 1971
 date: "2026-01-01"
 image: "/images/essays/jesterka-s-zenskou-kuzi.webp"

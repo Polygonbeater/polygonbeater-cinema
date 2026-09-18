@@ -1,4 +1,5 @@
----title: "Vampyr (1932): Perceptual Collapse, Acoustic Uncertainty, and the Horizon of Psychological Horror"
+---
+title: "Vampyr (1932): Perceptual Collapse, Acoustic Uncertainty, and the Horizon of Psychological Horror"
 year: 1932
 date: "2026-09-03"
 description: "Analytical study of Carl Theodor Dreyer’s landmark masterpiece, exploring unmoored space, early sound design, and the iconic coffin sequence as an apex of existential dread."

@@ -1,4 +1,5 @@
----title: "Vij (1967): Folklórní imaginace na okraji sovětského materialismu"
+---
+title: "Vij (1967): Folklórní imaginace na okraji sovětského materialismu"
 year: 1967
 date: "2026-09-03"
 description: "Analytická studie první a jediné oficiální sovětské hororové adaptace v režii Konstantina Jeršova a Georgije Kropačova zkoumající gogolovský mýtus, animaci Alexandra Ptuška a chthonické síly ukrajinského venkova."

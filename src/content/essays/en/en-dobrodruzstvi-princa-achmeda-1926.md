@@ -1,4 +1,5 @@
----title: "The Adventures of Prince Achmed (1926): Lotte Reiniger’s Silhouette Symphony"
+---
+title: "The Adventures of Prince Achmed (1926): Lotte Reiniger’s Silhouette Symphony"
 year: 1926
 date: "2026-09-03"
 description: "An analytical essay on the world's oldest surviving feature-length animated film, crafted through intricate paper silhouettes by Lotte Reiniger."

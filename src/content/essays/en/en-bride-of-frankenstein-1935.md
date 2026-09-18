@@ -1,4 +1,5 @@
----title: "Bride of Frankenstein (1935) – Tragic Grotesque and the Myth of Loneliness"
+---
+title: "Bride of Frankenstein (1935) – Tragic Grotesque and the Myth of Loneliness"
 year: 1935
 date: "2026-09-02"
 description: "James Whale infuses the Frankenstein myth with dark comedy, camp, and melancholy in a poignant reflection on exclusion and unfulfilled desire."

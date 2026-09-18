@@ -1,4 +1,5 @@
----title: "An Optical Poem (1937): Visualizing Freedom in Exile"
+---
+title: "An Optical Poem (1937): Visualizing Freedom in Exile"
 year: 1937
 date: "2026-09-03"
 description: "An analytical essay on Oskar Fischinger's abstract animation masterpiece, exploring visual music, exile, and aesthetic liberty."

@@ -1,4 +1,5 @@
----title: "Červená Karkulka (Rotkäppchen, 1962): Triumf vizionářského řemesla nad státním diktátem"
+---
+title: "Červená Karkulka (Rotkäppchen, 1962): Triumf vizionářského řemesla nad státním diktátem"
 year: 1962
 date: "2026-09-03"
 description: "Hloubková analýza východoněmeckého pohádkového snímku DEFA v režii Götze Friedricha zkoumající napětí mezi ideologickým diktátem, divadelním realismem a gotickou estetikou."

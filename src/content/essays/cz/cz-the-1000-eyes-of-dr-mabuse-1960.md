@@ -1,4 +1,5 @@
----title: "Tisíc očí dr. Mabuseho (Die 1000 Augen des Dr. Mabuse, 1960): Estetika totálního dohledu a technokratické panoptikum"
+---
+title: "Tisíc očí dr. Mabuseho (Die 1000 Augen des Dr. Mabuse, 1960): Estetika totálního dohledu a technokratické panoptikum"
 year: 1960
 date: "2026-09-03"
 description: "Analytická studie posledního díla Fritze Langa zkoumající estetiku totálního dohledu, hotel Luxor jako Benthamovo panoptikum, technokratickou totalitu a Mabuseho jako neviditelný algoritmus."

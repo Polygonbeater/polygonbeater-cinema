@@ -1,4 +1,5 @@
----title: "The Manchurian Candidate (1962): The Definitive Cold War Thriller"
+---
+title: "The Manchurian Candidate (1962): The Definitive Cold War Thriller"
 year: 1962
 date: "2026-09-03"
 description: "An analytical essay on John Frankenheimer's masterpiece, exploring paranoia, mind control, and the domestic subversion of American democracy."

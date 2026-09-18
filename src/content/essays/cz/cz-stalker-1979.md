@@ -1,4 +1,5 @@
----title: "Stalker (1979): Víra v zóně prázdnoty a metafyzika času"
+---
+title: "Stalker (1979): Víra v zóně prázdnoty a metafyzika času"
 year: 1979
 date: "2026-09-03"
 description: "Analytická studie mistrovského díla Andreje Tarkovského zkoumající metafyzickou pouť, koncept sochání v čase, dialektiku vědy a víry a Komnatu přání."

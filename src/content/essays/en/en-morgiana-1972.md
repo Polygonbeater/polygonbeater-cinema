@@ -1,4 +1,5 @@
----title: "Morgiana (1972) – Murder as an Art Object"
+---
+title: "Morgiana (1972) – Murder as an Art Object"
 year: 1972
 date: "2026-09-02"
 description: "Juraj Herz transforms sisterhood and jealousy into a visual opera of narcissism, presenting evil as an aesthetic choice unfolding within a labyrinth of mirrors."

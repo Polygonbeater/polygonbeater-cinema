@@ -1,4 +1,5 @@
----title: "Dr. Mabuse, der Spieler (1922): The Operating System of Power, Speculation, and Epistemic Collapse"
+---
+title: "Dr. Mabuse, der Spieler (1922): The Operating System of Power, Speculation, and Epistemic Collapse"
 year: 1922
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's monumental two-part silent epic, examining hypnosis as ideology, stock-market volatility, and Mabuse as an archetype of modern control."

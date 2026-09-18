@@ -1,4 +1,5 @@
----title: "Onibaba (1964): Material Horror and the Collapse of the Social Imaginary"
+---
+title: "Onibaba (1964): Material Horror and the Collapse of the Social Imaginary"
 year: 1964
 date: "2026-09-03"
 description: "An analytical study of Kaneto Shindō’s Onibaba (1964), examining material horror, the aesthetics of entrapment, and the dissolution of the social order."

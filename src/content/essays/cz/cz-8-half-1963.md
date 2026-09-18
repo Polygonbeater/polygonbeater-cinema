@@ -1,4 +1,5 @@
----title: "8½ (1963): Labyrint tvůrčí krize"
+---
+title: "8½ (1963): Labyrint tvůrčí krize"
 year: 1963
 date: "2026-09-03"
 description: "Analytická studie mistrovského díla Federica Felliniho zkoumající metafilm, freudovsko-jungiánskou psychoanalýzu a architekturu proudu vědomí."

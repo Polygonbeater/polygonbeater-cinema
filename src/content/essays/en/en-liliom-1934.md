@@ -1,4 +1,5 @@
----title: "Liliom (1934): Justice as Procedure and the Bureaucracy of Heaven"
+---
+title: "Liliom (1934): Justice as Procedure and the Bureaucracy of Heaven"
 year: 1934
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's sole French feature film, examining the afterlife as an institutional apparatus, comic irony, and the medium of recorded proof."

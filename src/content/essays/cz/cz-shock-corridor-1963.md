@@ -1,4 +1,5 @@
----title: "Chodba šoků (Shock Corridor, 1963): Psychiatrický stát, depolitizace a studená válka"
+---
+title: "Chodba šoků (Shock Corridor, 1963): Psychiatrický stát, depolitizace a studená válka"
 director: "Samuel Fuller"
 year: 1963
 date: "2026-09-03"

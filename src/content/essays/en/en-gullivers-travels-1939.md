@@ -1,4 +1,5 @@
----title: "Gulliver's Travels (1939): The Absurdity of Conflict in Animation"
+---
+title: "Gulliver's Travels (1939): The Absurdity of Conflict in Animation"
 year: 1939
 date: "2026-09-03"
 description: "An analytical essay on Fleischer Studios' landmark feature animation, exploring its anti-war allegory and technical innovation on the eve of WWII."

@@ -1,4 +1,5 @@
----title: "Ďábel (Diabeł, 1972): Historie jako hysterická halucinace"
+---
+title: "Ďábel (Diabeł, 1972): Historie jako hysterická halucinace"
 year: 1972
 date: "2026-09-03"
 description: "Analytická studie historického dramatu Andrzeje Żuławského zkoumající rozpad polského státu v roce 1793, barokní exces, postavu Cizince a hysterickou nákazu šílenstvím."

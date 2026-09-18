@@ -1,4 +1,5 @@
----title: "You and Me (1938): The Department Store as a Normalcy Machine and the Second-Chance Audit"
+---
+title: "You and Me (1938): The Department Store as a Normalcy Machine and the Second-Chance Audit"
 year: 1938
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's crime melodrama examining resocialization as continuous surveillance, Kurt Weill's Brechtian songs, and censorship pressure."

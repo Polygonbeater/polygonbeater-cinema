@@ -1,4 +1,5 @@
----title: "The Report (2019): The Anatomy of Bureaucratic Disobedience and the Weaponization of Information"
+---
+title: "The Report (2019): The Anatomy of Bureaucratic Disobedience and the Weaponization of Information"
 year: 2019
 date: "2026-09-03"
 description: "An analytical study of Scott Z. Burns' procedural drama exploring malicious compliance, information asymmetry, and legal mechanisms of resistance."
@@ -17,14 +18,14 @@ The present study analyzes the procedural drama *The Report*, which reconstructs
 The film details the application of a so-called information offensive. Within a democratic rule of law (typically realized through Freedom of Information Acts), this is a process where the system is compelled to release its own data for scrutiny, turning information into a tool of defense against the abuse of power.
 
 * **Application in the Narrative:** The protagonist possesses neither weapons nor media influence. He is placed in a windowless basement with six million pages of internal CIA documents. His sole weapon is the methodical analysis of this data.
-* **Analytical Mechanism:** The system (CIA) relies on the premise that the volume of data is so enormous that it precludes a complete review, thereby creating an artificial diffusion of responsibility. This assumption is shattered by the subject. Through meticulous cross-referencing, information asymmetry is achieved. Once the investigator knows the system's internal data better than the system itself, he gains legal and strategic control over it.¹
+* **Analytical Mechanism:** The system (CIA) relies on the premise that the volume of data is so enormous that it precludes a complete review, thereby creating an artificial diffusion of responsibility. This assumption is shattered by the subject. Through meticulous cross-referencing, information asymmetry is achieved. Once the investigator knows the system's internal data better than the system itself, he gains legal and strategic control over it.
 
 ### II. Bureaucratic Friction and "Malicious Compliance"
 
 Within the study, the protagonist's behavior is identified as the ultimate manifestation of legal sabotage.
 
 * **Definition of the Process:** Malicious compliance is a state where a subordinate executes an order from a superior or a system so literally, pedantically, and exhaustively that it causes the failure of the original intent.
-* **Application in the Narrative:** Jones is tasked with drafting a report on CIA practices. A bureaucratic formality is expected, intended to "sweep the problem under the rug." However, the subject obeys the directive with absolute, fanatical literalness. He creates a 7,000-page document built exclusively on the agency's own internal memos. The agency is paralyzed because it cannot legally act against Jones—he was merely "doing his job."²
+* **Application in the Narrative:** Jones is tasked with drafting a report on CIA practices. A bureaucratic formality is expected, intended to "sweep the problem under the rug." However, the subject obeys the directive with absolute, fanatical literalness. He creates a 7,000-page document built exclusively on the agency's own internal memos. The agency is paralyzed because it cannot legally act against Jones—he was merely "doing his job."
 
 ### III. Institutional Pressure and Legal Exile
 
@@ -54,6 +55,6 @@ The presented analysis of the film *The Report* demonstrates that effective disr
 * **Strategic Litigation / Institutional Pressure:** The planned use of lawsuits or legal processes (committees, regulatory bodies) with the aim of achieving broader systemic change and blocking the illegal actions of power structures.
 
 **Bibliografie / Bibliography (Chicago Style):**
-¹ Jones, Daniel J.: *The Senate Intelligence Committee Report on Torture*. Melville House, 2014.
-² Merton, Robert K.: *Social Theory and Social Structure*. Free Press, 1968.
-³ Act No. 106/1999 Coll., on Free Access to Information (Czech Legislative Framework).
+ Jones, Daniel J.: *The Senate Intelligence Committee Report on Torture*. Melville House, 2014.
+ Merton, Robert K.: *Social Theory and Social Structure*. Free Press, 1968.
+ Act No. 106/1999 Coll., on Free Access to Information (Czech Legislative Framework).

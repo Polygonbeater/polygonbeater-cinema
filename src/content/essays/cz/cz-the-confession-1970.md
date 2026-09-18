@@ -1,4 +1,5 @@
----title: "Doznání (L'Aveu, 1970): Pitva stalinské mašinérie a vyrobená pravda"
+---
+title: "Doznání (L'Aveu, 1970): Pitva stalinské mašinérie a vyrobená pravda"
 year: 1970
 date: "2026-09-03"
 description: "Hloubková analýza politického dramatu Costa-Gavrase podle memoárů Artura Londona o vykonstruovaném procesu s Rudolfem Slánským, anatomii vymývání mozků a byrokratické výrobě viny."

@@ -1,4 +1,5 @@
----title: "The Woman in the Window (1944): Diagnosis of a Single Second and Dream Geometry"
+---
+title: "The Woman in the Window (1944): Diagnosis of a Single Second and Dream Geometry"
 year: 1944
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's film noir exploring suppressed desire, the dream twist, psychological terror, and its connection to Scarlet Street."

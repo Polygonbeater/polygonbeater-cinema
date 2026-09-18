@@ -1,4 +1,5 @@
----title: "Moon (2009): Existenciální izolace a horor korporátní recyklace"
+---
+title: "Moon (2009): Existenciální izolace a horor korporátní recyklace"
 year: 2009
 date: "2026-09-03"
 description: "Analytická studie sci-fi thrilleru Duncana Jonese zkoumající klonování paměti, lunární klaustrofobii a mrazivou banalitu korporátního zla."

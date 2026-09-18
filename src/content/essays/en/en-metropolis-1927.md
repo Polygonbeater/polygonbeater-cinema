@@ -1,4 +1,5 @@
----title: "Metropolis (1927): Architecture of Power, the Geometry of Oppression, and the Human Machine"
+---
+title: "Metropolis (1927): Architecture of Power, the Geometry of Oppression, and the Human Machine"
 year: 1927
 date: "2026-09-03"
 description: "Analytical study of Fritz Lang's futuristic epic, examining Fordism, vertical hierarchy, Rotwang's mystical science, and the Schüfftan process."

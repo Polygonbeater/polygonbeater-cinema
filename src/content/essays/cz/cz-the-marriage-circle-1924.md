@@ -1,4 +1,5 @@
----title: "Manželský kruh (The Marriage Circle, 1924): Geometrie touhy a legendární Lubitschův dotek"
+---
+title: "Manželský kruh (The Marriage Circle, 1924): Geometrie touhy a legendární Lubitschův dotek"
 director: "Ernst Lubitsch"
 year: 1924
 date: "2026-09-03"

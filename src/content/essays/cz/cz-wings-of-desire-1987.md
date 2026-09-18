@@ -1,4 +1,5 @@
----title: "Nebe nad Berlínem (Der Himmel über Berlin, 1987): Tíha pozemskosti a ontologie lidského pádu"
+---
+title: "Nebe nad Berlínem (Der Himmel über Berlin, 1987): Tíha pozemskosti a ontologie lidského pádu"
 year: 1987
 date: "2026-09-03"
 description: "Analytická studie poetického mistrovského díla Wima Wenderse zkoumající syntézu věčnosti a konečnosti, dualitu kamery Henriho Alekana, texty Petera Handkeho a prostorovou metaforu Berlínské zdi."

@@ -1,4 +1,5 @@
----title: "Špičák (Kynodontas / Dogtooth, 2009): Domácí krotitelství a lingvistické vězení"
+---
+title: "Špičák (Kynodontas / Dogtooth, 2009): Domácí krotitelství a lingvistické vězení"
 year: 2009
 date: "2026-09-03"
 description: "Analytická studie průlomového snímku Yorgose Lanthimose Špičák zkoumající patologii totální rodinné kontroly, lingvistickou drezuru a dekonstrukci patriarchální moci."

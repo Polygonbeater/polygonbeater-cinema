@@ -1,4 +1,5 @@
----title: "Hadí jáma (The Snake Pit, 1948): Institucionální teror, psychoanalýza a genderová moc"
+---
+title: "Hadí jáma (The Snake Pit, 1948): Institucionální teror, psychoanalýza a genderová moc"
 director: "Anatole Litvak"
 year: 1948
 date: "2026-09-03"

@@ -1,4 +1,5 @@
----title: "Waltz with Bashir (2008): The Animated Descent into Memory and War"
+---
+title: "Waltz with Bashir (2008): The Animated Descent into Memory and War"
 year: 2008
 date: "2026-09-03"
 description: "An analytical essay on Ari Folman's animated documentary, exploring trauma, collective guilt, and the subjective memory of the Lebanon War."

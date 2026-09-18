@@ -1,4 +1,5 @@
----title: "Žít (Ikiru, 1952): Probuzení v bodě nula"
+---
+title: "Žít (Ikiru, 1952): Probuzení v bodě nula"
 year: 1952
 date: "2026-09-03"
 description: "Analytická studie humanistického mistrovského díla Akiry Kurosawy zkoumající vzpouru proti byrokratickému mrtvému času a hledání smyslu lidské existence."

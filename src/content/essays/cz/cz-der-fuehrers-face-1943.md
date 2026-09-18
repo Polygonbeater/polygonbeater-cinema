@@ -1,4 +1,5 @@
----title: "Der Fuehrer's Face (1943): Animovaná psychologická válka a totalitní satira"
+---
+title: "Der Fuehrer's Face (1943): Animovaná psychologická válka a totalitní satira"
 year: 1943
 date: "2026-09-03"
 description: "Hloubková analýza oscarového krátkého filmu Walta Disneyho, který využil kačera Donalda jako zbraň v psychologické válce proti nacistickému Německu."

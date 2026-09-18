@@ -1,4 +1,5 @@
----title: "Ďáblové (The Devils, 1971): Politika hysterie a falešné pašije"
+---
+title: "Ďáblové (The Devils, 1971): Politika hysterie a falešné pašije"
 year: 1971
 date: "2026-09-03"
 description: "Analytická studie historického dramatu Kena Russella zkoumající politickou instrumentalizaci víry, Jarmanovu anachronickou architekturu a dekonstrukci Kristových pašijí."

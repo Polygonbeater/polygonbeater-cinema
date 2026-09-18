@@ -1,4 +1,5 @@
----title: "The Cremator (1969) – The Banality of Evil as an Aesthetic System"
+---
+title: "The Cremator (1969) – The Banality of Evil as an Aesthetic System"
 year: 1969
 date: "2026-09-02"
 description: "A radical study of the normalization of evil, where Juraj Herz and Rudolf Hrušínský trace how ordinary human desires for order and purity transform into tools of totalitarian ideology."
